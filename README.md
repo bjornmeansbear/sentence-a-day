@@ -1,5 +1,5 @@
-# sentence-a-day
-Writing sentences. Day by Day. Trying to make something. Piece by Piece.
+# A Sentence A Day (SAD)
+Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
 
 20190101 How to move towards a more sustainable graphic design practice?
 20190102 My GNU/Linux experiments are one such effort.
@@ -15,5 +15,6 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece.
 20190111 Do the ideals of F/LOSS align better with the ideals of sustainability?
 20190112 Does "all humans and other life should flourish" fit into F/LOSS as an ideal?
 20190113 Or rather, does F/LOSS help achieve flourishing more than proprietary software might/will?
-20190114
+20190114 What I am really trying to suss out here is where and how do my interests in Design serving a flourishing/wellfare of all life agenda 
+and my interests in F/LOSS desgn overlap; how are they additive; how do they serve each other.
 
