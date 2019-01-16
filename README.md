@@ -17,4 +17,5 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190113 Or rather, does F/LOSS help achieve flourishing more than proprietary software might/will?
 20190114 What I am really trying to suss out here is where and how do my interests in Design serving a flourishing/wellfare of all life agenda 
 and my interests in F/LOSS desgn overlap; how are they additive; how do they serve each other.
+20190115 Okay, reasoning: our current capitalist constructs DO NOT improve the wellfare of all life; the origins of F/LOSS are also anti-capitalist -- or at least anti valuing making a buck over being good to your neighbor -- so, if you have to use software, F/LOSS is more likely to AID you in helping all life flourish than proprietary/non-free softwares.
 
