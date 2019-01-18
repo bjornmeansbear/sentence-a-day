@@ -18,3 +18,6 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190114 What I am really trying to suss out here is where and how do my interests in Design serving a flourishing/wellfare of all life agenda and my interests in F/LOSS design overlap; how are they additive; how do they serve each other.
 20190115 The other direction this goes, is why do any of this at all? why design? why compute? why care about liberated tools? why be a designer — why am I not just a farmer or garbage collector or something?
 20190115 Okay, reasoning: our current capitalist constructs DO NOT improve the wellfare of all life; the origins of F/LOSS are also anti-capitalist -- or at least anti valuing making a buck over being good to your neighbor -- so, if you have to use software, F/LOSS is more likely to AID you in helping all life flourish than proprietary/non-free softwares.
+20190116 Is this provable? or measureable?
+20190117 Waste = Food; what other ways can I find that this is true for creative kinds of waste? As I mentioned before I think that in some ways F/LOSS improves upon this equation.
+20190118 The philosophical issue I run into here is, well, what exactly is my goal as a designer? what do I want to design? is desinging solving any of the problems I am pointing out -- did it just create them in the first place?
