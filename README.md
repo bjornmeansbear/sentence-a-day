@@ -21,3 +21,6 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190116 Is this provable? or measureable?
 20190117 Waste = Food; what other ways can I find that this is true for creative kinds of waste? As I mentioned before I think that in some ways F/LOSS improves upon this equation.
 20190118 The philosophical issue I run into here is, well, what exactly is my goal as a designer? what do I want to design? is desinging solving any of the problems I am pointing out -- did it just create them in the first place?
+20190118 The Libre Designer; The Sustainabilitist Designer; Are the tools the connection? are these things the same? It feels like a synergy...
+20190119 Is this also how vernacular patterns/building come into the picture -- are free/libre open models the new vernacular (is that how I make my designing today more like the way say a Cape Cod house comes together?)
+
