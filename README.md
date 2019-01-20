@@ -9,7 +9,7 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190106 Free software allows for creative waste to become creative food.
 20190107 Does that make free software as a whole more sustainable?
 20190108 The ecosystem for libre tools is more like a natural ecosystem: you see darwinian style evolution; variations due to minor differences of philosophy or habit or desire.
-20190109 If the way our tools are built and subsequently evolve is more like nature; more like natural cycles/processes; does that make those tools then fit into our lives, society, culture — whatever — in more “natural” ways? does it allow for more natural ways of using them? (natural meaning finding harmony with nature; being more "a part" of nature rather than "apart" from nature...) [something about Eli Heuer's open source over estimates your skills, so you have to learn and grow and try harder?]
+20190109 If the way our tools are built and subsequently evolve is more like nature; more like natural cycles/processes; does that make those tools then fit into our lives, society, culture — whatever — in more “natural” ways? does it allow for more natural ways of using them? (natural meaning finding harmony with nature; being more "a part" of nature rather than "apart" from nature... (something about Eli Heuer's open source over estimates your skills, so you have to learn and grow and try harder? -- https://twitter.com/eliheuer/status/1081627442220068865))
 20190109 Github is my new dropbox. but should I switch to gitlab? that's open... oh, should I run my own gitlab server???
 20190110 How about the ideals?
 20190111 Do the ideals of F/LOSS align better with the ideals of sustainability?
