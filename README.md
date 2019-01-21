@@ -24,4 +24,5 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190118 The Libre Designer; The Sustainabilitist Designer; Are the tools the connection? are these things the same? It feels like a synergy...
 20190119 Is this also how vernacular patterns/building come into the picture -- are free/libre open models the new vernacular (is that how I make my designing today more like the way say a Cape Cod house comes together?)
 20190120 It is good to experience other spaces, other realms, where what graphic design is used for is different (and how graphic design looks is understood differently).
-
+20190120 Dunne and Raby propose that design should explore activities and outcomes that question and challenge status quo industrial agendas--however! for the most part the designers doing this are still using status quo tools! Sustainability (at least the flourishing variety I am interested in) is NOT status quo; so if I am challenging the assumptions of contemporary design and capitalist consumerism, then I need non-capitalist consumerist tools to do that with--enter F/LOSS.
+ 
