@@ -33,4 +33,4 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190125 Generalization: designers are tool users not tool makers? so we use what we see is available; when we're shown the Adobe stuff and see that mostly the rest of our colleagues are using it; it makes sense to do that — the file formats don't port, so we have not much choice.
 20190129 Why have a process? What is a process? what is process? How do you define process?
 20190130 Does "Switch to libre tools" count as a process?
-20190131 Do you have to change your computer, your operating system, your software; or are there just free/libre$
+20190131 Do you have to change your computer, your operating system, your software; or are there just free/libre
