@@ -34,3 +34,6 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190129 Why have a process? What is a process? what is process? How do you define process?
 20190130 Does "Switch to libre tools" count as a process?
 20190131 Do you have to change your computer, your operating system, your software; or are there just free/libre
+
+20190201 Sustainable Graphic Design is a mindset, not necessarily a checklist of "the right" materials — now, it can't be the wrong materials either, but it's not just the right materials…
+
