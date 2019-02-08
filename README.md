@@ -36,4 +36,11 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190131 Do you have to change your computer, your operating system, your software; or are there just free/libre
 
 20190201 Sustainable Graphic Design is a mindset, not necessarily a checklist of "the right" materials — now, it can't be the wrong materials either, but it's not just the right materials…
-
+20190202 If you have the right mindset, but still use the wrong materials, does it matter?
+20190203 If one uses better materials, but for the status quo aims, does it matter?
+20190204 In what ways can I change how I work and live to yield immediate results?
+20190205 I now have 3 iMacs, 5 Laptops, 3 raspberry Pis, & 5 Monitors of different sizes and ages (one is the sweet 1999 original Apple LCD in translucent turquise). Is that too many computers? 
+20190206 Documentation of my libre attempts are a must. I need to find the time to actually get down some of the things I've tried and learned.
+20190207 Is writing or audio/video recording better for that? I'll do it faster as audio recordings; but its more accessible as text right?
+20190208 Waste = Food is a great idea to apply to more things than just the natural world. Here's a great prompt: the earth's major nutrients are carbon, hydrogen, oxygen, & nitrogen … what are graphic design's major nutrients? (and! how can they be cycled and recycled into new graphic design indefintiely?????????)
+ 
