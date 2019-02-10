@@ -44,4 +44,5 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190207 Is writing or audio/video recording better for that? I'll do it faster as audio recordings; but its more accessible as text right?
 20190208 Waste = Food is a great idea to apply to more things than just the natural world. Here's a great prompt: the earth's major nutrients are carbon, hydrogen, oxygen, & nitrogen … what are graphic design's major nutrients? (and! how can they be cycled and recycled into new graphic design indefintiely?????????)
 20190208 Oh man, I need to setup a repo of just my fav libre fonts. then I can easily keep all my installs mac, gnu/linux, whatever, in sync.
-
+20190209 As I get into this liberated OS, fonts, tools, etc. I realize that there have been more convenient, more helpful, more useful, whatever systems out there -- and most of us just never knew/didn't realize???
+  
