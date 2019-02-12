@@ -45,4 +45,9 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190208 Waste = Food is a great idea to apply to more things than just the natural world. Here's a great prompt: the earth's major nutrients are carbon, hydrogen, oxygen, & nitrogen … what are graphic design's major nutrients? (and! how can they be cycled and recycled into new graphic design indefintiely?????????)
 20190208 Oh man, I need to setup a repo of just my fav libre fonts. then I can easily keep all my installs mac, gnu/linux, whatever, in sync.
 20190209 As I get into this liberated OS, fonts, tools, etc. I realize that there have been more convenient, more helpful, more useful, whatever systems out there -- and most of us just never knew/didn't realize???
-  
+20190210 Some things are easier. Some are harder.
+20190211 What the f is up with crappy weather days. 
+20190212 I have this idea — sustainable graphic design does not exist. Now, that might mean "there is no such graphic design that can count as sustainable — its all wasteful garbage that does nothing good" — or — and this is the cool part — sustainable graphic design doesn't exist meaning that it comes together to serve a communication purpose; deliver a semiotic message; and then redistributes back to whatever energy and matter it was before.
+20190212 Maybe try to write some more about that in another doc or repo or something? Reference my MFA work; what else can I find that is exemplarary of that idea?
+20190212 That's more than just reuse for packaging or something; that is about harnessing a more entropic way of being.
+
