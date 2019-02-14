@@ -50,4 +50,4 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190212 I have this idea — sustainable graphic design does not exist. Now, that might mean "there is no such graphic design that can count as sustainable — its all wasteful garbage that does nothing good" — or — and this is the cool part — sustainable graphic design doesn't exist meaning that it comes together to serve a communication purpose; deliver a semiotic message; and then redistributes back to whatever energy and matter it was before.
 20190212 Maybe try to write some more about that in another doc or repo or something? Reference my MFA work; what else can I find that is exemplarary of that idea?
 20190212 That's more than just reuse for packaging or something; that is about harnessing a more entropic way of being.
-
+20190213 What the hell am I doing.
