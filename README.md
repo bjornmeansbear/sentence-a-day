@@ -51,3 +51,8 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190212 Maybe try to write some more about that in another doc or repo or something? Reference my MFA work; what else can I find that is exemplarary of that idea?
 20190212 That's more than just reuse for packaging or something; that is about harnessing a more entropic way of being.
 20190213 What the hell am I doing.
+20190214 What is romantic about sustainability? should we focus on that? are the facts and statistics and whatever else too scary? too boring? too real?
+20190215 If there is a crisis, why aren't we hearing about it more? why aren't there more restrictions?
+20190216 Sustainability is about knowing what you want to sustain. Libre tools are about a person's freedom to do what they want. If I don't want to sustain our moderno-techno-capitalism, then I should probably use libre tools while creating alternatives... what do I want to sustain though? It is easy to say what I don't want to sustain; less clear to say what I do want to.
+20190217 I just spent the evening at an event that showed me why all is F-ed. I feel bad that I was a part of it frankly. So then what am I going to do to do something about that?
+
