@@ -60,4 +60,6 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190220 A designer needs to know a lot to really be good these days. I don't mean good as in makes formally pleasing work; I mean good as in really improves things; really exemplifies other ways of thinking and being. So how does one get this way? is this something to be learned? something to be taught? Is pedagogy buildable from these thoughts? If i teach in a graphic design program still rooted mainly in typography and static, flat, two-dimensional printed forms, can I do what I am proposing/asking here? How do I learn enough about materials, behaviors, situations, philosophy, history, physics, energy, biology, sociology, anthropology, politics, etc. ...
 20190221 If sustainable designers don't make design; what do we make?
 20190222 I talk to much in my class. How do I make it more about doing! more about action! and not my doing and actions; all of our doings and actions!
+20190223 How to fill up classtime with action? preparation for action? how does Graphic Designing lead to action?
+20190224 What am I trying to sustain? how are all these other actions and design choices and hardware swaps and whatever doing anything actually?
 
