@@ -62,4 +62,6 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190222 I talk to much in my class. How do I make it more about doing! more about action! and not my doing and actions; all of our doings and actions!
 20190223 How to fill up classtime with action? preparation for action? how does Graphic Designing lead to action?
 20190224 What am I trying to sustain? how are all these other actions and design choices and hardware swaps and whatever doing anything actually?
+20190225 Toward a slow technology. How to slow down everything. What can I get rid of? abandon? disown? disuse? what can I use better? what can I change? how do I change? Number one. no more streaming video? does that matter? do I just need to actually get out and act — stop reading and thinking and debating and procrastinating and just do…
+20190225 This is also getting a little diary like? maybe try to refocus on sentences that point towards action that points towrds something done, something changed, not just pose personal questions?
 
