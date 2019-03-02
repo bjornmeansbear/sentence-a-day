@@ -64,4 +64,8 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190224 What am I trying to sustain? how are all these other actions and design choices and hardware swaps and whatever doing anything actually?
 20190225 Toward a slow technology. How to slow down everything. What can I get rid of? abandon? disown? disuse? what can I use better? what can I change? how do I change? Number one. no more streaming video? does that matter? do I just need to actually get out and act — stop reading and thinking and debating and procrastinating and just do…
 20190225 This is also getting a little diary like? maybe try to refocus on sentences that point towards action that points towrds something done, something changed, not just pose personal questions?
+20190226 Define design ethics.
+20190227 Define sustainabilitist ethics.
+20190228 Machine learning neural network layout intructions robot. How to come up with this? how to train? what is it good for? does it only take in/out put instructions? are they just text? any visuals at all? do humans try to interpret the instructions themselves literally perhaps???
 
+20190301 So, if a robot can help write; can a robot help design?
