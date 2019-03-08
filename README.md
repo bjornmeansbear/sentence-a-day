@@ -73,3 +73,6 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190303 I have so much stuff; so many public domain and otherwise images, typefaces, drawings, layouts, whatever, already created; how can I put them to use on the enxt stuff I do? how can I get into the making things look good part and speed up the basics? well, the goal isn'ttt even to speed up the rest it is to help with creative and intellectual burnout. 
 20190304 Where do I start activating these ideas for my project? Who cares about these things? do I need a client that cares? do I just force it upon everything?
 20190305 Also! who do I need my next clients to be? If I am all in on the sustainao-libre stuff; what are the kinds of things I must investigate? And, how does being a "graphic designer" play into all this when/if/as my projects become more about software development; more about building bicycles; more about actions or interventions; more about proposals and plans?
+20190306 Well, it is proving to be the case that I can make what I want (at least mostly look the way I wish based on what I would be making otherwise) so, so far, experimenting will continue forward.
+20190307 Is it important to remix other culture into my cultural creations? does reusing and remixing create new metaphors? new ideas? better analogies? more interesting connections? richer futures?
+
