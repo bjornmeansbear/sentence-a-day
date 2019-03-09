@@ -75,4 +75,6 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190305 Also! who do I need my next clients to be? If I am all in on the sustainao-libre stuff; what are the kinds of things I must investigate? And, how does being a "graphic designer" play into all this when/if/as my projects become more about software development; more about building bicycles; more about actions or interventions; more about proposals and plans?
 20190306 Well, it is proving to be the case that I can make what I want (at least mostly look the way I wish based on what I would be making otherwise) so, so far, experimenting will continue forward.
 20190307 Is it important to remix other culture into my cultural creations? does reusing and remixing create new metaphors? new ideas? better analogies? more interesting connections? richer futures?
+20190308 Quality is essential because quantity is impossible. 
+20190309 Sustainability is essential because there are no other options. Is it about sustainability. What do we want to sustain? Is sustaining really the point? how do we make it improved over time; how do we make it restorative over time. 
 
