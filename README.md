@@ -77,4 +77,4 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190307 Is it important to remix other culture into my cultural creations? does reusing and remixing create new metaphors? new ideas? better analogies? more interesting connections? richer futures?
 20190308 Quality is essential because quantity is impossible. 
 20190309 Sustainability is essential because there are no other options. Is it about sustainability. What do we want to sustain? Is sustaining really the point? how do we make it improved over time; how do we make it restorative over time. 
-
+20190309 Do more with less. Do the most with nothing. Sustainable graphic design does not exist.
