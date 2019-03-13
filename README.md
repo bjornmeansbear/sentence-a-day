@@ -77,4 +77,8 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190307 Is it important to remix other culture into my cultural creations? does reusing and remixing create new metaphors? new ideas? better analogies? more interesting connections? richer futures?
 20190308 Quality is essential because quantity is impossible. 
 20190309 Sustainability is essential because there are no other options. Is it about sustainability. What do we want to sustain? Is sustaining really the point? how do we make it improved over time; how do we make it restorative over time. 
-20190309 Do more with less. Do the most with nothing. Sustainable graphic design does not exist.
+20190309 Do more with less. Do the most with nothing (do everything with nothing?). Sustainable graphic design does not exist.
+20190310 How do I actually do all that? I know I like to say how the sustainabilitist principles project exemplifies "sustainable design does not exist" since the objects came together to be a sculpture for an exhibition and then went back to being the objects afterward — but how does that work for other kinds of projects? can I work with clients and still pitch that kind of solution?
+20190311 Why worry about this; is just doing defaults suffice?
+20190312 Except I do care if things are “good” or not … so just defaulting it up without any know how isn't a pancea.
+20190313 But I do acknowledge that mostly what is good is what is familiar.
