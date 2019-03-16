@@ -84,4 +84,4 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190313 But I do acknowledge that mostly what is good is what is familiar.
 20190314 Whew. So I have some cyclical thinking. You need to make a lot; look at a lot; think a lot to really understand goodness. You also need to have varying levels of goodness and badness around you to really comprehend good vs bad. You have to have tried a lot; experienced a lot; been open to researching many things; many ways; etc.
 20190315 How does one really then make good design? what is definitively good? I think there are good and bad behaviors; how does that translate to making of visuals?
-
+20190315 Maybe I shouldn't feel so weird being declarative about things... 
