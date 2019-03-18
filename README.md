@@ -88,4 +88,10 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190316 Less is More. More is Less. Less is a Bore. Boring is less exciting. Is more stuff then more exciting? is that the point of designing? Do more with Less. What does that actually entail or imply?
 20190316 What does sustainable design look like? should it look intentionally different to tell everyone that its not the same? If the paradigm must shift; then the styles should probably shift as well to be clear that they are in all ways different? By just using different tools and typefaces and image sources do you do this? does it need to be more extreme than that?
 20190316 So; on the extreme side; there is this "Sustainable graphic design does not exist" idea I've had for a while. The point is not that literally you can't make it (though that is sort of what I was thinking at first), but that a graphic designed thing that is sustainable comes together to communicate the message it needs to communicate; and then can dematerialize back to its initial parts once the communicative need is over. How does "signs on a substrate" translate to "pieces coming together for a determinate amount of time and then returning to their constiuent pieces" -- oh man.
- 
+20190316 What should we be making? who should we be making things for? Does being a graphic designer (does being a web/digital designer) affect the way I answer these questions -- would I answer them differently if I were making "inudstrial design" type objects instead; if I were making buildings instead???
+20190316 Make an object that lives forever.
+20190317 Graphic Design a thing that lives forever?
+20190318 Sustainabilitize a graphic design so that it lives forever? wait, is this the point? If sustainable graphic design doesn't exist -- meaning that 
+things come together to server a purpose then can go back to their original consituent parts -- does a piece of GD need to live forever? perhaps this is 
+better put through the lens of perrenial agriculture or permaculture or no till or something? what is perennial graphic design that is restorative to culture 
+-- that protects and builds cultural health (the same way that prairie grasses build and protect the soil health of the plains?).
