@@ -91,7 +91,5 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190316 What should we be making? who should we be making things for? Does being a graphic designer (does being a web/digital designer) affect the way I answer these questions -- would I answer them differently if I were making "inudstrial design" type objects instead; if I were making buildings instead???
 20190316 Make an object that lives forever.
 20190317 Graphic Design a thing that lives forever?
-20190318 Sustainabilitize a graphic design so that it lives forever? wait, is this the point? If sustainable graphic design doesn't exist -- meaning that 
-things come together to server a purpose then can go back to their original consituent parts -- does a piece of GD need to live forever? perhaps this is 
-better put through the lens of perrenial agriculture or permaculture or no till or something? what is perennial graphic design that is restorative to culture 
--- that protects and builds cultural health (the same way that prairie grasses build and protect the soil health of the plains?).
+20190318 Sustainabilitize a graphic design so that it lives forever? wait, is this the point? If sustainable graphic design doesn't exist -- meaning that things come together to server a purpose then can go back to their original consituent parts -- does a piece of GD need to live forever? perhaps this is better put through the lens of perrenial agriculture or permaculture or no till or something? what is perennial graphic design that is restorative to culture -- that protects and builds cultural health (the same way that prairie grasses build and protect the soil health of the plains?).
+20190319 Sleep more. Do less. Do More with Less. Can we be of help to the planet? Is doing more with less useful? should be just be doing less period? being workaholics is probably bad for earth not just us.
