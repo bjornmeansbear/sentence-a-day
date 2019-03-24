@@ -96,3 +96,5 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190320 I must do a better job inhabiting the correct state of being. My current "form" isn't doing my hopes justice.
 20190321 It is the first day of Spring. How might I spring into action on ACTING on some of these impulses? How does graphic designing give all of its raw ingredients the most respect possible? 
 20190321 what the heck did I do to nano? why aren't there any line wraps working as I desire? everything looks horrible. I guess I need to a) write a theme for it? and maybe figure out some more things about the config files? or do I find something else to utilize for writing and editing and such? vi? vim? wtf.
+20190322 So, if I am not graphic designing then what am I doing; what do I call myself? how can I keep teaching?
+20190323 I don't need to practice what I preach; I need to preach even if I don't/can't yet practice it -- keep things moving forward faster and better even if I myself am not yet capable of fully embracing it all. 
