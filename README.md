@@ -98,3 +98,7 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190321 what the heck did I do to nano? why aren't there any line wraps working as I desire? everything looks horrible. I guess I need to a) write a theme for it? and maybe figure out some more things about the config files? or do I find something else to utilize for writing and editing and such? vi? vim? wtf.
 20190322 So, if I am not graphic designing then what am I doing; what do I call myself? how can I keep teaching?
 20190323 I don't need to practice what I preach; I need to preach even if I don't/can't yet practice it -- keep things moving forward faster and better even if I myself am not yet capable of fully embracing it all. 
+20190324 Real people. Real projects. Real progress? Real success? Real what?
+20190325 What should design do?
+20190326 What are we designing? who are we designing for? what people are to be helped? what services to be provided?
+
