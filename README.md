@@ -1,7 +1,7 @@
 # A Sentence A Day (SAD)
 
 Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
- 
+
 20190101 How to move towards a more sustainable graphic design practice?  
 20190102 My GNU/Linux experiments are one such effort.  
 20190103 Reusing old design ideas another.  
@@ -35,7 +35,7 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190129 Why have a process? What is a process? what is process? How do you define process?  
 20190130 Does "Switch to libre tools" count as a process?  
 20190131 Do you have to change your computer, your operating system, your software; or are there just free/libre
- 
+
 20190201 Sustainable Graphic Design is a mindset, not necessarily a checklist of "the right" materials -- now, it can't be the wrong materials either, but it's not just the right materials...  
 20190202 If you have the right mindset, but still use the wrong materials, does it matter?  
 20190203 If one uses better materials, but for the status quo aims, does it matter?  
@@ -68,7 +68,7 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190226 Define design ethics.  
 20190227 Define sustainabilitist ethics.  
 20190228 Machine learning neural network layout instructions robot. How to come up with this? how to train? what is it good for? does it only take in/out put instructions? are they just text? any visuals at all? do humans try to interpret the instructions themselves literally perhaps???
- 
+
 20190301 So, if a robot can help write; can a robot help design?  
 20190302 I don't want to have a robot replace me; replace us -- I want a robot to help me reuse old ideas; resurface past options; find interesting combinations of things I wouldn't have thought of or tried. All from my own existing detritus. How to train a machine on all my existing output to help create new output that takes its source material as the old? Sort of a conceptual, material reuse project?  
 20190303 I have so much stuff; so many public domain and otherwise images, typefaces, drawings, layouts, whatever, already created; how can I put them to use on the enxt stuff I do? how can I get into the making things look good part and speed up the basics? well, the goal isn't even to speed up the rest it is to help with creative and intellectual burnout.  
@@ -95,22 +95,22 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190318 Sustainabilitize a graphic design so that it lives forever? wait, is this the point? If sustainable graphic design doesn't exist -- meaning that things come together to server a purpose then can go back to their original constituent parts -- does a piece of GD need to live forever? perhaps this is better put through the lens of perennial agriculture or permaculture or no till or something? what is perennial graphic design that is restorative to culture -- that protects and builds cultural health (the same way that prairie grasses build and protect the soil health of the plains?).  
 20190319 Sleep more. Do less. Do More with Less. Can we be of help to the planet? Is doing more with less useful? should be just be doing less period? being workaholics is probably bad for earth not just us.  
 20190320 I must do a better job inhabiting the correct state of being. My current "form" isn't doing my hopes justice.  
-20190321 It is the first day of Spring. How might I spring into action on ACTING on some of these impulses? How does graphic designing give all of its raw ingredients the most respect possible?  20190321 what the heck did I do to nano? why aren't there any line wraps working as I desire? everything looks horrible. I guess I need to a) write a theme for it? and maybe figure out some more things about the config files? or do I find something else to utilize for writing and editing and such? vi? vim? wtf.  
-20190322 So, if I am not graphic designing then what am I doing; what do I call myself? how can I keep teaching? 
-20190323 I don't need to practice what I preach; I need to preach even if I don't/can't yet practice it — keep things moving forward faster and better even if I myself am not yet capable of fully embracing it all. 
-20190324 Real people. Real projects. Real progress? Real success? Real what? 
-20190325 What should design do? 
-20190326 What are we designing? who are we designing for? what people are to be helped? what services to be provided? 
-20190327 Missing a few days. 
-20190328 What is so enticing about a catchy tv show or a website or an app or a drug? how could that be harnessed for good -- is harnessing any "addictive" aspect of something bad by default? 
-20190329 Finish what you start. There was a thread here but it has been lost -- tiredness? too much other stuff going on? 
+20190321 It is the first day of Spring. How might I spring into action on ACTING on some of these impulses? How does graphic designing give all of its raw ingredients the most respect possible?  
+20190321 what the heck did I do to nano? why aren't there any line wraps working as I desire? everything looks horrible. I guess I need to a) write a theme for it? and maybe figure out some more things about the config files? or do I find something else to utilize for writing and editing and such? vi? vim? wtf.    
+20190322 So, if I am not graphic designing then what am I doing; what do I call myself? how can I keep teaching?  
+20190323 I don't need to practice what I preach; I need to preach even if I don't/can't yet practice it -- keep things moving forward faster and better even if I myself am not yet capable of fully embracing it all.  
+20190324 Real people. Real projects. Real progress? Real success? Real what? 20190325 What should design do?  
+20190326 What are we designing? who are we designing for? what people are to be helped? what services to be provided?  
+20190327 Missing a few days.  
+20190328 What is so enticing about a catchy tv show or a website or an app or a drug? how could that be harnessed for good -- is harnessing any "addictive" aspect of something bad by default?  
+20190329 Finish what you start. There was a thread here but it has been lost -- tiredness? too much other stuff going on?  
 20190330 Is any design good? Is any design meant for commercial consumption good?  
 20190331 Why do I design? Maybe that is a good question to focus on?
 
 20190401 New month. New thoughts.  
 20190402 Start to explain the reduce/reuse/recycle exercises from Sustainable graphic design: why was it useful? what is it good for? how do those things help with design processes generally?  
 20190402 Time to get writing more than just a sentence a day. Keep this going; but get some of these other thoughts down into their own essays too! f tv watching. just write! and sleep!  
-20190403 Real people and real projects. IS that what SGD is missing right now? why I feel so unsatisfied? all we’ve done is talk… students have read a lot learned a lot talked a lot — but have we not done enough???  
-20190404 What does “doing” mean? is “doing” making more meaningless designed things; or does being wiser count as “doing” design?
-20190405 What is there to talk about when you don’t talk about what something looks like — how do you talk about what a design _is_ like?  
+20190403 Real people and real projects. IS that what SGD is missing right now? why I feel so unsatisfied? all we've done is talk... students have read a lot learned a lot talked a lot -- but have we not done enough???  
+20190404 What does "doing" mean? is "doing" making more meaningless designed things; or does being wiser count as "doing" design?  
+20190405 What is there to talk about when you don't talk about what something looks like -- how do you talk about what a design _is_ like?
 
