@@ -113,4 +113,12 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190403 Real people and real projects. IS that what SGD is missing right now? why I feel so unsatisfied? all we've done is talk... students have read a lot learned a lot talked a lot -- but have we not done enough???  
 20190404 What does "doing" mean? is "doing" making more meaningless designed things; or does being wiser count as "doing" design?  
 20190405 What is there to talk about when you don't talk about what something looks like -- how do you talk about what a design _is_ like?
-
+20190406 What does that even mean; what design _is_ like?
+20190407 This gets us back to the form <-> content <-> context kinds of discussions I get into.
+20190408 So I want to talk about what design is doing: who is it for? why does it exist? what good does it do? etc.
+20190409 That is important to me sustainability wise too -- restorative design wise? -- but that I need to get more towards real projects; real people; and real improvements…
+20140410 But what does that mean? what is "real"?
+20140411 Real as in things that affect regular people's lives? can it still be utopian AND be real? is this where the pragmatic utopianism comes in?
+20140412 How can a new idea for a design classroom be realized that does this better? Something like a 18-20 something designergarten?
+20140413 Froebel's gifts for designers.
+20140414 What good have I done today?
