@@ -98,13 +98,13 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190321 It is the first day of Spring. How might I spring into action on ACTING on some of these impulses? How does graphic designing give all of its raw ingredients the most respect possible?  
 20190321 what the heck did I do to nano? why aren't there any line wraps working as I desire? everything looks horrible. I guess I need to a) write a theme for it? and maybe figure out some more things about the config files? or do I find something else to utilize for writing and editing and such? vi? vim? wtf.    
 20190322 So, if I am not graphic designing then what am I doing; what do I call myself? how can I keep teaching?  
-20190323 I don't need to practice what I preach; I need to preach even if I don't/can't yet practice it -- keep things moving forward faster and better even if I myself am not yet capable of fully embracing it all.  
-20190324 Real people. Real projects. Real progress? Real success? Real what? 20190325 What should design do?  
-20190326 What are we designing? who are we designing for? what people are to be helped? what services to be provided?  
-20190327 Missing a few days.  
-20190328 What is so enticing about a catchy tv show or a website or an app or a drug? how could that be harnessed for good -- is harnessing any "addictive" aspect of something bad by default?  
-20190329 Finish what you start. There was a thread here but it has been lost -- tiredness? too much other stuff going on?  
-20190330 Is any design good? Is any design meant for commercial consumption good?  
+20190323 I don't need to practice what I preach; I need to preach even if I don't/can't yet practice it -- keep things moving forward faster and better even if I myself am not yet capable of fully embracing it all.  git pul
+20190324 Real people. Real projects. Real progregit pulss? Real success? Real what? 20190325 What should design do?  git pul
+20190326 What are we designing? who are we desiggit pulning for? what people are to be helped? what services to be provided?  git pul
+20190327 Missing a few days.  git pul
+20190328 What is so enticing about a catchy tv sgit pulhow or a website or an app or a drug? how could that be harnessed for good -- is harnessingit pulg any "addictive" aspect of something bad by default?  git pul
+20190329 Finish what you start. There was a thregit pulad here but it has been lost -- tiredness? too much other stuff going on?  git pul
+20190330 Is any design good? Is any design meantgit pul for commercial consumption good?  
 20190331 Why do I design? Maybe that is a good question to focus on?
 
 20190401 New month. New thoughts.  
