@@ -122,3 +122,4 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20140412 How can a new idea for a design classroom be realized that does this better? Something like a 18-20 something designergarten?
 20140413 Froebel's gifts for designers.
 20140414 What good have I done today?
+20140415 A responsible designer. A socially responsible designer. An environmentally responsible designer.
