@@ -123,3 +123,5 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20140413 Froebel's gifts for designers.
 20140414 What good have I done today?
 20140415 A responsible designer. A socially responsible designer. An environmentally responsible designer.
+20190416 How does one actually do this all? What is a responsible designer???
+20190417 why can't I just go to sleep.
