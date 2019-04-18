@@ -125,3 +125,5 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20140415 A responsible designer. A socially responsible designer. An environmentally responsible designer.
 20190416 How does one actually do this all? What is a responsible designer???
 20190417 why can't I just go to sleep.
+20190418 What are the implications of designing in the crisis filled era we find ourselves? what does "graphic designing" do to heal and restore the world? how does can making anew unmake all the old? And what the fuck does my practice have to do with any of it. Why can't I make anything useful myself??????s (this is more than a sentence). Okay. So what am I going to do. (and why be so open in an open source readme?). Why is it so easy to do nothing; and not the right kind of nothing.
+20190418 Froebel's gifts for sustainabilitists.
