@@ -131,3 +131,6 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190420 I found a lot of interesting material studies in the [_Why Materials Matter_ book (by Seetal Solanki)](https://amzn.to/2Xz9PHh) -- so many interesting experiments; so few help me think about “graphic designing.” Maybe do another flip through; focus on the paper substrates; the inks? Is carbon black made from exhaust/smog really a sustainable direction though???
 20190421 Bjorn means better materials.
 20190422 What are local and reusable materials I could start playing with? making my own paper? creating sheets of remade plastic "paper"? digging and making my own clay to make tablets out of? firing pages that way? what do I produce with those things? plates to print from? stamps? seals? do I draw and compose right into clay? what else allows me to put "signs on substrates" in a meaningful way that continues to let me "graphic design" but really does something about material usage; education; communication; etc???
+20190423 Design experiment.
+20190424 What is an experiment? what is a design experiment?
+20190425 Am I a sustainable designer? or am I a sustainable person that happens to design -- everything I design is thus influenced by my sustainabilitism. Designing follows one's personhood?
