@@ -16,7 +16,7 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190111 Do the ideals of F/LOSS align better with the ideals of sustainability?
 20190112 Does "all humans and other life should flourish" fit into F/LOSS as an ideal?
 20190113 Or rather, does F/LOSS help achieve flourishing more than proprietary software might/will?
-20190114 What I am really trying to suss out here is where and how do my interests in Design serving a flourishing/wellfare of all life agenda and my interests in F/LOSS design overlap; how are they additive; how do they serve each other.  
+20190114 What I am really trying to suss out here is where and how do my interests in Design serving a flourishing/wellfare of all life agenda and my interests in F/LOSS design overlap; how are they additive; how do they serve each other. 
 20190115 The other direction this goes, is why do any of this at all? why design? why compute? why care about liberated tools? why be a designer -- why am I not just a farmer or garbage collector or something?
 20190115 Okay, reasoning: our current capitalist constructs DO NOT improve the wellfare of all life; the origins of F/LOSS are also anti-capitalist -- or at least anti valuing making a buck over being good to your neighbor -- so, if you have to use software, F/LOSS is more likely to AID you in helping all life flourish than proprietary/non-free softwares.
 20190116 Is this provable? or measurable?
@@ -36,38 +36,38 @@ Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is n
 20190130 Does "Switch to libre tools" count as a process?
 20190131 Do you have to change your computer, your operating system, your software; or are there just free/libre
 
-20190201 Sustainable Graphic Design is a mindset, not necessarily a checklist of "the right" materials -- now, it can't be the wrong materials either, but it's not just the right materials...  
-20190202 If you have the right mindset, but still use the wrong materials, does it matter?  
-20190203 If one uses better materials, but for the status quo aims, does it matter?  
-20190204 In what ways can I change how I work and live to yield immediate results?  
-20190205 I now have 3 iMacs, 5 Laptops, 3 raspberry Pis, & 5 Monitors of different sizes and ages (one is the sweet 1999 original Apple LCD in translucent turquoise). Is that too many computers?  
+20190201 Sustainable Graphic Design is a mindset, not necessarily a checklist of "the right" materials -- now, it can't be the wrong materials either, but it's not just the right materials...
+20190202 If you have the right mindset, but still use the wrong materials, does it matter?
+20190203 If one uses better materials, but for the status quo aims, does it matter?
+20190204 In what ways can I change how I work and live to yield immediate results?
+20190205 I now have 3 iMacs, 5 Laptops, 3 raspberry Pis, & 5 Monitors of different sizes and ages (one is the sweet 1999 original Apple LCD in translucent turquoise). Is that too many computers?
 20190206 Documentation of my libre attempts are a must. I need to find the time to actually get down some of the things I've tried and learned.  
-20190207 Is writing or audio/video recording better for that? I'll do it faster as audio recordings; but its more accessible as text right?  
-20190208 Waste = Food is a great idea to apply to more things than just the natural world. Here's a great prompt: the earth's major nutrients are carbon, hydrogen, oxygen, & nitrogen ... what are graphic design's major nutrients? (and! how can they be cycled and recycled into new graphic design indefinitely?????????)  
-20190208 Oh man, I need to setup a repo of just my fav libre fonts. then I can easily keep all my installs mac, gnu/linux, whatever, in sync.  
-20190209 As I get into this liberated OS, fonts, tools, etc. I realize that there have been more convenient, more helpful, more useful, whatever systems out there -- and most of us just never knew/didn't realize???  
-20190210 Some things are easier. Some are harder.  
-20190211 What the f is up with crappy weather days.  
-20190212 I have this idea -- sustainable graphic design does not exist. Now, that might mean "there is no such graphic design that can count as sustainable -- its all wasteful garbage that does nothing good" -- or -- and this is the cool part -- sustainable graphic design doesn't exist meaning that it comes together to serve a communication purpose; deliver a semiotic message; and then redistributes back to whatever energy and matter it was before.  
-20190212 Maybe try to write some more about that in another doc or repo or something? Reference my MFA work; what else can I find that is exemplary of that idea?  
-20190212 That's more than just reuse for packaging or something; that is about harnessing a more entropic way of being.  
-20190213 What the hell am I doing.  
-20190214 What is romantic about sustainability? should we focus on that? are the facts and statistics and whatever else too scary? too boring? too real?  
-20190215 If there is a crisis, why aren't we hearing about it more? why aren't there more restrictions?  
-20190216 Sustainability is about knowing what you want to sustain. Libre tools are about a person's freedom to do what they want. If I don't want to sustain our moderno-techno-capitalism, then I should probably use libre tools while creating alternatives... what do I want to sustain though? It is easy to say what I don't want to sustain; less clear to say what I do want to.  
-20190217 I just spent the evening at an event that showed me why all is F-ed. I feel bad that I was a part of it frankly. So then what am I going to do to do something about that?  
-20190218 Designer as Activist. Designer as Farmer. Designer as Politician. Designer as general good doer out in the world -- not in the social design-y way, but just as regular person doing things to improve the contexts of their time and space.  
-20190219 What good do any of my design "tools" do me if just being a general good citizen; a general good human; is what I am after?  
-20190220 A designer needs to know a lot to really be good these days. I don't mean good as in makes formally pleasing work; I mean good as in really improves things; really exemplifies other ways of thinking and being. So how does one get this way? is this something to be learned? something to be taught? Is pedagogy buildable from these thoughts? If i teach in a graphic design program still rooted mainly in typography and static, flat, two-dimensional printed forms, can I do what I am proposing/asking here? How do I learn enough about materials, behaviors, situations, philosophy, history, physics, energy, biology, sociology, anthropology, politics, etc. ...  
-20190221 If sustainable designers don't make design; what do we make?  
-20190222 I talk to much in my class. How do I make it more about doing! more about action! and not my doing and actions; all of our doings and actions!  
-20190223 How to fill up class time with action? preparation for action? how does Graphic Designing lead to action?  
-20190224 What am I trying to sustain? how are all these other actions and design choices and hardware swaps and whatever doing anything actually?  
-20190225 Toward a slow technology. How to slow down everything. What can I get rid of? abandon? disown? disuse? what can I use better? what can I change? how do I change? Number one. no more streaming video? does that matter? do I just need to actually get out and act -- stop reading and thinking and debating and procrastinating and just do...  
-20190225 This is also getting a little diary like? maybe try to refocus on sentences that point towards action that points towards something done, something changed, not just pose personal questions?  
-20190226 Define design ethics.  
-20190227 Define sustainabilitist ethics.  
-20190228 Machine learning neural network layout instructions robot. How to come up with this? how to train? what is it good for? does it only take in/out put instructions? are they just text? any visuals at all? do humans try to interpret the instructions themselves literally perhaps???
+20190207 Is writing or audio/video recording better for that? I'll do it faster as audio recordings; but its more accessible as text right?
+20190208 Waste = Food is a great idea to apply to more things than just the natural world. Here's a great prompt: the earth's major nutrients are carbon, hydrogen, oxygen, & nitrogen ... what are graphic design's major nutrients? (and! how can they be cycled and recycled into new graphic design indefinitely?????????)
+20190208 Oh man, I need to setup a repo of just my fav libre fonts. then I can easily keep all my installs mac, gnu/linux, whatever, in sync.
+20190209 As I get into this liberated OS, fonts, tools, etc. I realize that there have been more convenient, more helpful, more useful, whatever systems out there -- and most of us just never knew/didn't realize???
+20190210 Some things are easier. Some are harder.
+20190211 What the f is up with crappy weather days.
+20190212 I have this idea -- sustainable graphic design does not exist. Now, that might mean "there is no such graphic design that can count as sustainable -- its all wasteful garbage that does nothing good" -- or -- and this is the cool part -- sustainable graphic design doesn't exist meaning that it comes together to serve a communication purpose; deliver a semiotic message; and then redistributes back to whatever energy and matter it was before.
+20190212 Maybe try to write some more about that in another doc or repo or something? Reference my MFA work; what else can I find that is exemplary of that idea?
+20190212 That's more than just reuse for packaging or something; that is about harnessing a more entropic way of being.
+20190213 What the hell am I doing.
+20190214 What is romantic about sustainability? should we focus on that? are the facts and statistics and whatever else too scary? too boring? too real?
+20190215 If there is a crisis, why aren't we hearing about it more? why aren't there more restrictions?
+20190216 Sustainability is about knowing what you want to sustain. Libre tools are about a person's freedom to do what they want. If I don't want to sustain our moderno-techno-capitalism, then I should probably use libre tools while creating alternatives... what do I want to sustain though? It is easy to say what I don't want to sustain; less clear to say what I do want to.
+20190217 I just spent the evening at an event that showed me why all is F-ed. I feel bad that I was a part of it frankly. So then what am I going to do to do something about that?
+20190218 Designer as Activist. Designer as Farmer. Designer as Politician. Designer as general good doer out in the world -- not in the social design-y way, but just as regular person doing things to improve the contexts of their time and space.
+20190219 What good do any of my design "tools" do me if just being a general good citizen; a general good human; is what I am after?
+20190220 A designer needs to know a lot to really be good these days. I don't mean good as in makes formally pleasing work; I mean good as in really improves things; really exemplifies other ways of thinking and being. So how does one get this way? is this something to be learned? something to be taught? Is pedagogy buildable from these thoughts? If i teach in a graphic design program still rooted mainly in typography and static, flat, two-dimensional printed forms, can I do what I am proposing/asking here? How do I learn enough about materials, behaviors, situations, philosophy, history, physics, energy, biology, sociology, anthropology, politics, etc. ...
+20190221 If sustainable designers don't make design; what do we make?
+20190222 I talk to much in my class. How do I make it more about doing! more about action! and not my doing and actions; all of our doings and actions!
+20190223 How to fill up class time with action? preparation for action? how does Graphic Designing lead to action?
+20190224 What am I trying to sustain? how are all these other actions and design choices and hardware swaps and whatever doing anything actually?
+20190225 Toward a slow technology. How to slow down everything. What can I get rid of? abandon? disown? disuse? what can I use better? what can I change? how do I change? Number one. no more streaming video? does that matter? do I just need to actually get out and act -- stop reading and thinking and debating and procrastinating and just do...
+20190225 This is also getting a little diary like? maybe try to refocus on sentences that point towards action that points towards something done, something changed, not just pose personal questions?
+20190226 Define design ethics.
+20190227 Define sustainabilitist ethics.
+20190228 Machine learning neural network layout instructions robot. How to come up with this? how to train? what is it good for? does it only take in/out put instructions? are they just text? any visuals at all? do humans try to interpret the instructions themselves literally perhaps?
 
 20190301 So, if a robot can help write; can a robot help design?
 20190302 I don't want to have a robot replace me; replace us -- I want a robot to help me reuse old ideas; resurface past options; find interesting combinations of things I wouldn't have thought of or tried. All from my own existing detritus. How to train a machine on all my existing output to help create new output that takes its source material as the old? Sort of a conceptual, material reuse project?
