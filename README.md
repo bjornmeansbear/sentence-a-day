@@ -134,4 +134,8 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190423 Design experiment.
 20190424 What is an experiment? what is a design experiment?
 20190425 Am I a sustainable designer? or am I a sustainable person that happens to design -- everything I design is thus influenced by my sustainabilitism. Designing follows one's personhood?
+<<<<<<< HEAD
 20190426 What are the raw materials of graphic design: how do I "recycle" my old works to create new raw materials to build new design from? do I need to recycle -- can i just reuse?
+=======
+20190425 What does success mean for my practice. What does success mean for sustainable graphic design. How is design sustainable. What new words better describe what I am talking about. Flourishing. Regenerative. Adaptable. Praxis. Resiliant. Systematic. Interconnected.
+>>>>>>> 3d39d595404e71fc9542f0efeff077070ca49990
