@@ -141,3 +141,12 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190428 Life is hard. Designing is hard. Sustainability is hard. Restoration is hard. Maintenance is hard.
 20190429 What are we doing? how do we help each other?
 20190430 Is trying to write every single day in this fast way smart or useful? what have I captured that is worth it?
+
+20190501 I have 145 lines of stops and starts.
+20190502 Form is king / no! content is king / No! CONTEXT IS KING! No! Queen? No! Benevolent dictator! Yes! Context is the benevolent dictator of a project!?
+20190503 How do you teach that? what is the history lesson that readies one for that? how is context supreme and let to be freed and learned about???
+20190504 Still so many questions. How can everything I write about or think about or try to tackle always be a question; lead to more questions; not be a fact or answer or clear, end result?
+20190505 What is experimental graphic design? what is a design experiment -- I am still thinking about this from a meeting a few weeks ago (looks like 20190424). Should sustainable/restorative/flourishing design require that it be experimental? what hypothesis is a design proving or disproving? is that a real metric for a formal exercise?
+20190506 Speaking of hypothesis; is that the problem with our current designing? we don't have any hypotheses -- we just replicate answers from before that never really were experiments; they weren't readily tested or smartly planned; just done and then repeated ad infinitum.
+20190507 Experiments: how many different ways can one hide/show or min/max a menu? what do we use to determine goodness and badness in this experiment? How did the famous roadsignage design projects pan out -- what were their starting hypotheses and how was designing iterations part of a real experimentation process? did it really yield superior design? What other examples and successes/failures am I aware of? What is a control in a design?
+20190508 Write a song. Is that also a design project?
