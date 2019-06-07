@@ -157,3 +157,54 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190513 Meeting re: a community project. What is the correct way to design for a diverse group of people that aren't you? that might not have your tastes or contexts? how does one understand them? what is design that speaks to _not_ me? that is historically and culturally “correct?”
 20190514 What is a “professional” tool? Does this mean a mac? does this mean adobe creative suite? does this mean a specific programming lanaguge or framework? Is professionalism a set of tools; or is it the wisdom, skill, and care necessary to make the best possible thing no matter what tools one is using? Is it making your own tools???? Is a visual designer who uses GNU/Linux and F/LOS design software no longer a “professional” -- is it really the output that matter? that I can produce press ready PDFs, is that what makes me a professional? is it knowledge/skill in form, typography, composition, balance, color, etc? What skills or tools differentiate a professional designer from an amateur one?
 20190515 How does graphic design take carbon back out of the atmosphere? what can communication design; what can signs on substrates; do to get carbon back into the ground? to keep carbon bottled up? does making bricks of plastic and then shaving them into paper help? does making my own paper from used clothes and scrap paper help? what else can I do??? just picking risograph isn't enough. Just buying some renewable offsets isn't enough. (though I guess I need to get on that train again just to be safe). How does this bake into designing generally? to design pedagogy? to society at large?
+20190515 Make your own tools. Ala Kiel!? Ask a lot of questions.
+20190515 What else can I learn about a design from its contexts?
+20190515 Stabilizing the climate isn't about reducing emissions, we have to *zero* our emissions; & actually remove carbon from the atmosphere. Driving an EV doesn't  cut it…. replacing a car w/ a used bicycle & your lawn with a permaculture garden is a better start.
+20190516 Some confusing territory; why is it so hard to write a learning outcome?
+20190516 Relational ontologies of graphic design.
+20190516 Why do people have houses? All they do is fall apart. 
+20190516 Okay, Signs on Substrates. Carbon capture. What the hell am I going to do?
+20190517 Can an identity made to help parks and rec also help the planet?
+20190517 What reasons do I have to make one thing one way or another? why should we make a thing one way or another?
+20190518 I ordered a thinkpad. is that going to make being "liberated" easier? it for sure looks different than my normal macbookairing around.
+20190518 Who do I need to ask about carbon capture? what materials? what do you do with the carbon once you've captured it?20190517 embrace the speculative? embrace the irrational? embrace the new or strange or different or experimental?
+20190519 Decolonized design should probably use liberated tools. If you are still designing with Adobe and Macs you aren't decolonized. They're cultural colonizers -- bringing their way of doing things; their technologies to every place they visit and decide to set down in…
+20190520 That last thing has legs; but I need to think it through a bit more. How am I not a design colonizer?
+20190520 Avoid solely hanging out with other designers in pretty spaces.
+20190520 to change a system; intervene in small ways around the edges … at some point that system will react to those changes and be made to change ??? is this true? can this work? small is not less important than big in a complex system.
+20190520 no one said "hey, lets see if we can F up everyting on this planet" BUT it is what we did!
+20190520 If innovation & creativity & growth & modernity & progress & development are all so “good” — why is shit so fucked? These are neutral words; not default “good” words. If you are applying “innovation” to the wrong thing it can be bad…
+20190520 Life centered design.
+20190521 What's my honest, authentic way of designing? What's my honest, authentic way of being and how does that then influence my designing?
+20190522 What is the node/map/tree/cloud/whatever structure that ties all these things together?
+20190523 Is that a good "next thing to do with all of these ideas" see how they visually/conceptually interlink and try to "graphic design" something up from them? that then shows me the next thing to do; the next thing to write down?
+20190523 Designing Tomorrow's World Today.
+20190524 New trains of thought almost everyday. The downside to this project.
+20190524 Inaction is still an action.
+20190525 It was a good time prepping my design is x or y or z and this is what you should do "lecture" for the parents graduation weekend. I should try to write more lectures; do more talks; do more real writing down and explaining of my points of view. Maybe that will then help me actually implement it on something?
+20190526 There is a real internal conflict raging in my practice (practices? praxis? or is it that it isn't yet a praxis that is the problem?) -- why can't I do a better job of DOING the things I claim to think/believe in/promote etc? I so bad at ACTION.
+20190527 Running out of time. Design needs to cause massive cultural shift; massive action FAST SOON IMMEDIATELY.
+20190528 What design does this; what did the messaging around Ozone depletion look like? What about carson's silent spring related anti-chemical rhetoric? what about WWII "we need you" type things? Oh man, that's a great resource -- war time propoganda posters. Does that stuff work now? what is cultural convincing design now? what is design that causes people to follow and just do? 
+20190528 There is a difference between living and living free.
+20190529 Should we use the status quo against itself? do most people really just do what it seems everyone else is doing? The downside to that is I don't think its really in the ethics of "sustainability" to just shepherd along the masses blindly -- I don't want to recreate a status quo where people just do whatever eveyrone is doing only now the default "normal" things are what I think are good... I want people to really think about their actions; change what "convenient" means; believe in something; value something. Value it because they've asked themselves why is x better than y really? What does that look like? is that restorative design? restoring a person's ability to think critically and make an actual choice? 
+20190529 What if you are good at something that doesn’t appear to have any use to your society?
+20190529 Nothing is permanently our own.
+20190529 Survival of the most generous interconnected groups.
+20190529 Individual and collective freedoms.
+20190530 Life affirming design. restorative design. sustainable design. entropic design. adaptable design. designing as flourishing. 
+20190531 I do like this life-affirming design thing. How do I get more into that? or rather how do I frame any and all projects moving forward from that vantage?
+
+20190601 Month 6. Woah. Is this life affirming?
+20190602 Does it matter what GNU/Linux distro I install? Should I focus on maximum Libre-ness? Usability? designerly-ness?
+20190603 Does it matter what laptop I have? is there something useful about having a slightly out of date, refurbished thinkpad? Should I try to use my raspberry pis more? Or why not just force my MacBookAirs into service? Is focusing on Maximum-Libre-ness the important part? I guess being able to have only linux installed will be fun/useful on the thinkpad...
+20190604 Tomorrow's Ideas for Today's Culture. What does that mean? Is that useful -- how do I make my vision of tomorrow understandable to today's society?
+20190604 People cry out “should designers code?” but what about “should engineers design?”
+20190604 Do something. do something to that. then, do something else to that.
+20190604 Do you want to design objects for businesses to be owned and sold and controlled or design a commons? services for all owned by no-one (or alternately everyone)
+20190604 After seriously using inkscape, scribus, gimp & a few other libre graphics tools for a while… I need to write something up… inkscape is a great tool; I'm still trying to do illustrator-y things out of muscle & mental memory; but it's the easiest thing to just use so far.
+20190605 Help to make the Baltimore Inner Harbor swimmable again. More trashwheels. Get rid of the mall. Rebuild wetlands. Make stuff from the plastics collected by trashy -- and then sell that stuff in special kiosks?
+20190605 Interesting thought: How does graphic design better understand itself in the full ecology of things. Architecture often sees itself as part of a larger set of systems, energy and material streams, nature more broadly. How does a graphic design practice also become an ecological practice? Also, how does a graphic designer see opportunities to not make the default objects? a publishing proposal results in a book … well, what else could it result in instead? a song? a conference? a race? (instead of every architectural problem needing to result in a building; how does graphic designing deal with this same set of problematic pre-decisions).
+20190605 Every graphic design problem's answer is not a book; or a poster; or an identity… it is not necessarily a visual design problem; or rather some superficial 2D surface decoration isn't the answer to every problem -- though the thinking of a designer might reveal an interesting solution still… Can it always be framed as signs on substrates (signs on surfaces?) even if not a visual "answer"?
+20190606 The struggle for pragmatic utopia.
+20190606 What am I doing? How do I better use my time and my talents? why such frivolous pursuits?
+20190607 Idea: A book printed in an ink that acts as a carbon sink -- the book's text only shows up gradually; it has to absorb the carbon to become black!!??
