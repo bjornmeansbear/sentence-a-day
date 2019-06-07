@@ -204,3 +204,4 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190605 Every graphic design problem's answer is not a book; or a poster; or an identity… it is not necessarily a visual design problem; or rather some superficial 2D surface decoration isn't the answer to every problem -- though the thinking of a designer might reveal an interesting solution still… Can it always be framed as signs on substrates (signs on surfaces?) even if not a visual "answer"?
 20190606 The struggle for pragmatic utopia.
 20190606 What am I doing? How do I better use my time and my talents? why such frivolous pursuits?
+20190607 Idea: A book printed in an ink that acts as a carbon sink -- the book's text only shows up gradually; it has to absorb the carbon to become black!!??
