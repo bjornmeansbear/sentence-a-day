@@ -208,5 +208,7 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190606 The struggle for pragmatic utopia.
 20190606 What am I doing? How do I better use my time and my talents? why such frivolous pursuits?
 20190607 Idea: A book printed in an ink that acts as a carbon sink -- the book's text only shows up gradually; it has to absorb the carbon to become black!!??
-20190607 Why designer's do not open source: too many options (what distro to pick???); too confusing of options (why does this only do A I need A+B do I really need more than one application for that? why doesn't this work the way I expect?); bad UI -- there is the "if something looks better I'm more will ing to think it works better even if that isn't true" problem; more tk
-
+20190607 Why designer's do not open source: too many options (what distro to pick???); too confusing of options (why does this only do A I need A+B do I really need more than one application for that? why doesn't this work the way I expect?); bad UI -- there is the "if something looks better I'm more will ing to think it works better even if that isn't true" problem; more tk.
+20190608 The job of "politician" isn't to be excited to be a politician – it's to care about something & choose to use your time to do something about those things you care about; just like any job; you shouldn't just be excited to produce design as a designer either… how does "designing" or being a "designer" allow you to further what you care about????!!!!!
+20190609 WDDOP: Cognitive bias: this doesn't work how I expect; it must be bad; forgetting that they've spent years or decades using a specific way of making/thinking & now trying something new is hard…
+20191010 Seriously what am I doing to reverse climate change.
