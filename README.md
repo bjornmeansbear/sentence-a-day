@@ -212,3 +212,4 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190608 The job of "politician" isn't to be excited to be a politician – it's to care about something & choose to use your time to do something about those things you care about; just like any job; you shouldn't just be excited to produce design as a designer either… how does "designing" or being a "designer" allow you to further what you care about????!!!!!
 20190609 WDDOP: Cognitive bias: this doesn't work how I expect; it must be bad; forgetting that they've spent years or decades using a specific way of making/thinking & now trying something new is hard…
 20191010 Seriously what am I doing to reverse climate change.
+20191011 How am I using design; not just being a graphic designer. Not applying technical skills; but applying some concetual ability to whatever "problem" comes up?
