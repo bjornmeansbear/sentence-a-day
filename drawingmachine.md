@@ -1,3 +1,11 @@
+# PiTop + Axidraw = Libre Drawing Machine
+
+```
+Notes:
+line numbers: shift + alt + 3
+line wrap: esc + $
+```
+
 As a graphic designer and college educator (I am a Graphic Designer by trade, and am a Graphic Design Professor at the [Maryland Institute College of Art]
 (http://www.mica.edu) ), I am always looking for more ways to produce visual design, as well as more ways to show students alternatives to the status quo.
  I have been exploring lower cost and less fussy tools for my own design practice as well as more flexible and customizable tools for my classrooms. Basic
