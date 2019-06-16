@@ -1,4 +1,10 @@
-git@github.com:bjornmeansbear/sentence-a-day.git# A Sentence A Day (SAD)
+# A Sentence-A-Day (SAD)
+
+```
+Notes:
+line numbers: shift + alt + 3
+line wrap: esc + $
+```
 
 Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
 
