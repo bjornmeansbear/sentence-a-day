@@ -1,4 +1,4 @@
-# A Sentence A Day (SAD)
+git@github.com:bjornmeansbear/sentence-a-day.git# A Sentence A Day (SAD)
 
 Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
 
@@ -215,3 +215,7 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190611 How am I using design; not just being a graphic designer. Not applying technical skills; but applying some concetual ability to whatever "problem" comes up?
 20190612 Designer as concerned citizen; how am I using "designing" in all my actions, not just doing graphic design as my job?
 20190613 Be better at action. Be better at deceminating information. 
+20190614 be better at writing. Be better at thinking. be better at meditating.
+20190615 be better at ignoring the bullshit. be better at not caring what others think or do. be better at doin what you think and desire and believe to be right.
+20190616 how does using this new computer make my designing better? how does it make it purer? is it more sustainable if no one else (well, none of my other design colleagues), can figure out how to use my computer? (Manjaro + i3 is pretty rad, and install was easy, but its not a "normal computer" experience anymore).
+
