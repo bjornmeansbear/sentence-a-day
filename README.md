@@ -8,6 +8,8 @@ line wrap: esc + $
 
 Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
 
+License: The text in this document is licensed with the creative commons by attribution share-alike. You can use this text for whatever you want as long as you cite where it came from, here or from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; create more and better and evolved culture!
+
 20190101 How to move towards a more sustainable graphic design practice?
 20190102 My GNU/Linux experiments are one such effort.
 20190103 Reusing old design ideas another.
@@ -224,4 +226,7 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190614 be better at writing. Be better at thinking. be better at meditating.
 20190615 be better at ignoring the bullshit. be better at not caring what others think or do. be better at doin what you think and desire and believe to be right.
 20190616 how does using this new computer make my designing better? how does it make it purer? is it more sustainable if no one else (well, none of my other design colleagues), can figure out how to use my computer? (Manjaro + i3 is pretty rad, and install was easy, but its not a "normal computer" experience anymore).
-
+20190617 Do the suburbs need to exist? is that a design solution to a problem that we really still have? was it ever actually a design solution? or just a design to sell land and houses and cars?
+20190618 For real, why do designers _not_ open source??? so far there are plenty of benefits; most of the cons are because other colleagues don't work this way... and some superficial stuff based on if the utility of a tool is "good" or not.
+20190618 Why is _Ways of Seeing_ on my mind again? What ways of seeing climate change might be useful to think about? what contexts and reimaginings are useful to aid understandin? aid action!?
+20190619 does using libre software do anything about conserving carbon or reducing impacts of climate change? should I just be a farmer? a carbon capture farmer? Permacapture. Restorative "design" by way of doing everything else other than designing? So I am using and reusing old computers, but I still have a fuck ton of them -- and I also have a ton of new mini computers -- so what the hell am I going to do with all of them? how do I get othre designers to not get new stuff too? how do we move away from all this shit? I am writing this on a computer. I am using github to make it easily shareable and accessible. That means its on many more computers. Its shared -- but is anyone using it for anything?
