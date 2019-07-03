@@ -231,3 +231,17 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190618 Why is _Ways of Seeing_ on my mind again? What ways of seeing climate change might be useful to think about? what contexts and reimaginings are useful to aid understandin? aid action!?
 20190619 does using libre software do anything about conserving carbon or reducing impacts of climate change? should I just be a farmer? a carbon capture farmer? Permacapture. Restorative "design" by way of doing everything else other than designing? So I am using and reusing old computers, but I still have a fuck ton of them -- and I also have a ton of new mini computers -- so what the hell am I going to do with all of them? how do I get othre designers to not get new stuff too? how do we move away from all this shit? I am writing this on a computer. I am using github to make it easily shareable and accessible. That means its on many more computers. Its shared -- but is anyone using it for anything?
 20190620 What good did I do today? how do we ask ourselves that everyday and have good answers? The free software foundation bulletin came today; that's a cool thing. Interesting stories. could use some design love. In what style does one design free as in freedom print items? 
+20190621 How have I spaced so badly? why is my mind suddenly blank?
+20190622 I'm torn between designing; designerlying; and just getting back to life: farming? growing? constructing? designing becomes the background rather than foreground?
+20190623 Where in all of this is my planning? where are my cool projects? where is my relaxation?
+20190624 how did I get so far behind.
+20190625 OMG I have to work with Patricia Johanson on my crazy water front harbor wetland idea!
+20190626 How to subversively make all of my gd projects about climate change? So something about climate change?
+20190627 Is lecturing about open source stuff also about climate change? I mean, can I make talking about open source also a talk about climate change? or fixing climate change/minimizing? what!?
+20190628 how does one just up and start politicking??? is that it, you just do it? do I have to become a politician or a lobbyist or a government official to affect/cause/envoke change!?
+20190629 what am I going to do? at the same time it appears that shit is fucked AND that shit is hopeful! how do I help with the hopeful stuff before the fucked stuff becomes permenant!?
+20190630 More action less goofing off. No streaming. No alcohol. No meat. No flying. No new clothes? What do we say yes to though?
+
+20190701 I've made some cool connections lately; have some cool ideas. How to turn them into action and new projects? where does making cargo bikes and plastic recyclling and fabricating machinery fit into my design practice? how do I collaborate with people in SF, Utah, Champaign, New york, Paris, Richmond, etc. in a low energy and high impact way?
+20190702 Power my practice on solar. How? what do I need to do? is sleeping more a good option for saving power? can I turn off the internet at specific times of day? how do we all just generally use less; waste less; be more smart and responsible. Why are everyone's wifi routers on all day and all night when we mostly aren't even in our house or using them????????
+20190703 I must abandon my current projects. Only do new climate change solving projects (CC in some way; it could be ciruclar economy; passive house; parks and rec; water quality; whatever...)
