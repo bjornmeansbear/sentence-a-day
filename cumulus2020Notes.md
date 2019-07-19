@@ -40,4 +40,4 @@ What about grad students???
 
 How big do we want to make this? 
 
-Cumulus is a great org that supports faculty and students; but if its our first try; is it too much too fast/soon???
+Cumulus is a great org that supports faculty and students; but if its our first try; is it too much too fast/soon???`
