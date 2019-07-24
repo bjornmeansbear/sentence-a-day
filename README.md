@@ -264,3 +264,5 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190720 How are we on doing something? what can design do for a heat wave? Sustainabilitist-scape instead of artscape?
 20190721 How do you become the best at something? is it as simple as just ignoring every distraction and practicing all the time? where does the time for reasarch and development come in? how do you narrow your focus without limiting possibilities?
 20190722 How are permacultural praactices/ideas useful in a graphic design context metaphorically and literally???
+20190723 So, there is an opportunity to help invent a plan for this unused area. How to proceed? is a drawing enough to get started? take some photos? make some drawings? Get started with this pepsi plant idea and then the harbor idea?
+20190724 How do I get access to rough floor plans of all the rec centers? what about all the park outlines at scale to each other? Is graham a good person to ask about that? 
