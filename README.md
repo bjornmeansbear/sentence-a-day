@@ -266,3 +266,4 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190722 How are permacultural praactices/ideas useful in a graphic design context metaphorically and literally???
 20190723 So, there is an opportunity to help invent a plan for this unused area. How to proceed? is a drawing enough to get started? take some photos? make some drawings? Get started with this pepsi plant idea and then the harbor idea?
 20190724 How do I get access to rough floor plans of all the rec centers? what about all the park outlines at scale to each other? Is graham a good person to ask about that? 
+20190725 okay, again I have been presented with the fact that action is important. connection is important. being out in the world doing is important. stop thinking and goofing off so much and do. even if its just "fix the house" or "sew that pant leg" that is better than theorizing a million other potential better things...
