@@ -292,4 +292,31 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190808 is being a hermit no longer possible? 
 20190809 sustainable hermitage
 20190810 hobos, hermits, hedgehogs. Good band name? album? whatevs.
-20190811 
+20190811 what is a designer to do when they have hit their threshold of busy-ness and tired-ness?
+20190812 one can tell by this months sentences that my energy is being used elsewhere
+20190813 I sure did drive a lot this month. should I offset that?
+20190814 Its been a week, but the eric carle museum is sticking with me. All that hands on creation. all those mockups. such a cool process to see documented.
+20190815 how do our processes lead us to specific styles?
+20190816 is that important? style and process and idea all tied up together?
+20190817 Maintenance is underappreciated. It is hard. And necessary
+20190818 Doing maintenance on my own house is making this painfully clear.
+20190819 Is maintenance a principle of sustainability? of sustainable design? is that a new paradigm for designing? Design for maintenance. What does maintenance mean in graphic designing?
+20190820 Maintenance for cars, maintenance for houses, maintenance for websites, maintenance for logos? Does it just not work that way? what does that even mean anyway -- you can repaint a house, fix a few trim boards, but keep it mainly the same house -- is that a sort of evolutionary logo design process? 
+20190821 so. I guess the way to start would be what would maintenance mean in my own design practice? do I already do that in some way shape or form? The magazines I have designed for a while, is it maintenance to slowly evolve their design? is it maintenance to fix and fine tune the paragraph styles, etc. over time? 
+20190822 maybe these are just bad metaphors.
+20190823 what would my time be better spent on.
+20190824 I tried to define ethics and sustainability... do I even get what these things mean?
+20190825 should I just be a farmer? become a professor somewhere more rural and then have a carbon sink permaculture property? am I useful in this time and space the way I choose to act and interact?
+20190826 What would allow me to do more? get rid our tv? cancel all our subscriptions? those things have climate impact? and do they have time and distraction impact too?
+20190826 still trying to keep up with this. but I'm sort of feeling out of ideas and inspiration.
+20190827 Am I done with designing is that the problem? am I out of energy; just too tired? 
+20190828 It is really a quandary. I realize that design is a requirement for our society. However, we don't tend to use it in a purely need driven way. So how could we be fixing actual problems of climate, inequality, etc. as opposed to techno-fantasy?
+20190829 Does that turn me back on? maybe I am also feeling a little out of the loop in that I don't really design much anymore? I jot down notes to myself; theorize poorly; occasionally lecture; do some crap projects; but its all very little and not that good. I've spent so much time trying out new computer things and getting programs halfway working; I haven't been doing actual work.
+20190830 Is that the answer? get back to work? get back to work on what -- I can pick back up the conversation with the park peeps? what else? does it matter though; maybe that's the other thing; so what how can I still be a force for good just by being a body out in the world? does it make me less good at conversation with students if I'm not making design as perhaps it is stereotyped?
+20190831 the school term has started. yet another way to be pulled in too many directions. and I am sick. and my dad is here. ugh.
+
+## September
+20190901 For real; what work matters to me; what would make me excited to be a "communication designer" or what would make me excited and proud to be "graphic designing"?
+20190902 Is it who it would be for? is it what it would look like? what about how it was made or what it was made from? would it be that the form and content and context all correctly align in a perfect christopher alexander style synthesis?
+20190903 For instance; if by just doing mundane designing I can help a bunch of parks get funded; is that sustainable?
+20190904 If by just doing mundane designing I can get the inner harbor restored to a functioning wetland is that sustainable? Or is it just that I want to quit my other things and am too much of a chicken attached to his own status quo to do it???
