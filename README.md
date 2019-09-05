@@ -8,8 +8,9 @@ line wrap: esc + $
 
 Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
 
-License: The text in this document is licensed with the creative commons by attribution share-alike. You can use this text for whatever you want as long as you cite where it came from, here or from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; create more and better and evolved culture!
+License: The text in this document is licensed with the creative commons by attribution share-alike. You can use this text for whatever you want as long as you cite where it came from, here or from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; create more and better and freer and evolved culture!
 
+## January
 20190101 How to move towards a more sustainable graphic design practice?
 20190102 My GNU/Linux experiments are one such effort.
 20190103 Reusing old design ideas another.
@@ -44,6 +45,7 @@ License: The text in this document is licensed with the creative commons by attr
 20190130 Does "Switch to libre tools" count as a process?
 20190131 Do you have to change your computer, your operating system, your software; or are there just free/libre
 
+## February
 20190201 Sustainable Graphic Design is a mindset, not necessarily a checklist of "the right" materials -- now, it can't be the wrong materials either, but it's not just the right materials...
 20190202 If you have the right mindset, but still use the wrong materials, does it matter?
 20190203 If one uses better materials, but for the status quo aims, does it matter?
@@ -77,6 +79,7 @@ License: The text in this document is licensed with the creative commons by attr
 20190227 Define sustainabilitist ethics.
 20190228 Machine learning neural network layout instructions robot. How to come up with this? how to train? what is it good for? does it only take in/out put instructions? are they just text? any visuals at all? do humans try to interpret the instructions themselves literally perhaps?
 
+## March
 20190301 So, if a robot can help write; can a robot help design?
 20190302 I don't want to have a robot replace me; replace us -- I want a robot to help me reuse old ideas; resurface past options; find interesting combinations of things I wouldn't have thought of or tried. All from my own existing detritus. How to train a machine on all my existing output to help create new output that takes its source material as the old? Sort of a conceptual, material reuse project?
 20190303 I have so much stuff; so many public domain and otherwise images, typefaces, drawings, layouts, whatever, already created; how can I put them to use on the enxt stuff I do? how can I get into the making things look good part and speed up the basics? well, the goal isn't even to speed up the rest it is to help with creative and intellectual burnout.
@@ -115,6 +118,7 @@ License: The text in this document is licensed with the creative commons by attr
 20190330 Is any design good? Is any design meantgit pul for commercial consumption good?
 20190331 Why do I design? Maybe that is a good question to focus on?
 
+## April
 20190401 New month. New thoughts.
 20190402 Start to explain the reduce/reuse/recycle exercises from Sustainable graphic design: why was it useful? what is it good for? how do those things help with design processes generally?
 20190402 Time to get writing more than just a sentence a day. Keep this going; but get some of these other thoughts down into their own essays too! f tv watching. just write! and sleep!
@@ -150,6 +154,7 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190429 What are we doing? how do we help each other?
 20190430 Is trying to write every single day in this fast way smart or useful? what have I captured that is worth it?
 
+## May
 20190501 I have 145 lines of stops and starts.
 20190502 Form is king / no! content is king / No! CONTEXT IS KING! No! Queen? No! Benevolent dictator! Yes! Context is the benevolent dictator of a project!?
 20190503 How do you teach that? what is the history lesson that readies one for that? how is context supreme and let to be freed and learned about???
@@ -202,6 +207,7 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190530 Life affirming design. restorative design. sustainable design. entropic design. adaptable design. designing as flourishing. 
 20190531 I do like this life-affirming design thing. How do I get more into that? or rather how do I frame any and all projects moving forward from that vantage?
 
+## June
 20190601 Month 6. Woah. Is this life affirming?
 20190602 Does it matter what GNU/Linux distro I install? Should I focus on maximum Libre-ness? Usability? designerly-ness?
 20190603 Does it matter what laptop I have? is there something useful about having a slightly out of date, refurbished thinkpad? Should I try to use my raspberry pis more? Or why not just force my MacBookAirs into service? Is focusing on Maximum-Libre-ness the important part? I guess being able to have only linux installed will be fun/useful on the thinkpad...
@@ -242,6 +248,7 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190629 what am I going to do? at the same time it appears that shit is fucked AND that shit is hopeful! how do I help with the hopeful stuff before the fucked stuff becomes permenant!?
 20190630 More action less goofing off. No streaming. No alcohol. No meat. No flying. No new clothes? What do we say yes to though?
 
+## July
 20190701 I've made some cool connections lately; have some cool ideas. How to turn them into action and new projects? where does making cargo bikes and plastic recyclling and fabricating machinery fit into my design practice? how do I collaborate with people in SF, Utah, Champaign, New york, Paris, Richmond, etc. in a low energy and high impact way?
 20190702 Power my practice on solar. How? what do I need to do? is sleeping more a good option for saving power? can I turn off the internet at specific times of day? how do we all just generally use less; waste less; be more smart and responsible. Why are everyone's wifi routers on all day and all night when we mostly aren't even in our house or using them????????
 20190703 I must abandon my current projects. Only do new climate change solving projects (CC in some way; it could be ciruclar economy; passive house; parks and rec; water quality; whatever...)
@@ -269,3 +276,20 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190725 okay, again I have been presented with the fact that action is important. connection is important. being out in the world doing is important. stop thinking and goofing off so much and do. even if its just "fix the house" or "sew that pant leg" that is better than theorizing a million other potential better things...
 20190726 Is graphic designing that important? is liberating the design workflow that important? if we were to say, be spending money on FLOS instead of proprietary; does it make a difference? what would we make? are there software tools that make it easier to solve "real" problem? "appropriate" problems? How to create appropriate technological technology for digital designing and computer based workflows???
 20190727 So much to do. I finally have a computer working closer to how I need/want -- but is it too extreme? is it sustainable to have spent all this time and effort? what have I learned? what have I done? who am I going to convince? who will I convert? is that the point? I don't actually make/design anything? how to get back to that!?
+20190728 is doing this shite house maintenance actually "sustainable" -- what am I saving other than cheapess!?
+20190729 strange thoughts. not enough time. how o get more mindful for real; how might it help me be more of an activist?
+20190730 great conversation today with Marc (last name!?) -- more proof that I need to figre out how to really do more! act more! activise more!
+20190731 I am out of ideas.
+
+## August
+20190801 I still don't know what sustainable design looks like.
+20190802 does that thread still matter? is that still worth picking at?
+20190803 should I instead be asking what does sustainable design act like? feel like? how does sustainable design sustain its goals out in the world?
+20190804 Okay, well then, an aesthetic CAN do that duty of ideology carrying.
+20190805 why do people eat lobster?
+20190806 How have things become so complex? things are complex in ways that no single person can do anything about/with anymore.
+20190807 what does that mean for our future?
+20190808 is being a hermit no longer possible? 
+20190809 sustainable hermitage
+20190810 hobos, hermits, hedgehogs. Good band name? album? whatevs.
+20190811 
