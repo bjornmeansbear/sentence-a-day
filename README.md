@@ -330,3 +330,6 @@ License: The text in this document is licensed with the creative commons by attr
 20190914 Deiter Rams. What a idealist. He's still living his principles? Sort of, I mean he drives a porsche and doesn't seem to be trying to make more socially sustainable; anti-climate change tools... but he does still fully embody his 10 principles... 
 20190915 What is the point of design? what is good design? what am I doing? 
 20190916 What is the point of sustainability? what is sustainable design? what am I doing?
+20190917 Am I a sustainable designer? or am I a sustainable person that happens to design things? Does the designing follow one's personhood?
+20190918 Oh my god. How does time move so fluidly and quickly and mysteriously? where does it go when it is gone? what kind of "resource" is it? can more be extracted somehow? is it really limited? how does one learn to be a better steward of time!!??
+20190919 There is so much intellectual and digital waste in my life and job(s). It is incredibly frustrating. How do I start culling that? minimizing these other waste streams?
