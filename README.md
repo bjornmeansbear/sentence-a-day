@@ -332,3 +332,20 @@ this20190419 There are a lot of ways perhaps that designing isn't the outcome of
 20190914 Deiter Rams. What a idealist. He's still living his principles? Sort of, I mean he drives a porsche and doesn't seem to be trying to make more socially sustainable; anti-climate change tools... but he does still fully embody his 10 principles... 
 20190915 What is the point of design? what is good design? what am I doing?
 20190916 What is the point of sustainability? what is sustainable design? what am I doing?
+20190917 we cannot only achieve net-zero greehouse gas emissions. we must rapidly re-sequester the carbon, etc. that we have unearthed over the last 250 years. 
+20190918 Carbon Sinks as design prompts?
+20190919 we must work in tandem with natural systems and dynamics
+20190920 we have reached the ends of the earth. literally. we are out of earth to use.
+20190921 drawdown is the point at which CO2 (and other GHGs) peak and begin to decline on a year-to-year basis. We should pick this directive as a main constraint/goal/prompt for all cultural production.
+20190922 Global warming and climate change are the ultimate creative/artistic prompt. Or should it be eco/social justice?
+20190923 how to visualize a gigaton of carbon dioxide?
+20190924 adaptation? speculation? resiliance? a blueprint for what to do next?
+20190925 apply subversive acts...........
+20190926 artists as activists. designtivist.
+20190927 do we all start making our own biochar to do sketches with?
+20190928 what the fuck was that week. crazy times on the train and on a boat. where did it go so quickly? there is so much more to do. it never ends.
+20190929 so, kai's got a set amount of battery... they manage to make do... can I start working towards that ideal for our house? stay grid connected just incase, but the goal to be offgrid? self energy producing? force conservation? how can we start using less energy every year year on year?
+20190930 I would really like to be working and thinking more about these things... class is feeling a little bleck. why am I doing any of this.
+
+## October!
+20191001 holy shit, what a great meeting with SS today. so many ideas for what could be done; what we could be doing. Too bad they're seniors? who is gonna keep/pass this torch? how to instituationalize? how to make a "personhood" to pass on the energy and process and whatever?
