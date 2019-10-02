@@ -330,9 +330,12 @@ License: The text in this document is licensed with the creative commons by attr
 20190914 Deiter Rams. What a idealist. He's still living his principles? Sort of, I mean he drives a porsche and doesn't seem to be trying to make more socially sustainable; anti-climate change tools... but he does still fully embody his 10 principles... 
 20190915 What is the point of design? what is good design? what am I doing? 
 20190916 What is the point of sustainability? what is sustainable design? what am I doing?
+20190917 Am I a sustainable designer? or am I a sustainable person that happens to design things? Does the designing follow one's personhood?
 20190917 we cannot only achieve net-zero greehouse gas emissions. we must rapidly re-sequester the carbon, etc. that we have unearthed over the last 250 years. 
 20190918 Carbon Sinks as design prompts?
+20190918 Oh my god. How does time move so fluidly and quickly and mysteriously? where does it go when it is gone? what kind of "resource" is it? can more be extracted somehow? is it really limited? how does one learn to be a better steward of time!!??
 20190919 we must work in tandem with natural systems and dynamics
+20190919 There is so much intellectual and digital waste in my life and job(s). It is incredibly frustrating. How do I start culling that? minimizing these other waste streams?
 20190920 we have reached the ends of the earth. literally. we are out of earth to use.
 20190921 drawdown is the point at which CO2 (and other GHGs) peak and begin to decline on a year-to-year basis. We should pick this directive as a main constraint/goal/prompt for all cultural production.
 20190922 Global warming and climate change are the ultimate creative/artistic prompt. Or should it be eco/social justice?
@@ -347,6 +350,3 @@ License: The text in this document is licensed with the creative commons by attr
 
 ## October!
 20191001 holy shit, what a great meeting with SS today. so many ideas for what could be done; what we could be doing. Too bad they're seniors? who is gonna keep/pass this torch? how to instituationalize? how to make a "personhood" to pass on the energy and process and whatever?
-20190917 Am I a sustainable designer? or am I a sustainable person that happens to design things? Does the designing follow one's personhood?
-20190918 Oh my god. How does time move so fluidly and quickly and mysteriously? where does it go when it is gone? what kind of "resource" is it? can more be extracted somehow? is it really limited? how does one learn to be a better steward of time!!??
-20190919 There is so much intellectual and digital waste in my life and job(s). It is incredibly frustrating. How do I start culling that? minimizing these other waste streams?
