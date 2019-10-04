@@ -350,3 +350,6 @@ License: The text in this document is licensed with the creative commons by attr
 
 ## October!
 20191001 holy shit, what a great meeting with SS today. so many ideas for what could be done; what we could be doing. Too bad they're seniors? who is gonna keep/pass this torch? how to instituationalize? how to make a "personhood" to pass on the energy and process and whatever?
+20191002 What am I going to do about this stuff. How can I act on my ideologies? what is wrong with me -- why am I so unable to focus and work!!!
+20191003 Okay, so if I care about climate change -- how do I make my life carbon neutral by 2025? how does my life start sequestering carbon imediately? what do we need to do? who do I need to collaborate with more!?
+20191004 Chris, Sarah, Mark, etc. -- that's some connection, who else can I meet with and work with more!? What else do I need to know!? its easy to find out and logic out the natural/systems stuff; how do I get better at the people, social, antropology things!?
