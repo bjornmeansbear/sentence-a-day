@@ -8,7 +8,7 @@ line wrap: esc + $
 
 Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
 
-License: The text in this document is licensed with the creative commons by attribution share-alike. You can use this text for whatever you want as long as you cite where it came from, here or from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; let us create a freer and better and evolving culture!
+License: The text in this document is licensed with the creative commons by attribution share-alike. You can use this text for whatever you want as long as you cite where it came from, like linking back to this repo or merely stating that it came from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; let us create a freer and better and evolving culture!
 
 ## January
 20190101 How to move towards a more sustainable graphic design practice?  
@@ -93,7 +93,7 @@ License: The text in this document is licensed with the creative commons by attr
 20190310 How do I actually do all that? I know I like to say how the sustainabilitist principles project exemplifies "sustainable design does not exist" since the objects came together to be a sculpture for an exhibition and then went back to being the objects afterward -- but how does that work for other kinds of projects? can I work with clients and still pitch that kind of solution?  
 20190311 Why worry about this; is just doing defaults suffice?  
 20190312 Except I do care if things are "good" or not ... so just defaulting it up without any know how isn't a panacea.  
-20190313 But I do acknowledge that mostly what is good is what is familiar.  
+20190313 But I do acknowledge that mostly what is good is what is familiar.
 20190314 Whew. So I have some cyclical thinking. You need to make a lot; look at a lot; think a lot to really understand goodness. You also need to have varying levels of goodness and badness around you to really comprehend good vs bad. You have to have tried a lot; experienced a lot; been open to researching many things; many ways; etc.  
 20190315 How does one really then make good design? what is definitively good? I think there are good and bad behaviors; how does that translate to making of visuals?  
 20190315 Maybe I shouldn't feel so weird being declarative about things...  
@@ -295,7 +295,7 @@ License: The text in this document is licensed with the creative commons by attr
 20190813 I sure did drive a lot this month. should I offset that?  
 20190814 Its been a week, but the eric carle museum is sticking with me. All that hands on creation. all those mockups. such a cool process to see documented.  
 20190815 how do our processes lead us to specific styles?  
-20190816 is that important? style and process and idea all tied up together?  
+20190816 is that important? style and process and idea all tied up together?
 20190817 Maintenance is underappreciated. It is hard. And necessary  
 20190818 Doing maintenance on my own house is making this painfully clear.  
 20190819 Is maintenance a principle of sustainability? of sustainable design? is that a new paradigm for designing? Design for maintenance. What does maintenance mean in graphic designing?  
@@ -331,5 +331,32 @@ License: The text in this document is licensed with the creative commons by attr
 20190915 What is the point of design? what is good design? what am I doing? 
 20190916 What is the point of sustainability? what is sustainable design? what am I doing?
 20190917 Am I a sustainable designer? or am I a sustainable person that happens to design things? Does the designing follow one's personhood?
+20190917 we cannot only achieve net-zero greehouse gas emissions. we must rapidly re-sequester the carbon, etc. that we have unearthed over the last 250 years. 
+20190918 Carbon Sinks as design prompts?
 20190918 Oh my god. How does time move so fluidly and quickly and mysteriously? where does it go when it is gone? what kind of "resource" is it? can more be extracted somehow? is it really limited? how does one learn to be a better steward of time!!??
+20190919 we must work in tandem with natural systems and dynamics
 20190919 There is so much intellectual and digital waste in my life and job(s). It is incredibly frustrating. How do I start culling that? minimizing these other waste streams?
+20190920 we have reached the ends of the earth. literally. we are out of earth to use.
+20190921 drawdown is the point at which CO2 (and other GHGs) peak and begin to decline on a year-to-year basis. We should pick this directive as a main constraint/goal/prompt for all cultural production.
+20190922 Global warming and climate change are the ultimate creative/artistic prompt. Or should it be eco/social justice?
+20190923 how to visualize a gigaton of carbon dioxide?
+20190924 adaptation? speculation? resiliance? a blueprint for what to do next?
+20190925 apply subversive acts...........
+20190926 artists as activists. designtivist.
+20190927 do we all start making our own biochar to do sketches with?
+20190928 what the fuck was that week. crazy times on the train and on a boat. where did it go so quickly? there is so much more to do. it never ends.
+20190929 so, kai's got a set amount of battery... they manage to make do... can I start working towards that ideal for our house? stay grid connected just incase, but the goal to be offgrid? self energy producing? force conservation? how can we start using less energy every year year on year?
+20190930 I would really like to be working and thinking more about these things... class is feeling a little bleck. why am I doing any of this.
+
+## October!
+20191001 holy shit, what a great meeting with SS today. so many ideas for what could be done; what we could be doing. Too bad they're seniors? who is gonna keep/pass this torch? how to instituationalize? how to make a "personhood" to pass on the energy and process and whatever?
+20191002 What am I going to do about this stuff. How can I act on my ideologies? what is wrong with me -- why am I so unable to focus and work!!!
+20191003 Okay, so if I care about climate change -- how do I make my life carbon neutral by 2025? how does my life start sequestering carbon imediately? what do we need to do? who do I need to collaborate with more!?
+20191004 Chris, Sarah, Mark, Mike, Valeska, etc. -- that's some connections, who else can I meet with and work with more!? What else do I need to know!? its easy to find out and logic out the natural/systems stuff; how do I get better at the people, social, antropology things!?
+20191005 Science? Materials? What do we need to know? why do materials matter? why does matter matter? how do you really research this stuff... How do I act, not just talk and think.
+20191006 The Bauhaus; Ulm School; Blueprint for Counter Education; McLuhan; Teaching as a Subversive Activity; how to put all the ideals and intentions of these things together in new exciting ways? but better connect with science and anthropology and equity and justice (social and environmental) ... The ultimate aim of design is the restoration of Spaceship Earth. Farmers, physicists, naturalists, sociologists, economists, etc. all overlapping with designers to create a new future (new futures? -- think of the adjacent possibles!)
+20191007 We do not have unlimited energy. We do not have unlimited resources. How does this change our relationship with designing? With capitalism? with our economic ideals?
+20191008 New Sustainisms. How to make sustainability; reversing climate change; the focus of designing. No solution to reversing climate change can exclude social justice. Technology will not (alone) save us. We need a smarter, more holistic approach. We must abandon our dead concepts. We must look to a new future. All design must aspire to restore spaceship earth. 
+20191009 is doing this at the cost of not doing other things (I mean writing some sentence or two or random thought down) as sustainable venture? should I just be sleeping instead. Maybe this is fine; but what about all the other moronic little things I accidentally get up to on a daily basis. Stop going to the library; stop scheduling so many meetups; stop getting so distracted!!!
+20191010 If all design must restore spaceship earth (or maybe that's a bad term as it implies TECHNOLOGY and CONTROL and MANMADENESS not NATURENESS?) how do I continue to justify any of the traditional projects and outcomes I produce? I aid in producing? I ask students to produce? WHAT IS YOUR FAVORITE COLOR!? GREEN! wait BLUE! (what's the SGD equivalent riff on this monty python joke?!) ... 
+20191011 Less but better. how to achieve this in my daily intereactions and thinking and creating of my own self-initiated works, etc. What about teaching, what is less but better teaching? what is less but better lecturing!? What is an acceptable minimal amount of class utilization for maximum outputs!? meaning I guess maximum learning on each students part -- and that might be different kinds of learning done by all the students (differently!?) shit. I should work on my PLO. What's less but better mean as a learning outcome!? 
