@@ -10,6 +10,7 @@ Reading List for Sustainable Graphic Design Spring 2020
 - Bruce Mau / Massive change
 - Flourishing???
 - low tech/ solar website / the french guy who is harder core too!?
+- Earth centered design?`
 - ???
 
 ## Watching
@@ -30,6 +31,16 @@ Reading List for Sustainable Graphic Design Spring 2020
 - Peter Griffith @ NASA?
 - ???
 - Try to get every student to interview a person!?? or do we come up with a shared array of questions and then I can try to get answers if the students can't?
+- how to connect with MICA print publications/communications & our MICA print rep to talk about how the school can do more?
+
+## sort
+ here are some more links!
+- http://gauthierroussilhe.com/en/posts/convert-low-tech
+- https://we-make-money-not-art.com/can-you-design-a-website-on-a-very-limited-energy-budget-an-interview-with-gauthier-roussilhe/
+- https://soundcloud.com/user-56712817/deep-adaptation
+- https://youtu.be/0rwKTqvi5TU
+- https://www.thisishcd.com/episodes/32-john-thackara-designing-for-all-of-life-not-just-human-life/
+- https://medium.com/@TAMSINA/earth-centered-design-manifesto-beta-451e657697ed
 
 (how much of the last couple of years to carry over / and should I just automatically not repeat stuff that might have been used in the CCFAAD class in case there are duplicate students!??)
 
