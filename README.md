@@ -370,3 +370,4 @@ License: The text in this document is licensed with the creative commons by attr
 20191018 oh god. so, the biggest impediment to all these ideas -- my own lameness. I'm so good at putting off things and finding silly ways to procrastenate (like this project for example) instead of just doing a thing. Stop watching TV stop reading everything that comes across your desk/computer screen stop social media. just do the things you say are important. how to do them and still hang out with your kid and wife though? how to not be a frustrated jerk. how to spend less money so you cna do less work and do more action!?
 20191019 How is it the end of the month!? where did all this time go.
 20191020 What's the sustainability version of david reinfurts "new" design program book!?
+20191021 time keeps slipping into the future. this is not sustainable. or is it? are my systems just the wrong systems???
