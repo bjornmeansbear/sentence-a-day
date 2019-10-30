@@ -370,4 +370,13 @@ License: The text in this document is licensed with the creative commons by attr
 20191018 oh god. so, the biggest impediment to all these ideas -- my own lameness. I'm so good at putting off things and finding silly ways to procrastenate (like this project for example) instead of just doing a thing. Stop watching TV stop reading everything that comes across your desk/computer screen stop social media. just do the things you say are important. how to do them and still hang out with your kid and wife though? how to not be a frustrated jerk. how to spend less money so you cna do less work and do more action!?
 20191019 How is it the end of the month!? where did all this time go.
 20191020 What's the sustainability version of david reinfurts "new" design program book!?
-20191021 time keeps slipping into the future. this is not sustainable. or is it? are my systems just the wrong systems???
+20191021 time keeps slipping into the future. this is not sustainable. or is it? are my systems just the wrong systems??? do I just goof off too much? why do I hate steve miller so much!?
+20191022 What am I doing to make a difference.
+20191023 I have asked that before -- but for real; what have I done that is a real improvement in the last weeks months or years?
+20191024 How can I focus on doing something re: climate change when I can't even get just the basic day-to-day shit done that I need to?
+20191025 Saying no is sustainable.
+20191026 (doing) less but (doing it) better
+20191027 The bauhaus has a practice based model -- apprenticeship; whatever they called it/however it worked. How might we re-engage with that idea/ideal?
+20191028 Running out of year. Running out of ideas? running out of energy. my own energy is only so renewable. If I waste it on crap websites and status quo magazines am I doing what I can?
+20191029 what is left to be done?
+20191030 skiddly bop. i don't know what else to do or think about right now. empty. 
