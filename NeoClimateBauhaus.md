@@ -1,4 +1,9 @@
 ﻿# BauErden - Build Earth!
+
+```
+License: The text in this document is licensed with the creative commons by attribution share-alike. You can use this text for whatever you want as long as you cite where it came from, like linking back to this repo or merely stating that it came from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; let us create a freer and better and evolving culture! (that is also carbon negative!)
+```
+
 The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design may be created without first asking "does this need to exist?" and/or "does this help drawn down carbon from the atmosphere?" and/or "does this re-balance natural systems?"
 
 We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, etc. Our new design education must aid in this. How might a new pedagogical approach focus on the liminal; designers as connectors.
