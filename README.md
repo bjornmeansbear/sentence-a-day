@@ -380,3 +380,18 @@ License: The text in this document is licensed with the creative commons by attr
 20191028 Running out of year. Running out of ideas? running out of energy. my own energy is only so renewable. If I waste it on crap websites and status quo magazines am I doing what I can?
 20191029 what is left to be done?
 20191030 skiddly bop. i don't know what else to do or think about right now. empty. 
+20191031 halloween is a totally unsustainable holiday. f.
+
+## November!
+20191101 what in the world am I doing. What a crazy week. There is never enough time. I know I have probably said that a lot in this document but shit. Accelerate. Accelerate. How to keep up?
+20191102 Ideas for MICA!? Plant as much indian yellow grass, blue stem, etc. around the property. Keep it weeded from undesireable invasive species. Otherwise leave it alone. Sequester small amounts of carbon in mini-prairies -- what can we get to occasionally eat this grass!```
+20191103 Ideas for MICA: turn the parking lot(s) between RKK and fox (and maybe behind bunting adjacent RKK) into a rain water collection stream and mini piedmont forest!. As part of getting rid of car parking spots add more bike racks -- architectural design works on them? -- make sure we cover them. Encourage more staff/faculty to walk and ride and mass transit to school instead of drive.
+20191104 Ideas for MICA: The Cohen Plaza fountain could also be more natural -- is there a way to add a wetland feature that acts as the water filtration system for the fountain?
+20191105 Ideas for MICA: Brown center as greenhouse (turn the brown center into a green center).
+20191106 Ideas for MICA: Do something about our waste stream problem(s). How can our own waste be food for creative enterprise? how can the waste of the communities around us be food for our creative enterprise? how can we use the ideas of waste collection as new fuel for inventing new prosperity!? plastic collection and recycling on the local scale. Glass collection and recycling on the local scale. composting for everyone.
+20191107 Ideas for MICA: Solar panels on all the buildings. Design cool wind turbines too?
+20191108 What else can I do? Who can I talk to? How do I actually help draw down anything!?!?
+20191109 feck, I am so behind. How to get ahead? do I need to quit some things!? can someone just take over my shit please!?
+20191110 how else can I make some income though? I'm pretty good at burning through anything that comes in... stupid house and car and etc.
+20191111 that is a lot of ones.
+20191112 Great talks from Elaine Lopez and Dare Turner today! glad I took the time to go see them. Much to think about in using one's culture; and abusing others' ...
