@@ -1,11 +1,12 @@
-﻿# BauErden
+﻿# BauErden - Build Earth!
+The ultimate aim of design must be restoring ​harmony in the carbon cycle. No longer can we produce ​meaningless prints, tchotchkes, devices, apps, objects, and software. ​ No design may be created without first asking "does this need to exist?" and/or "does this help drawn down carbon from the atmosphere?" and/or "does this re-balance natural systems?"
 
-The ultimate aim of design must be restoring ​harmony in our carbon systems. No longer can we produce ​meaningless prints and tchotkes and devices and apps and software. ​ No design may be created without first asking "does this need to exist?" and "does this help drawn down carbon from the atmosphere?" and "does this begin to restore balance to broken natural systems?"
+We need the conscious​, cooperative effort of all artists, designers, politicians, craftspeople, scientists, farmers, etc. Our new design education must aid in this. How might a new pedagogical approach focus on the liminal; designers as connectors.
 
-We need the concious​, cooperative effort of all artists, designers, politicians, cratfspeople, scientists, farmers, etc. Our new design education must aid in this. How might a new pedagogical approach focus on the liminal; designers as connectors.
+Designers must recognize anew and learn to grasp the composite character of "climate" (climate(s) [natural, social, etc.?]? the climate? the earth? nature?) as a holistic entity AND in its separate, interconnected parts. Only then will our designing be imbued with the spirit it has lost as mere servant of capitalism.
 
-Designers must recognize anew and learn to grasp the composite character of climate (the climate? the earth? nature?) as a holistic entity AND in its separate, interconnceted parts. Only then will our designing be imbued with the spirit it has lost as mere servent of capitalism.
+Old styles and models for designing​ are not capable of producing the required new unity. New styles, new ways of working of making of seeing are required.​
 
-Old styles and models for designing​ are unable to produce the required new unity. ​
+We must merge design with the workshop, the science lab, the forest, the internet, the ocean depths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus of connection between all interests and needs. Our client is our climate. Our goals: drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
 
-We must merge design with the workshop, the science lab, the forest, the internet, the ocean deapths, the lecture hall, the meadow, the studio, and the public square. Designers must be the nexus of connection bewteen all interests and needs. Our client is our climate. Our goals, drawing down carbon, the welfare of all life, and the restoration of spaceship earth.
+Good luck.
