@@ -395,3 +395,25 @@ License: The text in this document is licensed with the creative commons by attr
 20191110 how else can I make some income though? I'm pretty good at burning through anything that comes in... stupid house and car and etc.
 20191111 that is a lot of ones.
 20191112 Great talks from Elaine Lopez and Dare Turner today! glad I took the time to go see them. Much to think about in using one's culture; and abusing others' ...
+20191113 how is my own practice appropriating things it shouldn't? what are my biases? what parts of my process integrate the wrong ideas or trends or biases?
+20191114 Who could I collaborate with to better avoid these issues in future work?
+20191115 Design when everyone designs? is that really what social design is about? what can I learn from Mike weikert and the center for social design?
+20191116 Who else to bring in? who else to collaborate with? what else to design? what is useful for designing? how does one achieve the right formal fitness?
+20191117 where did the time go.
+20191118 Ideas for MICA/baltimore: how to sponsor useful social entrepreneurship; not the neo-liberal/silicon-valley kind? (plastic manufacturing? composting?)
+20191119 i'm out of energy. mental and otherwise.
+20191120 woah. the students are really impressing me in CCFAAD -- I might be letting them down; having a harder than usual time fitting everything in!
+20191121 I'm generally inspired by and impressed by these student projects -- they do really make me want to do more; cause more good; design more change. 
+20191122 How to connect with all the people that I need to connect with? it seems like doing the work of networking and communicating and planning is the real work with all these ideas and projects.
+20191123 
+20191124 
+20191125 
+20191126 
+20191127 
+20191128 
+20191129 
+20191130 
+
+## December
+20191201 well, I missed the deadline for the AIGA thing... sorry crew.
+20191202 okay. another kiddo coming. how does that further encourage these ideas and behaviors!?
