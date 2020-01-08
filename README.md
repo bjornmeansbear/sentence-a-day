@@ -405,15 +405,46 @@ License: The text in this document is licensed with the creative commons by attr
 20191120 woah. the students are really impressing me in CCFAAD -- I might be letting them down; having a harder than usual time fitting everything in!
 20191121 I'm generally inspired by and impressed by these student projects -- they do really make me want to do more; cause more good; design more change. 
 20191122 How to connect with all the people that I need to connect with? it seems like doing the work of networking and communicating and planning is the real work with all these ideas and projects.
-20191123 
-20191124 
-20191125 
-20191126 
-20191127 
-20191128 
-20191129 
-20191130 
+20191123 that isn't the work I want to do necessarily. but its what needs to be done. ugh.
+20191124 what do I wnat to do instead?
+20191125 how do I actually get "sustainabilitis" projects?
+20191126 do I have to invent the projects?
+20191127 where to start? that bamboo lamp idea?
+20191128 hmm, maybe that is a good place: variations on bamboo lamps; utilize found materials only?
+20191129 that's not graphic design though; that's not really communication design; how to do graphic design or digital or web projects that are really sustainabilitist?
+20191130 is that not important though?is just doing anything that can help provide more signalling for design to have different/better alternatives a good choice of project? a good use of my creative energy? or should I just volunteer somewherE? just work on my house and yard? just help denzel farm or something?
 
 ## December
 20191201 well, I missed the deadline for the AIGA thing... sorry crew.
 20191202 okay. another kiddo coming. how does that further encourage these ideas and behaviors!?
+20191203 I have a new kid!?
+20191204 huh?
+20191205 what can I do, there is no time.
+20191206 okay, grandma is here, how can I still write these?
+20191207 back to that lamp idea. So its a bamboo lamp; bamboo is the main material for constructing lamp pieces. The bamboo should be found; it should be an invasive species. it should be cut long, try not to cut it more? again? how can it be reused afterward? how can it be attached/affixed to things without doing much damage to it so it can be used again!
+20191208 two long bamboo poles. one 5 gallon bucket. rocks or construction debris. painters light. A recipe for a lamp.
+20191209 three long bamboo poles. one painters light. another recipe for a lamp.
+20191210 These lamps come together from found material, easy to get materials. they then live as a lamp as needed. they then go back to their original parts or can be remade in a different way, when the lamp is no longer necessary.
+20191211 how is this part of a local and/or circular economy?
+20191212 waste = food? do these lamp ideas fit into that? design that does not exist? do they fit into that?
+20191213 I need some sleep. sorry classes and students and colleagues for missing so much the last two weeks!
+20191214 the fall term is over. anticlimatic as I was mostly gone the last two weeks!
+20191215 it has been fun taking my kiddo to things I normally don't get to do.
+20191216 Okay, it is fairly simple to see how found objects and found materials make objects and architecture makeable -- but how does this work for a website? for a poster? for a typeface? for a catalog? how can waste from one thing becomr raw material for a graphic design project? is it about making paper? making ink? does tis work with ideas somehow?
+20191217 its is fun and cathartic to get ideas out.
+20191218 what am I going to do with this whole document?
+20191219 What did I write all these things for anyway?
+20191220 should I ask someone to read this? pick out something interesting? then write an essay or have a conversation with them about it?
+20191221 that is prety cool actually. also, solstice.
+20191222 what other ideas can I add in 9 more sentences? what other gems do I have kicking around?
+20191223 what to do about climate designers? how can I make something happen there? what more time and energy can I uncover to do something to design something to change something?
+20191224 is anything I do okay? are all my actions bad? is just the fact that I am an american at this time and space the real problem?
+20191225 what other sings signaling sustainabiity can I invent? do I need to invent any mrore or do I just need to fins a better way of finding and documenting everything else already out there? exhibition? photo/image essay?
+20191226 consumerist christmas is the devil.
+20191227 I have no more room for me in my house. 
+20191228 I need to dig a pit in the crawlspace under my kitchen and put a solar hot water tank in the ground there... woah. do I need to test that soil before I start digging like a crazy person? where do I put the dirt I might excavate? if only I had the neighbors yard, we could terraform it a bit!
+20191229 pragmatic utopian. signs on substrates signalling sustainability. how to put that together? how to put it together for clients? for graphic design?
+20191230 does it mean not asking and just doing? not even telling a client or a collaborator it is what I am doing? or is it picking new projects? being overt? demanding things be done differently?
+20191231 what narratives can we design with/for instead? who else should I talk to? what else to do? this is the end? should I keep doing this? how to make something from all of this? what kinds of graphics should accompany this? does it matter?
+
+Woah. I did it. I made it all the way. There are a lot of sentences here. not all of them are sensical or useful. Some are. What is next?
