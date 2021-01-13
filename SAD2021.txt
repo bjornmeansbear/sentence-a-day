@@ -1,10 +1,11 @@
 # A Sentence-A-Day (SAD)
 
-```
-Notes:
-line numbers: shift + alt + 3
-line wrap: esc + $
-```
+_Nano Key Command Notes:_
+
+- line numbers: `shift + alt + 3`
+- line wrap: `esc + $`
+
+## What is this?
 
 Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
 
@@ -22,4 +23,5 @@ License: The text in this document is licensed with the creative commons by attr
 020210108 What do I want to sustain? What does the welfare of all life really look like? really entail? How do you actually design for this? What kind of design challenges structural inequalities and balances equity, ecology, and economy? Design that collaborates so as to create lasting, positive change in one's community?
 020210109 Open source? Sustainability? how do these fit together? What am I writing about? thinking about? how do I turn something with so many random bits and pieces that don't outwardly appear to obvious connect into a clear and hsort presentation?
 020210110 These gestures are undoubtedly utopian? how do I get back to sleeping and working coherently — how do I actually make something utopian? get back to gesturing?
-020210111
+020210111 Where are all the project ideas? where is all the time and energy to make something? Am I stuck perpetually writing and reading emails? Why am I so bad at documenting all that's been accomplished? I digress.
+020200112
