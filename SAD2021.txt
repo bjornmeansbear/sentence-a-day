@@ -1,0 +1,17 @@
+# A Sentence-A-Day (SAD)
+
+```
+Notes:
+line numbers: shift + alt + 3
+line wrap: esc + $
+```
+
+Writing sentences. Day by Day. Trying to make something. Piece by Piece. It is not actually SAD. Hopefully it will be HAPPY -- or at least HOPEFUL/HELPFUL.
+
+License: The text in this document is licensed with the creative commons by attribution share-alike. You can use this text for whatever you want as long as you cite where it came from, like linking back to this repo or merely stating that it came from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; let us create a freer and better and evolving culture!
+
+## January
+
+020210101 The year is 2021. The goal: climatizing (sustainabilitizing) all!?
+020210102 What new thoughts, what new connections must be made for this to happen?
+020210103 How do we act, how do we teach, how do we design, how do we participate in the world when everything is connected?
