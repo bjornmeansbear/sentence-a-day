@@ -34,13 +34,8 @@ License: The text in this document is licensed with the creative commons by attr
 020210119 What does a designer need to learn about the climate? about materials? about the composition of our atmosphere? about the carbon cycle? about the ecologies of our systems? social issues? ecological ones? raw weather and climate science? What!? What is important!?
 020210120 Hypocrisy. How have I changed my own practice and life to fit a more regenerative, restorative way of being?
 020210121 Precious Plastics. How do we defeat the idea of plastics as disposable; how do we make them the magic materials of the post-war!? Hm... that probably isn't the right thing... How do we defeat the idea of plastics being worthless? how might we make them precious again? why do we see any material as disposable? why don't we value every element, item, object, resource? There is only this Earth, and so we have no resupply mission; we have to treat travelling on spaceship earth like the astronauts treat being on the ISS!. Okay, so how can designers learn more about this!?
-<<<<<<< HEAD
-020210122 What messages should we be promoting? Who should I be talking to in Baltimore? What projects should be being worked on? where should energies go other than the foolish things I'm doing now!?7
-020210123 Poster. Why do we still design posters? What even is a poster? what ever happened to the poster? Is it a lost tool? 
-=======
 020210122 What messages should we be promoting? Who should I be talking to in Baltimore? What projects should be being worked on? where should energies go other than the foolish things I'm doing now!?
 020210123 Poster. Why do we still design posters? What even is a poster? what ever happened to the poster? Is it a lost tool?
->>>>>>> 6c0b98c19d775302563d67c62143329e54687d43
 020210124 Who Does This Design Exclude? How do I make this a more informed part of my work and teaching? Particularly my work!? and not just "whom" but also what -- are there ways I am exlcuding nature? excluding the climate? exlcuding nematodes? excluding glaciers? excluding granite formations? And when you ask this question, how does the answer give you real, concrete, objective criteria to bring back to the process? how does one even address some of the potential answers to this question -- who else do I need to work with? to consult?
 020210125 Uniform. 1. How should I dress to make it clear that my ideas, actions, designs, etc. all fit together correctly? Is the workers coveralls the right look? Does having a "costume" and a "character" to perform make anything meaningfully better? 2. should things be uniform in their finish? is it worth attempting this as a goal?
 020210126 Manifesto. What do I want to be known for design wise? professor wise? What is my actual process or ideology? I say it is "sustainability" -- but what am I really sustaining? Ive done a couple things, but I end up sitting in my house pondering things and thinking up projects I'll probably never get to -- what could I be doing instead?
@@ -53,3 +48,5 @@ License: The text in this document is licensed with the creative commons by attr
 ## February
 
 020210201 Another month. time keeps slipping away. What has been accomplished towards carbon drawdown goals in the last month? GM says they're going to exclusively EVs in the next 10 years, that's good. What am I doing? How to lead? How to do anything real, aything useufl? how to operate at the local level? how to be helpful? don't worry about notereity or externally recognized success. Just worry about actually doing something that benefits more than yourself......... that's part of sustainability for sure.
+
+020210203 The process is part of the final. What does this mean? How does one's process become apparent; how is it the important aspect? does it relate to other kinds of context that affect how one chooses to go about designing in the first place?
