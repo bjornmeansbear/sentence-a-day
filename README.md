@@ -20,3 +20,7 @@ This project first debuted in 2019. There is a 2019 branch that saves where thin
 Back at this after a break for 2020.
 
 The goal this time around is to actually generate some coherent directions for lectures, writing, essays, consulting ideas... turn them into something over my coming sabbatical hopefully.
+
+## June 02021
+
+020210601: Trying to get back to writing. Trying to get back to thinking. Trying to get back to clarifying. Writing down ideas and questions and clarifying statements about how sustainability, climate change, design, and life in general might fit together. The hope; well; that I generate something useful for my practice, for my family, and for these communities around me — maybe even that it can be some variety of publishable things. Here's to spaceship earth.
