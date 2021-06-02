@@ -24,3 +24,11 @@ The goal this time around is to actually generate some coherent directions for l
 ## June 02021
 
 020210601: Trying to get back to writing. Trying to get back to thinking. Trying to get back to clarifying. Writing down ideas and questions and clarifying statements about how sustainability, climate change, design, and life in general might fit together. The hope; well; that I generate something useful for my practice, for my family, and for these communities around me — maybe even that it can be some variety of publishable things. Here's to spaceship earth.
+
+The rules for 020210601 and onward?
+
+- Pick a prompt
+  - like from <https://www.are.na/kristian-bjornard/sgd-01-what-is-worth-sustaining> or <https://www.are.na/kristian-bjornard/sustainability-plo> or similar...
+- Write for at least 30 minutes.
+- Notate the current PPM of C02.
+- ?
