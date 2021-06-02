@@ -11,7 +11,7 @@ This project first debuted in 2019. There is a 2019 branch that saves where thin
 
 > **License:** The text in this document is licensed with the creative commons by attribution share-alike. You can use this text for whatever you want as long as you cite where it came from, like linking back to this repo or merely stating that it came from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; let us create a freer and better and evolving culture!
 
-## January
+## January 02020
 
 20200113 Off to a slow start. Re-reading notes on the synthesis of form yet again. what about sustainability (restorative practice?) are the right constraints/contexts to generate forms from? is every time + space thus different? are there no universals? semiotic, architectural, or otherwise?
 
