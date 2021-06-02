@@ -30,5 +30,5 @@ The rules for 020210601 and onward?
 - Pick a prompt
   - like from <https://www.are.na/kristian-bjornard/sgd-01-what-is-worth-sustaining> or <https://www.are.na/kristian-bjornard/sustainability-plo> or similar...
 - Write for at least 30 minutes.
-- Notate the current PPM of C02.
+- Notate the current PPM of C02. (<https://gml.noaa.gov/ccgg/trends/monthly.html>)
 - ?
