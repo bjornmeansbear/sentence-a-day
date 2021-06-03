@@ -107,7 +107,7 @@ TK
 
 ### 020210603 June 3, Baltimore MD
 
-- Prompt:
+- Prompt: https://www.ted.com/talks/bill_gates_innovating_to_zero
 - current CO2 ppm:
 
 TK
