@@ -32,3 +32,8 @@ The rules for 020210601 and onward?
 - Write for at least 30 minutes.
 - Notate the current PPM of C02. (<https://gml.noaa.gov/ccgg/trends/monthly.html>)
 - ?
+
+Notes for writing:
+
+- How can I switch things to make sure I use typographers quotes, etc. even if in .md or .txt? and other special characters for typographic excellence...
+- ???
