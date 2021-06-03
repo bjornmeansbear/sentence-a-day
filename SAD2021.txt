@@ -72,7 +72,7 @@ Okay, I am going to do something here again everyday. I am going to find random 
 ### 020210601 2230 June 1 2021 Baltimore MD
 
 - Prompt: utilize the [triple bottom line](https://en.wikipedia.org/wiki/Triple_bottom_line) in judging design's effectiveness / https://www.are.na/block/5258725
-- current CO2 ppm: 419.90 ppm
+- current CO2 ppm: 417.04 ppm
 
 To utilize the triple bottom line as an effectiveness judgement, you first need to know what the triple bottom line is. This is in general, people planet profit -- social sustainability, environmental sustainability, economic sustainability -- trying to gauge sustainability by how it functions in all these spheres, not just one. So effective design then must be design that is economically, socially AND environmentally sustainable. (viable?).
 
@@ -97,3 +97,17 @@ There are some good questions -- what is a designer to do? find new clients? fin
 What is effective design? we have to define that too? When is a design effective? I guess it depends on what the design is for. A design that causes the intended behavior change is effective. A design that communicates the intended message to the intended audience is effective. Using the triple bottom line gives you some external objective constraints to help measure this no? Behavior changes, messages, things that harm social constructs or environmental systems in the name of economic "gain", these can no longer be effective with this criteria.
 
 Side note: how to use [tiddly wiki](https://tiddlywiki.com/) or roam to help with this? how to insert footnotes, references, etc?
+
+### 020210602 June 2, Baltimore MD
+
+- Prompt: Design should pay renewed attention to human values like poetry, knowledge, culture, but also our basic needs in relation to contemporary challenges, like housing, mobility, clothes, food, and water. (pg 15) / https://www.are.na/block/4660751 (From _Designing Everyday Life_ https://www.are.na/kristian-bjornard/brn-designing-everyday-life)
+- current CO2 ppm: 420.44 ppm
+
+TK
+
+### 020210603 June 3, Baltimore MD
+
+- Prompt:
+- current CO2 ppm:
+
+TK
