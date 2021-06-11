@@ -382,9 +382,18 @@ how do I make this more usable? more searchable? more reusable? more build-upon-
 
 do I need new clients? new ideas? new directives?
 
+Are there exemplary designers doing this in a way that I find aspirational? I mean there are the occasional projects that come along that I say "wow" too; but actual design practices? Perhaps Sanctuary Computers?
+
 ### 020210610, Baltimore MD, Patterson Park!
 
 - Prompt: identify materials, processes, technologies, and strategies that improve social and ecological conditions / https://www.are.na/block/5249392
 - current CO2 ppm:
 
 Also, what is this: https://theopenbody.com/
+
+### 020210611, Baltimore MD, My Hot Humid Basement
+
+- prompt: how can I make this a better process? how to make these more usable? how to make this exercise sustainable?
+
+How can I make
+Okay, what if I write these in a tiddly wiki? I can
