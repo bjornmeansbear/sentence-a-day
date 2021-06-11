@@ -1,0 +1,18 @@
+city: Baltimore
+created: 20210611174039397
+currentco2ppm: 420
+location: My Hot, Humid Basement
+modified: 20210611174409843
+prompt: how can I make this a better process? how to make these more usable? how to make this exercise sustainable?
+state: Maryland
+tags: Journal EssayADay EAD
+title: 20210611134039 Ideas
+type: text/vnd.tiddlywiki
+
+How can I make this more usable, refernecable, make the ideas build upon each other more AND end up more shareable out in the world at large as I work on it? how can I then easily post things on medium and such too!?
+
+Okay, what if I write these in a tiddly wiki? I can then make each day's effort a tiddler; ideas can be cross referenced; shared definitions can easily be added/created/evolved. I can then also figure out how to make it a live site! and maybe even host it on my own little pi server on the local network, and then figure out port forwarding to get it live from the house!? That could become my own litle solar powered web server.
+
+So, that sounds like a good thing to try the next several posts -- make this a tiddly wiki. I'll add all that here to this repo i guess? then its easily shareable across my machines until I figure out how to get a little raspberry pi server going.
+
+The rest of this 1/2 hour will be spent setting that up I guess!
