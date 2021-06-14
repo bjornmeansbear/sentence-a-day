@@ -37,3 +37,5 @@ Notes for writing:
 
 - How can I switch things to make sure I use typographers quotes, etc. even if in .md or .txt? and other special characters for typographic excellence...
 - ???
+
+as of 020210611 I installed tiddly wiki, use `tiddlywiki sad2021tw --listen` to make it work!
