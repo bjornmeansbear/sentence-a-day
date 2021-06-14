@@ -14,7 +14,7 @@ I can bring it from classroom to classroom easily.
 
 Okay, so there is a novel computer platform to use for creating digital design -- Pi-Top + raspbian + F/LOS design tools... but what about output? How could I liberate how to make designs visual & expand beyond "just hit print?"
 
-In addition to trying out new digital tools, I am always trying to make designs with more physical tools where possible. How can we return to more pens and pencils and paper and whatever despite this trend towards everything on a screen. I had been playing around with using our vinyl cutter as a drawing plotter by hacking a sharpie into the holder that would normally hold the cutting blade. 
+In addition to trying out new digital tools, I am always trying to make designs with more physical tools where possible. How can we return to more pens and pencils and paper and whatever despite this trend towards everything on a screen. I had been playing around with using our vinyl cutter as a drawing plotter by hacking a sharpie into the holder that would normally hold the cutting blade.
 
 The MICA Graphic Design department had gotten three [AxiDraws](https://shop.evilmadscientist.com/846), and I decided to adopt one an start using it where possible in my work. The AxiDraw is setup to easily "print" from [Inkscape](https://inkscape.org/) (Inkscape is a libre vector drawing program). So, I had a Pi-Top, I had an axidraw. I needed to put them together with inkscape!
 
