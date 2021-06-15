@@ -1,6 +1,0 @@
-.tc-tiddler-title {
-    position: sticky;
-    top: 0;
-    background: white;
-    z-index: 99;
-}
