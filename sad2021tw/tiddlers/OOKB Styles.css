@@ -1,0 +1,21 @@
+.tc-tiddler-title {
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 9;
+}
+
+.linkExplorer {
+    display: flex;
+    border-top: 1px solid;
+    margin: 0 -42px -42px;
+}
+
+.linkExplorer .column {
+    flex: 1;
+    padding-bottom: 28px;
+}
+
+.linkExplorer .column:first-child {
+    border-right: 1px solid;
+}

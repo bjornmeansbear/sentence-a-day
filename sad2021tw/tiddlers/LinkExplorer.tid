@@ -1,0 +1,14 @@
+created: 20210616045144239
+modified: 20210616050149315
+tags: $:/tags/ViewTemplate
+title: LinkExplorer
+type: text/vnd.tiddlywiki
+
+<div class="linkExplorer">
+    <div class="linksIn column">
+        <<list-links "[all[current]backlinks[]]">>
+    </div>
+    <div class="linksOut column">
+        <<list-links "[all[current]links[]]">>
+     </div>
+</div>
