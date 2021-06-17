@@ -1,11 +1,10 @@
 created: 20210616052809773
-modified: 20210616054042628
+modified: 20210617061041478
 tags: $:/tags/ViewTemplate EAD
 title: JournalInfoTemplate
 type: text/vnd.tiddlywiki
 
-<set filter="[all[current]tag[EAD]]">
-|Title |{{!!title}}|
-|PPM |{{!!currentco2ppm}}|
-|Prompt |{{!!prompt}}|
-</set>
+|!Title |{{!!title}}|
+|!PPM |{{!!currentco2ppm}}|
+|!Prompt |{{!!prompt}}|
+|!Location |{{!!location}}|
