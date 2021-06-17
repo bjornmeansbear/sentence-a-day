@@ -1,10 +1,28 @@
 created: 20210616052809773
-modified: 20210617061041478
-tags: $:/tags/ViewTemplate EAD
+modified: 20210617143543266
+tags: $:/tags/ViewTemplate
 title: JournalInfoTemplate
 type: text/vnd.tiddlywiki
 
-|!Title |{{!!title}}|
-|!PPM |{{!!currentco2ppm}}|
-|!Prompt |{{!!prompt}}|
-|!Location |{{!!location}}|
+<div class="infoTable fieldDisplay">
+    <!-- <section class="row flex">
+        <div class="key">Title</div>
+        <div class="value">{{!!title}} / {{!!caption}}</div>
+    </section> -->
+    <section class="row flex">
+        <div class="key">Prompt</div>
+        <div class="value">{{!!prompt}}</div>
+    </section>
+    <section class="row flex">
+        <div class="key">PPM</div>
+        <div class="value">{{!!currentco2ppm}}</div>
+    </section>
+    <section class="row flex">
+        <div class="key">Summary</div>
+        <div class="value">{{!!description}}</div>
+    </section>
+    <section class="row flex">
+        <div class="key">Written from</div>
+        <div class="value">{{!!city}}, {{!!state}}, {{!!location}}</div>
+    </section>
+</div>

@@ -1,0 +1,15 @@
+created: 20210615161621288
+modified: 20210617144209667
+tags: 
+title: Cool Design Features To Add/Tweak
+type: text/vnd.tiddlywiki
+
+* Better styling overall
+** For sure get rid of annoying pink color currently in use ASAP, otherwise the high contrast palette is more or less fine :)
+* Templates for different kinds of tiddlers -- like do people and terms and books/sources and writings about ideas all have different things that should be shown?
+* Show in/out links only when there are in/out links
+* show additional info card @ top of tiddler only when there is additional info?
+
+!! Done(ish)!?
+* [Done] Idea Explorer: Show backlinks AND forward links at the bottom of every tiddler
+* [Done] nice way of showing all the useful extra fields on tiddlers in their card?

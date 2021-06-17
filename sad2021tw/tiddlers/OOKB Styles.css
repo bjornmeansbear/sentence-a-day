@@ -1,3 +1,4 @@
+/* Trying something clever w/ titles of tiddlers */
 .tc-tiddler-title {
     position: sticky;
     top: 0;
@@ -5,17 +6,52 @@
     z-index: 9;
 }
 
+/* designing the in/out links section for each card */
 .linkExplorer {
     display: flex;
     border-top: 1px solid;
-    margin: 0 -42px -42px;
+    margin: 2rem -42px -42px;
 }
 
 .linkExplorer .column {
     flex: 1;
-    padding-bottom: 28px;
 }
 
 .linkExplorer .column:first-child {
     border-right: 1px solid;
+}
+
+.linkExplorer h3 {
+    font-size: .9rem;
+    padding: .25em 0 .25em 42px;
+    background-color: #eee;
+    margin: 0;
+}
+
+/* trying to make a "table" of info for each tiddler where necessary to be helpful!? */
+.flex {
+    display: flex;
+}
+
+.fieldDisplay {
+    border: 1px solid;
+   width: 100%;
+}
+
+.row {
+border-bottom: 1px solid;
+width: 100%;
+}
+.row:last-child {
+border: none;
+}
+.row > div {
+padding: .25rem .5rem;
+}
+.row .key {
+background: #eee;
+flex: 1;
+}
+.row .value {
+flex: 3;
 }
