@@ -1,0 +1,60 @@
+created: 20210618173303589
+modified: 20210618173542602
+tags: meta
+title: LinkExplorer Explanation
+type: text/vnd.tiddlywiki
+
+some reference for [[LinkExplorer]]
+
+I don't know exactly why/how this works. I figured out a thing on my own, then added the list around thanks to something from [[Grok TiddlyWiki]], but it didn't work exactly, so this solution is a hack between [[Soren Bjornstad]]'s work and my own!?
+
+I had this:
+
+```
+<div class="linkExplorer">
+    <div class="linksIn column">
+        <h3>Inbound</h3>
+        <<list-links "[all[current]backlinks[]]">>
+    </div>
+    <div class="linksOut column">
+        <h3>Outbound</h3>
+        <<list-links "[all[current]links[]]">>
+     </div>
+</div>
+```
+
+I evolved it to this from Hiding and Showing Things on [[Grok TiddlyWiki]]
+
+```
+<$list filter="[all[current]links[]] [all[current]backlinks[]] +[first[]]" variable=_>
+<div class="linkExplorer">
+    <div class="linksIn column">
+        <h3>Inbound</h3>
+        <<linkDisplay "Links" "links[]" "sib-links">>
+    </div>
+    <div class="linksOut column">
+        <h3>Outbound</h3>
+        <<linkDisplay "Backlinks" "backlinks[]" "sib-backlinks">>
+     </div>
+</div>
+</$list>
+```
+
+And then my hybrid solution in the end is what is live at [[LinkExplorer]] right now:
+
+```
+<$list filter="[all[current]links[]] [all[current]backlinks[]] +[first[]]" variable=_>
+<div class="linkExplorer">
+    <div class="linksIn column">
+        <h3>Inbound</h3>
+         <<list-links "[all[current]backlinks[]]">>
+    </div>
+    <div class="linksOut column">
+        <h3>Outbound</h3>
+        <<list-links "[all[current]links[]]">>
+     </div>
+</div>
+</$list>
+```
+
+¯\_(ツ)_/¯
