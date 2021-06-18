@@ -1,0 +1,44 @@
+created: 20210317155258237
+modified: 20210618194053572
+tags: Journal Nebraska
+title: 020210317115258 Entry
+tmap.id: da3bc292-51da-4cb4-a1ea-dca9388f3ddd
+type: text/vnd.tiddlywiki
+
+Conversation with [[Byron Anway]]
+
+How do you start with a source, and then how do you make it your own.
+
+So they've been doing some cool things already
+
+Relief imagery?
+
+So they are watching the videos
+
+And they are documenting a lot of work so that they make a community library of content.
+
+They are making a remix!
+
+some sort of visual remix.
+
+Sampling from the imagery of their peers to create something new.
+
+One way that this is easy is to think about translating to a new medium or dimension.
+
+show the imagery that you use. as a starter presentation.
+
+Tuesday group: almost all other majors; Thursday group is all graphic designers
+
+They do all these other writing exercises... generative self investigations. Can we use these in some way?
+
+So they have all this source material, how can they say what they want so the resulting thing IS theirs???
+
+Here are musical riffs I like, and I want to make this a dance song... so here's how I speed up and cut up and pitch shfit and loop... what are the equivalents in visual form making?
+
+<hr>
+
+Also Created This Day:
+
+<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
+     <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
+</$vars>

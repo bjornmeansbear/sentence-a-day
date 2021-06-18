@@ -1,0 +1,62 @@
+created: 20210304032832179
+modified: 20210618195636963
+tags: Lectures Script
+title: 020210303222832 Entry
+tmap.id: 6f3ca86a-d68c-412b-be68-6784908417a5
+type: text/vnd.tiddlywiki
+
+[[Nebraska Lecture Outline + Notes]]
+
+TGAUU: A Script (Draft?)
+
+I have been spending a lot of time with my old work. I have been asking a lot of questions, interrogating these old forms, old essays, old ideas.
+
+I'm not totally sure where it has gotten me so far, but, let me run through a few themes that are definitely recurring.
+
+* [[Sustainability]]
+* [[ReUse]] > The [[Vernacular]]
+* [[F/LOS]] > The Commons
+* Technology intervening to try and simplify things? Or just technological intervention...
+* Appropriate Technologies
+* Fluidity, tool agnosticism?
+
+I like to use computers
+
+I like to make art
+
+I don't care if my definition of design isn't society's?
+
+How can you as a cultural creator do something?
+
+I'm terrible at real activism.
+
+???
+
+Just start at the present?
+
+# Here are the current things I'm thinking about, trying to work on... 
+#* RG?
+#* [[Precious Plastics]] stuff?
+#* [[Climate Designer]]s?
+#* House stuff?
+#* [[The Libre Designer]]
+# Here's what is utopian about them. 
+#* ???
+#* Attempt at Sustainability (conceptual [[ReUse]])?
+#* Attempt at [[F/LOS]]
+#* Attempt at Free Culture?
+#* ???
+# And here are some older things that led to me being at the place, thinking this way, doing what I am doing.
+#* [[The Sustainabilitist Principles]]
+#* [[Design-A-Days]]
+#* ???
+
+[[Why is the Utopian Important?]]
+
+{{Why is the Utopian Important?}}
+
+Also Created This Day:
+
+<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
+     <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
+</$vars>

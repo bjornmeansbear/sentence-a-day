@@ -1,0 +1,19 @@
+created: 20210309041822216
+modified: 20210618194304634
+tags: Journal
+title: 020210308231822 Entry
+type: text/vnd.tiddlywiki
+
+[[Workshop]] Ideas for [[University of Utah Visit]]
+
+# [[Climate Design]]
+#* [[Project Drawdown]] / [[Drawdown.org]]
+#** Project Drawdown outlines a variety of ways we can not only [[ReDuce]] our greenhouse gas emissions, but also [[DrawDown]] more carbon dioxide than we output!
+
+<hr>
+
+Also Created This Day:
+
+<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
+     <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
+</$vars>
