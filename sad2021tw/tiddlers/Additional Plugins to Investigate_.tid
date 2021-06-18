@@ -1,0 +1,12 @@
+created: 20210618133531518
+modified: 20210618142559777
+tags: tiddlyWiki ReadMe
+title: Additional Plugins to Investigate?
+type: text/vnd.tiddlywiki
+
+* Highlight searched text? https://bimlas.gitlab.io/tw5-highlight-searched-text/
+* Here are like all the plugins!? https://techlifeweb.com/tiddlywiki/tw5tribalknowledge/static/Plugins.html
+* https://tiddlywiki.com/static/Installing%2520a%2520plugin%2520from%2520the%2520plugin%2520library.html
+* https://github.com/flibbles/tw5-relink
+
+having a hard time with additional plugins on node, see [[020210618101820 Ideas]]

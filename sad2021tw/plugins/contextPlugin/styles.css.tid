@@ -1,0 +1,8 @@
+created: 20140529162823729
+tags: $:/tags/Stylesheet contextPlugin
+title: $:/plugins/danielo515/ContextPlugin/Stylesheet/results
+type: text/css
+
+.matched{background-color:yellow}
+.tw-context {/*border:1px solid;
+  /*word-break: break-all; word-wrap: break-word*/}

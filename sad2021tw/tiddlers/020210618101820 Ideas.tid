@@ -1,0 +1,11 @@
+created: 20210618141820327
+modified: 20210618142812837
+tags: Journal tiddlyWiki
+title: 020210618101820 Ideas
+type: text/vnd.tiddlywiki
+
+I tried adding: https://github.com/snowgoon88/TW5-extendedit
+
+still not quite figuring out adding these things via the local node.js version...
+
+okay! [[edit-comptext]] is now working, I just didn't have the folder structure setup correctly!?
