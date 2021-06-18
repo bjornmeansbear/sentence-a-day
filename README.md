@@ -39,3 +39,5 @@ Notes for writing:
 - ???
 
 as of 020210611 I installed tiddly wiki, use `tiddlywiki sad2021tw --listen` to make it work!
+
+okay, going to go through this: https://nesslabs.com/tiddlywiki-static-website-generator -- see if I can make some export improvements, maybe somehow go right to the gh-pages branch!?
