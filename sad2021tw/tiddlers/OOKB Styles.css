@@ -34,16 +34,16 @@
 }
 
 .fieldDisplay {
-    border: 1px solid;
    width: 100%;
 }
 
 .row {
-border-bottom: 1px solid;
+border: 1px solid;
+border-bottom: none;
 width: 100%;
 }
 .row:last-child {
-border: none;
+border: 1px solid;
 }
 .row > div {
 padding: .25rem .5rem;

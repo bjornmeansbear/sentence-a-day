@@ -1,7 +1,7 @@
 created: 20210616052809773
-modified: 20210618152200933
+modified: 20210618175017782
 tags: $:/tags/ViewTemplate
-title: JournalInfoTemplate
+title: MetaInfoTemplate
 type: text/vnd.tiddlywiki
 
 <div class="infoTable fieldDisplay">
@@ -9,20 +9,40 @@ type: text/vnd.tiddlywiki
         <div class="key">Title</div>
         <div class="value">{{!!title}} / {{!!caption}}</div>
     </section> -->
+
+    <$list filter="[all[current]!prompt[]] +[first[]]" variable=_>
     <section class="row flex">
         <div class="key">Prompt</div>
         <div class="value">{{!!prompt}}</div>
     </section>
+    </$list>
+
+    <$list filter="[all[current]!currentco2ppm[]] +[first[]]" variable=_>
     <section class="row flex">
         <div class="key">PPM</div>
         <div class="value">{{!!currentco2ppm}}</div>
     </section>
+    </$list>
+
+    <$list filter="[all[current]!description[]] +[first[]]" variable=_>
     <section class="row flex">
         <div class="key">Summary</div>
         <div class="value">{{!!description}}</div>
     </section>
+    </$list>
+
+    <$list filter="[all[current]!city[]] +[first[]]" variable=_>
     <section class="row flex">
         <div class="key">Written from</div>
         <div class="value">{{!!city}}, {{!!state}}, {{!!location}}</div>
     </section>
+    </$list>
+
+    <$list filter="[all[current]!url[]] +[first[]]" variable=_>
+    <section class="row flex">
+        <div class="key">URL</div>
+        <div class="value">{{!!url}}</div>
+    </section>
+    </$list>
+
 </div>
