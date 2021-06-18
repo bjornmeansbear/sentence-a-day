@@ -5,7 +5,9 @@
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
         "tiddlywiki/contextPlugin",
-        "tiddlywiki/edit-comptext"
+        "tiddlywiki/contextPlugin",
+        "tiddlywiki/relink",
+        "tiddlywiki/relink-titles",
     ],
     "themes": [
         "tiddlywiki/vanilla",
