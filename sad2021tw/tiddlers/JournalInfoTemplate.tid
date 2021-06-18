@@ -1,18 +1,6 @@
 created: 20210616052809773
-<<<<<<< HEAD
-modified: 20210617062551381
+modified: 20210618042234725
 tags: $:/tags/ViewTemplate EAD
-title: JournalInfoTemplate
-type: text/vnd.tiddlywiki
-
-<$list filter="[all[current]tag[EAD]]">
-|!Title |{{!!title}}|
-|!PPM |{{!!currentco2ppm}}|
-|!Prompt |{{!!prompt}}|
-</$list>
-=======
-modified: 20210617143543266
-tags: $:/tags/ViewTemplate
 title: JournalInfoTemplate
 type: text/vnd.tiddlywiki
 
@@ -38,4 +26,3 @@ type: text/vnd.tiddlywiki
         <div class="value">{{!!city}}, {{!!state}}, {{!!location}}</div>
     </section>
 </div>
->>>>>>> 991d4b92449b05341778a5499d6e0979e3848bfa
