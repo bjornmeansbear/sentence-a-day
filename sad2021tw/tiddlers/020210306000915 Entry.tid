@@ -1,0 +1,44 @@
+created: 20210306050915585
+modified: 20210618201156600
+tags: Journal
+title: 020210306000915 Entry
+tmap.id: 380d1bc1-9b0e-490c-92d9-2c8d9da04e80
+type: text/vnd.tiddlywiki
+
+I have been going through a lot of old work, old writing, old lectures, just all of my past “work.”
+
+* [[What Ties These Works Together?]]
+* [[Why make this stuff?]]
+* I don't really do so much Question answering as question creating? Each question I pose myself usually results in more questions; yes perhaps I have learned something, gotten to some new place conceptually, intellectually, physically... but there are always more things to ask, more nodes to connect, more places of overlap and connection to find.
+* Design is often referred to as "problem solving" -- but I tend to think of my practice more as "problem finding" or "problem inventing"
+* [[What is a sustainabilitist?]]
+* [[What is an open-sourcerer?]]
+* [[What is the Libre Designer?]]
+* [[What Makes This Utopian?]]
+* [[What am I Actually Good At?]]
+* [[Quite the Utopian Gesture!]]
+* [[What else are you interested in besides designing?]]
+* [[Who should I talk to next?]]
+
+What kind of useful revisionist history can I tell about all these pieces that a) make a useful connection between all of my work, and b) create some new understanding...
+
+Is one of the connections my own understanding, my interest in seeing how things are connected, seeing where I can better learn? Is the connection an exploration of various technologies? is the connection an ever growing desire to access more tools?
+
+* [[In The Beginning Culture was Free!]]
+* [[Share Ideas!]]
+* [[The Commons]]
+    ** The [[Intellectual Commons]]
+    ** The [[Physical Commons]]
+* [[Typography and Open Source]]
+    ** [[MetaFont]]
+    ** [[TeX]]
+        ** [[Donald Knuth]]
+* [[UN Sustainable Development Goals]]
+* Help each other evolve, iterate, and make stuff
+* What gestures have I made lately that are utopian?
+
+Also Created This Day:
+
+<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
+     <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
+</$vars>

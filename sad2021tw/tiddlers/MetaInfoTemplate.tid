@@ -1,5 +1,5 @@
 created: 20210616052809773
-modified: 20210618181541680
+modified: 20210618200031348
 tags: $:/tags/ViewTemplate
 title: MetaInfoTemplate
 type: text/vnd.tiddlywiki
@@ -21,6 +21,20 @@ type: text/vnd.tiddlywiki
     <section class="row flex">
         <div class="key">ISBN</div>
         <div class="value">{{!!isbn}}</div>
+    </section>
+    </$list>
+
+    <$list filter="[all[current]!publisher[]] +[first[]]" variable=_>
+    <section class="row flex">
+        <div class="key">Publisher</div>
+        <div class="value">{{!!publisher}}</div>
+    </section>
+    </$list>
+
+    <$list filter="[all[current]!year[]] +[first[]]" variable=_>
+    <section class="row flex">
+        <div class="key">Year</div>
+        <div class="value">{{!!year}}</div>
     </section>
     </$list>
 
