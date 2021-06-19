@@ -1,0 +1,8 @@
+created: 20210224060833485
+modified: 20210619004646403
+tags: Principle
+title: Services
+tmap.id: 3c51c0f3-ca42-4655-9178-4959497e288e
+type: text/vnd.tiddlywiki
+
+We want the functions objects provide, not the objects themselves. To do this, our appliances and tools must be approached in terms of “services, not stuff” and “use, not own.” The idea of services is against intentional obsolescence and for reusability and repairability.
