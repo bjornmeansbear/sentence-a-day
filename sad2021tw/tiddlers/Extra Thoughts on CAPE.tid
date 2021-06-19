@@ -1,0 +1,23 @@
+created: 20210303190735676
+modified: 20210619034204083
+tags: CAPE Writing [[Pure Content]]
+title: Extra Thoughts on CAPE
+tmap.id: 490f00d0-4fc0-4986-9df6-d1bcb079a819
+type: text/vnd.tiddlywiki
+year: 2014
+
+! Some thoughts
+
+The process required to make any of these [[Create Anywhere Publish Everywhere]] ideas “work” rely on a person being proficient over a wide array of technical skills. These experiments have been about building new tools and connecting disparate esoteric tools, not just about using existing standard equipment. This means that as a solution, [[CAPE]] is not yet completely viable for everyday use… 
+
+However, The idea is sound. But, in its current form it either needs a user with wide skill sets, or a team of people to make things come together. The team is probably the most sensible way to think about using [[CAPE]]. As a design department we have all the people to form a “team” allowing the kinds of skills crossover.
+
+[[Create Anywhere, Publish Everywhere]] can also be a metaphor for how our design department can grow and evolve. One of [[CAPE]]'s aims is at platform agnosticism. 
+
+The purer the content, the less reliant on a specific tool, technology or piece of software the content is to be distributed. The trick is figuring out the formats that allow for maximum interoperability and [[future-proof]]ness. Right now that appears to be simple image formats (like [[jpg]]), plaintext, and then a variety of coding formats — [[html]], [[xml]], [[json]], and [[yaml]]. With content in mostly these kinds of formats it can easily be sent to wherever it is desired, as well as easily reformatted for other languages/formats, or reprocessed for new uses.
+
+[[CAPE]] respects specialization. It respects uniqueness. While the goal is content purity, the content can start anywhere. As long as you have people or tools that understand how to convert from one format to another, the content can be created in whatever tool you like. The purer the tools however, the better. InDesign in and of itself isn't the pure. Neither is [[Word]]. However, Indesign can be made "pure" by using the export to xml feature, once a person has gone through the trouble of tagging properly all the content in the InDesign document. This is not as easily the case for [[Word]]. I believe that no one should use [[Microsoft]] [[Word]].
+
+[[Google]] [[Docs]] are problematic too — they just give you too much ability to style and weirdly format things. Too much presentational power, not enough purely structural power. Interestingly, writing in a google spreadsheet yields more usable, “pure” content than writing in a [[google doc]]. The reason? Less ability to stylize. Most spreadsheet cells are really only plaintext.
+
+[[CAPE]] cares about [[Data]]. It cares about [[content]]. Formats that care about [[structure]] are what are most useful. But un-stylized structure is key. You then need tools that can maintain the structure while allowing you to hook styles onto that structure.

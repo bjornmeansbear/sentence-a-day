@@ -1,0 +1,17 @@
+created: 20210303044251072
+modified: 20210619034540101
+tags: [[Pure Content]] Writing
+title: Create Anywhere Publish Everywhere
+tmap.id: f967aeb5-980b-4b31-91b3-08fe81ddb9a0
+type: text/vnd.tiddlywiki
+
+[[CAPE]] = Create Anywhere Publish Everywhere
+
+!! Ideas Explaining:
+<<list-links filter:"[tag[CAPE]!tag[Projects]]">>
+
+Create Anywhere Publish Everywhere is software, service, and philosophy. The way the contemporary web works increasingly focuses on linking together disparate and specialized services; not providing a single website with all solutions hardwired directly into the site proper. Create Anywhere Publish Everywhere accepts and embraces this new ideology. Create Anywhere Publish Everywhere uses standard formatting, hardware, software, services, and server technologies. However, the way in which these things are combined is often quite novel.
+
+Create Anywhere Publish Everywhere is a service for connecting your services. Create Anywhere Publish Everywhere desires to provide an interface to control content — photos from Flickr, Instagram, Amazon S3, or Behance; documents from Dropbox, Google Drive, or Github; items from an inventory management system; Facebook Posts, Wordpress posts, content from your existing website — anything accessible via API, anything in an RSS feed, and anything otherwise publishable to the web (or cloud) in a common data format (XML, JSON, TXT, etc.). The goal: make your content work for you in more places.
+
+Create Anywhere Publish Everywhere wants to rethink content creation and management. It is best to approach content creation in as pure a way as possible (meaning semantic, structural, meta-data rich content — not styled content). This makes it easy then for Create Anywhere Publish Everywhere to always map content from one place to another and easily template it for whatever use required.

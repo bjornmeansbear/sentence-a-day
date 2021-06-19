@@ -1,0 +1,16 @@
+created: 20210303184211438
+modified: 20210619034204079
+tags: CAPE Writing
+title: Decoupling content from its site
+tmap.id: 179c9181-9c85-46ec-933d-e44dab5d2465
+type: text/vnd.tiddlywiki
+
+One thing that isn't working well for me with Ruhoh, Wintersmith, etc. is that they mix site content with site generation files to a certain extent. I want to give my clients the simple experience of only editing stuff that they should see — and not having to teach them to ignore things. Content should be separate from templates or any other site-specific information.
+
+So, can the content be meaningfully de-coupled from the site generation in these contexts? That is the main aim of “Create Anywhere Publish Everywhere” (CAPE) right? So does that mean that Ruhoh (or wintersmith or jekyll or any other static site generator) just actually aren't the right tools to be helping with the job I want to do?
+
+Some MFA students last year in the GDMFA program here at MICA build a poster generating machine. It was basically just a website. There were controls via an Arduino box and some code that allowed a viewer to adjust the CSS of a digital “poster” with knobs and buttons. The most important control was a big “print” button. This basically took a screen shot of the display, then saved that capture to a dropbox folder. Another computer, this one hooked up to the printer, had an apple script running that said “when a new image shows up in this dropbox folder, print it.” Using this method the grad students built a pretty seamless system that made posters, printed out images, and also uploaded all of them to a tumblr blog (which then was used to feed images to their “website”). There were a lot of moving pieces required — a lot of behind the scenes, hacked together complexity — but to the user/viewer it looked simple and seamless and easy.
+
+Locally, I could figure this out short term — I could share a folder with a client, put in the files in a directory structure that made sense to their specific needs, and then have it upon syncing trigger an action on my laptop that updated a git repository or similar. But how long would that last? The site could have a git repo of just content, and this content could then get sent around to wherever was desired. This would also be relatively easy to explain what might need to be explained to the clients then, and hide all the complexity they need know nothing about. How does this get ramped up into production though? I can't have every clients’ website just syncing to my personal computer.
+
+It is at least a conceptual start. We'll see where it leads.

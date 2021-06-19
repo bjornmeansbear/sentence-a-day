@@ -1,0 +1,13 @@
+color: #000001
+created: 20210303044247264
+modified: 20210619034607353
+tags: [[Pure Content]]
+title: CAPE
+tmap.id: 3cc0013c-5e0c-4f68-9d77-7bd1025eb575
+type: text/vnd.tiddlywiki
+url: https://www.ookb.co/cape/
+
+CAPE = [[Create Anywhere Publish Everywhere]]
+
+!! Idea Explaining:
+<<list-links filter:"[tag[CAPE]!tag[Projects]]">>

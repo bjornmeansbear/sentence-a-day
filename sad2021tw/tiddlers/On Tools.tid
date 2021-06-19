@@ -1,0 +1,26 @@
+created: 20210228033701485
+modified: 20210619034728357
+tags: Essays
+title: On Tools
+tmap.id: 4273e235-741a-4319-be02-dd37f2fe5ded
+type: text/vnd.tiddlywiki
+
+Design educators don’t usually teach [[letterpress]] as a technique. In fact, we rarely bother physically printing anything nor go through the trouble of rubbing [[letraset]] at different sizes down to make mockups and better understand the printer/designer relationship. We just jump into using [[Illustrator]] and [[InDesign]] as form making tools, and then make everything from sketches to “finished” things almost entirely with digital tools totally abstracted from the physical printing process. We show students the software interface for doing the tasks that people until very recently had to know how to do in some other way, typically analog and very hands-on. [[WYSIWYG]] tools for web-design are basically the same.
+
+I know [[Dreamweaver]] is historically NOT a good GUI/WYSIWYG editor, and experiences with a bad tool might make it seem that this road is one best left untravelled. However, there are now a plethora of online services and site-builders that allow for fairly high fidelity drag-and-drop and point-and-click site building. Familiarity with stuff like [[Photoshop]], [[Illustrator]], and [[InDesign]] is then directly translatable to the building of decent websites.
+
+Within a few years there will be powerful visual web editors and truly very few people really will have to know how to literally code to build rudimentary (and probably fairly complex) sites and apps — just like few practicing designers have used any other creation tool for printed works other than InDesign.
+
+Dreamweaver’s past problems revolved around creating dirty code and perpetuating out of date practices. If new tools are based on contemporary ideals, and produce the kinds of markup contemporary standards desire, there is no reason that said mythical tool couldn’t help to make understanding basics simpler, prototyping ideas faster, and allow for more creation in the digital realm by designers that are turned off by looking at plaintext documents.
+
+What was kept in the transition from making print mockups and printed documents “by hand” to making them on the computer were all the concepts and principles of “[[Good Design]].”
+
+So, then the thing that is most important isn’t deciding between whether we teach coding or make use of a specific tool, but that we decide what “Good Design” means from a digital design, user experience, and interactivity perspective. Then it’s just figuring out how to explain and practice that regardless of the tools.
+
+To then come full circle, you could actually learn [[HTML]] and [[CSS]] instead of any of these other things and at this point nearly omit the learning of InDesign. HTML/CSS is getting pretty amazing in the layout and typographic control departments. Coupled with a slick JS or other server setup that can render PDFs nicely from simple HTML/CSS instructions one can actually design printed works to a fairly high level of control with web technologies now — provided you want to learn a bit about setting up a server environment.
+
+So,
+
+* There is no tool to rule them all.
+* Every modern tool is an abstraction.
+* Learning what “[[Good Design]]” means is the important thing — not that you learn a specific tool.

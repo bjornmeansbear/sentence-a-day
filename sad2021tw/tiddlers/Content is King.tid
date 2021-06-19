@@ -1,0 +1,35 @@
+created: 20210303185954669
+modified: 20210619034204062
+tags: CAPE [[Pure Content]] Writing
+title: Content is King
+tmap.id: f586f7b4-a2dd-4454-a2f7-ea2cdb1a37a7
+type: text/vnd.tiddlywiki
+
+Publishing is about content. Getting content to where you need it. Getting it into the form you need it. Content needs structure. It needs hierarchy. However, the end-form the content takes should dictate the style. Content should remain structured, yet style-less.[^1]
+
+In a perfect world, blank, structured, meta-data rich content is fed to whatever service, tool, program, etc. desired and then is picked apart and displayed whatever way is best. We are not yet in this perfect world. Content is not created in this clean, pure way. Writers write, editors edit, designers design, developers develop, creators create — a soupy process of back-and-forth ensues. Since each type of “creator” has their own set of tools, the revisions, changes, updates, etc. that happen all flow across emails, different documents, and different programs and are not always easily manageable, trackable, or cross-compatible. This does not have to be the case.
+
+It isn’t always known all the places content will be needed or desired. This is short sited. It is also a common problem. When someone is creating a book, the workflow is optimized for a physical tome to be the final resting place for that content. A year or two passes when it is realized that the book content is needed for a website, or a magazine, or whatever else instead. This necessitates pulling all the final edits, changes, formatting — whatever — from the design file, and recreating a text file to move to the next place. This is inefficient, frustrating and error prone. It also means that at the end of this process the most correct version of the book’s text and layout are locked into a layout program document. This isn’t easy to use again for another sized book, etc.
+
+The same can happen on the web. A blog is created. Originally this is just for fun. Many posts rack up. Visitors come. Suddenly a magazine article is asked for, or a book deal is signed. How does that content get to the form necessary for print production from its digital, database locked forms?[^2]
+
+What these scenarios (and many others) share in common is that the content was created directly with and for the tools of immediate, intended production — not just for any tools of production. Content should be able to live on its own and just wait for where it wants to be sent, not live singular, complicated lives that don’t mix well. 
+
+On the one hand this is easy, it just requires some simple refiguring of the creation and tracking process. On the other its incredibly complicated because the tools we’ve learned to use are mostly ill-suited for this process. Microsoft word for example. A horrible content creation tool. Everything is mired in mucky styling and formatting that is incredibly hard to get out both for use in a print context and in a web context. Indesign for layout doesn’t out of the box understand very much in the way of text-only formatting. The web is rigid and automated in ways that make matching styling and flexibility to content occasionally frustrating. The key still lays in the creation stage.
+
+…
+
+I will present several thought-experiments (which have semi-functioning web and print experiments to visually exemplify the ideas and process) that show a variety of ways that “content”[^3] can better conform to its idealized, perfect form suitable for a “create anywhere, publish everywhere” mindset.
+
+First, a book that has already been designed will be examined. A final InDesign file will go from a formatted, rigid document, back into raw content. This is important as often the “design” phase does affect the content. This method respects this idea, yet still conforms to an idealized content that can be tracked, edited, updated, and reused on its own. This also begins to pave the way for a more dynamic print workflow where content updates can update printable PDF files — say for a print-on-demand project or downloadable PDF situation.
+
+Next, a website full of content created specifically for that publication channel only will be turned into repository of raw content that still publishes as desired to the web, but suddenly opens up uses for print, or other digital formats. (for example, you have a website AND a separate, optimized phone application, whats the best way to get the content to both places?).
+
+Finally, an idealized workflow will be examined. Options for best practices will be discussed.
+
+Collaboration is important in the creation of great content. Writers, designers, developers, etc. all have key roles they play. One of the goals of the “create anywhere, publish everywhere” methodology is that collaborative contributions should be valued, allowed, and made as easy as possible through whatever tool the user is most familiar with. With content in the correct format upfront, this can be possible.
+
+[^1]: I am here referring to visual style, not written style
+[^2]: Actually, it is a lot easier to go from the web to print than vise versa, at least in terms of getting clean, structured but unstyled content… but we’ll get to this more later.
+[^3]: By content I mean a the collection of text documents, images, and any other necessary files or data required for publishing what is being created.
+

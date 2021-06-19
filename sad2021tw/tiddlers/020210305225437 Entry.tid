@@ -1,0 +1,12 @@
+created: 20210306035437031
+modified: 20210619025946466
+tags: Journal
+title: 020210305225437 Entry
+tmap.id: eefaa363-536c-4152-a35f-e36e7d3bd190
+type: text/vnd.tiddlywiki
+
+Also Created This Day:
+
+<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
+     <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
+</$vars>

@@ -1,0 +1,20 @@
+created: 20210303184303492
+modified: 20210619034204091
+tags: CAPE Writing
+title: Striving For Static Sites
+tmap.id: 50bf5cfb-daa1-4737-8d27-bf908fa2a739
+type: text/vnd.tiddlywiki
+
+There is a lot of working happening in the static site generation realm. I’ve played with a number of options: Jekyll, Ruhoh, Nanoc, and Wintersmith to name a few. A quick google search will yield literally 10’s if not 100’s of more options… 
+
+The gist is this: write up your content in Markdown and YAML, create a few templates, then compile those via Ruby, Python, Node.js, or similar, and you are left with a directory of static HTML, CSS, and JS files that are now your site. Easy. Painless. Done. 
+
+Sort of.
+
+Its a cool idea. So far however, they all seem fairly focused on making a blog easier to upkeep, not actually build a whole site. I’m frustrated in that outside of using only a single directory of date sorted files and a few root level pages, none of the generators I have played with tried do very well at correctly managing or compiling a whole site. Multiple directories, nested sub-directories, different kinds of “content-types,” any sort of semi-advanced information architecture quickly shows the weaknesses of all the tools I’ve tested. 
+
+I’m looking for something that does the compiling, AND can figure out my information architecture. I’m happy telling it basic stuff in some sort of metadata file — some sort of YAML file that structures how things nest or what different content types do — but I just need it to actually understand what I am telling it. 
+
+What my colleagues and I are onto these days is trying to take this idea and run with it… so maybe we’ll figure it out at some point ourselves. We have some custom solutions do what we want (http://www.rwdfoundation.org is running on a custom version of ruhoh that adds the additional nesting I was talking about more correctly), but turning it into something that will work for any site is still in the distance.
+ 
+I guess we will just see what the future brings.
