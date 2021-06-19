@@ -1,0 +1,16 @@
+created: 20210228033407145
+modified: 20210619034728339
+tags: Essays [[Utopian Gestures]] [[Pure Content]]
+title: Towards Purer Content
+tmap.id: c8635296-a5e6-4904-8bc3-dc064af50cd9
+type: text/vnd.tiddlywiki
+
+The end-form of the content should dictate the style — visual style should not be baked into the content itself. The content should remain structured, yet style-less ([[WYSIWYM]] over [[WYSIWYG]] [What-you-see-is-what-you-mean instead of what-you-see-is-what-you-get]). Structure must be semantically implied with simple meta data added to content. This structured, un-styled, meta data rich content can then be fed to whatever service, tool, program, etc. required for the display type desired.
+
+We are not yet in this perfect world.
+
+The common tools we use are ill-suited for un-styled content creation. Word processors wrap text in formatting hard to remove for use in other contexts. Desktop publishing platforms lock content into layout files incompatible with other workflows. [[WYSIWYG]] tools bloat content with impure markup making content there hard to [[ReUse]] or migrate. This impure content withers and dies, chained into a file format, storage method, or self-imposed style prison.
+
+This does not have to be the case.
+
+Purer content is achievable. [[Pure Content]] is able to evolve and live in different templates, different places, and migrate seamlessly between different future-friendly formats. There are a variety of ways that content can better conform to an idealized “pure” form that is more flexible and more future friendly than current options …

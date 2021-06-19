@@ -1,5 +1,5 @@
 created: 20210616052809773
-modified: 20210618200031348
+modified: 20210619032434800
 tags: $:/tags/ViewTemplate
 title: MetaInfoTemplate
 type: text/vnd.tiddlywiki
@@ -73,4 +73,9 @@ type: text/vnd.tiddlywiki
     </section>
     </$list>
 
+    <$list filter="[all[current]!coverurl[]] +[first[]]" variable=_>
+    <section class="row flex">
+        <div class="imgWrapper bookCover"><img src={{!!coverurl}} /></div>
+    </section>
+    </$list>
 </div>

@@ -1,0 +1,16 @@
+created: 20210301165848907
+modified: 20210619033443707
+title: Image
+tmap.id: 819689e3-092b-4a71-a970-9982b6e97e84
+type: text/vnd.tiddlywiki
+
+Pictures
+
+Images are edited with [[Image Editor]]s
+
+Images may have several different [[FileFormat]]s or [[FileType]]s
+
+<<list-links filter:"[tag[FileFormat]]">>
+
+<<list-links filter:"[tag[FileType]]">>
+
