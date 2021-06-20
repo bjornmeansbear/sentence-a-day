@@ -1,0 +1,31 @@
+caption: New Source
+created: 20210620055418053
+description: Create a new source (Book, Video, Etc.)
+modified: 20210620060443017
+tags: $:/tags/PageControls
+title: New Source
+type: text/vnd.tiddlywiki
+
+\define createNewEAD()
+<$action-sendmessage
+    $message="tm-new-tiddler"
+    title=""
+    tags="[[Source]]"
+    author=""
+    caption=""
+    coverurl=""
+    isbn=""
+    isbn-10=""
+    isbn-13=""
+    media=""
+    publisher=""
+    publisheddate=""
+    subtitle=""
+    url=""
+    worldcat=""
+    year="" />
+\end
+
+<$button actions=<<createNewEAD>>>
+    {{$:/core/images/opacity}} {{!!caption}}
+</$button>
