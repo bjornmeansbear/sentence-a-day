@@ -1,0 +1,29 @@
+caption: New EAD
+created: 20210620040943918
+description: Create a new “Essay-A-Day” tiddler
+modified: 20210620055636274
+tags: $:/tags/PageControls
+title: New 02021 EAD
+type: text/vnd.tiddlywiki
+
+\define eadTitle(timeStamp)
+$(timeStamp)$ Ideas
+\end
+
+\define createNewEAD()
+<$set name="timeStamp" value=<<now 0YYYY0MM0DD0hh0mm0ss>> >
+<$action-sendmessage
+    $message="tm-new-tiddler"
+    title=<<eadTitle>>
+    tags="[[EAD]] [[EssayADay]]"
+    prompt=""
+    currentco2ppm=""
+    city="Baltimore"
+    state="Maryland"
+    location="" />
+</$set>
+\end
+
+<$button actions=<<createNewEAD>>>
+    {{$:/core/images/file}} {{!!caption}}
+</$button>
