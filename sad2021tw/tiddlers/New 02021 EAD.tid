@@ -1,7 +1,7 @@
 caption: New EAD
 created: 20210620040943918
 description: Create a new “Essay-A-Day” tiddler
-modified: 20210620055636274
+modified: 20210621032515116
 tags: $:/tags/PageControls
 title: New 02021 EAD
 type: text/vnd.tiddlywiki
@@ -24,6 +24,11 @@ $(timeStamp)$ Ideas
 </$set>
 \end
 
-<$button actions=<<createNewEAD>>>
+<$button 
+    actions=<<createNewEAD>> 
+    class="tc-btn-invisible" 
+    title={{!!description}}
+    aria-label={{!!caption}}
+    >
     {{$:/core/images/file}} {{!!caption}}
 </$button>
