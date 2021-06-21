@@ -1,12 +1,12 @@
 caption: New Source
 created: 20210620055418053
 description: Create a new source (Book, Video, Etc.)
-modified: 20210620060443017
+modified: 20210621032625185
 tags: $:/tags/PageControls
 title: New Source
 type: text/vnd.tiddlywiki
 
-\define createNewEAD()
+\define createNewSource()
 <$action-sendmessage
     $message="tm-new-tiddler"
     title=""
@@ -26,6 +26,11 @@ type: text/vnd.tiddlywiki
     year="" />
 \end
 
-<$button actions=<<createNewEAD>>>
+<$button 
+    actions=<<createNewSource>> 
+    class="tc-btn-invisible" 
+    title={{!!description}}
+    aria-label={{!!caption}}
+    >
     {{$:/core/images/opacity}} {{!!caption}}
 </$button>
