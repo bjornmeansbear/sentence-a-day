@@ -1,5 +1,5 @@
 created: 20210620063854248
-modified: 20210622141644495
+modified: 20210622144255115
 tags: Lectures Script Markdown!?
 title: 202007271900 The Libre Designer
 type: text/vnd.tiddlywiki
@@ -13,7 +13,7 @@ live on youtube 202007271900: <https://youtu.be/fLfeWtOpFto>
 
 MICAGD Summer Camp / LIBRE GRAPHICS with Kristian Bjornard
 
-20200724 Update: My plan to use the F/LOS video conferencing platform JitSi Meet is not quite working out, so we will be switcing to a zoom call!? And just a heads up incase it wasn't clear, this is less a "workshop" or "demo" and more of a lecture/walkthrough w/ Q&A and discussion.
+20200724 Update: My plan to use the F/LOS video conferencing platform [[JitSi Meet]] is not quite working out, so we will be switcing to a zoom call!? And just a heads up incase it wasn't clear, this is less a "workshop" or "demo" and more of a lecture/walkthrough w/ Q&A and discussion.
 
 A general outline for things I'll be trying to talk about and touch upon can be found on GitHub: <https://github.com/bjornmeansbear/lectureScripts/blob/master/theLibreDesigner.md>. And I'll also be trying to maintain an up to date document as things transpire during our time together Monday evening on EtherPad; this will be a way other than just zoom chat that links can be shared and questions can be co-authored or expanded upon in real time: <https://etherpad.wikimedia.org/p/thelibredesigner>.
 
@@ -60,9 +60,9 @@ For this array of ideas, I'm first going to introduce you to F/LOS if you haven'
 
 Some Content Warnings:
 
-- I will be derogatory towards neoliberalism
-- I will probably mention Marx, Communism, Henry George, Mutual Aid, Peter Kroptopkin, and other socialist, anarchist and libertarian thinkers
-- I will probably bring up issues of classism, structural racism, and sexism
+* I will be derogatory towards neoliberalism
+* I will mention Marx, Communism, Henry George, Mutual Aid, Peter Kroptopkin, and other socialist, anarchist and libertarian thinkers
+* I will bring up issues of classism, racism, and sexism
 
 Hopefully you know what you're here for!
 
@@ -70,7 +70,7 @@ The foundations to the Free/Libre Open Source arena has several interesting conn
 
 I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning.
 
-There is a great anecdote about Donald Knuth and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes TeX and Metafont, super great ideas that you can still use today ... And then the origins of freesoftware and GNU are that Richard Stallman is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software...
+There is a great anecdote about [[Donald Knuth]] and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes [[TeX]] and [[Metafont]], super great ideas that you can still use today ... And then the origins of [[free software]] and [[GNU]] are that [[Richard Stallman]] is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software...
 
 If you want to investigate this all more; I highly recommend finding out more about Donald Knuth -- he is just an amazing person -- and Tex and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf <https://www.overleaf.com/>. There are some cool old videos of him showing people how to use computers in the 80s...
 
@@ -256,7 +256,7 @@ This is true across the F/LOS ecosystem. Usually, whatever file formats are used
 
 ## Time for an Operating System Update
 
-So you think you want to try GNU/Linux?
+[[So you think you want to try GNU/Linux?|GNU/Linux Distributions I have tried]]
 
 If you have been able to ditch Adobe; if you see all this and say, hell yes, liberate me from my technocratic overlords; then you can probably try ditching Apple, Microsoft, Google, etc. You should give GNU/Linux a try.
 
@@ -267,7 +267,7 @@ If you have been able to ditch Adobe; if you see all this and say, hell yes, lib
 - [OpenSUSE](https://www.opensuse.org/)
 - [RedHat/Fedora](https://getfedora.org/)
 - [EasyOS](https://easyos.org/)
-- [GNU/Linux Distributions](https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg)
+- [[GNU/Linux Distributions|https://upload.wikimedia.org/wikipedia/commons/1/1b/Linux_Distribution_Timeline.svg]]
 
 And then besides figuring out what distro works for you there is the ecosystem of front ends too!
 
