@@ -1,7 +1,7 @@
 caption: New Source
 created: 20210620055418053
 description: Create a new source (Book, Video, Etc.)
-modified: 20210621032625185
+modified: 20210622034755218
 tags: $:/tags/PageControls
 title: New Source
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 \define createNewSource()
 <$action-sendmessage
     $message="tm-new-tiddler"
-    title=""
+    title="New Book or Film or Web … etc. … Source"
     tags="[[Source]]"
     author=""
     caption=""
