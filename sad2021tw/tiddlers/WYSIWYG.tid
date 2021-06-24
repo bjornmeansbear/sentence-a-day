@@ -1,0 +1,11 @@
+created: 20210623211947250
+modified: 20210623212200122
+tags: Definition
+title: WYSIWYG
+type: text/vnd.tiddlywiki
+
+What You See Is What You Get
+
+A trope of graphical interfaces particularly for HTML/CSS — you get a window or tool to visually move things around and the program tries its best to write the functional code you need to do that... Usually results in dirty code. Code that contains a hard to reuse amalgam of semantic and structural content and visual design 
+
+As opposed to [[What you see is what you get|WYSIWYM]]
