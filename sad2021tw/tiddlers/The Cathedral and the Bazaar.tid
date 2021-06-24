@@ -1,0 +1,10 @@
+author: [[Eric Raymond]]
+coverurl: https://upload.wikimedia.org/wikipedia/en/c/c4/Cathedral-and-the-Bazaar-book-cover.jpg
+created: 20210623211408179
+modified: 20210623211621543
+tags: Source Book
+title: The Cathedral and the Bazaar
+type: text/vnd.tiddlywiki
+url: http://catb.org/~esr/writings/cathedral-bazaar/
+
+Amazing set of essays on how distributed work around the [[Linux]] kernel worked... Describes a methodology not unlike the [[vernacular]] processes in [[How Buildings Learn]]. Only, due to being code and distributed across the internet, works so much faster and fluidly.
