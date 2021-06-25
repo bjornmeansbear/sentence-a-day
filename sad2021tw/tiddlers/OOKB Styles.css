@@ -6,21 +6,34 @@
     z-index: 9;
 }
 
+/* Added/Modified this Day */
 /* designing the in/out links section for each card */
+.dateExplorer,
 .linkExplorer {
     display: flex;
     border-top: 1px solid;
-    margin: 2rem -42px -42px;
+    margin: 2rem -42px 0;
 }
 
+.linkExplorer {
+    margin-bottom: -42px;
+}
+
+.dateExplorer + .linkExplorer {
+  margin-top: 0;
+}
+
+.dateExplorer .column,
 .linkExplorer .column {
     flex: 1;
 }
 
+.dateExplorer .column:first-child,
 .linkExplorer .column:first-child {
     border-right: 1px solid;
 }
 
+.dateExplorer h3,
 .linkExplorer h3 {
     font-size: .9rem;
     padding: .25em 0 .25em 42px;
