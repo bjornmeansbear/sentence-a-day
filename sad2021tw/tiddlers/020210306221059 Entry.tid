@@ -1,6 +1,6 @@
 created: 20210307031059476
-modified: 20210623212800210
-tags: Journal Workshop Lectures BigIdeas [[Utah Workshop 202103111331]] [[Climate Designers]] Prompt
+modified: 20210625032715816
+tags: Journal Workshop Lectures BigIdeas [[Utah Workshop 202103111331]] [[Climate Designers]] Prompt EAD
 title: 020210306221059 Entry
 type: text/vnd.tiddlywiki
 
@@ -137,11 +137,3 @@ Create a poster series
 Critique: Posters due
 
 – Present however necessary for your poster concepts.
-
-<hr>
-
-Also Created This Day:
-
-<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
-     <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
-</$vars>

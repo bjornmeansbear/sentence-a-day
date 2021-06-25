@@ -1,5 +1,5 @@
 created: 20210615161621288
-modified: 20210618043336997
+modified: 20210625024810424
 tags: tiddlyWiki
 title: Cool Design Features To Add/Tweak
 type: text/vnd.tiddlywiki
@@ -9,6 +9,9 @@ type: text/vnd.tiddlywiki
 * Templates for different kinds of tiddlers -- like do people and terms and books/sources and writings about ideas all have different things that should be shown?
 * Show in/out links only when there are in/out links
 * show additional info card @ top of tiddler only when there is additional info?
+
+!! Tagged [[FIXME!]]
+<<list-links "[tag[FIXME!]]">>
 
 !! Done(ish)!?
 * [Done] Idea Explorer: Show backlinks AND forward links at the bottom of every tiddler
