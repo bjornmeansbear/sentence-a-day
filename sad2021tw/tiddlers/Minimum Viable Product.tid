@@ -1,0 +1,7 @@
+created: 20210228041342323
+modified: 20210625051525186
+title: Minimum Viable Product
+tmap.id: d7636956-7131-45ba-8e06-15640f6c00b8
+type: text/vnd.tiddlywiki
+
+Software development has a methodology called “agile” whose goal is quickly solving, resolving, and iterating solutions. The first step is to come up with the Minimum Viable Product (MVP). This MVP doesn’t have all the features nor polish. Its goal is to achieve the minimum requirements as rapidly as possible. The next iteration tries to refine and fix found issues, builds more feature robustness, or sometimes re-imagines or re-builds the solution a different way if the first proved to have too many bugs or conceptual holes. Design teaching (and design making) benefits from adopting this ideology. Things do not have to be “finished” to allow a student to grow. Doing, failing, and moving on can be more useful for understanding than refining towards an unrealistic formal ideal.
