@@ -1,5 +1,5 @@
 created: 20210615161621288
-modified: 20210625024810424
+modified: 20210628185103152
 tags: tiddlyWiki
 title: Cool Design Features To Add/Tweak
 type: text/vnd.tiddlywiki
@@ -12,6 +12,9 @@ type: text/vnd.tiddlywiki
 
 !! Tagged [[FIXME!]]
 <<list-links "[tag[FIXME!]]">>
+
+!! Tagged [[Tweaks]]
+<<list-links "[tag[Tweaks]]">>
 
 !! Done(ish)!?
 * [Done] Idea Explorer: Show backlinks AND forward links at the bottom of every tiddler

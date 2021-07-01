@@ -1,0 +1,11 @@
+created: 20210628184907708
+modified: 20210628185040074
+tags: Tweaks
+title: What to do about including images?
+type: text/vnd.tiddlywiki
+
+Should images be their own tiddlers that are then transcluded? are images additional fields? Is there a difference between when an image is meta-data versus when the image IS the data?
+
+For instance:
+
+*  [[The Sustainabilitist Principles]] > is the tiddler the explanation and then images of the project are their own separate tiddler(s) transcluded!?
