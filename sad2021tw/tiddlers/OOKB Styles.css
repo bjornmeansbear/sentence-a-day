@@ -75,3 +75,7 @@ padding-left: 42px;
     max-width: 50%;
     height: auto;
 }
+
+.numberedList {
+    list-style-type: decimal !important;
+}
