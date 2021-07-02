@@ -1,9 +1,13 @@
 author: [[Svend Brinkmann]]
 coverurl: https://cdn.vox-cdn.com/thumbor/FmkSBQ5UODJdarwZ5Mpsq72BZpQ=/0x0:2500x3650/1200x0/filters:focal(0x0:2500x3650):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/16310964/9781509531561.jpg
 created: 20210701184356759
-modified: 20210701200604965
+modified: 20210702044601810
 tags: Source Book
 title: The Joy of Missing Out
 type: text/vnd.tiddlywiki
 
 <<list-links "[tag[JOM]]">>
+
+<<list-links "[all[tiddlers]prefix[JOM]]">>
+
+<<list-links "[all[missing]prefix[JOM]]">>
