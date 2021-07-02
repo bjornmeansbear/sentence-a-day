@@ -1,8 +1,8 @@
 created: 20210618042918786
 list: [[Are.na Channels w/ potential Prompts]] [[Who said eco-friendly needs to look eco-friendly?]] [[why go solar?]]
-modified: 20210618175357415
+modified: 20210701201133094
 tags: meta
 title: Prompt
 type: text/vnd.tiddlywiki
 
-<<list-links "[tag[Prompt]]">>
+<<list-links "[tag[Prompt]sort[title]]">>

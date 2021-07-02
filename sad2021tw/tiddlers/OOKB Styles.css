@@ -70,3 +70,8 @@ padding-left: 42px;
   flex: 3;
   padding-right: 42px;
 }
+
+.imgWrapper.bookCover img {
+    max-width: 50%;
+    height: auto;
+}

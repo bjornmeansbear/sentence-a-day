@@ -1,5 +1,5 @@
 created: 20210618143739297
-modified: 20210619033829985
+modified: 20210701170539757
 tags: staticSite
 title: Index
 type: text/vnd.tiddlywiki
@@ -8,8 +8,12 @@ This is my first static website with TiddlyWiki!
 
 Trying to improve the "live" version of my new whatever this site is. 
 
-[[020210600 JUNE!]] contains all the main stuff I've been intentionally [[writing|Writing]] here so far. But there are a lot of other kinds of content and definitions and such that will be showing up here.
+[[020210600 June]] contains all the main stuff I've been intentionally [[writing|Writing]] here so far. But there are a lot of other kinds of content and definitions and such that will be showing up here.
 
 this will eventually replace [[The Sustainabilitist]] > http://www.thesustainabilitist.com/
 
 using the [[Ness Labs]] tutorial to help figure this out. https://nesslabs.com/tiddlywiki-static-website-generator
+
+I also have been using a lot of [[Soren Bjornstad]]'s walkthroughs to figure things out.
+
+Now onto [[July|020210700 July]]
