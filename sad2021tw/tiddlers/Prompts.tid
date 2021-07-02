@@ -1,8 +1,13 @@
 created: 20210616043448250
-modified: 20210616045018611
+modified: 20210702204024097
 tags: Collection
 title: Prompts
 type: text/vnd.tiddlywiki
 
-<<list-links "[contains:fieldname[prompt]]">>
+This is related to but different than [[Prompt]] ¯\_(ツ)_/¯ — This pulls the prompts I have actually used for the different daily writings from the fields themselves, it isn't just a list of potential prompts...
 
+<ul>
+  <$list filter="[all[tiddlers]!is[system]!prompt[]] +[sort[title]]">
+    <li><$link to=<<currentTiddler>>><$view field="title"/></$link> :::: {{!!prompt}}</li>
+  </$list>
+</ul>
