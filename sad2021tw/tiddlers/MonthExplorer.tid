@@ -1,0 +1,11 @@
+created: 20210701165031881
+modified: 20210701165947018
+tags: Month
+title: MonthExplorer
+type: text/vnd.tiddlywiki
+
+\define sameMonth() YYYY0MM
+
+<$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
+<<list-links filter:"[tag[EAD]sort[title]!is[system]regexp:created<thatDate>sort[created]]" emptyMessage:"n/a">>
+</$set>

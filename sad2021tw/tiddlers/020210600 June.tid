@@ -1,9 +1,13 @@
 created: 20210612040726919
-modified: 20210617145009281
+modified: 20210701170438694
 tags: Month
-title: 020210600 JUNE!
+title: 020210600 June
 type: text/vnd.tiddlywiki
+
+\define sameMonth() YYYY0MM
 
 Okay, I am going to do something here again everyday. I am going to find random things in my are.na sustainability and design channels, things that can work like prompts. I'll then write several words on that prompt… not sure if I set a word limit, or a time limit. We'll see how the first couple of days/weeks go. March, April, and May were real rough — hopefully things go better moving forward!
 
-<<list-links "[tag[EAD]sort[title]]">>
+<$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
+<<list-links "[!is[system]regexp:created<thatDate>tag[EAD]sort[title]]" emptyMessage:"n/a">>
+</$set>
