@@ -1,5 +1,5 @@
 created: 20210616052809773
-modified: 20210619032434800
+modified: 20210702043927602
 tags: $:/tags/ViewTemplate
 title: MetaInfoTemplate
 type: text/vnd.tiddlywiki
@@ -72,6 +72,14 @@ type: text/vnd.tiddlywiki
         <div class="value">{{!!url}}</div>
     </section>
     </$list>
+
+    <$list filter="[all[current]!wikipedia[]] +[first[]]" variable=_>
+    <section class="row flex">
+        <div class="key">Wikipedia</div>
+        <div class="value">{{!!wikipedia}}</div>
+    </section>
+    </$list>
+
 
     <$list filter="[all[current]!coverurl[]] +[first[]]" variable=_>
     <section class="row flex">

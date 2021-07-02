@@ -1,5 +1,5 @@
 created: 20210615161621288
-modified: 20210628185103152
+modified: 20210702045022971
 tags: tiddlyWiki
 title: Cool Design Features To Add/Tweak
 type: text/vnd.tiddlywiki
@@ -7,8 +7,8 @@ type: text/vnd.tiddlywiki
 * Better styling overall
 ** For sure get rid of annoying pink color currently in use ASAP, otherwise the high contrast palette is more or less fine :)
 * Templates for different kinds of tiddlers -- like do people and terms and books/sources and writings about ideas all have different things that should be shown?
-* Show in/out links only when there are in/out links
 * show additional info card @ top of tiddler only when there is additional info?
+* [[JOM P83 ¶2 L13]] < - what to do about this kind of meta data from notes I take and include in here???!!??!?
 
 !! Tagged [[FIXME!]]
 <<list-links "[tag[FIXME!]]">>
@@ -19,3 +19,4 @@ type: text/vnd.tiddlywiki
 !! Done(ish)!?
 * [Done] Idea Explorer: Show backlinks AND forward links at the bottom of every tiddler
 * [Done] nice way of showing all the useful extra fields on tiddlers in their card?
+* [Done] Show in/out links only when there are in/out links
