@@ -1,5 +1,5 @@
 created: 20210228041506984
-modified: 20210619025706875
+modified: 20210705173658903
 tags: Principle
 title: Good Design Is as Little Design as Possible
 tmap.id: 77923b32-b5d4-45da-877d-f6eaff1aa873
@@ -12,4 +12,4 @@ type: text/vnd.tiddlywiki
 Related:
 
     * [[Less Is More]]
-    * [[ReDuce]]
+    * [[Reduce]]
