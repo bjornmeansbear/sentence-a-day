@@ -1,5 +1,5 @@
 created: 20210618143739297
-modified: 20210701170539757
+modified: 20210709161631333
 tags: staticSite
 title: Index
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ Trying to improve the "live" version of my new whatever this site is.
 
 this will eventually replace [[The Sustainabilitist]] > http://www.thesustainabilitist.com/
 
-using the [[Ness Labs]] tutorial to help figure this out. https://nesslabs.com/tiddlywiki-static-website-generator
+using the [[Ness Labs]] tutorial to help figure this out. https://nesslabs.com/tiddlywiki-static-website-generator / So I can use https://tiddlywiki.com/static/Generating%2520Static%2520Sites%2520with%2520TiddlyWiki.html as well to help get it working? Is it better to do it as a static site, or keep it dynamic but hide the controls for adding/editing?! I don't know.
 
 I also have been using a lot of [[Soren Bjornstad]]'s walkthroughs to figure things out.
 

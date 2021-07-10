@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="generator" content="TiddlyWiki" />
+<meta name="tiddlywiki-version" content="5.1.23" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="format-detection" content="telephone=no">
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="static.css">
+<title>LinkExplorer Explanation: The Sustainabilitist: Essays Every Day? — More like Ideas and Questions every day. Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everythingis Connected in general.</title>
+</head>
+<body class="tc-body">
+
+<section class="tc-story-river tc-static-story-river">
+<p><div class="tc-tiddler-frame tc-tiddler-view-frame tc-tiddler-exists  tc-tagged-meta" data-tags="meta" data-tiddler-title="LinkExplorer Explanation"><div class="tc-tiddler-title"><div class="tc-titlebar"><span class="tc-tiddler-controls"><span class=" tc-reveal"><button aria-label="more" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fmore-tiddler-actions" title="More actions"></button><div class=" tc-reveal" hidden="true"></div></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="new here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-here" title="Create a new tiddler tagged with this one">
+
+
+</button></span><span class=" tc-reveal"><button aria-label="new journal here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-journal-here" title="Create a new journal tiddler tagged with this one">
+
+
+
+
+
+</button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="edit" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fedit" title="Edit this tiddler"></button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="close" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fclose" title="Close this tiddler"></button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span></span><span><h2 class="tc-title">LinkExplorer Explanation</h2></span></div><div class="tc-tiddler-info tc-popup-handle tc-reveal" hidden="true"></div></div><div class=" tc-reveal" hidden="true"></div>
+<div class=" tc-reveal"><div class="tc-subtitle"><a class="tc-tiddlylink tc-tiddlylink-missing" href=".html"></a>18th June 2021 at 1:35pm</div></div><div class=" tc-reveal">
+<div class="tc-tags-wrapper"><span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
+fill:#fff;
+color:#fff;">
+meta
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span></div>
+</div>
+
+<div class="infoTable fieldDisplay">
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+</div><div class="tc-tiddler-body tc-reveal"><p>some reference for <a class="tc-tiddlylink tc-tiddlylink-resolves" href="LinkExplorer.html">LinkExplorer</a></p><p>I don't know exactly why/how this works. I figured out a thing on my own, then added the list around thanks to something from <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Grok%2520TiddlyWiki.html">Grok TiddlyWiki</a>, but it didn't work exactly, so this solution is a hack between <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Soren%2520Bjornstad.html">Soren Bjornstad</a>'s work and my own!?</p><p>I had this:</p><pre><code>&lt;div class=&quot;linkExplorer&quot;&gt;
+    &lt;div class=&quot;linksIn column&quot;&gt;
+        &lt;h3&gt;Inbound&lt;/h3&gt;
+        &lt;&lt;list-links &quot;[all[current]backlinks[]]&quot;&gt;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;linksOut column&quot;&gt;
+        &lt;h3&gt;Outbound&lt;/h3&gt;
+        &lt;&lt;list-links &quot;[all[current]links[]]&quot;&gt;&gt;
+     &lt;/div&gt;
+&lt;/div&gt;</code></pre><p>I evolved it to this from Hiding and Showing Things on <a class="tc-tiddlylink tc-tiddlylink-resolves" href="Grok%2520TiddlyWiki.html">Grok TiddlyWiki</a></p><pre><code>&lt;$list filter=&quot;[all[current]links[]] [all[current]backlinks[]] +[first[]]&quot; variable=_&gt;
+&lt;div class=&quot;linkExplorer&quot;&gt;
+    &lt;div class=&quot;linksIn column&quot;&gt;
+        &lt;h3&gt;Inbound&lt;/h3&gt;
+        &lt;&lt;linkDisplay &quot;Links&quot; &quot;links[]&quot; &quot;sib-links&quot;&gt;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;linksOut column&quot;&gt;
+        &lt;h3&gt;Outbound&lt;/h3&gt;
+        &lt;&lt;linkDisplay &quot;Backlinks&quot; &quot;backlinks[]&quot; &quot;sib-backlinks&quot;&gt;&gt;
+     &lt;/div&gt;
+&lt;/div&gt;
+&lt;/$list&gt;</code></pre><p>And then my hybrid solution in the end is what is live at <a class="tc-tiddlylink tc-tiddlylink-resolves" href="LinkExplorer.html">LinkExplorer</a> right now:</p><pre><code>&lt;$list filter=&quot;[all[current]links[]] [all[current]backlinks[]] +[first[]]&quot; variable=_&gt;
+&lt;div class=&quot;linkExplorer&quot;&gt;
+    &lt;div class=&quot;linksIn column&quot;&gt;
+        &lt;h3&gt;Inbound&lt;/h3&gt;
+         &lt;&lt;list-links &quot;[all[current]backlinks[]]&quot;&gt;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;linksOut column&quot;&gt;
+        &lt;h3&gt;Outbound&lt;/h3&gt;
+        &lt;&lt;list-links &quot;[all[current]links[]]&quot;&gt;&gt;
+     &lt;/div&gt;
+&lt;/div&gt;
+&lt;/$list&gt;</code></pre><p>¯\_(ツ)_/¯
+</p></div>
+
+<div class="tc-tiddler-plugin-info tc-reveal"><p>
+</p></div>
+<div class="linkExplorer">
+    <div class="linksIn column">
+        <h3>Inbound</h3>
+         <ul class=""></ul>
+    </div>
+    <div class="linksOut column">
+        <h3>Outbound</h3>
+        <ul class=""><li><a class="tc-tiddlylink tc-tiddlylink-resolves" href="LinkExplorer.html">LinkExplorer</a></li><li><a class="tc-tiddlylink tc-tiddlylink-resolves" href="Grok%2520TiddlyWiki.html">Grok TiddlyWiki</a></li><li><a class="tc-tiddlylink tc-tiddlylink-resolves" href="Soren%2520Bjornstad.html">Soren Bjornstad</a></li></ul>
+     </div>
+</div>
+
+</div>
+
+</p>
+</section>
+</body>
+</html>
+

@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="generator" content="TiddlyWiki" />
+<meta name="tiddlywiki-version" content="5.1.23" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="format-detection" content="telephone=no">
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="static.css">
+<title>Decoupling content from its site: The Sustainabilitist: Essays Every Day? — More like Ideas and Questions every day. Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everythingis Connected in general.</title>
+</head>
+<body class="tc-body">
+
+<section class="tc-story-river tc-static-story-river">
+<p><div class="tc-tiddler-frame tc-tiddler-view-frame tc-tiddler-exists  tc-tagged-CAPE tc-tagged-Writing" data-tags="CAPE Writing" data-tiddler-title="Decoupling content from its site"><div class="tc-tiddler-title"><div class="tc-titlebar"><span class="tc-tiddler-controls"><span class=" tc-reveal"><button aria-label="more" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fmore-tiddler-actions" title="More actions"></button><div class=" tc-reveal" hidden="true"></div></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="new here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-here" title="Create a new tiddler tagged with this one">
+
+
+</button></span><span class=" tc-reveal"><button aria-label="new journal here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-journal-here" title="Create a new journal tiddler tagged with this one">
+
+
+
+
+
+</button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="edit" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fedit" title="Edit this tiddler"></button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="close" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fclose" title="Close this tiddler"></button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span></span><span><h2 class="tc-title">Decoupling content from its site</h2></span></div><div class="tc-tiddler-info tc-popup-handle tc-reveal" hidden="true"></div></div><div class=" tc-reveal" hidden="true"></div>
+<div class=" tc-reveal"><div class="tc-subtitle"><a class="tc-tiddlylink tc-tiddlylink-missing" href=".html"></a>18th June 2021 at 11:42pm</div></div><div class=" tc-reveal">
+<div class="tc-tags-wrapper"><span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:#000001;
+fill:#fff;
+color:#fff;">
+CAPE
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span><span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
+fill:#fff;
+color:#fff;">
+Writing
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span></div>
+</div>
+
+<div class="infoTable fieldDisplay">
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+</div><div class="tc-tiddler-body tc-reveal"><p>One thing that isn't working well for me with Ruhoh, Wintersmith, etc. is that they mix site content with site generation files to a certain extent. I want to give my clients the simple experience of only editing stuff that they should see — and not having to teach them to ignore things. Content should be separate from templates or any other site-specific information.</p><p>So, can the content be meaningfully de-coupled from the site generation in these contexts? That is the main aim of “Create Anywhere Publish Everywhere” (CAPE) right? So does that mean that Ruhoh (or wintersmith or jekyll or any other static site generator) just actually aren't the right tools to be helping with the job I want to do?</p><p>Some MFA students last year in the GDMFA program here at MICA build a poster generating machine. It was basically just a website. There were controls via an Arduino box and some code that allowed a viewer to adjust the CSS of a digital “poster” with knobs and buttons. The most important control was a big “print” button. This basically took a screen shot of the display, then saved that capture to a dropbox folder. Another computer, this one hooked up to the printer, had an apple script running that said “when a new image shows up in this dropbox folder, print it.” Using this method the grad students built a pretty seamless system that made posters, printed out images, and also uploaded all of them to a tumblr blog (which then was used to feed images to their “website”). There were a lot of moving pieces required — a lot of behind the scenes, hacked together complexity — but to the user/viewer it looked simple and seamless and easy.</p><p>Locally, I could figure this out short term — I could share a folder with a client, put in the files in a directory structure that made sense to their specific needs, and then have it upon syncing trigger an action on my laptop that updated a git repository or similar. But how long would that last? The site could have a git repo of just content, and this content could then get sent around to wherever was desired. This would also be relatively easy to explain what might need to be explained to the clients then, and hide all the complexity they need know nothing about. How does this get ramped up into production though? I can't have every clients’ website just syncing to my personal computer.</p><p>It is at least a conceptual start. We'll see where it leads.</p></div>
+
+<div class="tc-tiddler-plugin-info tc-reveal"><p>
+</p></div>
+</div>
+
+</p>
+</section>
+</body>
+</html>
+
