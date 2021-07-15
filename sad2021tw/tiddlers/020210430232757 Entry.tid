@@ -1,0 +1,16 @@
+created: 20210501032757907
+modified: 20210715032201933
+tags: Journal
+title: 020210430232757 Entry
+tmap.id: 9370fc4d-0d7b-4d44-a8c6-940c1be75a14
+type: text/vnd.tiddlywiki
+
+Reading [[Castles Made of Sand]] and some other things!
+
+<hr>
+
+Also Created This Day:
+
+<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
+     <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
+</$vars>
