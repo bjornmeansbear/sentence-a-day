@@ -1,0 +1,12 @@
+created: 20210318043631742
+modified: 20210715033203400
+tags: 
+title: This bazaar style seemed to work
+tmap.id: 75dec884-f785-4b18-a567-c4ab9c5206dd
+type: text/vnd.tiddlywiki
+
+Linus Torvalds's style of development—release early and often, delegate everything you can, be open to the point of promiscuity—came as a surprise. No quiet, reverent cathedral-building here—rather, the Linux community seemed to resemble a great babbling bazaar of differing agendas and approaches (aptly symbolized by the Linux archive sites, who'd take submissions from anyone) out of which a coherent and stable system could seemingly emerge only by a succession of miracles.
+
+The fact that this bazaar style seemed to work, and work well, came as a distinct shock. As I learned my way around, I worked hard not just at individual projects, but also at trying to understand why the Linux world not only didn't fly apart in confusion but seemed to go from strength to strength at a speed barely imaginable to cathedral-builders.
+
+[[Eric Raymond]] / http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
