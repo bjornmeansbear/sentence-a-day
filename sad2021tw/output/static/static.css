@@ -2672,6 +2672,11 @@ margin-top: 42px;
   margin: 0;
 }
 
+.dateExplorer .column ul,
+.linkExplorer .column ul {
+    padding-right: 1.5em;
+}
+
 /* trying to make a "table" of info for each tiddler where necessary to be helpful!? */
 
 .flex {
