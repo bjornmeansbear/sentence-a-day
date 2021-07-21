@@ -1,8 +1,8 @@
 created: 20210617144439177
-modified: 20210623205452032
+modified: 20210719183725705
 title: Glossary
 type: text/vnd.tiddlywiki
 
-Isn't this the same as [[A Glossary]] that I also made!?
+<<list-links "[tag[Glossary]]">> 
 
-<<list-links "[tag[Glossary]]">>
+<<list-links "[tag[Definition]]">>
