@@ -1,0 +1,13 @@
+created: 20210801052117439
+modified: 20210801052235090
+tags: Month
+title: 020210800 August
+type: text/vnd.tiddlywiki
+
+\define sameMonth() YYYY0MM
+
+Month three of the idea. Month I ended up building out a bit more functionality/some new features... and then I also got a lot of basic starting content onto the site in regards to some other essay and presentations I have done. For this month, generating some new things, getting some new outlines to start filling in with some real writing, I think that will be a goal.
+
+<$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
+<<list-links "[!is[system]regexp:created<thatDate>tag[EAD]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
+</$set>
