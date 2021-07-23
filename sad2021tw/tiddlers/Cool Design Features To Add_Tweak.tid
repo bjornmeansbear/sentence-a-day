@@ -1,5 +1,5 @@
 created: 20210615161621288
-modified: 20210702045022971
+modified: 20210722203734036
 tags: tiddlyWiki
 title: Cool Design Features To Add/Tweak
 type: text/vnd.tiddlywiki
@@ -9,6 +9,7 @@ type: text/vnd.tiddlywiki
 * Templates for different kinds of tiddlers -- like do people and terms and books/sources and writings about ideas all have different things that should be shown?
 * show additional info card @ top of tiddler only when there is additional info?
 * [[JOM P83 ¶2 L13]] < - what to do about this kind of meta data from notes I take and include in here???!!??!?
+* When I include an image/picture, how to link to it usefully? how to link to the consituent parts?? how to show/explain/describe what fonts, images, tools, etc. were used to make it?
 
 !! Tagged [[FIXME!]]
 <<list-links "[tag[FIXME!]]">>
