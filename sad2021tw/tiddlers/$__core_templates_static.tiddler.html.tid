@@ -1,5 +1,5 @@
 created: 20210723033947585
-modified: 20210723034228563
+modified: 20210723035829492
 title: $:/core/templates/static.tiddler.html
 type: text/vnd.tiddlywiki
 
@@ -31,8 +31,8 @@ type: text/vnd.tiddlywiki
 
 <!-- KB Additions -->
 <div class="tc-sidebar-scrollable" style="overflow: auto;">
-  <div class="tc-sidebar-header"><h1 class="tc-site-title">`<$view field="caption"><$view field="title"/></$view>: {{$:/core/wiki/title}}`</h1></div>
-  <div class="tc-site-subtitle">This is my very first website created with TiddlyWiki</div>
+  <div class="tc-sidebar-header"><h1 class="tc-site-title">Bjørnpaedia</h1></div>
+  <div class="tc-site-subtitle"><p>Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everything is Connected in general.</p></div>
 </div>
 
 </body>
