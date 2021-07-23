@@ -1,0 +1,35 @@
+created: 20210723042328793
+modified: 20210723043042510
+title: $:/core/templates/static.template.css
+type: text/vnd.tiddlywiki
+
+{{$:/boot/boot.css||$:/core/templates/plain-text-tiddler}}
+
+{{$:/core/ui/PageStylesheet||$:/core/templates/wikified-tiddler}}
+
+<!-- KB ADDITIONS!? -->
+
+@media (min-width: 960px) {
+.tc-sidebar-scrollable {
+    position: fixed;
+    top: 0px;
+    left: 60%;
+    bottom: 0;
+    right: 0;
+    overflow: auto;
+    width: 40%;
+    -webkit-overflow-scrolling: touch;
+    margin: 0 0 0 -42px;
+    padding: 71px 0 28px 42px;
+}
+
+.tc-story-river {
+    width: 60%;
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-left: 0px;
+    margin-right: 40%;
+    padding: 42px 0 42px 42px;
+}
+}
