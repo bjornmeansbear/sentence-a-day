@@ -1,0 +1,18 @@
+created: 20210309061252735
+modified: 20210726165400870
+tags: [[Less Software]] Quote [[Getting Real]]
+title: Build products that do less
+type: text/vnd.tiddlywiki
+
+<<<
+Instead of trying to build products that do more, we build products that do less.
+
+* Less software is easier to manage.
+* Less software reduces your codebase and that means 
+* less maintenance busywork (and a happier staff).
+* Less software lowers your cost of change so you can adapt quickly. You can change your mind without having to change boatloads of code.
+* Less software results in fewer bugs.
+* Less software means less support.
+<<<
+
+https://basecamp.com/gettingreal/10.1-less-software

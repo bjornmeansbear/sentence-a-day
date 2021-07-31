@@ -1,11 +1,11 @@
 created: 20210616045144239
-modified: 20210702202040340
-tags: $:/tags/ViewTemplate
+modified: 20210728064440182
+tags: $:/tags/ViewTemplate hide
 title: LinkExplorer
 type: text/vnd.tiddlywiki
 
 <$list filter="[all[current]links[]] [all[current]backlinks[]] +[first[]]" variable=_>
-<div class="linkExplorer">
+<div class="linkExplorer explorerWrap">
     <div class="linksIn column">
         <h3>Inbound</h3>
          <<list-links "[all[current]backlinks[]]">>

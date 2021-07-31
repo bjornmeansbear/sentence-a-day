@@ -1,0 +1,14 @@
+created: 20210726170114868
+modified: 20210728064425377
+tags: $:/tags/ViewTemplate hide
+title: TagExplorer
+type: text/vnd.tiddlywiki
+
+<$list filter="[all[current]tagging[]] +[first[]]" variable=_>
+  <div class="tagExplorer explorerWrap">
+      <div class="column">
+          <h3>Tagged with //{{!!title}}//</h3>
+          <<list-links "[all[current]tagging[]sort[title]]">>
+      </div>
+  </div>
+</$list>
