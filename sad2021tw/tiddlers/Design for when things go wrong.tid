@@ -1,0 +1,13 @@
+created: 20210317034840941
+modified: 20210726165400891
+tags: [[Getting Real]]
+title: Design for when things go wrong
+type: text/vnd.tiddlywiki
+
+https://basecamp.com/gettingreal/09.5-get-defensive
+
+No matter how carefully you design your app, no matter how much testing you do, customers will still encounter problems. So how do you handle these inevitable breakdowns? With [[defensive design]].
+
+Remember: Your app may work great 90% of the time. But if you abandon customers in their time of need, they’re unlikely to forget it.
+
+
