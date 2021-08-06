@@ -10,4 +10,4 @@ url: https://www.ookb.co/cape/
 CAPE = [[Create Anywhere Publish Everywhere]]
 
 !! Idea Explaining:
-<<list-links filter:"[tag[CAPE]!tag[Projects]]">>
+<<list-links filter:"[tag[CAPE]!tag[Project]]">>
