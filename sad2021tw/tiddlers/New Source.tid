@@ -1,7 +1,7 @@
 caption: New Source
 created: 20210620055418053
 description: Create a new source (Book, Video, Etc.)
-modified: 20210622034755218
+modified: 20210813184453029
 tags: $:/tags/PageControls
 title: New Source
 type: text/vnd.tiddlywiki
@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
     title="New Book or Film or Web … etc. … Source"
     tags="[[Source]]"
     author=""
-    caption=""
+    caption="{{!!title}}: {{!!subtitle}}"
     coverurl=""
     isbn=""
     isbn-10=""
