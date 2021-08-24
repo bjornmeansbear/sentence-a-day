@@ -82,3 +82,10 @@ padding-left: 42px;
 .numberedList {
     list-style-type: decimal !important;
 }
+
+/** external links show a clever symbol, marginal style difference **/
+.tc-tiddlylink-external::after {
+/*  content: ' ◯↗⤴🌍';*/
+  content: ' ⤴◯';
+  text-decoration: none;
+}
