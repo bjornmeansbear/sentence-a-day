@@ -1,0 +1,19 @@
+created: 20210828032942280
+modified: 20210828033049179
+tags: [[Lecture: What Is Sustainable Graphic design? (March 2021)]]
+title: A Final Example: Ecovention Europe
+type: text/vnd.tiddlywiki
+
+Fast forward from [[Green Acres]]. [[Sue Spaid]], now living in Belgium, has a new exhibition: [[Ecovention Europe]], ecologically inventive artists working in Europe, and there is another book.
+
+In the interim since [[Green Acres]], I heard designer [[Sara de Bondt]] discuss the [[Radical Nature]] catalog designed for the [[Barbican]] in London. De Bondt's studio wrote a sustainable printing manifesto as part of the research for the catalog's production.
+
+De Bondt's "manifesto" reminded me about constraints for framing design decisions: How might I re-examine the design choices of _Green Acres_ through new constraints? Could I improve the sustainability (and the sustainable aesthetics) for _Ecovention Europe_?
+
+One of the items in De Bondt's printing manifesto is "use less ink." This meant selecting colors more carefully. The palette of _Ecovention Europe_ uses no color that adds up to more that 100% ink coverage. (_Ecovention Europe_ uses CMYK: and color palette swatches start at 100% pure C, M, Y, or K, and then are mixed in equal percentages to keep 100% or less total coverage: 50% + 50%; 33% + 33% + 33%; etc.). This resulted in a color palette that was fairly special for this book. Reducing ink also led to a graphic solution, bitmapped city aerial photos as the decorative section markers. The appearance of a filled area is kept, but less ink is used comparatively.
+
+Text columns in _Green Acres_ ended at full paragraphs breaks to make editing easier. This gave a formally-nice rhythm to text columns, but it was an inefficient use of space. With _Ecovention Europe_, I reduced this space by running all the text the full column heights. This had the secondary benefit of minimizing superfluous decoration: In _Green Acres_, superficial decorative elements filled those blanks left by text columns ending mid-page.
+
+I even tried to reduce decision making through reuse. The grid for _Green Acres_ had a lot of conceptual reasoning invested into it, and so I reused the page templates, type choices, grid setup, etc.
+
+As a conceptual exercise, this was great. But, did it make much of a difference? How could this be done differently and improved upon again next time? Is there an alternative to making this book at all? (Should this exist? I didn’t ask that question before we began!)
