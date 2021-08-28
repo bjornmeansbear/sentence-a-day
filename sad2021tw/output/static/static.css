@@ -2643,19 +2643,19 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 
 /* Added/Modified this Day */
 /* designing the in/out links section for each card */
-.dateExplorer,
-.linkExplorer {
+.explorerWrap {
   display: flex;
   border-top: 1px solid;
   margin: 2rem -42px -42px;
 }
 
-.dateExplorer + .linkExplorer {
+.dateExplorer + .linkExplorer,
+.tagExplorer + .dateExplorer,
+.tagExplorer + .linkExplorer {
 margin-top: 42px;
 }
 
-.dateExplorer .column,
-.linkExplorer .column {
+.explorerWrap .column {
   flex: 1;
 }
 
@@ -2664,16 +2664,14 @@ margin-top: 42px;
   border-right: 1px solid;
 }
 
-.dateExplorer h3,
-.linkExplorer h3 {
+.explorerWrap h3 {
   font-size: .9rem;
   padding: .25em 0 .25em 42px;
   background-color: #eee;
   margin: 0;
 }
 
-.dateExplorer .column ul,
-.linkExplorer .column ul {
+.explorerWrap .column ul {
     padding-right: 1.5em;
 }
 
@@ -2717,6 +2715,13 @@ padding-left: 42px;
 
 .numberedList {
     list-style-type: decimal !important;
+}
+
+/** external links show a clever symbol, marginal style difference **/
+.tc-tiddlylink-external::after {
+/*  content: ' ◯↗⤴🌍';*/
+  content: ' ⤴◯';
+  text-decoration: none;
 }
 
 @media (min-width: 960px) {
