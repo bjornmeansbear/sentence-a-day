@@ -1,5 +1,5 @@
 created: 20210615161621288
-modified: 20210722203734036
+modified: 20210830033958750
 tags: tiddlyWiki
 title: Cool Design Features To Add/Tweak
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 ** For sure get rid of annoying pink color currently in use ASAP, otherwise the high contrast palette is more or less fine :)
 * Templates for different kinds of tiddlers -- like do people and terms and books/sources and writings about ideas all have different things that should be shown?
 * show additional info card @ top of tiddler only when there is additional info?
-* [[JOM P83 ¶2 L13]] < - what to do about this kind of meta data from notes I take and include in here???!!??!?
+* For note taking: P83 ¶2 L13 < - what to do about this kind of meta data from notes I take and include in here???!!??!? And should I include some book code or other reference, not just P¶L???
 * When I include an image/picture, how to link to it usefully? how to link to the consituent parts?? how to show/explain/describe what fonts, images, tools, etc. were used to make it?
 
 !! Tagged [[FIXME!]]
