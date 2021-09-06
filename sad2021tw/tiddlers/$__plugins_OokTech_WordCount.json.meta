@@ -1,0 +1,11 @@
+author: OokTech
+core-version: >=5.1.9
+created: 20210906175121069
+dependents: 
+description: Word count in tiddlers
+modified: 20210906175121069
+plugin-type: plugin
+source: https://github.com/OokTech/TW5-WordCount
+title: $:/plugins/OokTech/WordCount
+type: application/json
+version: 0.0.6

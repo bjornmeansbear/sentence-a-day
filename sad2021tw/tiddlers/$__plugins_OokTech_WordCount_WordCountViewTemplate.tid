@@ -1,0 +1,23 @@
+created: 20210906175550225
+modified: 20210906175550406
+tags: $:/tags/ViewTemplate
+title: $:/plugins/OokTech/WordCount/WordCountViewTemplate
+type: text/vnd.tiddlywiki
+
+<$reveal
+    type='match'
+    state='$:/settings/OokTech/WordCount!!enable_view_mode'
+    text=true
+>
+    <$list
+        filter='[is[current]has[text]]'
+        emptyMessage="Word Count: 0"
+    >
+        Word Count:
+        <$word-count
+            tiddler=<<currentTiddler>>
+            field='text'
+            mode=word
+        />
+    </$list>
+</$reveal>
