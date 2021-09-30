@@ -1,0 +1,13 @@
+created: 20210930055803176
+modified: 20210930055854439
+tags: Month
+title: 020210900 September
+type: text/vnd.tiddlywiki
+
+\define sameMonth() YYYY0MM
+
+Month four of the idea. September was a pretty low output month, working on some other projects, and dealing with a general depression/malaise/lost feeling...
+
+<$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
+<<list-links "[!is[system]regexp:created<thatDate>tag[EAD]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
+</$set>
