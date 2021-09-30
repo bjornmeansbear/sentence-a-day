@@ -1,0 +1,33 @@
+created: 20210906203549464
+modified: 20210906203917107
+tags: [[F/LOS Daily: Towards an Open Source Design]]
+title: Free Means Freedom
+type: text/vnd.tiddlywiki
+
+The community aspects that Braithwaite and Raymond point to are not all there is to F/LOS — and not all that might interest a Graphic Designer. Torvalds was working on the Linux Kernel to aid in the completing of a larger project: GNU.  GNU was created by Richard Stallman as “an operating system that is free software — that is, it respects users’ freedom.”  This is where the Free/Libre part of Free/Libre Open Source came from.
+
+Stallman predicated Free software on the following essential freedoms:
+
+<<<
+* The freedom to run the program as you wish, for any purpose (freedom 0).
+* The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+* The freedom to redistribute copies so you can help others (freedom 2).
+* The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+<<<
+
+A program is free software if it gives users adequately all of these freedoms. Otherwise, it is non free. 
+
+Free software defined by Stallman values users, it does not want to enslave a user to the will of a program or the will of that program’s developer. Stallman’s motivation in 1983 was to maintain the share-and-share-alike, vernacular-like model computer programmers were accustomed to where all are able to build upon existing works. Stallman saw this under attack (most accounts claim that “free software” was birthed when Xerox asked a peer programmer not to share a printer’s source code with Stallman).  He was also motivated by being a good citizen.
+
+<<<
+“I consider that the Golden Rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.”
+— Richard Stallman 
+<<<
+
+Braithwaite nor Raymond deal with any ethical points in their discussions or analysis of open source. Neither take point of view as to why making should be done this way other than that “open design” arrives at better designs while saving resources. But “better” in that context is about less bugs and faster improvements, not “better” morals. Corporate culture has embraced the “open source” part of F/LOS, ,  what about the Stallman-esque Free/Libre piece, does that have implications for designing?
+
+In “Designer as Author” Anthony Dunne and Fiona Raby propose that designers “develop a parallel design activity that questions and challenges industrial agendas.”  This is design that is in opposition to mainstream culture. Stallman’s ideals play wonderfully with this “critical design” perspective — Stallman is promoting critical software. Free Software challenges proprietary software’s agendas. Designers fully embracing “free-ness” in their software end up precluding themselves from the normal range of design tools, but open themselves to new territory better representing socially conscious and sustainability related content (the ideology of respecting a user [an audience] matches nicely with a socially aware design practice). Switching one’s software in this context is a critical act. 
+
+Students in Special Topics: Open Source formulating practices around “design is political” or “design is ideological”  found Stallman’s position more valuable than the pure pragmatics of Braithwaite’s “share more.” Using collective making to more rapidly come to a solution was not the important bit from F/LOS — the good citizen-ship was! That tools might now reflect one’s ethics was a valuable discovery. But, somewhat ironically, in adopting full libre practices for ideological reasons, collaboration can be more difficult. A peer’s set of tools may no longer be your tools.  So, though F/LOS tools might not always be possible, protecting an audience member’s freedom is. Stallman’s golden rule still holds true: “… The Golden Rule requires that if I like a program [design] I must share it with other people who like it.” 
+
+The Special Topics: Open Source class collaborated with MICA’s library on new print and signage materials. The library thinks of itself as an open entity within the school — the ideals of Stallman’s and F/LOS at large are mirrored by the Library’s director and staff (free-ness of information, open access, collaboration, etc.). There were limitations to how “free” we could be — we had to create files with Adobe Creative Cloud (it is a standard toolset for MICA offices), and we had to use the institution’s fonts. Though software and fonts were non-free, students did still go to great lengths to find ways of using F/LOS content and the share-and-share alike mentalities. One student utilized the MICA library’s personal archives for imagery. These are often works in the public domain, with no known copyright holder, or that the MICA Library directly holds the rights to. Reusing and remixing in the vernacular/open source vein is now a possibility for future library works. The class used issue queues to help divide and assign work; and the library staff were able to have access to the repositories to provide some input. The MICA brand guidelines themselves can be made more powerful if following institutional “open sourcing” is the goal. Instead of blindly following brand guides, find holes and places for improvement. There was one “bug” that the class asked the MICA communications department about for the library materials: what default set of icons should MICA school projects use? The communications team didn’t have an answer, and since then have been exploring what the best way to solve a branded icon set institutionally with some of our work as starting point.
