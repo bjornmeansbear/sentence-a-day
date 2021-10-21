@@ -1,0 +1,13 @@
+created: 20211021034702726
+modified: 20211021034849709
+tags: Month
+title: 020211000 October
+type: text/vnd.tiddlywiki
+
+\define sameMonth() YYYY0MM
+
+Month five of the idea. September was a pretty low output month, and now its looking like October will be/is too... working on some other projects, and dealing with a general depression/malaise/lost feeling... trying to do some house stuff, working on up to date HVAC that should use WAY less energy long term AND be better heating/coiking wise. Also hoping to insulate the attic in a serious way. otherwise... watched too many shows on netflix, etc. and time just disappeared. Here's to getting back to things.
+
+<$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
+<<list-links "[!is[system]regexp:created<thatDate>tag[EAD]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
+</$set>
