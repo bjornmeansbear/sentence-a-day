@@ -1,0 +1,21 @@
+city: Baltimore
+created: 20211028184756328
+currentco2ppm: 
+location: Dining Table
+modified: 20211028195615475
+prompt: 
+state: Maryland
+tags: EAD EssayADay
+title: 020211028144756 Ideas
+type: text/vnd.tiddlywiki
+url: https://www.overleaf.com/project/617afaa9008ab93fa533f9f7
+
+I'm a bit lost. That's not going away.
+
+I am interested in how libre design tools can be useful for the contemporary designer, as well as play into the larger ecosystem of sustainability, social justice, fair access, etc. How can we take tools like TeX and use them for more things, more kinds of projects? Can I typeset and layout some basic projects I do using something like TeX?
+
+What else do I need to know? How to control the output page size? can I spec different fonts for different aspects of the page? are there any kinds of funky margin adjustments that can be made? can you do footnotes as a running sidebar adjacent the text? how does one include images in a usefully controlled way? can I pragmatically make the image that I use bitmaps during the processing of the document or do the images already need to be the way I want to use them (in thinking about how to make sure images use the least ink for example, use whatever I have and then standardize the way they are converted... I suppose I write an additional imageMagick command for that upon finalizing the image selections and placements?
+
+What else can I play around with? How is this more sustainable? less tooling? less reliance on stuff like adobe? less reliance on the newest, overly outfitted computer machinery?
+
+do designers have a lot to offer all of these communities? funny that it seems like few typographers and designers are in the groups for tex and scribus and such. But! is that just bringing some biases and such with me?
