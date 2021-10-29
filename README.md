@@ -43,3 +43,5 @@ as of 020210611 I installed tiddly wiki, use `tiddlywiki sad2021tw --listen` to 
 okay, going to go through this: <https://nesslabs.com/tiddlywiki-static-website-generator> -- see if I can make some export improvements, maybe somehow go right to the gh-pages branch!?
 
 Currently have a static version of this up at <https://www.bjornpaedia.com/> > generally gets updated weekly?
+
+need to figure out what the best way to save the tiddlywiki for web output is -- just make it a live version? save it all out to static files? both? some third way!?!?!?!?
