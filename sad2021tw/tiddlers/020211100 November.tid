@@ -1,0 +1,13 @@
+created: 20211101044304334
+modified: 20211101044429831
+tags: Month
+title: 020211100 November
+type: text/vnd.tiddlywiki
+
+\define sameMonth() YYYY0MM
+
+Oh man, already at November... this is month 6? September and October were sort of busts — didn't add much, didn't write much. How do I get back to that original impetus — writing about sustainability and design and open source and all that jazz? Where do my answers and inspirations come from; or rather, where did they go!?
+
+<$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
+<<list-links "[!is[system]regexp:created<thatDate>tag[EAD]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
+</$set>
