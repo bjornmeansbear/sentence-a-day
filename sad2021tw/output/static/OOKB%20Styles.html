@@ -1,0 +1,197 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="generator" content="TiddlyWiki" />
+<meta name="tiddlywiki-version" content="5.1.23" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="format-detection" content="telephone=no">
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="static.css">
+<title>OOKB Styles: The Sustainabilitist: Essays Every Day? — More like Ideas and Questions every day. Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everythingis Connected in general.</title>
+</head>
+<body class="tc-body">
+
+<section class="tc-story-river tc-static-story-river">
+<p><div class="tc-tiddler-frame tc-tiddler-view-frame tc-tiddler-exists  tc-tagged-%24%3A%2Ftags%2FStylesheet tc-tagged-hide" data-tags="$:/tags/Stylesheet hide" data-tiddler-title="OOKB Styles"><div class="tc-tiddler-title"><div class="tc-titlebar"><span class="tc-tiddler-controls"><span class=" tc-reveal"><button aria-label="more" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fmore-tiddler-actions" title="More actions"></button><div class=" tc-reveal" hidden="true"></div></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="new here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-here" title="Create a new tiddler tagged with this one">
+
+
+</button></span><span class=" tc-reveal"><button aria-label="new journal here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-journal-here" title="Create a new journal tiddler tagged with this one">
+
+
+
+
+
+</button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="edit" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fedit" title="Edit this tiddler"></button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button aria-label="close" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fclose" title="Close this tiddler"></button></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal" hidden="true"></span></span><span><h2 class="tc-title">OOKB Styles</h2></span></div><div class="tc-tiddler-info tc-popup-handle tc-reveal" hidden="true"></div></div><div class=" tc-reveal" hidden="true"></div>
+<div class=" tc-reveal"><div class="tc-subtitle"><a class="tc-tiddlylink tc-tiddlylink-missing" href=".html"></a>6th September 2021 at 2:04pm</div></div><span class=" tc-reveal">
+<div class="word-count">
+    
+        Word Count:
+        <span>217</span>
+    
+</div>
+</span>
+<div class=" tc-reveal">
+<div class="tc-tags-wrapper"><span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
+fill:#fff;
+color:#fff;">
+$:/tags/Stylesheet
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span><span class="tc-tag-list-item">
+<span class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
+fill:#fff;
+color:#fff;">
+hide
+</span>
+<span class="tc-drop-down tc-reveal" hidden="true"></span></span></div>
+</div>
+<span class=" tc-reveal" hidden="true"></span>
+
+<div class="infoTable fieldDisplay">
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+</div><div class="tc-tiddler-body tc-reveal"><pre class="css hljs"><code><span class="hljs-comment">/* Trying something clever w/ titles of tiddlers */</span>
+<span class="hljs-comment">/* .tc-tiddler-title { */</span>
+<span class="hljs-selector-class">.tc-title</span> {
+  <span class="hljs-attribute">position</span>: sticky;
+  <span class="hljs-attribute">top</span>: <span class="hljs-number">0</span>;
+  <span class="hljs-attribute">background</span>: white;
+  <span class="hljs-attribute">z-index</span>: <span class="hljs-number">1</span>;
+}
+
+<span class="hljs-comment">/* Added/Modified this Day */</span>
+<span class="hljs-comment">/* designing the in/out links section for each card */</span>
+<span class="hljs-selector-class">.explorerWrap</span> {
+  <span class="hljs-attribute">display</span>: flex;
+  <span class="hljs-attribute">border-top</span>: <span class="hljs-number">1px</span> solid;
+  <span class="hljs-attribute">margin</span>: <span class="hljs-number">2rem</span> -<span class="hljs-number">42px</span> -<span class="hljs-number">42px</span>;
+}
+
+<span class="hljs-selector-class">.dateExplorer</span> + <span class="hljs-selector-class">.linkExplorer</span>,
+<span class="hljs-selector-class">.tagExplorer</span> + <span class="hljs-selector-class">.dateExplorer</span>,
+<span class="hljs-selector-class">.tagExplorer</span> + <span class="hljs-selector-class">.linkExplorer</span> {
+<span class="hljs-attribute">margin-top</span>: <span class="hljs-number">42px</span>;
+}
+
+<span class="hljs-selector-class">.explorerWrap</span> <span class="hljs-selector-class">.column</span> {
+  <span class="hljs-attribute">flex</span>: <span class="hljs-number">1</span>;
+}
+
+<span class="hljs-selector-class">.dateExplorer</span> <span class="hljs-selector-class">.column</span><span class="hljs-selector-pseudo">:first-child</span>,
+<span class="hljs-selector-class">.linkExplorer</span> <span class="hljs-selector-class">.column</span><span class="hljs-selector-pseudo">:first-child</span> {
+  <span class="hljs-attribute">border-right</span>: <span class="hljs-number">1px</span> solid;
+}
+
+<span class="hljs-selector-class">.explorerWrap</span> <span class="hljs-selector-tag">h3</span> {
+  <span class="hljs-attribute">font-size</span>: .<span class="hljs-number">9rem</span>;
+  <span class="hljs-attribute">padding</span>: .<span class="hljs-number">25em</span> <span class="hljs-number">0</span> .<span class="hljs-number">25em</span> <span class="hljs-number">42px</span>;
+  <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#eee</span>;
+  <span class="hljs-attribute">margin</span>: <span class="hljs-number">0</span>;
+}
+
+<span class="hljs-selector-class">.explorerWrap</span> <span class="hljs-selector-class">.column</span> <span class="hljs-selector-tag">ul</span> {
+    <span class="hljs-attribute">padding-right</span>: <span class="hljs-number">1.5em</span>;
+}
+
+<span class="hljs-comment">/* trying to make a "table" of info for each tiddler where necessary to be helpful!? */</span>
+
+<span class="hljs-selector-class">.flex</span> {
+  <span class="hljs-attribute">display</span>: flex;
+}
+
+<span class="hljs-selector-class">.fieldDisplay</span> {
+  <span class="hljs-attribute">width</span>: <span class="hljs-built_in">calc</span>(<span class="hljs-number">100%</span> + <span class="hljs-number">84px</span>);
+  <span class="hljs-attribute">margin-left</span>: -<span class="hljs-number">42px</span>;
+  <span class="hljs-attribute">margin-right</span>: -<span class="hljs-number">42px</span>;
+}
+
+<span class="hljs-selector-class">.row</span> {
+  <span class="hljs-attribute">border-top</span>: <span class="hljs-number">1px</span> solid;
+  <span class="hljs-attribute">width</span>: <span class="hljs-number">100%</span>;
+}
+<span class="hljs-selector-class">.row</span><span class="hljs-selector-pseudo">:last-child</span> {
+  <span class="hljs-attribute">border-bottom</span>: <span class="hljs-number">1px</span> solid;
+}
+<span class="hljs-selector-class">.row</span> &gt; <span class="hljs-selector-tag">div</span> {
+  <span class="hljs-attribute">padding</span>: .<span class="hljs-number">25rem</span> .<span class="hljs-number">5rem</span>;
+}
+<span class="hljs-selector-class">.row</span> <span class="hljs-selector-class">.key</span> {
+<span class="hljs-attribute">background</span>: <span class="hljs-number">#eee</span>;
+<span class="hljs-attribute">flex</span>: <span class="hljs-number">1</span>;
+<span class="hljs-attribute">padding-left</span>: <span class="hljs-number">42px</span>;
+}
+
+<span class="hljs-selector-class">.row</span> <span class="hljs-selector-class">.value</span> {
+  <span class="hljs-attribute">flex</span>: <span class="hljs-number">3</span>;
+  <span class="hljs-attribute">padding-right</span>: <span class="hljs-number">42px</span>;
+}
+
+<span class="hljs-selector-class">.imgWrapper</span><span class="hljs-selector-class">.bookCover</span> <span class="hljs-selector-tag">img</span> {
+    <span class="hljs-attribute">max-width</span>: <span class="hljs-number">50%</span>;
+    <span class="hljs-attribute">height</span>: auto;
+}
+
+<span class="hljs-selector-class">.numberedList</span> {
+    <span class="hljs-attribute">list-style-type</span>: decimal <span class="hljs-meta">!important</span>;
+}
+
+<span class="hljs-comment">/** external links show a clever symbol, marginal style difference **/</span>
+<span class="hljs-selector-class">.tc-tiddlylink-external</span><span class="hljs-selector-pseudo">::after</span> {
+<span class="hljs-comment">/*  content: ' ◯↗⤴🌍';*/</span>
+  <span class="hljs-attribute">content</span>: <span class="hljs-string">' ⤴◯'</span>;
+  <span class="hljs-attribute">text-decoration</span>: none;
+}
+
+<span class="hljs-comment">/** Trying to add this little word count widget!? **/</span>
+<span class="hljs-selector-class">.word-count</span> {
+    <span class="hljs-attribute">color</span>: white;
+    <span class="hljs-attribute">background-color</span>: <span class="hljs-number">#CCC</span>;
+    <span class="hljs-attribute">border-radius</span>: <span class="hljs-number">1em</span>;
+    <span class="hljs-attribute">float</span>: right;
+    <span class="hljs-attribute">font-size</span>: .<span class="hljs-number">8em</span>;
+    <span class="hljs-attribute">line-height</span>: <span class="hljs-number">2</span>;
+    <span class="hljs-attribute">padding</span>: <span class="hljs-number">0</span> <span class="hljs-number">1em</span>;
+}</code></pre></div>
+
+<div class="tc-tiddler-plugin-info tc-reveal"><p>
+</p></div>
+</div>
+
+</p>
+</section>
+
+<!-- KB Additions -->
+<div class="tc-sidebar-scrollable" style="overflow: auto;">
+  <div class="tc-sidebar-header"><h1 class="tc-site-title">Bjørnpaedia</h1></div>
+  <div class="tc-site-subtitle"><p>Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everything is Connected in general.</p></div>
+</div>
+
+</body>
+</html>
+
