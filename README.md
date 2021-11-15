@@ -45,3 +45,9 @@ okay, going to go through this: <https://nesslabs.com/tiddlywiki-static-website-
 Currently have a static version of this up at <https://www.bjornpaedia.com/> > generally gets updated weekly?
 
 need to figure out what the best way to save the tiddlywiki for web output is -- just make it a live version? save it all out to static files? both? some third way!?!?!?!?
+
+## November 2021
+
+This repo is filling with a lot of other kinds of things — since switching to tiddlywiki, well, there's a lot extra here now. I'm trying to figure out how to clean things up, improve things... but I'm not totally sure what to do yet. A lot of duplication not a lot of clear thinking, not a lot of long form, fleshed out stuff. But a lot of daily rantings still.
+
+Whew.
