@@ -2,10 +2,10 @@ city: Baltimore
 created: 20211108190325209
 currentco2ppm: 
 location: 
-modified: 20211115044044220
-prompt: 
+modified: 20211124060322995
+prompt: Write and produce a The Libre Designer Zine
 state: Maryland
-tags: EAD EssayADay [[The Libre Designer]] Zine
+tags: EAD EssayADay [[The Libre Designer]] Zine TLDZine
 title: 020211108140325 Ideas > The Libre Designer Zine
 type: text/vnd.tiddlywiki
 
@@ -15,16 +15,16 @@ TOC:
 * [[Free Culture!|Free Culture! (TLDZine)]]
 * [[Where did I start thinking this way?]]??
 * Grad School and evolution of these ideas?
-** The Vernacular
-** My Own Kit of Parts
-*** Examples???
+** The [[Vernacular]]
+** [[My Own Kit of Parts]]
+*** Examples??? > what is useful here? how to include in short book easily!?
 * The Libre Designer
 ** MICA background
 ** A course!?
 *** See: [[Special Topics in Graphic Design: Open Source]]
 ** Why don't designer's open source
 * A Libre History???
-* Academic Benefits
+* [[Academic Benefits|The Academic Benefits of F/LOSS]]
 * How do we actually make free culture?
 ** Licenses?
 ** Liberated tools?
