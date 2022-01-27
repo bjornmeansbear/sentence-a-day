@@ -1,5 +1,5 @@
 created: 20220125214443083
-modified: 20220126155916548
+modified: 20220127212254167
 tags: [[The Libre Designer]] TLDZine
 title: The Libre Designer More Thoughts
 type: text/vnd.tiddlywiki
@@ -36,7 +36,9 @@ To take this to a step closer to graphic design, there's two ideas I want to qui
 
 And then, in terms of utopianism, if Stallman founded the free software foundation and the GNU operating system on such intentional, oppositional to main stream views, GNU is a "critical design" a la Dunne and Raby.
 
+<<<
 "Designers should develop parallel design activity that questions and challenges industrial agents."
+<<<
 
 Is this too good to be true? by just using GNU/Linux and installing the F/LOS design equivalents you're participating in a community challenging mainstream techno-modern-capitalism… Using F/LOS is just a critical design act!
 
@@ -46,18 +48,22 @@ All Design is Ideological / Shouldn't our design tools be ideological too?
 
 It also felt like a nice tie to 60s/70s counter-cultural design stuff like the whole earth catalog, Enzo Mari's Autoprogettazione, Papanek's Nomadic Furniture, Ken Isaacs living structures, Buckminster Fuller's dymaxion objects... etc. Those are projects and figures referenced by contemporary designers still, and those works were about trying to "open up" design using the freedoms stallman outlines, before stallman got to his free software! this was "free design" seemingly, and helped me at least validate that designers can do this (though, again, its easiest to find object and architecture designed things that have published plans, etc. where you build it yourself or 3D print it yourself, but not necessarily print graphics...)
 
+<<<
 Why have developers latched onto the open source movement, but designers have not?
 — Garth Braithwaite
+<<<
 
 Great, we've got this utopian position — all software should be free software, all designs should be free designs, it sounds great, but if this is all wonderful and great, why are there so few designers doing it?
 
 The next time you go looking for F/LOS design and quickly find fonts, icons, templates, stock images and illustrations, and frameworks ask yourself: Is this all that F/LOS design means? Is that really all that’s possible? F/LOS offers up a pragmatic approach based on reviving how we as humans previously created socio-cultural artifacts; and a critical approach intentionally positioning itself in opposition to mainstream moderno-techno-capitalism. Those design “objects” that might help make more designs are the pragmatic side of things. The main outcome of our class it turns out is in trying to now populate the ideological side.
 
+<<<
 “The master’s tools will never dismantle the master’s house” — Audrey Lorde
 
 “… Capitalism must constantly ‘cool hunt’ and turn whatever is authentic and genuine into trends for consumption” — Micah White
 
 “You probably heard that one before because it was never new and it never gets old and its a folk song...” — LLewyn Davis
+<<<
 
 What does design save by not diving more fully into free/libre/open source? What can we bring to design from F/LOS communities?
 
@@ -143,13 +149,13 @@ F/LOS tools are a struggle. Especially if you're already conditioned to how othe
 
 If the goal of us as academics is in increasing knowledge (I would also say that any field period is only useful if it is constantly producing knowledge and moving culture), then we are arbitrarily limiting the futures of visual design by collectively standardizing on a set of softwares/operating systems/formats.
 
-## A New toolbox
+!! A New toolbox
 
 What are we teaching in our graphic design classes? Are we teaching students to use the Adobe Creative Suite -- or are we teaching them designing?
 
 How does the new toolbox solve whatever things I mention before???
 
-## One Cloud to Make them All
+!! One Cloud to Make them All
 
 Adobe more or less has a monoply on the toolset of the visual designer. Worldwide most designers, studios, and educational programs rely on Adobe tools to output their visuals (more physical good related things might be reliant on all autodesk suites of things instead, but the point more or less stands).
 
@@ -157,9 +163,9 @@ Is there a pedagogical or ethical problem with that? Is it made worse by the fac
 
 Design should be a conduit to communicate your values … do the tools that you choose to use affect this?
 
-»»»
-
+<<<
 Teaching is more difficult than learning because what teaching calls for is this: to let learn. The real teacher, in fact, lets nothing else be learned than learning. His conduct, therefore, often produces the impression that we learn nothing from him, if by 'learning' we now suddenly understand merely the procurement of useful information. -- Martin Heidegger
+<<<
 
 Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods. This paper also presents how the research, discussions, interviews, experiments, and work/output of the course “Open Source Design” (running Jan-May 2018) changes the ways a designer envisions their practice and methods of making. The paper utilizes the author's own work and research, work and research from the FLOSS community, as well as content created by their students to support the arguments. The way one works with FLOSS tools and ideals creates different systems, processes, methodologies, and aesthetics. The works of the author and their students provide interesting visual and code-based examples to help answer and illustrate this. Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions?
 
