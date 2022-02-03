@@ -1,23 +1,20 @@
 created: 20210906203549464
-modified: 20210906203917107
-tags: [[F/LOS Daily: Towards an Open Source Design]]
+modified: 20220203055748065
+tags: [[F/LOS Daily: Towards an Open Source Design]] TLDZine
 title: Free Means Freedom
 type: text/vnd.tiddlywiki
 
-The community aspects that Braithwaite and Raymond point to are not all there is to F/LOS — and not all that might interest a Graphic Designer. Torvalds was working on the Linux Kernel to aid in the completing of a larger project: GNU.  GNU was created by Richard Stallman as “an operating system that is free software — that is, it respects users’ freedom.”  This is where the Free/Libre part of Free/Libre Open Source came from.
+The community aspects that [[Braithwaite|Garth Braithwaite]] and [[Raymond|Eric Raymond]] point to are not all there is to [[F/LOS|FLOS]] — and not all that might interest a [[Graphic Designer]]. [[Torvalds|Linus Torvalds]] was working on the [[Linux Kernel|Linux]] to aid in the completing of a larger project: [[GNU]].  GNU was created by [[Richard Stallman]] as “an operating system that is free software — that is, it respects users’ freedom.”  This is where the Free/Libre part of Free/Libre Open Source came from.
 
-Stallman predicated Free software on the following essential freedoms:
+Stallman predicated [[Free software]] on the following essential [[freedoms|The Four Freedoms]]:
 
 <<<
-* The freedom to run the program as you wish, for any purpose (freedom 0).
-* The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
-* The freedom to redistribute copies so you can help others (freedom 2).
-* The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+{{The Four Freedoms}}
 <<<
 
 A program is free software if it gives users adequately all of these freedoms. Otherwise, it is non free. 
 
-Free software defined by Stallman values users, it does not want to enslave a user to the will of a program or the will of that program’s developer. Stallman’s motivation in 1983 was to maintain the share-and-share-alike, vernacular-like model computer programmers were accustomed to where all are able to build upon existing works. Stallman saw this under attack (most accounts claim that “free software” was birthed when Xerox asked a peer programmer not to share a printer’s source code with Stallman).  He was also motivated by being a good citizen.
+Free software defined by Stallman values users, it does not want to enslave a user to the will of a program or the will of that program’s developer. Stallman’s motivation in 1983 was to maintain the share-and-share-alike, [[vernacular-like|vernacular]] model computer programmers were accustomed to where all are able to build upon existing works. Stallman saw this under attack (most accounts claim that “free software” was birthed when Xerox asked a peer programmer not to share a printer’s source code with Stallman).  He was also motivated by being a good citizen.
 
 <<<
 “I consider that the Golden Rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.”

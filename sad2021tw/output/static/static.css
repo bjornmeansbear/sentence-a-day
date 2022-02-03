@@ -2710,7 +2710,25 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 .explorerWrap {
   display: flex;
   border-top: 1px solid;
-  margin: 2rem -42px -42px;
+  margin: 0 -14px;
+}
+.explorerWrap:last-of-type {
+  margin-bottom: -14px;
+}
+
+
+.dateExplorer + .linkExplorer,
+.tagExplorer + .dateExplorer,
+.tagExplorer + .linkExplorer {
+margin-top: 14px;
+}
+
+@media screen and (min-width: 960px) {
+  .explorerWrap {
+    margin: 2rem -42px -42px;
+  }
+.explorerWrap:last-of-type {
+  margin-bottom: -42px;
 }
 
 .dateExplorer + .linkExplorer,
@@ -2718,6 +2736,8 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 .tagExplorer + .linkExplorer {
 margin-top: 42px;
 }
+}
+
 
 .explorerWrap .column {
   flex: 1;
@@ -2746,10 +2766,19 @@ margin-top: 42px;
 }
 
 .fieldDisplay {
+  width: calc(100% + 28px);
+  margin-left: -14px;
+  margin-right: -14px;
+}
+
+@media screen and (min-width: 960px) {
+.fieldDisplay {
   width: calc(100% + 84px);
   margin-left: -42px;
   margin-right: -42px;
 }
+}
+
 
 .row {
   border-top: 1px solid;

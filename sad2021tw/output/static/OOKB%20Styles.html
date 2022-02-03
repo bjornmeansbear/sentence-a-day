@@ -20,11 +20,11 @@
 
 <section class="tc-story-river tc-static-story-river">
 <p><div class="tc-tiddler-frame tc-tiddler-view-frame tc-tiddler-exists  tc-tagged-%24%3A%2Ftags%2FStylesheet tc-tagged-hide" data-tags="$:/tags/Stylesheet hide" data-tiddler-title="OOKB Styles"><div class="tc-tiddler-title"><div class="tc-titlebar"><span class="tc-tiddler-controls"><button aria-expanded="false" aria-label="more" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fmore-tiddler-actions" title="More actions"></button><div class=" tc-reveal" hidden="true"></div><button aria-label="new here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-here" title="Create a new tiddler tagged with this one"></button><button aria-label="new journal here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-journal-here" title="Create a new journal tiddler tagged with this one"></button><button aria-label="edit" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fedit" title="Edit this tiddler"></button><button aria-label="close" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fclose" title="Close this tiddler"></button></span><span><h2 class="tc-title">OOKB Styles</h2></span></div><div class="tc-tiddler-info tc-popup-handle tc-reveal" hidden="true"></div></div><div class=" tc-reveal" hidden="true"></div>
-<div class=" tc-reveal"><div class="tc-subtitle"><a class="tc-tiddlylink tc-tiddlylink-missing" href=".html"></a>6th September 2021 at 2:04pm</div></div><span class=" tc-reveal">
+<div class=" tc-reveal"><div class="tc-subtitle"><a class="tc-tiddlylink tc-tiddlylink-missing" href=".html"></a>30th December 2021 at 10:53pm</div></div><span class=" tc-reveal">
 <div class="word-count">
     
         Word Count:
-        <span>217</span>
+        <span>267</span>
     
 </div>
 </span>
@@ -84,7 +84,25 @@ hide
 <span class="hljs-selector-class">.explorerWrap</span> {
   <span class="hljs-attribute">display</span>: flex;
   <span class="hljs-attribute">border-top</span>: <span class="hljs-number">1px</span> solid;
-  <span class="hljs-attribute">margin</span>: <span class="hljs-number">2rem</span> -<span class="hljs-number">42px</span> -<span class="hljs-number">42px</span>;
+  <span class="hljs-attribute">margin</span>: <span class="hljs-number">0</span> -<span class="hljs-number">14px</span>;
+}
+<span class="hljs-selector-class">.explorerWrap</span><span class="hljs-selector-pseudo">:last-of-type</span> {
+  <span class="hljs-attribute">margin-bottom</span>: -<span class="hljs-number">14px</span>;
+}
+
+
+<span class="hljs-selector-class">.dateExplorer</span> + <span class="hljs-selector-class">.linkExplorer</span>,
+<span class="hljs-selector-class">.tagExplorer</span> + <span class="hljs-selector-class">.dateExplorer</span>,
+<span class="hljs-selector-class">.tagExplorer</span> + <span class="hljs-selector-class">.linkExplorer</span> {
+<span class="hljs-attribute">margin-top</span>: <span class="hljs-number">14px</span>;
+}
+
+<span class="hljs-keyword">@media</span> screen <span class="hljs-keyword">and</span> (<span class="hljs-attribute">min-width:</span> <span class="hljs-number">960px</span>) {
+  <span class="hljs-selector-class">.explorerWrap</span> {
+    <span class="hljs-attribute">margin</span>: <span class="hljs-number">2rem</span> -<span class="hljs-number">42px</span> -<span class="hljs-number">42px</span>;
+  }
+<span class="hljs-selector-class">.explorerWrap</span><span class="hljs-selector-pseudo">:last-of-type</span> {
+  <span class="hljs-attribute">margin-bottom</span>: -<span class="hljs-number">42px</span>;
 }
 
 <span class="hljs-selector-class">.dateExplorer</span> + <span class="hljs-selector-class">.linkExplorer</span>,
@@ -92,6 +110,8 @@ hide
 <span class="hljs-selector-class">.tagExplorer</span> + <span class="hljs-selector-class">.linkExplorer</span> {
 <span class="hljs-attribute">margin-top</span>: <span class="hljs-number">42px</span>;
 }
+}
+
 
 <span class="hljs-selector-class">.explorerWrap</span> <span class="hljs-selector-class">.column</span> {
   <span class="hljs-attribute">flex</span>: <span class="hljs-number">1</span>;
@@ -120,10 +140,19 @@ hide
 }
 
 <span class="hljs-selector-class">.fieldDisplay</span> {
+  <span class="hljs-attribute">width</span>: <span class="hljs-built_in">calc</span>(<span class="hljs-number">100%</span> + <span class="hljs-number">28px</span>);
+  <span class="hljs-attribute">margin-left</span>: -<span class="hljs-number">14px</span>;
+  <span class="hljs-attribute">margin-right</span>: -<span class="hljs-number">14px</span>;
+}
+
+<span class="hljs-keyword">@media</span> screen <span class="hljs-keyword">and</span> (<span class="hljs-attribute">min-width:</span> <span class="hljs-number">960px</span>) {
+<span class="hljs-selector-class">.fieldDisplay</span> {
   <span class="hljs-attribute">width</span>: <span class="hljs-built_in">calc</span>(<span class="hljs-number">100%</span> + <span class="hljs-number">84px</span>);
   <span class="hljs-attribute">margin-left</span>: -<span class="hljs-number">42px</span>;
   <span class="hljs-attribute">margin-right</span>: -<span class="hljs-number">42px</span>;
 }
+}
+
 
 <span class="hljs-selector-class">.row</span> {
   <span class="hljs-attribute">border-top</span>: <span class="hljs-number">1px</span> solid;
