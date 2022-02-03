@@ -1,10 +1,10 @@
 created: 20210906203254593
-modified: 20210906203717565
-tags: [[F/LOS Daily: Towards an Open Source Design]]
+modified: 20220203055042722
+tags: [[F/LOS Daily: Towards an Open Source Design]] TLDZine
 title: Open Source Design
 type: text/vnd.tiddlywiki
 
-A search for “Open Source Design” online returns The Open Source Design Manifesto by Garth Braithwaite, a designer working on open source projects at Adobe. Braithwaite’s manifesto made a simple starting point in understanding how F/LOS impacts graphic design. The manifesto reads:
+A search for “Open Source Design” online returns [[The Open Source Design Manifesto]] by [[Garth Braithwaite]], a designer working on open source projects at [[Adobe]]. Braithwaite’s manifesto made a simple starting point in understanding how F/LOS impacts graphic design. The manifesto reads:
 
 <<<
 I will:
@@ -17,4 +17,4 @@ I will:
 * improve my toolbox 
 <<<
 
-In a 2013 talk called “Designers Can Open Source,”  Braithwaite explains actions and behaviors designers might adopt for the “open-ness” the manifesto aims to inspire. The main tenant is to share more: “Sharing process, especially the failures, really helps” and “post as you are working, show how things evolve.”  This creates an ecosystem where designers are more collaborative and more open with their neighbors — more unselfconscious — making design knowledge more effectively shared. Taking Braithwaite’s ideas to heart, our class made sharing and communicating a goal. To facilitate this we moved our class’ project files to repositories on Github  (Braithwaite mentions Github as a tool for sharing and collaborating for codebases, we tried it for designing). We wanted to earnestly “design in the open.”  
+In a 2013 talk called “[[Designers Can Open Source]],”  Braithwaite explains actions and behaviors designers might adopt for the “open-ness” the manifesto aims to inspire. The main tenant is to share more: “Sharing process, especially the failures, really helps” and “post as you are working, show how things evolve.”  This creates an ecosystem where designers are more collaborative and more open with their neighbors — more unselfconscious — making design knowledge more effectively shared. Taking Braithwaite’s ideas to heart, our class made sharing and communicating a goal. To facilitate this we moved our class’ project files to repositories on Github  (Braithwaite mentions Github as a tool for sharing and collaborating for codebases, we tried it for designing). We wanted to earnestly “design in the open.”  
