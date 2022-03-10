@@ -1,7 +1,7 @@
 caption: New EAD
 created: 20210620040943918
 description: Create a new “Essay-A-Day” tiddler
-modified: 20210621032515116
+modified: 20220310043946601
 tags: $:/tags/PageControls
 title: New 02021 EAD
 type: text/vnd.tiddlywiki
@@ -15,7 +15,7 @@ $(timeStamp)$ Ideas
 <$action-sendmessage
     $message="tm-new-tiddler"
     title=<<eadTitle>>
-    tags="[[EAD]] [[EssayADay]]"
+    tags="[[EssayADay]]"
     prompt=""
     currentco2ppm=""
     city="Baltimore"

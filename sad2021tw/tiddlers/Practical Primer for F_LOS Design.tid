@@ -1,5 +1,5 @@
 created: 20220203052647423
-modified: 20220203053006619
+modified: 20220225062523671
 tags: TLDZine [[The Libre Designer]] FLOS
 title: Practical Primer for F/LOS Design
 type: text/vnd.tiddlywiki
@@ -9,5 +9,13 @@ or, Why [[Free Culture]] makes sense (cents?)
 Utilizing free — free as in freedom — resources as a designer has a number of immediate practical implications.
 
 # you can (for the most part) get images, fonts, tools, etc. for NO cost.
-# you can share and redistribute the resources you use with your colleagues, clients, friends, students, etc. with no retribution or legal ramifications
-# you can use and remix and modify and tweak to your hearts (and designs) content; again with no limitations or EULAs or production limits
+# you can share and redistribute the resources you use with your colleagues, clients, friends, students, etc. with no retribution or legal ramifications.
+# you can use and remix and modify and tweak to your hearts (and designs) content; again with far fewer limitations or EULAs or production limits.
+
+There are however differences in the “free-ness” or liberated ness or open ness of works of cultural production. There is the [[Public Domain]] — and so these things are useable by anyone for anything and you need not even ask for permission or credit the works. Then there are the various kinds of [[Creative Commons]] licenses ([[CC0]] = [[Public Domain]]); there is also the [[Free Art License]], and there are also various software licenses that in different degrees might also apply to creative art and design works (for example, [[OFL]] applies to typefaces, though you could also use [[GPL]] or [[Apache]] or [[MIT]] for typefaces, as they are really computer files/programs).
+
+Free (No cost/Gratis) as useful side effect of Free (Freedom/Libre) cultural works: 
+
+If you are working for say, a non-profit cultural organization, you might need to budget concious — maybe they can't afford a typeface license for a ton of computers, or at all; maybe they have no photo/art budget; maybe you want to do something else cool that requires money for printing/production, and so need to save on tools and images and new type — This is another place "free" comes in!? And it can even be a selling point for what you want to do.
+
+so, [[Why don't designers open source?]]
