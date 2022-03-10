@@ -1,6 +1,16 @@
 created: 20210228044726261
-modified: 20210706044143646
-tags: F/LOS
+modified: 20220225070930502
+tags: F/LOS Software
 title: TeX
-tmap.id: 953055c7-32ed-4873-a2b5-6f65d972f9c9
 type: text/vnd.tiddlywiki
+url: https://www.tug.org/whatis.html
+
+Typesetting software system designed by [[Donald Knuth]]
+
+<<<
+In the late 1970s, [[Donald E. Knuth|Donald Knuth]] was revising the second volume of his multivolume magnum opus The Art of Computer Programming, got the galleys, looked at them, and said (approximately) "blecch"! … and ultimately realized that typesetting meant arranging 0's and 1's (ink and no ink) in the proper pattern, and said (approximately), "As a computer scientist, I really identify with patterns of 0's and 1's; I ought to be able to do something about this", so he set out to learn what were the traditional rules for typesetting math, what constituted good typography, and (because the fonts of symbols that he needed really didn't exist) as much as he could about type design. He figured this would take about 6 months. (Ultimately, it took nearly 10 years…)
+<<<
+
+<<<
+no other current composition tool, proprietary or otherwise, can handle the material and produce high-quality, publication-worthy output, and simultaneously be usable by the writer of the document.
+<<<
