@@ -24,9 +24,9 @@ $(timeStamp)$ Ideas
 </$set>
 \end
 
-<$button 
-    actions=<<createNewEAD>> 
-    class="tc-btn-invisible" 
+<$button
+    actions=<<createNewEAD>>
+    class="tc-btn-invisible"
     title={{!!description}}
     aria-label={{!!caption}}
     >

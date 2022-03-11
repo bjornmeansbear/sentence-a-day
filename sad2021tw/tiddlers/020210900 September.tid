@@ -9,5 +9,5 @@ type: text/vnd.tiddlywiki
 Month four of the idea. September was a pretty low output month, working on some other projects, and dealing with a general depression/malaise/lost feeling...
 
 <$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
-<<list-links "[!is[system]regexp:created<thatDate>tag[EAD]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
+<<list-links "[!is[system]regexp:created<thatDate>tag[EssayADay]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
 </$set>

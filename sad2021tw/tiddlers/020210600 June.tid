@@ -9,5 +9,5 @@ type: text/vnd.tiddlywiki
 Okay, I am going to do something here again everyday. I am going to find random things in my [[are.na sustainability and design channels|Are.na Channels w/ potential Prompts]], things that can work like [[prompts|Prompts]]. I'll then write several words on that [[prompt|Prompt]]… not sure if I set a word limit, or a time limit. We'll see how the first couple of days/weeks go. March, April, and May were real rough — hopefully things go better moving forward!
 
 <$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
-<<list-links "[!is[system]regexp:created<thatDate>tag[EAD]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
+<<list-links "[!is[system]regexp:created<thatDate>tag[EssayADay]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
 </$set>
