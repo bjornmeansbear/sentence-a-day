@@ -1,11 +1,11 @@
 city: Baltimore
 created: 20211108190325209
-currentco2ppm: 
-location: 
+currentco2ppm:
+location:
 modified: 20211124060322995
 prompt: Write and produce a The Libre Designer Zine
 state: Maryland
-tags: EAD EssayADay [[The Libre Designer]] Zine TLDZine
+tags: EssayADay [[The Libre Designer]] Zine TLDZine
 title: 020211108140325 Ideas > The Libre Designer Zine
 type: text/vnd.tiddlywiki
 

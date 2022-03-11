@@ -9,5 +9,5 @@ type: text/vnd.tiddlywiki
 Month two of the idea. The goal for this month is to find a few more coherent [[Prompts]] that maybe all come from my previous writings and ideas so I can expand on something that's already started? clarify something I've already been thinking about? how to generate a lot of coherent content that can then start to be put into some kinds of forms!?
 
 <$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
-<<list-links "[!is[system]regexp:created<thatDate>tag[EAD]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
+<<list-links "[!is[system]regexp:created<thatDate>tag[EssayADay]sort[title]]" emptyMessage:"n/a" class:"numberedList" >>
 </$set>

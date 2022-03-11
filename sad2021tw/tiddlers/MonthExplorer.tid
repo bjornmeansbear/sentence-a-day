@@ -7,5 +7,5 @@ type: text/vnd.tiddlywiki
 \define sameMonth() YYYY0MM
 
 <$set name=thatDate filter="[<currentTiddler>get[created]format:date<sameMonth>]">
-<<list-links filter:"[tag[EAD]sort[title]!is[system]regexp:created<thatDate>sort[created]]" emptyMessage:"n/a">>
+<<list-links filter:"[tag[EssayADay]sort[title]!is[system]regexp:created<thatDate>sort[created]]" emptyMessage:"n/a">>
 </$set>

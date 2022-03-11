@@ -1,10 +1,10 @@
 created: 20210625025219351
-modified: 20210728064447362
+modified: 20220311023703392
 tags: $:/tags/ViewTemplate hide
 title: DateExplorer
 type: text/vnd.tiddlywiki
 
-<$list filter="[all[current]tag[EAD]]">
+<$list filter="[all[current]tag[EssayADay]]">
   <$vars thisdate={{!!created}} addedToday="[sameday:created<thisdate>] +[!prefix[$:/]]" modifiedToday="[sameday:modified<thisdate>] +[!prefix[$:/]]">
   <div class="dateExplorer explorerWrap">
       <div class="linksIn column">
