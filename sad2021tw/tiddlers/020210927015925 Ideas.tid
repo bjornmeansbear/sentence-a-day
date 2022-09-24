@@ -1,11 +1,11 @@
 city: Baltimore
 created: 20210930055925034
-currentco2ppm: 
-location: 
+currentco2ppm:
+location:
 modified: 20210930055945238
-prompt: 
+prompt:
 state: Maryland
-tags: EAD EssayADay
+tags: EssayADay
 title: 020210927015925 Ideas
 type: text/vnd.tiddlywiki
 
@@ -15,6 +15,6 @@ Interface for starting new design projects?
 * - are you writing or drawing or both?
 * - is this a book?
 * - do you know how many pages it will be yet?
-* - have you already picked out body copy? 
+* - have you already picked out body copy?
 * - Is there a font you already know you are going to use?
 

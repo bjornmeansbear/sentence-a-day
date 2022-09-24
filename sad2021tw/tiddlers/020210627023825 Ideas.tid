@@ -1,11 +1,11 @@
 city: Baltimore
 created: 20210627063825262
-currentco2ppm: 
+currentco2ppm:
 location: Couch
 modified: 20210627085903738
 prompt: [[is my design good design?]]
 state: Maryland
-tags: EAD EssayADay
+tags: EssayADay
 title: 020210627023825 Ideas
 type: text/vnd.tiddlywiki
 
@@ -27,4 +27,4 @@ Maybe this is fine, sometimes. But this misses a lot of alternative content and 
 
 This overlaps with the [[Form <> Content <> Context]] things I frequently think about.
 
-Good formalism(s): what makes a good formal answer? 
+Good formalism(s): what makes a good formal answer?
