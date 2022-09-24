@@ -1,11 +1,11 @@
 city: Baltimore
 created: 20210820042016395
-currentco2ppm: 
-location: 
+currentco2ppm:
+location:
 modified: 20210820042335456
 prompt: [[It should be possible to bicycle anywhere]]
 state: Maryland
-tags: EAD EssayADay
+tags: EssayADay
 title: 020210820002016 Ideas
 type: text/vnd.tiddlywiki
 
