@@ -1,0 +1,64 @@
+created: 20221014015614291
+modified: 20221014151947155
+tags: Journal NewDesignCommons
+title: 020221013215614 Entry
+type: text/vnd.tiddlywiki
+
+! Towards a new design commons.
+
+We'll start with something that's sure to hook a roomful of design educators — an [[Ellen Lupton]] reference.
+
+In 2006, Dr. Lupton said in a talk entitled [[Univers Strikes Back]] that her book [[Thinking with Type]] wasn't meant for designers, it was meant for everyone. That's because everyone deserves access to the tools and ideas of good typography. I would like to expand this idea out, and say that I think that everyone needs design and that everyone benefits from access to the tools and resources and content of great design.
+
+To reach this aim, to allow design to benefit everyone, we need more access. More equitable, universal access to the tools and resources that allow one to create and learn about design. 
+
+While I was working on this talk, Adobe announced they were buying the online prototyping tool Figma. This is not abnormal for a company to merge or to buy future competitors. But this feels monopolistic. Adobe says that figma will be left alone. We shall see. This acquisition news coupled with the 2019 debacle where Adobe turned of all Venezuelans creative cloud projects. Photoshop, Illustrator, and indesign have all just become tools of industry and a form of intellectual enclosure that limits what is possible. This also might make one think that "the market" is the only place these ideas are supposed to be used and that the resources in GD
+
+The idea that the market is the place that these things are supposed to be used. our cultural production is framed in terms of its usability or viability in the market, and not necessarily as a societal good.
+
+As design educators, if we are creating new knowledge and improving and building what had become before. Should we be using tools that at any time could become inaccessible to us and our students? and resources that might carry restrictions on when, where, and how they might be used?
+
+If we want to embrace openness, we don't have to look very far back into our collective pasts, for the majority of human history cultural production was open, shareable, remixable, we built upon each other's ideas, and this creative work happened in local contexts in ways that were often to the direct benefit of the communities involved. [[Stewart Brand]] outlines this in his book [[How Buildings Learn]] where he describes vernacular buildings, common buildings of common people in a particular place. Vernacular buildings adapt and evolve from the success of the community. As one's neighbors figured out successful building techniques those deemed useful would be propagated around the community, and that then failures were not repeated — successes are repeated and propogate out, things that aren't so successful or when something doesn't work out as expected, the community knows to try something else. 
+
+This is reflected in how open source software communities work too. Eric Raymond outlines a nearly identical system to Brand's vernacular architecture process while describing Linus Torvald's Linux kernel process. A community of hackers, building and designing linux, solved each other's problems quickly by finding errors, fixing them, and immediately redistributing fixes with the rest of the community so that failures were repeated as little as possible. Linux ended up "getting better" — meaning, less bugs and works the way developers are expecting — faster than Microsoft's windows improvements occurred at the same time. 
+
+Vernacular models, open source software... Siva quote
+
+!! Richard Stallman and his 4 freedoms.
+Open source software owes its birth to Free software, the brain child of Richard Stallman. Stallman's GNU project started with the GNU manifesto featuring 4 main freedoms. The gist of which is that code needs to be shared, code needs to be free to be edited and remixed, code needs to be improvable upon, and that if you do anything to some code, you should be able to continue to share whatever you've changed or added. The 4 freedoms reflect and echo the idea that things need to be shared, some things need remixable, and if you CAN share, then we beneift for the time. So we benefit from each other's work — AND — we can fail fast and fix things and share the solutions for the failures so we don't have to repeat failures.
+
+GNU Manifesto: Designs must be remixeable, they must be accesssible, 
+
+Garth Braithwaitte says the same things in his open source design manifesto.
+we should share more, especially the failures... and so that we can improve design more quickly and as a community
+
+Why is this important? why should we care? Why wouldn't we want to spend our energy solving NEW problems instead of resolving old problems? If we can't share and reuse each other's solutions then we are stuck resolving old problems in new ways and marketing and branding them as OUR way of doing something. I would rather we find ways things are already working and make them better for our local circumstances. This is what we need for the climate crisis!? local, adpatable, modular solutions for specific cultural, environemental, etc. customizations but that as solutions are found, designed, created, modified we all benefit and can figure out ways to conitnue to share and adapt and succeed together...
+
+PRAGMATIC UTOPIANISM
+
+We have the tools we need to do this. Open source software provides the functional TOOLS — there's proof this works ([[Open Source Publsihing]] and all the web stuff!?). There are also all the licenses and copyright/copyleft frameworks. There are all kinds of options from say, Creative Commons, for how to control and license our creative works for the benefit of each other, for the welfare of all life, as opposed to the protection of the market.
+
+A Design commons is about social justice, its about sustainability, its about reducing the barrier of entry to designing, to solving our real problems, problems based on our needs (Papanek?).
+
+Every job and sistuation can be improved by the frameworks and tools and content of good design. Let's get ourselves, our students, our colleagues better access! 
+
+Philosophically the solution is fully adopting a share-alike creative commons style, viral, license. We should track from whom and from where good ideas and colustions come from — BUT! we need to make sure that people aren't afraid to use or remix a solution for their needs. And our tools themselves, the file formats, the recipes, whatever is actually needed to make cultural production actually manifest, these need to be free too. Not free as in price, but free as in freedom ala the Free Software Foundation. Libre not Gratis.
+
+!! Examples???
+- AIGA DEC project/syllabus reference
+-- how to make this better though? evolve? shared license? you must attribute and share back?
+- Open Source Publishing?
+- blender
+- C4AA
+- Open Climate
+- Climate Designers project section
+- Google Fonts
+- Flickr Commons
+- Github: are there "design" projects on github!?
+- Eli Heuer
+- SIL
+- Enzo Mari / Autoprogettazione
+
+How can we grab onto the places this is happneing already and make sure we build community, build support, etc.
+
+If we want to solve our current climate crisis we need solutions that can be remixed, repurposed, and adapated to all sorts of scenarios — we don't need singular, universal solutions, we need modular, localizeable solutions. Recipes and the equivalent of visual and social lego blocks. The mentality is that we must stop holding onto intellectual property as physical property and see it as the foundations for our future. We must take care in preserving and sharing and keeping things open, un-enclosed, the things we have a moral, community attachment to from the perspective of designers and educators!?
