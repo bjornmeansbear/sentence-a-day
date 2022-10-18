@@ -1,0 +1,67 @@
+created: 20221018151854172
+modified: 20221018191226376
+tags: NewDesignCommons Lecture
+title: Towards a New Design Commons 0202210181118
+type: text/vnd.tiddlywiki
+
+! Towards a New Design Commons.
+
+Land Acknowledgement?
+
+This talk is called [[Towards a New Design Commons|NewDesignCommons]]: How might we return to a share and share-alike based visual culture where remixing each other's work for local and environmental benefits reins supreme?
+
+!! Design is for Everyone
+
+Let's start with something sure to hook a room full of design educators: An [[Ellen Lupton]] reference.
+
+In her 2006 lecture [[Univers Strikes Back]], Dr. Lupton says about [[Thinking with Type]] that her book was not meant for professional designers, but for everyone else, for everyone deserves access to the tools and ideas of good typography.
+
+Expanding this out, well, I think everyone on [[Spaceship Earth]] needs design, and everyone benefits from access to design tools, recipes, and resources of the highest level. 
+
+[[Design is for everyone]]. And we need more equitable access to the tools and ideas of good design. We need a New Design Commons.
+
+!! A Glossary
+
+[[David Bollier]] defines [[the commons|The Commons]] as everything we collectively own and feel obliged to pass on to future generations in perptuity. These are resources and ideas that we have moral and community ties to. 
+
+[[Elinor Ostrom]] points out that [[The Commons]] isn't just these resources and ideas; but that a functioning commons is really a self-organizing social system. 
+
+A design commons then contains the resources of design: [[fonts|font]], images, tools, [[recipes|Design Recipes]], etc. A design commons is also the social and technical systems required for sharing and building designs; and in a design commons new designs and designers must be able to build and remix all that came before freely.
+
+And, I will use an akronym, [[F/LOSS]], several times — this refers to Free / Libre Open Source Software. This is software that operates in terms of communities and are often examples of their own micro-commons. You are free to use FLOS tools as you wish, you have access directly to the source code so you can modify and improve the tools to your purposes.
+
+This means free as in freedom; this is not meant to imply free as in price. This is [[Libre not Gratis]].
+
+!! Adobe vs. Everyone (or, forms of enclosure)
+
+Recently, Adobe purchased online prototyping tool Figma. Figma is a new and successful vector software that runs in the browser and makes design collaboration about as easy as is possible. Figma also has a community section where Figma designers themselves, as well as designers and educators from around the world post plugins, templates, and advice for how to do pretty much whatever you want in Figma. 
+
+Adobe says that Figma will remain the same; but given their track record with other acquisitions, we'll just have to see.
+
+This acquisition follows a 2019 event where, under pressure to follow the US sanctions against Venezuela, Adobe deactivated the creative cloud accounts of anyone who had registered for the tools with a Venezuelan address. This signals pretty clearly: These tools are not yours. Even if you pay our rent on time, access may be revoked at anytime. This is intellectual and cultural enclosure. You can be walled off from your files and programs at the whim of tech aristocrats. 
+
+As a design educator I find this problematic. If we no longer own or control the tools of our labor; and we're supposed to generate NEW knowledge and build upon all that has come before us, well, can we keep doing that? Are we setting up ourselves and our students for future failure with tools, resources, and content that at any point can be made un-usable? (enclosure ala Linebaugh)
+
+!! Models of Openness
+
+One way around Adobe and big tech's software as service traps is to fully embrace F/LOSS. You can definitely do this today with mixed results. We can just start using the F/LOSS alternatives tomorrow. And for sure, if you teach a 3D graphics class, you should definitely be using [[Blender]]. If we start using these "other" tools, the more we use them, the more we participate with the communities of developers and users, the better our design tools will get. 
+
+The philosophies underlying open source software — working together to solve pressing needs of the group — led a designer FROM Adobe actually, [[Garth Braithwaite]], to write an open source manifesto FOR design.
+
+<<<
+{{The Open Source Design Manifesto}}
+<<<
+
+What Braithwaite outlines here is basically that we should share more with each other, that we should be less self-conscious, and we should try to make LESS failure happen... 
+
+[[Vernacular]] Building > Vernacular Design > Common designs by and for common people.
+
+[[Stewart Brand]]'s [[How Buildings Learn]]
+
+!! Copyright(Wrong)!?
+
+
+
+!! Conclusions
+
+Let's build a better design culture.
