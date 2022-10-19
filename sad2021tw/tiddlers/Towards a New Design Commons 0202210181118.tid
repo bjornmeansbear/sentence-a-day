@@ -1,5 +1,5 @@
 created: 20221018151854172
-modified: 20221018191226376
+modified: 20221019164944127
 tags: NewDesignCommons Lecture
 title: Towards a New Design Commons 0202210181118
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ type: text/vnd.tiddlywiki
 
 Land Acknowledgement?
 
-This talk is called [[Towards a New Design Commons|NewDesignCommons]]: How might we return to a share and share-alike based visual culture where remixing each other's work for local and environmental benefits reins supreme?
+This talk is called [[Towards a New Design Commons|NewDesignCommons]]
 
 !! Design is for Everyone
 
@@ -18,50 +18,78 @@ In her 2006 lecture [[Univers Strikes Back]], Dr. Lupton says about [[Thinking w
 
 Expanding this out, well, I think everyone on [[Spaceship Earth]] needs design, and everyone benefits from access to design tools, recipes, and resources of the highest level. 
 
-[[Design is for everyone]]. And we need more equitable access to the tools and ideas of good design. We need a New Design Commons.
+[[Design is for everyone]]. And we need a better design culture that provides more equitable access to the tools and ideas of good design. We need a New Design Commons.
 
 !! A Glossary
 
 [[David Bollier]] defines [[the commons|The Commons]] as everything we collectively own and feel obliged to pass on to future generations in perptuity. These are resources and ideas that we have moral and community ties to. 
 
-[[Elinor Ostrom]] points out that [[The Commons]] isn't just these resources and ideas; but that a functioning commons is really a self-organizing social system. 
+Noble Prize winner [[Elinor Ostrom]] points out that [[commons|The Commons]] aren't just resources and ideas; but that a functioning commons is really a self-organizing social system AROUND these resources. 
 
-A design commons then contains the resources of design: [[fonts|font]], images, tools, [[recipes|Design Recipes]], etc. A design commons is also the social and technical systems required for sharing and building designs; and in a design commons new designs and designers must be able to build and remix all that came before freely.
+A design commons contains the resources of design: [[fonts|font]], [[images|image]], [[tools|tool]], [[recipes|recipe]], etc. A design commons is also the [[social|social system]] and [[technical|technical system]] systems required for sharing and building designs; and in a design commons new designs and designers must be able to build and remix all that came before freely.
 
-And, I will use an akronym, [[F/LOSS]], several times — this refers to Free / Libre Open Source Software. This is software that operates in terms of communities and are often examples of their own micro-commons. You are free to use FLOS tools as you wish, you have access directly to the source code so you can modify and improve the tools to your purposes.
+And, I will use an acronym, [[F/LOSS]], several times — this refers to [[Free|Free as in Freedom]] / [[Libre|Free as in Freedom]] [[Open Source]] Software. This is software that operates in terms of communities and are often examples of their own micro-commons. You are free to use FLOS tools as you wish, you have access directly to the source code so you can modify and improve the tools to your purposes.
 
-This means free as in freedom; this is not meant to imply free as in price. This is [[Libre not Gratis]].
+This means free as in freedom; this is not meant to imply free as in price. This is [[Libre not Gratis]]. A new design commons must be about the freedom for people to design for their own local, environmental needs.
 
-!! Adobe vs. Everyone (or, forms of enclosure)
+!! Adobe vs. Everyone (or, forms of [[enclosure|Enclosure]])
 
-Recently, Adobe purchased online prototyping tool Figma. Figma is a new and successful vector software that runs in the browser and makes design collaboration about as easy as is possible. Figma also has a community section where Figma designers themselves, as well as designers and educators from around the world post plugins, templates, and advice for how to do pretty much whatever you want in Figma. 
+While working on this talk, [[Adobe]] purchased online prototyping tool [[Figma]]. Figma is a new and successful vector software that runs in the browser and makes design collaboration about as easy as is possible. Figma also has a community section where Figma designers themselves, as well as designers and educators from around the world post plugins, templates, and advice for how to do pretty much whatever you want in Figma — even things it wasn't meant to do out of the box, like print designs! 
 
 Adobe says that Figma will remain the same; but given their track record with other acquisitions, we'll just have to see.
 
-This acquisition follows a 2019 event where, under pressure to follow the US sanctions against Venezuela, Adobe deactivated the creative cloud accounts of anyone who had registered for the tools with a Venezuelan address. This signals pretty clearly: These tools are not yours. Even if you pay our rent on time, access may be revoked at anytime. This is intellectual and cultural enclosure. You can be walled off from your files and programs at the whim of tech aristocrats. 
+This acquisition follows a 2019 event where, under pressure to follow the US sanctions against Venezuela, Adobe deactivated the creative cloud accounts of anyone who had registered for the tools with a Venezuelan address. 
 
-As a design educator I find this problematic. If we no longer own or control the tools of our labor; and we're supposed to generate NEW knowledge and build upon all that has come before us, well, can we keep doing that? Are we setting up ourselves and our students for future failure with tools, resources, and content that at any point can be made un-usable? (enclosure ala Linebaugh)
+This signals pretty clearly: These tools are not yours. Even if you pay our rent on time, access may be revoked at anytime. This is intellectual and cultural enclosure ([[Peter Linebaugh]] talks about "enclosure" in his historical research on the english commons, where rich land owners literally walled off areas formerly available to any commoner). You can be walled off from your files and programs at the whim of tech aristocrats. 
+
+As a design educator I find this problematic. Our tools aren’t really ours; our access can just be removed, despite paying our "rent" — we RENT our tools now, we don’t own the tools of our labor anymore! And If we no longer own or control the tools of our labor how are we supposed to reliably generate NEW knowledge and build upon all that has come before us? Are we setting up ourselves and our students for future failure by relying on tools, resources, and content that at any point can be de-accessed?
 
 !! Models of Openness
 
-One way around Adobe and big tech's software as service traps is to fully embrace F/LOSS. You can definitely do this today with mixed results. We can just start using the F/LOSS alternatives tomorrow. And for sure, if you teach a 3D graphics class, you should definitely be using [[Blender]]. If we start using these "other" tools, the more we use them, the more we participate with the communities of developers and users, the better our design tools will get. 
+One way around Adobe and big tech's software as service traps is to fully embrace F/LOSS.
 
-The philosophies underlying open source software — working together to solve pressing needs of the group — led a designer FROM Adobe actually, [[Garth Braithwaite]], to write an open source manifesto FOR design.
+What's important about FLOSS though isn't the software it is the community of commons around these softwares.  A designer at Adobe, [[Garth Braithwaite]], was inspired by his time working on open source projects, notably the formerly Adobe project [[Brackets]], to write an open source manifesto FOR design. Basically, why if developers have fully embraced open source, why haven't designers? Braithwaite's takeaways for a design commons are that we should share more with each other, that we should be less self-conscious, and we should try to participate with people and use more tools and expand our opportunities for sharing and working. 
 
 <<<
 {{The Open Source Design Manifesto}}
 <<<
 
-What Braithwaite outlines here is basically that we should share more with each other, that we should be less self-conscious, and we should try to make LESS failure happen... 
+What Braithwaite describes is how human creativity USED to work. For the majority of human history cultural production was open, shareable, and remixable. We built upon each other's ideas, and this creative work happened in local contexts in ways that were often to the direct benefit of the communities involved. 
 
-[[Vernacular]] Building > Vernacular Design > Common designs by and for common people.
+A clear design example of this is vernacular design, or as [[Stewart Brand]] describes it in his book [[How Buildings Learn]], common designs by common people for local necessity. Neighbors sharing with neighbors over time, using the constraints of locality (local weather, local materials, local needs) to adapt and evolve regional styles and reusable solutions.
 
-[[Stewart Brand]]'s [[How Buildings Learn]]
+This is the new design commons ideal — everyone has access to the tools and resources of designing, and we can get back to local, regional, necessary solutions that help communities on the ground.
 
 !! Copyright(Wrong)!?
 
+The real issues of "common-ing" design are not people's abilities or tools, its intellectual property rules as they exist in the US in particular. These issues of open share and share-alike cultural production are that we have the wrong contemporary intellectual philosophies — we want to project intellectual property AS property. Instead of protecting our work more we should utilize ways that allow us to be acknowledged, to be attributed, but give our peers — gives everyone — the ability to utilize designs. 
 
+Creative Commons, now 20 yrs old, already includes everything we need. The most effective license by creative commons for a new design commons is the by attribution share alike license. This says you can use a work however you want, as long as its attributed back to where you found it, and that people get to keep sharing this and building upon it moving forward. Basically, what the new design commons needs are [[Design Bibliographies]] — how do we attribute all the bits and pieces that lead us to our new work.
+
+Once you have accepted that a design commons is preferable to trying to control everyone's intellectual property usage, there are plenty of material and communities out there.
+
+Creative commons used to run its own image search, but this was handed off to [[Automattic|Automattic Inc. ]], the makers of [[Wordpress]]. It's now called [[Openverse]].  Openverse searches a variety of different sites and libraries online that have all been marked as various flavors of creative commons or that are in the public domain.
+
+Flickr also maintains Flickr Commons, and have recently created a new foundation to help strengthen the commons — meaning getting more reusable work and more collaboration — onto their platform.
+
+For typography you can go to [[Google Fonts]] or [[Velvetyne]] or [[The League of Moveable Type]] as places to start — there are a lot of open licensed fonts though, this is the most vibrant "design commons" set of communities I think. And it is in part because of what [[Ellen Lupton]]'s thoughts were getting at: PEOPLE NEED TYPOGRAPHY in our digital age, so underserved languages and scripts have been relying on other ways of creating typefaces, etc. that are more of a commons, more of an open source, approach, not just waiting for some foundry to sell them something.
+
+[[Michael Mandiberg]] and [[xtine burrough]], along with a huge array of collaborators, have brought us the book(s) [[Digital Foundations]]. These are creative commons licensed works, written and developed using wikis, where a community of designers and educators have taken Bauhaus style visual fundamentals and translated them to digital tools. One text is written with the Adobe creative cloud in mind, and another variant redoes all the exercises for F/LOS software.
+
+The Center for Artistic Activism makes their resources available with creative commons licenses as well.
+
+Figma community...
+
+Precious plastics and Open source publishing
+
+The AIGA Design Educators community does have something for the design commons already setup: Design Teaching Resource. It's a peer-populated platform for educators to share assignments, teaching materials, outcomes, and project reflections. What do not see there however, is any kinds of "self-organizing social systems" to get us to both SHARE and SHARE-alike, nothing even encourages you to re-contribute your edits to a project that you borrowed. So it isn't that we aren't already common-ing our designs and design resources, its that we need to be more conscious and purposeful about doing this.
 
 !! Conclusions
 
-Let's build a better design culture.
+A New Design Commons is a utopian gesture. We need utopian gestures like this to keep us, as [[Stephen Duncombe]] says, from being constrained by the tyranny of the present.
+
+Using the commons, well this is a parallel design direction that critiques the status quo proprietary systems. Trying to embrace a design commons is a way to question designing for the market.
+ 
+Let's build a better design culture. The goal is to make designing accessible for everyone and preserving spaceship earth, making it a liveable, accessible place for all. 
+
+The tools, resources, frameworks that allow one to design what they NEED.
