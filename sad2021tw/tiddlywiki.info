@@ -4,10 +4,11 @@
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
         "tiddlywiki/highlight",
-        "danielo515/ContextPlugin",
-        "snowgoon88/edit-comptext",
-        "flibbles/relink",
-        "flibbles/relink-titles"
+        "plugins/danielo515/ContextPlugin",
+        "plugins/snowgoon88/edit-comptext",
+        "plugins/flibbles/relink",
+        "plugins/flibbles/relink-markdown",
+        "plugins/flibbles/relink-titles"
     ],
     "themes": [
         "tiddlywiki/vanilla",

@@ -1,0 +1,8 @@
+.matched {
+  background-color:blue;
+  color: white;
+}
+.tw-context {
+  border:1px solid blue;
+  word-break: break-all; word-wrap: break-word;
+}
