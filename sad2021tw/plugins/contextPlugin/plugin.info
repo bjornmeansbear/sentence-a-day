@@ -1,5 +1,6 @@
 {
 	"title": "$:/plugins/danielo515/ContextPlugin",
+	"name": "ContextPlugin",
 	"description": "Context search - provides visual highlight of search results",
 	"author": "Danielo Rodrigez",
 	"version": "2.1.0",

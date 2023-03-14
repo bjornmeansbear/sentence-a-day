@@ -3,12 +3,7 @@
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
-        "tiddlywiki/highlight",
-        "plugins/danielo515/ContextPlugin",
-        "plugins/snowgoon88/edit-comptext",
-        "plugins/flibbles/relink",
-        "plugins/flibbles/relink-markdown",
-        "plugins/flibbles/relink-titles"
+        "tiddlywiki/highlight"
     ],
     "themes": [
         "tiddlywiki/vanilla",
