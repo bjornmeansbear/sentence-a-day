@@ -70,7 +70,6 @@ Error message and password prompt
 .tc-password-wrapper input {
 	width: 100%;
 }
-
 .tc-sidebar-header {
 	text-shadow: 0 1px 0 rgba(0,0,0, 0);
 }.tc-tiddler-info {
@@ -108,7 +107,8 @@ Error message and password prompt
      -moz-filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
           filter: drop-shadow(0px -1px 2px rgba(0,0,0,0.25));
 
-}.tc-tiddler-frame input.tc-edit-texteditor {
+}.tc-tiddler-frame input.tc-edit-texteditor,
+.tc-tiddler-frame select.tc-edit-texteditor {
 	
   -webkit-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
      -moz-box-shadow: inset 0 1px 8px rgba(0, 0, 0, 0.15);
@@ -218,8 +218,6 @@ background-image: -ms-linear-gradient(left, rgba(0,0,0,0.05) 0%, rgba(255,255,25
           box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 
 }
-
-
 /*
 ** Start with the normalize CSS reset, and then belay some of its effects
 *//*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
@@ -524,9 +522,10 @@ summary {
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
-}input[type="search"] {
-	outline-offset: initial;
-}html button {
+}/*
+** Button default styles. Makes them look consistent for all browsers
+*/
+html button {
 	line-height: 1.2;
 	color: #000;
 	fill: #000;
@@ -565,7 +564,7 @@ summary {
 	display: block;
 	margin-top: 1em;
 	margin-bottom: 1em;
-	word-break: normal;
+	word-break: break-word;
 	word-wrap: break-word;
 	white-space: pre-wrap;
 	background-color: #fff;
@@ -625,8 +624,6 @@ summary {
 }dl dt {
 	font-weight: bold;
 	margin-top: 6px;
-}button, textarea, input, select {
-	outline-color: #00f;
 }textarea,
 input[type=text],
 input[type=search],
@@ -665,6 +662,11 @@ input[type="search"]::-webkit-search-results-decoration {
 	color: HighlightText;
 	background-color: ;
 	color: ;
+}.tc-inline-style {
+	background: #ffff00;
+	color: #000000;
+}form.tc-form-inline {
+	display: inline;
 }/*
 Markdown likes putting code elements inside pre elements
 */
@@ -673,7 +675,9 @@ pre > code {
 	border: none;
 	background-color: inherit;
 	color: inherit;
-}table {
+}/*
+Table defaults
+*/table {
 	border: 1px solid #dddddd;
 	width: auto;
 	max-width: 100%;
@@ -692,9 +696,45 @@ pre > code {
 	font-weight: bold;
 }table tfoot tr td {
 	background-color: #a8a8a8;
-}.tc-csv-table {
+}/*
+Table utility classes
+*//* Remove borders from table as used in eg: GettingStarted*/
+.tc-table-no-border,
+.tc-table-no-border th,
+.tc-table-no-border td {
+	border: initial;
+}/* First column in table width will fit to text.*/
+/* This rule makes most sense with tc-first-link-nowrap*/
+.tc-first-col-min-width td:nth-child(1) {
+	width: 1%;
+}/*
+** Utility classes work well with tables but also for other containers
+*//* First link A element will not wrap */
+.tc-first-link-nowrap:first-of-type a {
 	white-space: nowrap;
-}.tc-tiddler-frame img,
+}/* Move the table to the center of the container */
+.tc-center {
+	margin-left: auto;
+	margin-right: auto;
+}.tc-max-width {
+	width: 100%;
+}.tc-max-width-80 {
+	max-width: 80%;
+}/* Allow input and textarea to look like the ControlPanel inputs */
+.tc-edit-max-width input,
+.tc-edit-max-width textarea {
+	width: 100%;
+	padding: 3px;
+}/*
+CSV parser plugin
+*/.tc-csv-table {
+	white-space: nowrap;
+}.tc-csv-table th,
+.tc-csv-table td {
+	white-space: pre-line;
+}/*
+Tiddler frame in story river
+*/.tc-tiddler-frame img,
 .tc-tiddler-frame svg,
 .tc-tiddler-frame canvas,
 .tc-tiddler-frame embed,
@@ -704,6 +744,8 @@ pre > code {
 .tc-tiddler-body > iframe {
 	width: 100%;
 	height: 600px;
+}:root {
+	color-scheme: light;
 }/*
 ** Links
 */button.tc-tiddlylink,
@@ -712,6 +754,7 @@ a.tc-tiddlylink {
 	font-weight: 500;
 	color: #00f;
 	-webkit-user-select: inherit; /* Otherwise the draggable attribute makes links impossible to select */
+	-webkit-touch-callout: none; /* Prevents long presses from bringing up a link preview */
 }.tc-sidebar-lists a.tc-tiddlylink {
 	color: #00f;
 }.tc-sidebar-lists a.tc-tiddlylink:hover {
@@ -774,7 +817,7 @@ a.tc-tiddlylink:hover {
 	right: 0;
 	background: rgba(0,200,0,0.7);
 	text-align: center;
-	content: "Drop here (or use the 'Escape' key to cancel)";
+	content: "Drop now (or use the 'Escape' key to cancel)";
 }.tc-droppable > .tc-droppable-placeholder {
 	display: none;
 }.tc-droppable.tc-dragover > .tc-droppable-placeholder {
@@ -963,7 +1006,7 @@ a.tc-tiddlylink:hover {
 	font-weight: normal;
 	line-height: 1.2em;
 	color: #fff;
-	white-space: nowrap;
+	white-space: break-spaces;
 	vertical-align: baseline;
 	background-color: #000;
 	border-radius: 1em;
@@ -988,7 +1031,6 @@ a.tc-tiddlylink:hover {
 	font-size: 0.7em;
 	vertical-align: middle;
 }.tc-tag-manager-table .tc-tag-label {
-	white-space: normal;
 }.tc-tag-manager-tag {
 	width: 100%;
 }button.tc-btn-invisible.tc-remove-tag-button {
@@ -1131,6 +1173,8 @@ a.tc-tiddlylink:hover {
 	width: 100%;
 }.tc-view-field-name {
 	width: 1%; /* Makes this column be as narrow as possible */
+	white-space: nowrap;
+	vertical-align: top;
 	text-align: right;
 	font-style: italic;
 	font-weight: normal;
@@ -1150,6 +1194,19 @@ a.tc-tiddlylink:hover {
 		border-radius: 2px;
 	}.tc-tiddler-info {
 		margin: 0 -42px 0 -42px;
+	}
+}/* prevent overflow for table content for small screens*/
+@media (max-width: 960px) {
+	.tc-tiddler-frame tr {
+		word-wrap: anywhere;
+	}.tc-tiddler-frame table blockquote {
+		margin-left: 12.5px;
+		margin-right: 12.5px; 
+	}.tc-tiddler-frame table dd {
+		margin-left: 12.5px;
+	}.tc-tiddler-frame table ol,
+	.tc-tiddler-frame table ul {
+		padding-left: 20px;
 	}
 }.tc-site-title,
 .tc-titlebar {
@@ -1181,6 +1238,7 @@ a.tc-tiddlylink:hover {
 	font-weight: normal;
 }.tc-tiddler-frame .tc-tiddler-controls {
 	float: right;
+	padding: 3px; /* make space for outline */
 }.tc-tiddler-controls .tc-drop-down {
 	font-size: 0.6em;
 }.tc-tiddler-controls .tc-drop-down .tc-drop-down {
@@ -1219,17 +1277,27 @@ a.tc-tiddlylink:hover {
 	margin: 4px 0 4px 0;
 }.tc-tiddler-frame input.tc-edit-texteditor,
 .tc-tiddler-frame textarea.tc-edit-texteditor,
-.tc-tiddler-frame iframe.tc-edit-texteditor {
+.tc-tiddler-frame iframe.tc-edit-texteditor,
+.tc-tiddler-frame select.tc-edit-texteditor {
 	padding: 3px 3px 3px 3px;
 	border: 1px solid #cccccc;
 	line-height: 1.3em;
-	-webkit-appearance: none;
 	font-family: ;
 }.tc-tiddler-frame input.tc-edit-texteditor,
+.tc-tiddler-frame textarea.tc-edit-texteditor,
+.tc-tiddler-frame iframe.tc-edit-texteditor {
+	-webkit-appearance: none;
+}.tc-tiddler-frame input.tc-edit-texteditor,
+.tc-tiddler-frame select.tc-edit-texteditor,
 .tc-tiddler-frame textarea.tc-edit-texteditor {
 	background-color: #fff;
 }.tc-tiddler-frame iframe.tc-edit-texteditor {
 	background-color: #fff;
+}.tc-tiddler-frame .tc-edit-fields input.tc-edit-fieldeditor,
+.tc-tiddler-frame .tc-edit-fields select.tc-edit-fieldeditor,
+.tc-tiddler-frame .tc-edit-fields textarea.tc-edit-fieldeditor {
+	margin: 0;
+	padding: 2px 3px;
 }.tc-tiddler-frame .tc-binary-warning {
 	width: 100%;
 	height: 5em;
@@ -1344,6 +1412,8 @@ a.tc-tiddlylink:hover {
 	fill: ;
 }.tc-tiddler-controls button svg.tc-image-done-button {
 	fill: ;
+}.tc-page-controls svg.tc-image-layout-button {
+	fill: ;
 }/*
 ** Tiddler edit mode
 */.tc-tiddler-edit-frame em.tc-edit {
@@ -1430,7 +1500,7 @@ a.tc-tiddlylink:hover {
 	right:0;
 	height: 100%;
 	background: rgba(0,200,0,0.7);
-	content: "Drop here (or use the 'Escape' key to cancel)";
+	content: "Drop now (or use the 'Escape' key to cancel)";
 	pointer-events: none;
 	position: absolute;
 	display: flex;
@@ -1612,7 +1682,10 @@ a.tc-tiddlylink:hover {
 	left: 0;
 	right: 0;
 	margin: auto;
-}/*
+}/* Make search dropdown visible on small screens. issue #7003 */
+@media (max-width: 960px) {.tc-sidebar-search .tc-block-dropdown-wrapper {
+		position: initial;
+	}}/*
 ** Modals
 */.tc-modal-wrapper {
 	position: fixed;
@@ -1804,6 +1877,8 @@ a.tc-tiddlylink:hover {
 	
 }.tc-manager-control {
 	margin: 0.5em 0;
+}.tc-manager-control select {
+	max-width: 100%;
 }.tc-manager-list {
 	width: 100%;
 	border-top: 1px solid #000;
@@ -1931,7 +2006,7 @@ a.tc-tiddlylink:hover {
 	border-top-left-radius: 4px;
 	border-top-right-radius: 4px;
 	border: 1px solid #fff;
-	border-bottom-none;
+	border-bottom: none;
 	background: #f00;
 	color: #fff;
 	fill: #fff;
@@ -1952,12 +2027,15 @@ a.tc-tiddlylink:hover {
 	width: 100%;
 }.tc-plugin-info {
 	display: flex;
+	text-shadow: none;
 	border: 1px solid #000;
 	fill: #000;
 	background-color: #fff;
 	margin: 0.5em 0 0.5em 0;
 	padding: 4px;
 	align-items: center;
+}.tc-sidebar-lists a.tc-tiddlylink.tc-plugin-info {
+	color: #00f;
 }.tc-plugin-info-sub-plugins .tc-plugin-info {
 	margin: 0.5em;
 	background: #fff;
@@ -2208,7 +2286,7 @@ a.tc-tiddlylink:hover {
 	flex: 1 0 50%;
 }/*
 ** Dirty indicator
-*/body.tc-dirty span.tc-dirty-indicator, body.tc-dirty span.tc-dirty-indicator svg {
+*/html body.tc-dirty span.tc-dirty-indicator, html body.tc-dirty span.tc-dirty-indicator svg {
 	fill: #f00;
 	color: #f00;
 }/*
@@ -2403,8 +2481,6 @@ a.tc-tiddlylink:hover {
 	word-break: break-all;
 }
 
-
-
 button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fclone,
 button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fdelete,
 button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fedit,
@@ -2417,8 +2493,6 @@ button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-journal, .tc-drop-down bu
 button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler, .tc-drop-down button.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler, div.tc-btn-\%24\%3A\%2Fcore\%2Fui\%2FButtons\%2Fnew-tiddler {
 	display: none;
 }
-
-
 body.tc-dirty span.tc-dirty-indicator svg {
 	transition: fill 250ms ease-in-out;
 }body .tc-image-cloud-idle {
@@ -2448,13 +2522,9 @@ body.tc-dirty span.tc-dirty-indicator svg {
 		transform: scale(359deg);
 	}
 }
-
-
 .matched{background-color:yellow}
 .tw-context {/*border:1px solid;
-  /*word-break: break-all; word-wrap: break-word*/}
-
-.tc-relink-references {
+  /*word-break: break-all; word-wrap: break-word*/}.tc-relink-references {
 }
 
 .tc-relink-references-table {
@@ -2511,8 +2581,6 @@ body.tc-dirty span.tc-dirty-indicator svg {
 .tc-relink-impossible a.tc-tiddlylink {
 	color: red;
 }
-
-
 /* The \rules pragma at the top of the tiddler restricts the WikiText 
  * to just allow macros and transclusion. This avoids mistakenly 
  * triggering unwanted WikiText processing.
@@ -2532,116 +2600,22 @@ body.tc-dirty span.tc-dirty-indicator svg {
 .ect-block-dropdown li[patt-selected="true"] mark {
     background: hsl(86, 100%, 21%);
     color: inherit;
-}
-
-/*
-
-Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
-
-*/
-
-.hljs {
-  display: block;
-  overflow-x: auto;
+}/*!
+  Theme: Default
+  Description: Original highlight.js style
+  Author: (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
+  Maintainer: @highlightjs/core-team
+  Website: https://highlightjs.org/
+  License: see project LICENSE
+  Touched: 2021
+*/pre code.hljs{display:block;overflow-x:auto;padding:1em}code.hljs{padding:3px 5px}.hljs{background:#f3f3f3;color:#444}.hljs-comment{color:#697070}.hljs-punctuation,.hljs-tag{color:#444a}.hljs-tag .hljs-attr,.hljs-tag .hljs-name{color:#444}.hljs-attribute,.hljs-doctag,.hljs-keyword,.hljs-meta .hljs-keyword,.hljs-name,.hljs-selector-tag{font-weight:700}.hljs-deletion,.hljs-number,.hljs-quote,.hljs-selector-class,.hljs-selector-id,.hljs-string,.hljs-template-tag,.hljs-type{color:#800}.hljs-section,.hljs-title{color:#800;font-weight:700}.hljs-link,.hljs-operator,.hljs-regexp,.hljs-selector-attr,.hljs-selector-pseudo,.hljs-symbol,.hljs-template-variable,.hljs-variable{color:#ab5656}.hljs-literal{color:#695}.hljs-addition,.hljs-built_in,.hljs-bullet,.hljs-code{color:#397300}.hljs-meta{color:#1f7199}.hljs-meta .hljs-string{color:#38a}.hljs-emphasis{font-style:italic}.hljs-strong{font-weight:700}pre.hljs {
+  padding: 0;
+}pre code.hljs {
   padding: 0.5em;
-  background: #F0F0F0;
-}
-
-
-/* Base color: saturation 0; */
-
-.hljs,
-.hljs-subst {
-  color: #444;
-}
-
-.hljs-comment {
-  color: #888888;
-}
-
-.hljs-keyword,
-.hljs-attribute,
-.hljs-selector-tag,
-.hljs-meta-keyword,
-.hljs-doctag,
-.hljs-name {
-  font-weight: bold;
-}
-
-
-/* User color: hue: 0 */
-
-.hljs-type,
-.hljs-string,
-.hljs-number,
-.hljs-selector-id,
-.hljs-selector-class,
-.hljs-quote,
-.hljs-template-tag,
-.hljs-deletion {
-  color: #880000;
-}
-
-.hljs-title,
-.hljs-section {
-  color: #880000;
-  font-weight: bold;
-}
-
-.hljs-regexp,
-.hljs-symbol,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-link,
-.hljs-selector-attr,
-.hljs-selector-pseudo {
-  color: #BC6060;
-}
-
-
-/* Language color: hue: 90; */
-
-.hljs-literal {
-  color: #78A960;
-}
-
-.hljs-built_in,
-.hljs-bullet,
-.hljs-code,
-.hljs-addition {
-  color: #397300;
-}
-
-
-/* Meta color: hue: 200 */
-
-.hljs-meta {
-  color: #1f7199;
-}
-
-.hljs-meta-string {
-  color: #4d99bf;
-}
-
-
-/* Misc effects */
-
-.hljs-emphasis {
-  font-style: italic;
-}
-
-.hljs-strong {
-  font-weight: bold;
-}
-
-
-.hljs {
-  display: block;
-  overflow-x: auto;
-  padding: 0.5em;
+}.hljs {
   background: #fff;
   color: #000;
-  -webkit-text-size-adjust:none
+  -webkit-text-size-adjust:none;
 }.hljs-comment,
 .hljs-quote {
   color: #93a1a1;
@@ -2653,7 +2627,7 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 }/* Solarized Cyan */
 .hljs-number,
 .hljs-string,
-.hljs-meta .hljs-meta-string,
+.hljs-meta .hljs-string,
 .hljs-literal,
 .hljs-doctag,
 .hljs-regexp {
@@ -2694,8 +2668,14 @@ Original highlight.js style (c) Ivan Sagalaev <maniac@softwaremaniacs.org>
 }.hljs-strong {
   font-weight: bold;
 }
-
-
+.matched {
+  background-color:blue;
+  color: white;
+}
+.tw-context {
+  border:1px solid blue;
+  word-break: break-all; word-wrap: break-word;
+}
 /* Trying something clever w/ titles of tiddlers */
 /* .tc-tiddler-title { */
 .tc-title {
@@ -2826,9 +2806,7 @@ padding-left: 42px;
     font-size: .8em;
     line-height: 2;
     padding: 0 1em;
-}
-
-@media (min-width: 960px) {
+}@media (min-width: 960px) {
 .tc-sidebar-scrollable {
     position: fixed;
     top: 0px;
