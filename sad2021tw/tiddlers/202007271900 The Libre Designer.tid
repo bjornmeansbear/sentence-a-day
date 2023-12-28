@@ -1,5 +1,5 @@
 created: 20210620063854248
-modified: 20210806194358775
+modified: 20231228181028391
 tags: Script Markdown!? Lecture
 title: 202007271900 The Libre Designer
 type: text/vnd.tiddlywiki
@@ -70,9 +70,9 @@ The foundations to the Free/Libre Open Source arena has several interesting conn
 
 I will talk too long about the foundations for F/LOS if I get into it, so I'll skip over some backstory for now -- but! the start of free/libre open source is partially related to graphic deisgning.
 
-There is a great anecdote about [[Donald Knuth]] and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes [[TeX]] and [[Metafont]], super great ideas that you can still use today ... And then the origins of [[free software]] and [[GNU]] are that [[Richard Stallman]] is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software...
+There is a great anecdote about [[Donald Knuth]] and being so offended by the bad typesetting of his computer programming books that he decides to invent a typesetting/layout program and magical font to draw all other fonts; this becomes [[TeX]] and [[MetaFont]], super great ideas that you can still use today ... And then the origins of [[free software]] and [[GNU]] are that [[Richard Stallman]] is so upset that Xerox won't share the firmware code for a printer that isn't working right, he flies into an ideological, libertarian rage, quits his job, and vows never to make or use non-free software...
 
-If you want to investigate this all more; I highly recommend finding out more about Donald Knuth -- he is just an amazing person -- and Tex and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf <https://www.overleaf.com/>. There are some cool old videos of him showing people how to use computers in the 80s...
+If you want to investigate this all more; I highly recommend finding out more about Donald Knuth -- he is just an amazing person -- and TeX and MetaFont -- or even trying to use TeX (MacTex, LaTex, ConTeXt or some other fork)... If you like HTML and CSS you'll probably like "designing" documents in TeX. > check out Overleaf <https://www.overleaf.com/>. There are some cool old videos of him showing people how to use computers in the 80s...
 
 You can also read all sorts of history and foundational information from, by, and about the Free Software foundation (<https://www.fsf.org/>) and GNU (<http://www.gnu.org/>)...
 
