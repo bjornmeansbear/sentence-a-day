@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="generator" content="TiddlyWiki" />
-<meta name="tiddlywiki-version" content="5.2.5" />
+<meta name="tiddlywiki-version" content="5.3.3" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -24,11 +24,7 @@
     
 </div>
 </span>
-<div class=" tc-reveal"><div class="tc-tags-wrapper"><span class="tc-tag-list-item" data-tag-title="$:/tags/ViewTemplate"><span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
-fill:#fff;
-color:#fff;">$:/tags/ViewTemplate</span><span class="tc-drop-down tc-reveal" hidden="true"></span></span><span class="tc-tag-list-item" data-tag-title="hide"><span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
-fill:#fff;
-color:#fff;">hide</span><span class="tc-drop-down tc-reveal" hidden="true"></span></span></div></div><span class=" tc-reveal" hidden="true"></span>
+<div class=" tc-reveal"><div class="tc-tags-wrapper"><span class="tc-tag-list-item" data-tag-title="$:/tags/ViewTemplate"><span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="fill:#fff;color:#fff;">$:/tags/ViewTemplate</span><span class="tc-drop-down tc-reveal" hidden="true"></span></span><span class="tc-tag-list-item" data-tag-title="hide"><span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="fill:#fff;color:#fff;">hide</span><span class="tc-drop-down tc-reveal" hidden="true"></span></span></div></div><span class=" tc-reveal" hidden="true"></span>
 <div class="infoTable fieldDisplay">
     
 
@@ -54,32 +50,89 @@ color:#fff;">hide</span><span class="tc-drop-down tc-reveal" hidden="true"></spa
 
 
     
-</div><div class="tc-tiddler-body tc-reveal"><p><div class="infoTable fieldDisplay">
-    
+</div><div class="tc-tiddler-body tc-reveal"><pre><code>&lt;div class="infoTable fieldDisplay"&gt;
+    &lt;!-- &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;Title&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!title}} / {{!!caption}}&lt;/div&gt;
+    &lt;/section&gt; --&gt;
 
-    
+    &lt;$list filter="[all[current]!author[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;Author&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!author}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!isbn[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;ISBN&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!isbn}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!publisher[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;Publisher&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!publisher}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!year[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;Year&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!year}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!prompt[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;Prompt&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!prompt}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!currentco2ppm[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;PPM&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!currentco2ppm}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!description[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;Summary&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!description}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!city[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;Written from&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!city}}, {{!!state}}, {{!!location}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!url[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;URL&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!url}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
-    
+    &lt;$list filter="[all[current]!wikipedia[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="key"&gt;Wikipedia&lt;/div&gt;
+        &lt;div class="value"&gt;{{!!wikipedia}}&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
 
 
-    
-</div></p></div>
+    &lt;$list filter="[all[current]!coverurl[]] +[first[]]" variable=_&gt;
+    &lt;section class="row flex"&gt;
+        &lt;div class="imgWrapper bookCover"&gt;&lt;img src={{!!coverurl}} /&gt;&lt;/div&gt;
+    &lt;/section&gt;
+    &lt;/$list&gt;
+&lt;/div&gt;</code></pre></div>
 </div></p>
 </section>
 

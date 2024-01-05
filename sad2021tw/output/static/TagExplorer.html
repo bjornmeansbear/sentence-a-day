@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="generator" content="TiddlyWiki" />
-<meta name="tiddlywiki-version" content="5.2.5" />
+<meta name="tiddlywiki-version" content="5.3.3" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -24,11 +24,7 @@
     
 </div>
 </span>
-<div class=" tc-reveal"><div class="tc-tags-wrapper"><span class="tc-tag-list-item" data-tag-title="$:/tags/ViewTemplate"><span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
-fill:#fff;
-color:#fff;">$:/tags/ViewTemplate</span><span class="tc-drop-down tc-reveal" hidden="true"></span></span><span class="tc-tag-list-item" data-tag-title="hide"><span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="background-color:;
-fill:#fff;
-color:#fff;">hide</span><span class="tc-drop-down tc-reveal" hidden="true"></span></span></div></div><span class=" tc-reveal" hidden="true"></span>
+<div class=" tc-reveal"><div class="tc-tags-wrapper"><span class="tc-tag-list-item" data-tag-title="$:/tags/ViewTemplate"><span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="fill:#fff;color:#fff;">$:/tags/ViewTemplate</span><span class="tc-drop-down tc-reveal" hidden="true"></span></span><span class="tc-tag-list-item" data-tag-title="hide"><span aria-expanded="false" class="tc-tag-label tc-btn-invisible" draggable="true" style="fill:#fff;color:#fff;">hide</span><span class="tc-drop-down tc-reveal" hidden="true"></span></span></div></div><span class=" tc-reveal" hidden="true"></span>
 <div class="infoTable fieldDisplay">
     
 
@@ -54,7 +50,14 @@ color:#fff;">hide</span><span class="tc-drop-down tc-reveal" hidden="true"></spa
 
 
     
-</div><div class="tc-tiddler-body tc-reveal"><p></p></div>
+</div><div class="tc-tiddler-body tc-reveal"><pre><code>&lt;$list filter="[all[current]tagging[]] +[first[]]" variable=_&gt;
+  &lt;div class="tagExplorer explorerWrap"&gt;
+      &lt;div class="column"&gt;
+          &lt;h3&gt;Tagged with //{{!!title}}//&lt;/h3&gt;
+          &lt;&lt;list-links "[all[current]tagging[]sort[title]]"&gt;&gt;
+      &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/$list&gt;</code></pre></div>
 </div></p>
 </section>
 
