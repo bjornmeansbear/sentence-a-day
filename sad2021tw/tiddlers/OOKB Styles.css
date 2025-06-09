@@ -6,6 +6,9 @@
   background: white;
   z-index: 1;
 }
+.tc-tiddler-frame {
+  position: relative;
+}
 
 /* Added/Modified this Day */
 /* designing the in/out links section for each card */
