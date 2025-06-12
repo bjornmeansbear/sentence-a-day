@@ -1,18 +1,20 @@
 created: 20250609163301103
-modified: 20250612082844067
+modified: 20250612153830975
 tags: SDCSC
 title: SDCSC: Potential Outline
 type: text/vnd.tiddlywiki
 
 outline:
 
-# [[Introduction: Hook with the Okaterra chair story]]
-# Defining Sustainable Design: Your "leave it better" concept
-# Circular Design Principles: Theory and application
-# Bioregional Approach: Concept and benefits
-# Case Study: Detailed analysis of the Okaterra chair
-# Expanding the Concept: Applying to non-furniture design
-# Conclusion: Future of sustainable design
+# [[Introduction: Hook with the Okaterra chair story]] → [[SDCSC-a001: Introduction]]
+#* <$transclude $tiddler='SDCSC-a001: Introduction' $type="text/vnd.tiddlywiki" $mode="block" />
+# [[SDCSC-a002: Defining Sustainable Design: a "leave it better" concept]]
+#* <$transclude $tiddler='SDCSC-a002: Defining Sustainable Design: a "leave it better" concept' $type="text/vnd.tiddlywiki" $mode="block" />
+# [[SDCSCa003: Circular Design Principles: Theory and application]]
+# [[SDCSCa004: Bioregional Approach: Concept and benefits]]
+# [[SDCSCa100: Detailed analysis of the Okaterra and Oka chair]]
+# [[SDCSCa101: Expanding the Concept (Applying to non-furniture design)]]
+# [[SDCSCa200: Conclusion (The Future of Sustainable Design (or should we call it circular))]]
 
 For additional storytelling, I can also consider:
 
