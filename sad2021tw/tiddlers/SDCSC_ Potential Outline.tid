@@ -1,5 +1,5 @@
 created: 20250609163301103
-modified: 20250614070206103
+modified: 20250614150002648
 tags: SDCSC
 title: SDCSC: Potential Outline
 type: text/vnd.tiddlywiki
@@ -8,13 +8,19 @@ outline:
 
 # [[Introduction: Hook with the Okaterra chair story]] → [[SDCSC-a001: Introduction]]
 #* <$transclude $tiddler='SDCSC-a001: Introduction' $type="text/vnd.tiddlywiki" $mode="block" />
+#* This story is a reality — you can currently go out and buy chairs that are healthy for you AND for the planet. And what's cool is that there are plentiful options, all solving different aspects of todays problems in different ways exemplifying the same principles — those of the circular economy, of regenerative design, and of sustainability more broadly. We'll define sustainability usefully in a design context, we'll look at if sustainability is enough, and how we can start thinking not just about having "better" processes and materials, but actually repair the earth around us as we design new things. Move from extraction to regeneration. So we'll define design, we'll look at this regenerative concept, and then we'll follow the considerations of a single chair from idea to production with other chairs aiding us along the way.
 # [[SDCSC-a002: Defining Sustainable Design: a "leave it better" concept]]
 #* <$transclude $tiddler='SDCSC-a002: Defining Sustainable Design: a "leave it better" concept' $type="text/vnd.tiddlywiki" $mode="block" />
-# [[SDCSCa003: Circular Design Principles: Theory and application]]
-# [[SDCSCa004: Bioregional Approach: Concept and benefits]]
-# [[SDCSCa100: Detailed analysis of the Okaterra and Oka chair]]
-# [[SDCSCa101: Expanding the Concept (Applying to non-furniture design)]]
-# [[SDCSCa200: Conclusion (The Future of Sustainable Design (or should we call it circular))]]
+# [[SDCSC-a003: Circular Design Principles: Theory and application]]
+#* <$transclude $tiddler='SDCSC-a003: Circular Design Principles: Theory and application' $type="text/vnd.tiddlywiki" $mode="block" />
+# [[SDCSC-a004: Bioregional Approach: Concept and benefits]]
+#* <$transclude $tiddler='SDCSC-a004: Bioregional Approach: Concept and benefits' $type="text/vnd.tiddlywiki" $mode="block" />
+# [[SDCSC-a100: Detailed analysis of the Okaterra and Oka chair]]
+#* <$transclude $tiddler='SDCSC-a100: Detailed analysis of the Okaterra and Oka chair' $type="text/vnd.tiddlywiki" $mode="block" />
+# [[SDCSC-a101: Expanding the Concept (Applying to non-furniture design)]]
+#* <$transclude $tiddler='SDCSC-a101: Expanding the Concept (Applying to non-furniture design)' $type="text/vnd.tiddlywiki" $mode="block" />
+# [[SDCSC-a200: Conclusion (The Future of Sustainable Design (or should we call it circular))]]
+#* <$transclude $tiddler='SDCSC-a200: Conclusion (The Future of Sustainable Design (or should we call it circular))' $type="text/vnd.tiddlywiki" $mode="block" />
 
 For additional storytelling, I can also consider:
 
@@ -24,3 +30,5 @@ For additional storytelling, I can also consider:
 * Anything from [[Sarah Templin]]?
 
 I don't need to fit everything in. I just need to Focus on the most impactful points and let the story guide me.
+
+
