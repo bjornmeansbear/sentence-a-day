@@ -1,0 +1,42 @@
+created: 20250612152628169
+modified: 20250614144445050
+tags: SDCSC
+title: SDCSC-a003: Circular Design Principles: Theory and application
+type: text/vnd.tiddlywiki
+
+So here are the main principles of the circular economy: ([[Another Circular Economy Starting Place]])
+
+* [[Eliminate waste and pollution]]
+* [[Circulating Materials at Their Highest Value|Circulate products and materials]]
+* [[Regenerating Natural Systems|Regenerate nature]]
+
+They are important aspects of [[Regenerative Design]] — of [[giving back at every stage of an objects life|How might we design a chair that gives back at every stage of its life cycle?]]. Understanding the circular economy is sort of key to understanding the Oka Chair and sustainable design's possibilities more generally.
+
+In the context of what these principles mean, here's how the [[Oka Chair]] does them… and here is how you can try to think about them for your own projects
+
+1. [[Eliminate waste and pollution]]
+
+The Oka chair attacks wastefulness in multiple ways. If you look at the supply chain of a normal mass produced chair, well, it might span the entire globe, multiple times. For starters the oka chair drastically shrinks the supply chain. Everything in the design of the Oka Chair comes from the greater Maryland material shed/bio region. This means that transports resources are minimized. It not only uses local materials, but also local manuifacturing. Again, very little resources for transport. 
+
+Then, the materials themselves. The supplier of the wool (NAME?), she was complaining about waste wool, all the bits and pieces that are too small to spin to yarn, or too hard to use in other ways. This "waste wool" [[Common Objects]] decided to use as the stuffing in their cushions. This solves one problem for common objects — where to source a replacement for foam, and solves a serious issue for the wool farmer — what to do with the waste wool. Well, using it as cushion stuffer is working wonders so far.
+
+This same set of ideas carries through all the material and manufacturing choices — [[design for disassembly]], organic hem from a different farm. etc.
+
+2. [[Circulate products and materials]]
+
+The second principle of the circular economy is to circulate materials at their highest value, keeping them in use for as long as possible. This involves understanding two fundamental cycles: the technical cycle and the biological cycle.
+
+Technical Cycle: This cycle involves reusing, repairing, remanufacturing, and recycling materials like metals and plastics — anything that cannot be composted back to soil — to maintain their highest value, their purest state, their maximum resource potential. The goal is to keep products and materials in use, either as a whole product or as components, to maximize their intrinsic value. For example, a phone or car is more valuable as a functioning product than as its individual components. Strategies like sharing, resale, and remanufacturing are prioritized over remanufacturing or even recycling, which is considered a last resort. However, to embrace this, we do have to start designing for disassembly and considering how individual materials can be separated easily from other materials to allow for as close to closed-loop, infinite recycling of constituent materials. If we can't keep using, if we can't repair, if we can't remanufacture, then we get the materials back to its pure raw state to be turned into something new. This means thinking harder about supply chains, manufacturing processes, etc.
+
+Biological Cycle: This cycle focuses on returning biodegradable materials to the earth through processes like composting and anaerobic digestion. These processes help regenerate natural capital by returning valuable nutrients to the soil. Materials suitable for this cycle include any organic materials like cotton, hemp, linen, wood, and wool. For instance, composting or anaerobically digesting organic materials can return valuable nutrients like nitrogen, phosphorus, potassium, and micronutrients to the land, helping to regenerate soil health. This also means, like in looping the technical cycle, that "waste" is no longer a concept, everything goes back into some other cycle. Like the technical cycle, this does involve being very thoughtful about making objects ONLY of technical or ONLY of biological materials, we have to keep the cycles clear of impurities or impossible to separate "[[monstrous hybrids]]" — metal inseparably bonded to wood; paint or ink with heavy metals for pigment on otherwise compostable cotton or wood, etc.
+
+This concept is articulated extremely well in [[Cradle to Cradle]] by [[William McDonough]] and [[Michael Braungart]], which emphasizes designing products and systems that are fully circular (they call this "cradle to cradle" instead of "cradle to grave" — I'm saying "circular" instead of "linear"), ensuring that materials are kept in continuous use, technical materials make their way back to useful raw states no longer contaminating our surrounds, and that biodegradable materials are safely returned to the biosphere. By designing with proper circulation in mind, products can be created that combine both technical and biological nutrient types in disassemblable ways, or keep them completely separated, effectively keeping finite materials in the economy and returning biodegradable materials to the earth. They call this idea [[Waste = Food]]. 
+
+The Oka chair is taking the [[Biological Nutrient]] approach. Every material in the oka chair, the wood for the frame, the hemp for the underlying support, the wool for the cushions and stuffing, is all biological — the entire chair can just be placed in your home compost pile safely. It's not just the raw materials themselves, even things like the way different parts are fastened together was considered in this way.
+
+3. [[Regenerate nature]]
+
+
+<hr/>
+
+[[← SDCSCa002|SDCSC-a002: Defining Sustainable Design: a "leave it better" concept]] / [[SDCSCa004 →|SDCSC-a004: Bioregional Approach: Concept and benefits]]
