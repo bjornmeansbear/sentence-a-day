@@ -1,0 +1,42 @@
+title: $:/custom/templates/public-alltiddlers.html
+
+\define tv-wikilink-template() static/$uri_doubleencoded$.html
+\define tv-config-toolbar-icons() no
+\define tv-config-toolbar-text() no
+\define tv-config-toolbar-class() tc-btn-invisible
+\import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]
+`<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="generator" content="TiddlyWiki" />
+<meta name="tiddlywiki-version" content="`{{$:/core/templates/version}}`" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="format-detection" content="telephone=no">
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="static/static.css">
+<title>All Tiddlers: `{{$:/SiteTitle}}`</title>
+</head>
+<body class="tc-body">
+`{{$:/StaticBanner||$:/core/templates/html-tiddler}}`
+
+<!-- Sidebar header -->
+<div class="tc-sidebar-scrollable" style="overflow: auto;">
+  <div class="tc-sidebar-header"><h1 class="tc-site-title">Bjørnpaedia</h1></div>
+  <div class="tc-site-subtitle"><p>Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everything is Connected in general.</p></div>
+</div>
+
+<section class="tc-story-river tc-static-story-river">
+<p><a href="static.html">&#8592; Back to main page</a></p>
+<h2>All Public Tiddlers</h2>
+<ul>
+`<$list filter="[!is[system]!tag[private]!tag[hide]sort[title]]">`<li>`<$link/>`</li>
+`</$list>`</ul>
+</section>
+
+</body>
+</html>
+`

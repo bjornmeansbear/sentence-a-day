@@ -10,29 +10,29 @@
         "tiddlywiki/snowwhite"
     ],
     "build": {
-        "index": [
-            "--rendertiddler",
-            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
-            "index.html",
-            "text/plain"
-        ],
-        "static": [
+        "public": [
             "--rendertiddler",
             "$:/core/templates/static.template.html",
             "static.html",
             "text/plain",
             "--rendertiddler",
-            "$:/core/templates/alltiddlers.template.html",
+            "$:/custom/templates/public-alltiddlers.html",
             "alltiddlers.html",
             "text/plain",
             "--rendertiddlers",
-            "[!is[system]] [!tag[private]] [!tag[hide]]",
+            "[!is[system]!tag[private]!tag[hide]]",
             "$:/core/templates/static.tiddler.html",
             "static",
             "text/plain",
             "--rendertiddler",
             "$:/core/templates/static.template.css",
             "static/static.css",
+            "text/plain"
+        ],
+        "offline": [
+            "--rendertiddler",
+            "$:/plugins/tiddlywiki/tiddlyweb/save/offline",
+            "index.html",
             "text/plain"
         ]
     }
