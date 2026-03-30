@@ -10,7 +10,8 @@
 #Okay: this renders all the static files AND does and index.html with some dyanmism?
 #tiddlywiki sad2021tw --render $:/core/templates/static.template.css static/static.css text/plain
 #tiddlywiki sad2021tw --render '[!is[system]]' '[encodeuricomponent[]addprefix[tiddlers/]addsuffix[.html]]'
-tiddlywiki sad2021tw --render '[!is[system]]' '[encodeuricomponent[]addprefix[static/]addsuffix[.html]]' 'text/plain' '$:/core/templates/static.tiddler.html'
+tiddlywiki sad2021tw --render '[!is[system]] [!tag[private]] [!tag[hide]]' '[encodeuricomponent[]addprefix[static/]addsuffix[.html]]' 'text/plain' '$:/core/templates/static.tiddler.html'
 tiddlywiki sad2021tw --render $:/core/templates/static.template.html static.html text/plain
 tiddlywiki sad2021tw --render $:/core/templates/alltiddlers.template.html alltiddlers.html text/plain
 tiddlywiki sad2021tw --build index
+tiddlywiki sad2021tw --build static
