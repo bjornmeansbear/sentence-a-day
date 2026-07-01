@@ -56,9 +56,10 @@ Custom fragments (all tagged `$:/tags/ViewTemplate hide`):
 
 ### Plugins (extend the system, not templates per se)
 - `OokTech/WordCount` — word count display + editor hook, wired into `$:/tags/ViewTemplate`.
-- `danielo515/ContextPlugin` — custom plugin, source in `sad2021tw/plugins/contextPlugin`.
 - `flibbles/relink` and `flibbles/relink-titles` — keep links updated when tiddler titles change.
 - `snowgoon88/edit-comptext` — custom plugin, source in `sad2021tw/plugins/edit-comptext`.
+
+**Removed:** `danielo515/ContextPlugin` (search-result context highlighting) was removed on 2026-07-01 — its `<$context>` widget calls `dots.cloneNode()`, which TiddlyWiki's server-side/Node rendering environment doesn't implement. This crashed every static build after ~69 of ~1516 tiddlers and prevented `static/static.css` from ever being generated. See the Publishing section in `CLAUDE.md`.
 
 ## How TiddlyWiki templating works (for future tweaks)
 
