@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="generator" content="TiddlyWiki" />
+<meta name="tiddlywiki-version" content="5.3.8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="format-detection" content="telephone=no">
+<link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+<link rel="stylesheet" href="static.css">
+<title>$:/core: The Sustainabilitist: Essays Every Day? — More like Ideas and Questions every day. Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everythingis Connected in general.</title>
+</head>
+<body class="tc-body">
+
+<section class="tc-story-river tc-static-story-river">
+<p><div class="tc-tiddler-frame tc-tiddler-view-frame tc-tiddler-exists tc-tiddler-system " data-tags="" data-tiddler-title="$:/core" role="article"><div class="tc-tiddler-title tc-clearfix"><div class="tc-titlebar"><span class="tc-tiddler-controls"><button aria-expanded="false" aria-label="more" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fmore-tiddler-actions" title="More actions"></button><span class=" tc-reveal" hidden="true"></span><button aria-label="new here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-here" title="Create a new tiddler tagged with this one"></button><button aria-label="new journal here" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fnew-journal-here" title="Create a new journal tiddler tagged with this one"></button><button aria-label="Edit this tiddler" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fedit" title="Edit this tiddler"></button><button aria-label="close" class="tc-btn-invisible tc-btn-%24%3A%2Fcore%2Fui%2FButtons%2Fclose" title="Close this tiddler"></button></span><span><h2 class="tc-title" title="This is a system tiddler"><span class="tc-system-title-prefix">$:/</span>core</h2></span></div><div class="tc-tiddler-info tc-popup-handle tc-reveal" hidden="true"></div></div><div class="tc-reveal"></div><div class=" tc-reveal"><div class="tc-subtitle tc-clearfix"></div></div><span class=" tc-reveal">
+<div class="word-count">
+    
+        Word Count:
+        <span>327049</span>
+    
+</div>
+</span>
+<div class=" tc-reveal"><div class="tc-tags-wrapper"></div></div><span class=" tc-reveal" hidden="true"></span>
+<div class="infoTable fieldDisplay">
+    
+
+    
+    <section class="row flex">
+        <div class="key">Author</div>
+        <div class="value">JeremyRuston</div>
+    </section>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <section class="row flex">
+        <div class="key">Summary</div>
+        <div class="value">TiddlyWiki5 core</div>
+    </section>
+    
+
+    
+
+    
+
+    
+
+
+    
+</div><div class="tc-tiddler-body tc-clearfix tc-reveal"><p><div class="tc-tiddler-plugin-info"><span class=" tc-reveal"><a class="tc-tiddlylink tc-tiddlylink-resolves tc-plugin-info" href="%2524%253A%252Fcore.html"><div class="tc-plugin-info-chunk tc-plugin-info-toggle"><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><button class="tc-btn-invisible tc-btn-dropdown"><svg class="tc-image-chevron-down tc-image-button" height="22pt" viewBox="0 0 128 128" width="22pt"><g fill-rule="evenodd"><path d="M64.053 85.456a7.889 7.889 0 01-5.6-2.316L2.473 27.16a7.92 7.92 0 010-11.196c3.086-3.085 8.105-3.092 11.196 0L64.05 66.344l50.382-50.382a7.92 7.92 0 0111.195 0c3.085 3.086 3.092 8.105 0 11.196l-55.98 55.98a7.892 7.892 0 01-5.595 2.317z"></path><path d="M64.053 124.069a7.889 7.889 0 01-5.6-2.316l-55.98-55.98a7.92 7.92 0 010-11.196c3.086-3.085 8.105-3.092 11.196 0l50.382 50.382 50.382-50.382a7.92 7.92 0 0111.195 0c3.085 3.086 3.092 8.104 0 11.196l-55.98 55.98a7.892 7.892 0 01-5.595 2.316z"></path></g></svg></button></span></div><div class="tc-plugin-info-chunk tc-plugin-info-icon"><svg height="22pt" viewBox="0 0 128 128" width="22pt"><path d="M64 0l54.56 32v64L64 128 9.44 96V32L64 0zm21.127 95.408c-3.578-.103-5.15-.094-6.974-3.152l-1.42.042c-1.653-.075-.964-.04-2.067-.097-1.844-.07-1.548-1.86-1.873-2.8-.52-3.202.687-6.43.65-9.632-.014-1.14-1.593-5.17-2.157-6.61-1.768.34-3.546.406-5.34.497-4.134-.01-8.24-.527-12.317-1.183-.8 3.35-3.16 8.036-1.21 11.44 2.37 3.52 4.03 4.495 6.61 4.707 2.572.212 3.16 3.18 2.53 4.242-.55.73-1.52.864-2.346 1.04l-1.65.08c-1.296-.046-2.455-.404-3.61-.955-1.93-1.097-3.925-3.383-5.406-5.024.345.658.55 1.938.24 2.53-.878 1.27-4.665 1.26-6.4.47-1.97-.89-6.73-7.162-7.468-11.86 1.96-3.78 4.812-7.07 6.255-11.186-3.146-2.05-4.83-5.384-4.61-9.16l.08-.44c-3.097.59-1.49.37-4.82.628-10.608-.032-19.935-7.37-14.68-18.774.34-.673.664-1.287 1.243-.994.466.237.4 1.18.166 2.227-3.005 13.627 11.67 13.732 20.69 11.21.89-.25 2.67-1.936 3.905-2.495 2.016-.91 4.205-1.282 6.376-1.55 5.4-.63 11.893 2.276 15.19 2.37 3.3.096 7.99-.805 10.87-.615 2.09.098 4.143.483 6.16 1.03 1.306-6.49 1.4-11.27 4.492-12.38 1.814.293 3.213 2.818 4.25 4.167 2.112-.086 4.12.46 6.115 1.066 3.61-.522 6.642-2.593 9.833-4.203-3.234 2.69-3.673 7.075-3.303 11.127.138 2.103-.444 4.386-1.164 6.54-1.348 3.507-3.95 7.204-6.97 7.014-1.14-.036-1.805-.695-2.653-1.4-.164 1.427-.81 2.7-1.434 3.96-1.44 2.797-5.203 4.03-8.687 7.016-3.484 2.985 1.114 13.65 2.23 15.594 1.114 1.94 4.226 2.652 3.02 4.406-.37.58-.936.785-1.54 1.01l-.82.11zm-40.097-8.85l.553.14c.694-.27 2.09.15 2.83.353-1.363-1.31-3.417-3.24-4.897-4.46-.485-1.47-.278-2.96-.174-4.46l.02-.123c-.582 1.205-1.322 2.376-1.72 3.645-.465 1.71 2.07 3.557 3.052 4.615l.336.3z" fill-rule="evenodd"></path></svg></div><div class="tc-plugin-info-chunk tc-plugin-info-description"><h1><strong>Core</strong>: TiddlyWiki5 core </h1><h2>$:/core</h2><h2><div><span class="tc-plugin-info-stability tc-plugin-info-stability-stable">STABLE</span><em>5.3.8</em></div></h2></div></a></span><span class=" tc-reveal" hidden="true"></span><span class=" tc-reveal"><div class="tc-plugin-info-dropdown"><div class="tc-plugin-info-dropdown-body"><div class="tc-tab-set "><div class="tc-tab-buttons "><button aria-checked="true" class=" tc-tab-selected" data-tab-title="readme" role="switch">readme</button><button class="" data-tab-title="contents" role="switch">contents</button></div><div class="tc-tab-divider "></div><div class="tc-tab-content "><div class=" tc-reveal"><p><p>This plugin contains TiddlyWiki's core components, comprising:</p><ul><li>JavaScript code modules</li><li>Icons</li><li>Templates needed to create TiddlyWiki's user interface</li><li>British English (<strong>en-GB</strong>) translations of the localisable strings used by the core</li></ul></p></div><div class=" tc-reveal" hidden="true"></div></div></div></div></div></span>
+</div></p></div>
+</div></p>
+</section>
+
+<!-- KB Additions -->
+<div class="tc-sidebar-scrollable" style="overflow: auto;">
+  <div class="tc-sidebar-header"><h1 class="tc-site-title">Bjørnpaedia</h1></div>
+  <div class="tc-site-subtitle"><p>Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everything is Connected in general.</p></div>
+</div>
+
+</body>
+</html>
+

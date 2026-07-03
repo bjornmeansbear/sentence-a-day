@@ -1,0 +1,26 @@
+created: 20260702120000000
+modified: 20260702120000000
+title: $:/plugins/bjorn/hide-editing.js
+type: application/javascript
+tags: $:/tags/Startup
+
+(function(){
+if(typeof window === 'undefined') return;
+var host = window.location.hostname;
+var isLocal = host === 'localhost' || host === '127.0.0.1' || host === '' || host === '::1';
+if(!isLocal){
+    var css = [
+      '.tc-tiddler-controls { display:none !important; }',
+      'button[title*="Edit"] { display:none !important; }',
+      'button[title*="Create"] { display:none !important; }',
+      'button[title*="Delete"] { display:none !important; }',
+      'button[aria-label*="Edit"] { display:none !important; }',
+      'button[aria-label*="new here"] { display:none !important; }'
+    ].join('\n');
+    var style = document.createElement('style');
+    style.setAttribute('type','text/css');
+    style.id = 'hide-editing-style';
+    style.appendChild(document.createTextNode(css));
+    document.head.appendChild(style);
+}
+})();
