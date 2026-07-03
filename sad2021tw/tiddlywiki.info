@@ -6,8 +6,7 @@
         "tiddlywiki/highlight"
     ],
     "themes": [
-        "tiddlywiki/vanilla",
-        "tiddlywiki/snowwhite"
+        "tiddlywiki/vanilla"
     ],
     "build": {
         "index": [
@@ -26,7 +25,7 @@
             "alltiddlers.html",
             "text/plain",
             "--rendertiddlers",
-            "[!is[system]] [!tag[private]] [!tag[hide]]",
+            "[!is[system]] +[!tag[private]] +[!tag[hide]]",
             "$:/core/templates/static.tiddler.html",
             "static",
             "text/plain",
