@@ -24,12 +24,25 @@ type: text/vnd.tiddlywiki
 <title>`<$view field="caption"><$view field="title"/></$view>: {{$:/core/wiki/title}}`</title>
 </head>
 <body class="tc-body">
+
+<!-- this can't live as hardcoded forever can it, just trying to figure out how to add it -->
+<nav class="wjerk-nav">
+  <ul class="listReset">
+    <li><a href="https://a.wjerk.shop/">Wjerk (Studio)</a></li>
+    <li><a href="https://a.wjerk.shop/#work">Case Studies</a></li>
+    <li><a href="https://stuff.wjerk.shop/">Store</a></li>
+    <li><a href="https://buttondown.com/bjornmeansbear">Newsletter</a></li>
+  </ul>
+</nav>
+
+
 `{{$:/StaticBanner||$:/core/templates/html-tiddler}}`
 <section class="tc-story-river tc-static-story-river">
 `<$view tiddler="$:/core/ui/ViewTemplate" format="htmlwikified"/>`
 </section>
 
-<!-- KB Additions -->
+<!-- KB Additions --
+
 <div class="tc-sidebar-scrollable" style="overflow: auto;">
   <div class="tc-sidebar-header"><h1 class="tc-site-title">Bjørnpaedia</h1></div>
   <div class="tc-site-subtitle"><p>Sentences, Paragraphs and More on Sustainability, Open Source, Design, and how Everything is Connected in general.</p></div>
