@@ -32,17 +32,16 @@ margin-top: 14px;
   .explorerWrap {
     margin: 2rem -42px -42px;
   }
-.explorerWrap:last-of-type {
-  margin-bottom: -42px;
-}
+  .explorerWrap:last-of-type {
+    margin-bottom: -42px;
+  }
 
-.dateExplorer + .linkExplorer,
-.tagExplorer + .dateExplorer,
-.tagExplorer + .linkExplorer {
-margin-top: 42px;
+  .dateExplorer + .linkExplorer,
+  .tagExplorer + .dateExplorer,
+  .tagExplorer + .linkExplorer {
+    margin-top: 42px;
+  }
 }
-}
-
 
 .explorerWrap .column {
   flex: 1;
@@ -125,7 +124,12 @@ padding-left: 42px;
 /** Nav back to the other Wjerk properties (portfolio, store, newsletter) **/
 
 .wjerk-nav {
-  margin-top: 1.5em;
+  margin-top: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
 }
 .wjerk-nav .listReset {
   flex-wrap: nowrap;
