@@ -122,6 +122,40 @@ padding-left: 42px;
   text-decoration: none;
 }
 
+/** Nav back to the other Wjerk properties (portfolio, store, newsletter) **/
+
+.wjerk-nav {
+  margin-top: 1.5em;
+}
+.wjerk-nav .listReset {
+  flex-wrap: nowrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.wjerk-nav li {
+  flex: 1;
+  margin: 0.35em 0;
+}
+.wjerk-nav ul li:nth-child(n+3) {
+  border-top: none;
+}
+.wjerk-nav ul li:first-child {
+  border-left: none;
+}
+.wjerk-nav ul li:not(:first-child) {
+  border-left: 1px solid;
+}
+.wjerk-nav a {
+    display: block;
+    padding: 1em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+
 /** Trying to add this little word count widget!? **/
 .word-count {
     color: white;
