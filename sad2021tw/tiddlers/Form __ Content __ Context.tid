@@ -1,5 +1,5 @@
 created: 20210627085911307
-modified: 20210812180638990
+modified: 20260709030333807
 tags: [[Big Ideas]]
 title: Form <> Content <> Context
 type: text/vnd.tiddlywiki
@@ -8,4 +8,8 @@ Form is a subset of content, content is a subset of context … but they also pu
 
 In the end, I wish this to mean that CONTEXT is the ultimate arbiter of content and form. A given context, analyzed correctly, has content and form unique and correct to it that MAY NOT fit another context. Thus, there is no universal style or communicative tool. There are just the right things for a particular time, space, culture, etc.
 
-Related: [[Notes on the Synthesis of Form]]
+Related: 
+
+* [[Notes on the Synthesis of Form]] by [[Christopher Alexander]]
+* [[Andrew Blauvelt]]'s [[Towards Relational Design]]
+* [[SDCDC002: Contextual Design]]
