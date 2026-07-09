@@ -73,6 +73,20 @@ type: text/vnd.tiddlywiki
     </section>
     </$list>
 
+    <$list filter="[all[current]!field:are.na[]] +[first[]]" variable=_>
+    <section class="row flex">
+        <div class="key">Are.na</div>
+        <div class="value">{{!!are.na}}</div>
+    </section>
+    </$list>
+
+    <$list filter="[all[current]!medium[]] +[first[]]" variable=_>
+    <section class="row flex">
+        <div class="key">Medium</div>
+        <div class="value">{{!!medium}}</div>
+    </section>
+    </$list>
+
     <$list filter="[all[current]!wikipedia[]] +[first[]]" variable=_>
     <section class="row flex">
         <div class="key">Wikipedia</div>
