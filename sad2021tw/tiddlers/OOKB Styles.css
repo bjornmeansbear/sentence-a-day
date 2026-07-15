@@ -1,3 +1,7 @@
+.tc-body {
+    margin-top: 3em;
+}
+
 /* Trying something clever w/ titles of tiddlers */
 /* .tc-tiddler-title { */
 .tc-title {
@@ -122,39 +126,137 @@ padding-left: 42px;
   text-decoration: none;
 }
 
+/** Adding Wjerk Nav **/
 /** Nav back to the other Wjerk properties (portfolio, store, newsletter) **/
-
 .wjerk-nav {
-  margin-top: 1.5em;
+    display: flex;
+    margin-top: 0;
+    background: white;
 }
-.wjerk-nav .listReset {
-  flex-wrap: nowrap;
-  list-style: none;
-  margin: 0;
+
+.wjerk-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
   padding: 0;
+  margin: 0;;
+  width: 100%;
 }
-.wjerk-nav li {
-  flex: 1;
-  margin: 0.35em 0;
+
+.wjerk-nav ul li {
+  display: flex;
+  border-left: 1px solid;
+  flex: 1 1 50%;
+  height: inherit;
 }
-.wjerk-nav ul li:nth-child(n+3) {
-  border-top: none;
-}
-.wjerk-nav ul li:first-child {
+
+.wjerk-nav ul li:nth-child(odd) {
   border-left: none;
 }
-.wjerk-nav ul li:not(:first-child) {
-  border-left: 1px solid;
+
+.wjerk-nav ul li:nth-child(n+3) {
+  border-top: 1px solid;
 }
+
 .wjerk-nav a {
-    display: block;
+  display: block;
+  padding: 1em;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+}
+
+.wjerk-nav a:hover {
+  background-color: blue;
+  color: white;
+}
+
+.tc-hide-sidebar-btn {
+    padding: 9px 6px 7px 8px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;  
+    border: 1px solid;
+    border-radius: 50%;
+}
+
+/* ============================================================================
+   Progressive enhancement from here up: everything above is the mobile
+   baseline; this query layers on the side-by-side desktop treatment once
+   there's enough width for it to actually read well.
+   ============================================================================ */
+@media (min-width: 40rem) {
+  .wjerk-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 99;
+  }
+
+  .wjerk-nav ul {
+    flex-wrap: nowrap;
+
+  }
+
+  .wjerk-nav ul li {
+    display: flex;
+    flex: 1;
+    align-items: center;    /* Centers text vertically */
+    justify-content: center; /* Centers text horizontally */
+    align-self: stretch;
+  }
+
+  .wjerk-nav a {
+    display: flex;
+    align-items: center;    /* Centers text vertically */
+    justify-content: center; /* Centers text horizontally */
     padding: 1em;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
     color: inherit;
+    height: 100%;
+    width: 100%;
+  }
+
+  .wjerk-nav ul li:nth-child(n+3) {
+    border-top: none;
+  }
+
+  .wjerk-nav ul li:first-child {
+    border-left: none;
+  }
+
+  .wjerk-nav ul li:not(:first-child) {
+    border-left: 1px solid;
+  }
 }
 
+/** Push page content down below the fixed .wjerk-nav bar. Below 40rem the
+    nav isn't fixed (see above) so it takes up its own space in normal flow
+    — no padding needed. Above 960px, the sidebar/story-river switch to
+    explicit top-offset positioning (storytop metric for the live wiki,
+    hardcoded values in the static build's KB additions), so this padding
+    backs off to 0 there too. **/
+@media (min-width: 40rem) {
+  .tc-page-container,
+  body.tc-body {
+    padding-top: 54px;
+  }
+}
+@media (min-width: 960px) {
+  .tc-page-container,
+  body.tc-body {
+    padding-top: 0;
+  }
+}
 
 /** Trying to add this little word count widget!? **/
 .word-count {

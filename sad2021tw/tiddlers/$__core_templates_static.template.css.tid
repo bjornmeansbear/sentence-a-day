@@ -12,7 +12,7 @@ type: text/vnd.tiddlywiki
 @media (min-width: 960px) {
 .tc-sidebar-scrollable {
     position: fixed;
-    top: 0px;
+    top: 54px;
     left: 60%;
     bottom: 0;
     right: 0;
@@ -26,7 +26,7 @@ type: text/vnd.tiddlywiki
 .tc-story-river {
     width: 60%;
     position: relative;
-    top: 0;
+    top: 54px;
     left: 0;
     margin-left: 0px;
     margin-right: 40%;
