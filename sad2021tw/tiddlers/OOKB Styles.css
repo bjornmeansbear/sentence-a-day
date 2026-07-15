@@ -258,6 +258,7 @@ padding-left: 42px;
 }
 
 /** Trying to add this little word count widget!? **/
+/** did a little overhang, hopefully this looks cool **/
 .word-count {
     color: white;
     background-color: #CCC;
@@ -266,4 +267,8 @@ padding-left: 42px;
     font-size: .8em;
     line-height: 2;
     padding: 0 1em;
+    /**/
+    position: absolute;
+    right: -1.5em;
+    top: .5em;
 }
