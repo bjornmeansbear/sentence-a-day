@@ -15,6 +15,8 @@ This project first debuted in 2019. There is a 2019 branch that saves where thin
 Still working through things here. 
 Have an improved workflow to publish to a static version of this up at <http://bjornpaedia.wjerk.shop> ~~<https://www.bjornpaedia.com/>~~ which gets updated when I feel like a real change has been made, useful content added, etc.
 
+This site is what generates Bjørnpaedia: [Bjørnpaedia](http://bjornpaedia.wjerk.shop) is Kristian Bjørnard's running archive of essays, questions, notes, research, and half-formed ideas on sustainability, circular design, open-source practice (open sourcery?), and design education (and more). What it is not is a perfect portfolio of finished conclusions. The collection is full of thinking out loud, looking for intereconnection, and circling recurring questions: what does it mean to design for the welfare of all life, why climate change is inseparable from social and cultural change, what open access and transparency owe to design practice, and how to teach the next generation of designers to interrogate their own work rather than default to easy, greenwashed answers. A working design philosophy built over time.
+
 ---
 
 ## January 02020
