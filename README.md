@@ -11,6 +11,12 @@ This project first debuted in 2019. There is a 2019 branch that saves where thin
 
 > **License:** Where the content in this document is by Kristian Bjornard (and not otherwise owned by, quoted from, or credited to someone else), it is licensed with [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can use this text for whatever you want as long as you cite where it came from, like linking back to this repo or merely stating that it came from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; let us create a freer and better and evolving culture!
 
+## July 02026
+Still working through things here. 
+Have an improved workflow to publish to a static version of this up at <http://bjornpaedia.wjerk.shop> ~~<https://www.bjornpaedia.com/>~~ which gets updated when I feel like a real change has been made, useful content added, etc.
+
+---
+
 ## January 02020
 
 20200113 Off to a slow start. Re-reading notes on the synthesis of form yet again. what about sustainability (restorative practice?) are the right constraints/contexts to generate forms from? is every time + space thus different? are there no universals? semiotic, architectural, or otherwise?

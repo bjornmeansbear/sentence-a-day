@@ -1,8 +1,6 @@
+\define tv-config-static() yes
 \define tv-wikilink-template() static/$uri_doubleencoded$.html
-\define tv-config-toolbar-icons() no
-\define tv-config-toolbar-text() no
-\define tv-config-toolbar-class() tc-btn-invisible
-\rules only filteredtranscludeinline transcludeinline
+\rules only filteredtranscludeinline transcludeinline html
 <!doctype html>
 <html>
 
@@ -16,22 +14,25 @@
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="format-detection" content="telephone=no">
     <link id="faviconLink" rel="shortcut icon" href="favicon.ico">
+    <link rel="stylesheet" href="static/static.css">
     <title>{{$:/core/wiki/title}}</title>
-    <div id="styleArea">
-        {{$:/boot/boot.css||$:/core/templates/css-tiddler}}
-    </div>
-    <style type="text/css">
-        {
-                {
-                $: /core/ui/PageStylesheet||$: /core/templates/wikified-tiddler
-                }
-            }
-    </style>
 </head>
 
 <body class="tc-body">
-    {{$:/StaticBanner||$:/core/templates/html-tiddler}}
-    {{$:/core/ui/PageTemplate||$:/core/templates/html-tiddler}}
+
+<$view tiddler="WjerkNav" field="text" format="text"/>
+
+<div class="tc-sidebar-header"><h1 class="tc-site-title">Bjørnpaedia</h1></div>
+<div class="tc-site-subtitle"><p>Bjørnpaedia is Kristian Bjørnard's running archive of essays, questions, notes, research, and half-formed ideas on sustainability, circular design, open-source practice (open sourcery?), and design education (and more). What it is not is a perfect portfolio of finished conclusions. The collection is full of thinking out loud, looking for interconnection, and circling recurring questions: what does it mean to design for the welfare of all life, why climate change is inseparable from social and cultural change, what open access and transparency owe to design practice, and how to teach the next generation of designers to interrogate their own work rather than default to easy, greenwashed answers. A working design philosophy built over time.</p></div>
+
+<section class="tc-story-river tc-static-story-river">
+<ul>
+<$list filter="[!is[system]] +[!tag[private]] +[!tag[hide]] +[sort[title]]">
+<li><$link to=<<currentTiddler>>><$view field="title"/></$link></li>
+</$list>
+</ul>
+</section>
+
 </body>
 
 </html>

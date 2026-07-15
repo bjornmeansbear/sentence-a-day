@@ -1,0 +1,15 @@
+created: 20260707085121000
+modified: 20260707085121000
+tags: hide
+title: WjerkNav
+type: text/vnd.tiddlywiki
+
+<nav class="wjerk-nav">
+  <ul class="listReset">
+    <li><a href="https://a.wjerk.shop/#work">Case Studies</a></li>
+    <li><a href="https://a.wjerk.shop/#contact">Contact</a></li>
+    <li><a href="https://bjornpaedia.wjerk.shop/">Notes &amp; Ideas</a></li>
+    <li><a href="https://stuff.wjerk.shop/">Store</a></li>
+    <li><a href="https://buttondown.com/bjornmeansbear">Newsletter</a></li>
+  </ul>
+</nav>

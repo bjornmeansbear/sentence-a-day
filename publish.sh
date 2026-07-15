@@ -41,11 +41,19 @@ rsync -av --delete sad2021tw/output/static/ "$BJORNPAEDIA_DIR/static/"
 # Trailing slashes on both paths matter: `static/` (with slash) means "the
 # *contents* of this folder", not the folder itself.
 
-echo "== Copying index.html, static.html, alltiddlers.html =="
-cp sad2021tw/output/index.html sad2021tw/output/static.html sad2021tw/output/alltiddlers.html "$BJORNPAEDIA_DIR/"
-# Plain `cp` here instead of rsync because these are just three individual
-# files, always overwritten wholesale — no need for diffing or deletion
-# logic, so the simpler tool is the right one.
+echo "== Copying index.html =="
+rm -f "$BJORNPAEDIA_DIR/static.html" "$BJORNPAEDIA_DIR/alltiddlers.html"
+# These two used to be separate build outputs (a "live" interactive wiki
+# homepage and a single-file all-tiddlers dump). Both embedded the full
+# text of every tiddler with no way to exclude private/hide-tagged ones —
+# confirmed leaking a private-tagged entry into the published site. They've
+# been retired; this cleans up the stale copies already committed here so
+# the leak doesn't linger in the working tree (git history still has it —
+# see CLAUDE.md).
+cp sad2021tw/output/index.html "$BJORNPAEDIA_DIR/"
+# `index.html` is now rendered straight from the static (filtered) build —
+# same private/hide exclusion as everything in static/. Plain `cp` because
+# it's one file, always overwritten wholesale.
 
 cd "$BJORNPAEDIA_DIR"
 # Switch the shell's working directory into the target repo. Every command
