@@ -272,3 +272,33 @@ padding-left: 42px;
     right: -1.5em;
     top: .5em;
 }
+
+/** Static homepage export idea? **/
+
+section.tc-static-story-river {
+  display: flex;
+  margin: 0;
+  width: 100%;
+}
+section.tc-static-story-river > ul {
+    display: flex;
+    margin: 2em;
+    padding: 0;
+    flex: auto;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    list-style: none;
+    gap: 0 2em;
+}
+
+section.tc-static-story-river > ul li {
+    flex: 1 1 20%;
+    border-bottom: 1px solid black;
+    overflow: hidden;
+    align-self: normal;
+}
+
+section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
+    padding: .25em .5em;
+    display: block;
+}
