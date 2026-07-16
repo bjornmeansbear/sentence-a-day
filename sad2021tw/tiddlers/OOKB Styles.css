@@ -126,6 +126,43 @@ padding-left: 42px;
 }
 
 /** Adding Wjerk Nav **/
+/** Site identity block (logo + blurb), matching the condensed header used
+    on a.wjerk.shop case-study pages. Deliberately NOT fixed — unlike
+    .wjerk-nav below, this scrolls away with the page so it doesn't cost
+    reading space on every one of the many tiddler pages here. **/
+.wjerk-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  background: white;
+}
+
+.wjerk-header-logo {
+  display: flex;
+  flex-basis: 100%;
+  align-items: center;
+  justify-content: center;
+  height: 4em;
+  padding: 0.5em;
+}
+
+.wjerk-header-logo img {
+  height: 100%;
+  width: auto;
+}
+
+.wjerk-header-blurb {
+  flex-basis: 100%;
+  padding: 0.5em 1em 1em;
+  font-size: 1rem;
+  text-align: center;
+}
+
+.wjerk-header-blurb p {
+  margin: 0;
+}
+
 /** Nav back to the other Wjerk properties (portfolio, store, newsletter) **/
 .wjerk-nav {
     display: flex;
@@ -191,6 +228,18 @@ padding-left: 42px;
    there's enough width for it to actually read well.
    ============================================================================ */
 @media (min-width: 40rem) {
+  .wjerk-header-logo {
+    flex-basis: auto;
+    flex: 1;
+  }
+
+  .wjerk-header-blurb {
+    flex-basis: auto;
+    flex: 9;
+    border-left: 1px solid;
+    text-align: left;
+  }
+
   .wjerk-nav {
     position: fixed;
     top: 0;
