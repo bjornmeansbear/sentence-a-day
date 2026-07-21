@@ -1,7 +1,3 @@
-.tc-body {
-    margin-top: 3em;
-}
-
 /* Trying something clever w/ titles of tiddlers */
 /* .tc-tiddler-title { */
 .tc-title {
@@ -127,9 +123,11 @@ padding-left: 42px;
 
 /** Adding Wjerk Nav **/
 /** Site identity block (logo + blurb), matching the condensed header used
-    on a.wjerk.shop case-study pages. Deliberately NOT fixed — unlike
-    .wjerk-nav below, this scrolls away with the page so it doesn't cost
-    reading space on every one of the many tiddler pages here. **/
+    on a.wjerk.shop case-study pages. **/
+.tc-page-container-inner > p {
+  margin: 0;
+}
+
 .wjerk-header {
   display: flex;
   flex-wrap: wrap;
@@ -143,20 +141,19 @@ padding-left: 42px;
   flex-basis: 100%;
   align-items: center;
   justify-content: center;
-  height: 4em;
-  padding: 0.5em;
+  height: 3em;
 }
 
 .wjerk-header-logo img {
   height: 100%;
   width: auto;
+  padding: .25em;
 }
 
 .wjerk-header-blurb {
   flex-basis: 100%;
-  padding: 0.5em 1em 1em;
-  font-size: 1rem;
-  text-align: center;
+  padding: 1rem;
+  font-size: 1.33em;
 }
 
 .wjerk-header-blurb p {
@@ -240,14 +237,6 @@ padding-left: 42px;
     text-align: left;
   }
 
-  .wjerk-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 99;
-  }
-
   .wjerk-nav ul {
     flex-wrap: nowrap;
 
@@ -284,25 +273,6 @@ padding-left: 42px;
 
   .wjerk-nav ul li:not(:first-child) {
     border-left: 1px solid;
-  }
-}
-
-/** Push page content down below the fixed .wjerk-nav bar. Below 40rem the
-    nav isn't fixed (see above) so it takes up its own space in normal flow
-    — no padding needed. Above 960px, the sidebar/story-river switch to
-    explicit top-offset positioning (storytop metric for the live wiki,
-    hardcoded values in the static build's KB additions), so this padding
-    backs off to 0 there too. **/
-@media (min-width: 40rem) {
-  .tc-page-container,
-  body.tc-body {
-    padding-top: 54px;
-  }
-}
-@media (min-width: 960px) {
-  .tc-page-container,
-  body.tc-body {
-    padding-top: 0;
   }
 }
 

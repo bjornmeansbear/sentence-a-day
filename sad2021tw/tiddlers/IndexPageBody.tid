@@ -21,7 +21,7 @@ type: text/vnd.tiddlywiki
 
 <section class="tc-story-river tc-static-story-river">
     <ul>
-        <$list filter="[!is[system]] +[!tag[private]] +[!tag[hide]] +[sort[title]]">
+        <$list filter="[!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]] +[sort[title]]">
             <li>
                 <$link to=<<currentTiddler>>>
                     <$view field="title" />
