@@ -10,26 +10,33 @@ type: text/vnd.tiddlywiki
 <!-- KB ADDITIONS!? -->
 
 @media (min-width: 960px) {
-.tc-sidebar-scrollable {
-    position: fixed;
-    top: 54px;
-    left: 60%;
-    bottom: 0;
-    right: 0;
-    overflow: auto;
-    width: 40%;
-    -webkit-overflow-scrolling: touch;
-    margin: 0 0 0 -42px;
-    padding: 71px 0 28px 42px;
+/* Wrapper added around the static tiddler template's story-river +
+   sidebar (see $:/core/templates/static.tiddler.html) purely so these
+   rules have enough specificity to beat the vanilla theme's own
+   position:fixed sidebar rule and the "Static homepage export idea"
+   section.tc-static-story-river width:100% rule below — both apply
+   the plain .tc-story-river/.tc-sidebar-scrollable selectors would
+   otherwise lose to. Scoping through this wrapper also keeps the
+   change off the homepage grid, which has no wrapper and is unaffected. */
+.wjerk-tiddler-columns {
+    display: flex;
+    align-items: flex-start;
 }
 
-.tc-story-river {
-    width: 60%;
-    position: relative;
-    top: 54px;
-    left: 0;
-    margin-left: 0px;
-    margin-right: 40%;
+.wjerk-tiddler-columns > .tc-sidebar-scrollable {
+    position: static;
+    flex: 0 0 40%;
+    box-sizing: border-box;
+    overflow: visible;
+    margin: 0;
+    padding: 42px 42px 42px 0;
+}
+
+.wjerk-tiddler-columns > .tc-story-river {
+    display: block;
+    flex: 0 0 60%;
+    box-sizing: border-box;
     padding: 42px 0 42px 42px;
+    margin: 0;
 }
 }

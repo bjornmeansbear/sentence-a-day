@@ -28,6 +28,7 @@ type: text/vnd.tiddlywiki
 `<$view tiddler="WjerkNav" field="text" format="text"/>`
 
 `{{$:/StaticBanner||$:/core/templates/html-tiddler}}`
+<div class="wjerk-tiddler-columns">
 <section class="tc-story-river tc-static-story-river">
 `<$view tiddler="$:/core/ui/ViewTemplate" format="htmlwikified"/>`
 </section>
@@ -36,6 +37,7 @@ type: text/vnd.tiddlywiki
 <div class="tc-sidebar-scrollable" style="overflow: auto;">
   <div class="tc-sidebar-header"><h1 class="tc-site-title">Bjørnpaedia</h1></div>
   <div class="tc-site-subtitle"><p>Bjørnpaedia is Kristian Bjørnard's running archive of essays, questions, notes, research, and half-formed ideas on sustainability, circular design, open-source practice (open sourcery?), and design education (and more). What it is not is a perfect portfolio of finished conclusions. The collection is full of thinking out loud, looking for interconnection, and circling recurring questions: what does it mean to design for the welfare of all life, why climate change is inseparable from social and cultural change, what open access and transparency owe to design practice, and how to teach the next generation of designers to interrogate their own work rather than default to easy, greenwashed answers. A working design philosophy built over time.</p></div>
+</div>
 </div>
 
 </body>
