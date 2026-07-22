@@ -55,6 +55,11 @@ cp sad2021tw/output/index.html "$BJORNPAEDIA_DIR/"
 # same private/hide exclusion as everything in static/. Plain `cp` because
 # it's one file, always overwritten wholesale.
 
+cp sad2021tw/output/404.html "$BJORNPAEDIA_DIR/"
+# GitHub Pages automatically serves a repo-root 404.html for any unresolved
+# path — this is what turns a dead/TBA link into the custom "not written
+# yet" page instead of GitHub's generic 404.
+
 cd "$BJORNPAEDIA_DIR"
 # Switch the shell's working directory into the target repo. Every command
 # from here on runs as if you'd `cd`'d there yourself in the terminal.
