@@ -1,0 +1,26 @@
+created: 20260722000000000
+modified: 20260722000000000
+title: $:/core/templates/404.html
+type: text/vnd.tiddlywiki
+
+\define tv-config-static() yes
+\define tv-wikilink-template() static/$uri_doubleencoded$.html
+\rules only filteredtranscludeinline transcludeinline
+<!doctype html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="generator" content="TiddlyWiki" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="static/static.css">
+    <title>Page not found: {{$:/core/wiki/title}}</title>
+</head>
+
+<body class="tc-body">
+
+{{Custom404Body||$:/core/templates/html-tiddler}}
+
+</body>
+
+</html>

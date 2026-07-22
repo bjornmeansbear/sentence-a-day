@@ -9,6 +9,19 @@ type: text/vnd.tiddlywiki
 
 <!-- KB ADDITIONS!? -->
 
+/* In the live wiki, an italic "missing" link is a real affordance (click to
+   create the tiddler). In the static export there's no JS behind it, so
+   clicking just lands on the custom 404 (see 404.html). Mark it inline as
+   not-yet-written so that's clear before the click too — static build
+   only, on purpose. Left fully clickable: the 404 page is the intended
+   destination, not a dead end. */
+a.tc-tiddlylink-missing::after {
+    content: " (TBA)";
+    font-style: normal;
+    font-size: 0.8em;
+    opacity: 0.6;
+}
+
 @media (min-width: 960px) {
 /* Wrapper added around the static tiddler template's story-river +
    sidebar (see $:/core/templates/static.tiddler.html) purely so these

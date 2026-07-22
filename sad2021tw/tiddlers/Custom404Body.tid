@@ -1,0 +1,22 @@
+created: 20260722000000000
+modified: 20260722000000000
+tags: hide
+title: Custom404Body
+type: text/vnd.tiddlywiki
+
+{{WjerkNav}}
+
+<div class="wjerk-404">
+<h1>This page doesn't exist yet.</h1>
+<p>Bjørnpaedia is a living, growing collection of essays, notes, and half-formed ideas — it's never "finished." If a link brought you here, it was probably one of the italicized <em>(TBA)</em> links scattered through the site: those mark ideas I've referenced but haven't written up as their own page yet.</p>
+<p>Check back later, or dig into some of what's already here:</p>
+
+<h2>Recently added</h2>
+<ul>
+<$list filter="[!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]] +[!sort[modified]] +[limit[8]]">
+<li><$link to=<<currentTiddler>>><$view field="title"/></$link></li>
+</$list>
+</ul>
+
+<p><a href="index.html">Back to the homepage</a></p>
+</div>

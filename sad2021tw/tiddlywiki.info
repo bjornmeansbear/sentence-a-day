@@ -22,6 +22,10 @@
             "--rendertiddler",
             "$:/core/templates/static.template.css",
             "static/static.css",
+            "text/plain",
+            "--rendertiddler",
+            "$:/core/templates/404.html",
+            "404.html",
             "text/plain"
         ]
     }
