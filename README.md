@@ -11,6 +11,14 @@ This project first debuted in 2019. There is a 2019 branch that saves where thin
 
 > **License:** Where the content in this document is by Kristian Bjornard (and not otherwise owned by, quoted from, or credited to someone else), it is licensed with [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You can use this text for whatever you want as long as you cite where it came from, like linking back to this repo or merely stating that it came from Kristian Bjornard, and you must also license/share whatever you make in the same way -- share and share alike; let us create a freer and better and evolving culture!
 
+## July 23, 2026
+
+Idea for making writing easier going forward: stop treating each essay as one long tiddler. Break the good passages out into their own tiddlers — one argument or one paragraph each — and transclude them back into the essay instead of copying the text in. The Lecture: What Is Sustainable Graphic design? tiddler already does a rough version of this with its `list:` field pointing at six separate idea-tiddlers; just formalize it with actual transclusion.
+
+The payoff: those same fragments become raw material for the next lecture or essay too. Instead of retyping an argument about substrates or open-source practice every time it's relevant, pull in the tiddler that already has it. TiddlyWiki's References panel already shows backlinks for anything `[[linked]]`, so the crosslinking mostly happens for free once the fragments exist as their own tiddlers.
+
+Risk is chunking too small — spend more time managing fragments than writing. Keep the grain at one idea per tiddler, same as the Lecture list already does.
+
 ## July 22, 2026
 Worked with Claude on tying Bjørnpaedia's static export more tightly to the other Wjerk properties. Pulled the full Wjerk header (logo + "A Climate Design Studio" blurb) into the site via `WjerkNav`, not just the nav row, so it reads as one of my sites rather than a bolted-on link — matches the condensed header already used on the a.wjerk.shop case-study pages. Un-fixed the header/nav so it scrolls away with the page instead of staying pinned (just how HTML used to work, and I like it better). Excluded internal utility tiddlers (`.hideList`, `.sourcesList`) from the static build/homepage list — they're wiki housekeeping, not content. Along the way, un-fixing the nav exposed a regression where the sidebar (site title/blurb) would float up and overlap the story river on individual tiddler pages — traced it to a stale `storytop` theme metric plus leftover fixed-position CSS from when the nav used to be pinned, and fixed the static tiddler template/CSS so the two columns sit side by side properly again, without touching the homepage grid.
 
