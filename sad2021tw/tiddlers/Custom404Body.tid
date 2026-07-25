@@ -18,5 +18,5 @@ type: text/vnd.tiddlywiki
 </$list>
 </ul>
 
-<p><a href="index.html">Back to the homepage</a></p>
+<p><a href="/index.html">Back to the homepage</a></p>
 </div>
