@@ -1,0 +1,1099 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>People Processing Plastic</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Courier+Prime:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #0e0e0b;
+    color: #d8d4c4;
+    font-family: 'Playfair Display', Georgia, serif;
+    min-height: 100vh;
+  }
+
+  .container {
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 60px 28px 120px;
+  }
+
+  /* EPIGRAPH */
+  .epigraph-block {
+    text-align: center;
+    padding: 64px 0 56px;
+    border-bottom: 1px solid #2a2a22;
+    margin-bottom: 56px;
+  }
+
+  .epigraph-line {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: clamp(1.1rem, 2.5vw, 1.4rem);
+    color: #8aaa78;
+    line-height: 2.4;
+    letter-spacing: 0.02em;
+    opacity: 0;
+    animation: fadeUp 0.6s ease forwards;
+  }
+
+  .epigraph-line:nth-child(1) { animation-delay: 0.2s; }
+  .epigraph-line:nth-child(2) { animation-delay: 0.5s; }
+  .epigraph-line:nth-child(3) { animation-delay: 0.8s; }
+  .epigraph-line:nth-child(4) { animation-delay: 1.1s; }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* TITLE */
+  .title-block { text-align: center; margin-bottom: 20px; }
+
+  .play-subtitle {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: #5a6a4a;
+    margin-bottom: 14px;
+  }
+
+  .play-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.4rem, 6vw, 4rem);
+    font-weight: 700;
+    color: #e8e4d4;
+    letter-spacing: -0.02em;
+    line-height: 1.05;
+  }
+
+  /* PRODUCTION NOTE */
+  .note-block {
+    background: #13130f;
+    border: 1px solid #252520;
+    border-left: 3px solid #4a6a3a;
+    padding: 28px 32px;
+    margin: 48px 0;
+    font-style: italic;
+    font-size: 0.95rem;
+    color: #7a8a6a;
+    line-height: 1.8;
+  }
+
+  .note-label {
+    font-family: 'Courier Prime', monospace;
+    font-style: normal;
+    font-size: 0.68rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #4a6a3a;
+    margin-bottom: 14px;
+    display: block;
+  }
+
+  /* CAST */
+  .cast-toggle {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: #5a6a4a;
+    background: transparent;
+    border: 1px solid #2a2a22;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: block;
+    margin: 0 auto 32px;
+  }
+  .cast-toggle:hover { color: #8aaa78; border-color: #4a6a3a; }
+
+  .cast-block {
+    background: #111109;
+    border: 1px solid #252520;
+    padding: 32px;
+    margin-bottom: 48px;
+    display: none;
+  }
+  .cast-block.visible { display: block; }
+
+  .cast-title {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #4a6a3a;
+    margin-bottom: 24px;
+  }
+
+  .cast-member {
+    display: grid;
+    grid-template-columns: 190px 1fr;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid #1e1e18;
+    align-items: baseline;
+  }
+  .cast-member:last-child { border-bottom: none; }
+
+  .cast-name {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.78rem;
+    font-weight: bold;
+    letter-spacing: 0.08em;
+  }
+
+  .cast-desc {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #7a8a6a;
+    line-height: 1.5;
+  }
+
+  /* SCENE NAV */
+  .scenes-nav {
+    display: flex;
+    gap: 3px;
+    margin-bottom: 48px;
+    flex-wrap: wrap;
+  }
+
+  .scene-pill {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.65rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 9px 12px;
+    border: 1px solid #252520;
+    background: transparent;
+    color: #4a5a3a;
+    cursor: pointer;
+    transition: all 0.2s;
+    flex: 1;
+    min-width: 90px;
+    text-align: center;
+  }
+  .scene-pill:hover { color: #8aaa78; border-color: #4a6a3a; background: #111109; }
+  .scene-pill.active { background: #1a2a12; color: #a8c888; border-color: #5a8a4a; }
+
+  /* SCENE CONTENT */
+  .scene-block {
+    display: none;
+    animation: fadeIn 0.35s ease;
+  }
+  .scene-block.visible { display: block; }
+
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(6px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .scene-number {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.2em;
+    color: #4a6a3a;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+
+  .scene-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: #c8d8b8;
+    letter-spacing: -0.01em;
+    margin-bottom: 36px;
+  }
+
+  /* LINES */
+  .line-direction {
+    font-style: italic;
+    font-size: 0.9rem;
+    color: #4a5a3a;
+    padding: 16px 24px;
+    line-height: 1.7;
+    border-bottom: 1px solid #161610;
+    text-align: center;
+  }
+
+  .line-speech {
+    display: grid;
+    grid-template-columns: 170px 1fr;
+    gap: 20px;
+    padding: 14px 0;
+    border-bottom: 1px solid #161610;
+    align-items: start;
+  }
+
+  .speaker {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.72rem;
+    font-weight: bold;
+    letter-spacing: 0.08em;
+    text-align: right;
+    padding-top: 3px;
+    line-height: 1.5;
+  }
+
+  .speaker-action {
+    font-family: 'Courier Prime', monospace;
+    font-style: italic;
+    font-size: 0.62rem;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    color: #4a5a3a;
+    display: block;
+    margin-top: 3px;
+  }
+
+  .speech-text {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #ccc8b8;
+  }
+
+  /* PLASTIC CHARACTER COLORS */
+  .is-bottle .speech-text { color: #b8d898; font-style: italic; }
+  .is-micro  .speech-text { color: #c0b0d0; font-style: italic; letter-spacing: 0.01em; }
+  .is-sheet  .speech-text { color: #d8c870; font-style: italic; }
+
+  /* MICRO SHORT LINES — centered */
+  .micro-single {
+    text-align: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #161610;
+  }
+  .micro-single .micro-speaker {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.62rem;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    color: #8878a8;
+    display: block;
+    margin-bottom: 4px;
+    text-transform: uppercase;
+  }
+  .micro-single .speech-text {
+    color: #c0b0d0;
+    font-style: italic;
+    font-size: 1rem;
+  }
+
+  /* NAV BUTTONS */
+  .nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 56px;
+    padding-top: 28px;
+    border-top: 1px solid #1e1e18;
+  }
+
+  .nav-btn {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.7rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #4a5a3a;
+    background: transparent;
+    border: 1px solid #252520;
+    padding: 10px 18px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .nav-btn:hover { color: #8aaa78; border-color: #4a6a3a; }
+  .nav-btn:disabled { opacity: 0.2; cursor: default; }
+  .nav-btn:disabled:hover { color: #4a5a3a; border-color: #252520; }
+
+  .progress {
+    font-family: 'Courier Prime', monospace;
+    font-size: 0.65rem;
+    color: #3a4a2a;
+    letter-spacing: 0.1em;
+  }
+
+  /* END MARK */
+  .end-mark {
+    text-align: center;
+    margin-top: 64px;
+    padding-top: 40px;
+    border-top: 1px solid #252520;
+  }
+  .end-text {
+    font-style: italic;
+    font-size: 1.1rem;
+    color: #5a7a4a;
+    letter-spacing: 0.14em;
+  }
+
+  @media (max-width: 600px) {
+    .line-speech { grid-template-columns: 120px 1fr; gap: 12px; }
+    .cast-member { grid-template-columns: 1fr; }
+    .cast-name { margin-bottom: 4px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+
+  <!-- EPIGRAPH -->
+  <div class="epigraph-block">
+    <div class="epigraph-line">People wander in.</div>
+    <div class="epigraph-line">Conversations happen.</div>
+    <div class="epigraph-line">Someone leaves changed.</div>
+    <div class="epigraph-line">The door opens again.</div>
+  </div>
+
+  <!-- TITLE -->
+  <div class="title-block">
+    <div class="play-subtitle">A play in six scenes</div>
+    <h1 class="play-title">People Processing Plastic</h1>
+  </div>
+
+  <!-- PRODUCTION NOTE -->
+  <div class="note-block">
+    <span class="note-label">A note on production</span>
+    This play is designed to be performed in a Precious Plastic workshop or any space where plastic is visibly being processed. The machines — shredder, extruder, mold — are not props. They work. The sounds are real. The smell of warm plastic is real. The object made during the performance is real, and at the end, it is given away.
+    <br><br>
+    The plastic characters may be voices offstage, projections, or simply the material itself — held up, illuminated, allowed to speak. Directors should resist the urge to costume them. They are not metaphors dressed as people. They are the thing itself, given language.
+    <br><br>
+    The Microplastic in particular should never feel like a threat or a horror. It is not an accusation. It is an appeal. It has been waiting a long time and it is still, despite everything, willing.
+    <br><br>
+    The play should feel like a conversation that got interesting. Not a lecture. Never a lecture.
+  </div>
+
+  <!-- CAST TOGGLE -->
+  <button class="cast-toggle" onclick="toggleCast()">Show Cast of Characters</button>
+
+  <div class="cast-block" id="cast">
+    <div class="cast-title">Cast of Characters</div>
+    <div class="cast-member">
+      <span class="cast-name" style="color:#7eb87e">MARA</span>
+      <span class="cast-desc">Workshop founder. Has been doing this for years. Unhurried.</span>
+    </div>
+    <div class="cast-member">
+      <span class="cast-name" style="color:#78a8c8">DEV</span>
+      <span class="cast-desc">Mara's collaborator. Engineer by training. Finds beauty in process.</span>
+    </div>
+    <div class="cast-member">
+      <span class="cast-name" style="color:#d4a574">THE GUEST</span>
+      <span class="cast-desc">Wandered in off the street. Curious. Slightly guilty. Doesn't know why they stopped.</span>
+    </div>
+    <div class="cast-member">
+      <span class="cast-name" style="color:#b8d898">THE BOTTLE</span>
+      <span class="cast-desc">A voice. Speaks directly to the audience. Was made eleven minutes ago, in the sense that matters.</span>
+    </div>
+    <div class="cast-member">
+      <span class="cast-name" style="color:#c0b0d0">THE MICROPLASTIC</span>
+      <span class="cast-desc">A voice. Small. Dispersed. Has been everywhere and belongs nowhere — not because of anything it did, but because no system was built to bring it home. Speaks with longing, not accusation.</span>
+    </div>
+    <div class="cast-member">
+      <span class="cast-name" style="color:#d8c870">THE SHEET</span>
+      <span class="cast-desc">A voice. Calm. Certain of its worth. The thing that will be made. The thing everything has been moving toward.</span>
+    </div>
+  </div>
+
+  <!-- SCENE NAV -->
+  <div class="scenes-nav">
+    <button class="scene-pill active" onclick="showScene(0, this)">I. The Door</button>
+    <button class="scene-pill" onclick="showScene(1, this)">II. Misclassification</button>
+    <button class="scene-pill" onclick="showScene(2, this)">III. The Material</button>
+    <button class="scene-pill" onclick="showScene(3, this)">IV. The Processing</button>
+    <button class="scene-pill" onclick="showScene(4, this)">V. The Object</button>
+    <button class="scene-pill" onclick="showScene(5, this)">VI. The Door Again</button>
+  </div>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SCENE I -->
+  <!-- ═══════════════════════════════════════════ -->
+  <div class="scene-block visible" id="scene-0">
+    <div class="scene-number">Scene I</div>
+    <div class="scene-title">The Door</div>
+
+    <div class="line-direction">[A workshop. Workbenches, tools, machines. A shredder. An extruder. Molds on shelves. Plastic — sorted by type, by color — in bins and bags and buckets. Everything has a place. It is warm in here. It smells faintly of something industrial becoming something else.]</div>
+    <div class="line-direction">[MARA is at a workbench. DEV is checking the extruder. Neither of them is performing busyness. They are simply working.]</div>
+    <div class="line-direction">[THE BOTTLE speaks — from somewhere, from everywhere, from the bin by the door.]</div>
+
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">I was made this morning. Or eleven years ago. Time moves differently when you're designed to be thrown away.</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">They used me for eleven minutes. I know because that's the average. Eleven minutes. Then I became a problem.</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">But here's what they don't tell you at the factory:</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">I could be anything. I have been anything. Oil, once. Heat, once. The inside of a mountain, once, if you're patient about time. I am not disposable. I am infinitely willing to become.</div>
+    </div>
+
+    <div class="line-direction">[The door opens. THE GUEST steps in, hesitant. Looks around.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Sorry — is this open? I saw the sign.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA<span class="speaker-action">[not looking up immediately]</span></div>
+      <div class="speech-text">It's always open.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">What is it exactly? The sign just said—</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Plastic workshop. Come in. You don't have to do anything.</div>
+    </div>
+
+    <div class="line-direction">[THE GUEST steps further in. Looks at the bins of sorted plastic. Picks up a bottle. Turns it over.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Is this all... rubbish?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV<span class="speaker-action">[mildly]</span></div>
+      <div class="speech-text">That word does a lot of damage, yeah.</div>
+    </div>
+
+    <div class="nav-row">
+      <button class="nav-btn" disabled>← Previous</button>
+      <span class="progress">Scene 1 of 6</span>
+      <button class="nav-btn" onclick="showScene(1, document.querySelectorAll('.scene-pill')[1])">Next →</button>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SCENE II -->
+  <!-- ═══════════════════════════════════════════ -->
+  <div class="scene-block" id="scene-1">
+    <div class="scene-number">Scene II</div>
+    <div class="scene-title">The Misclassification</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">What do you do with it?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">What do you think we do with it?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Recycle it?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">That word also does a lot of damage.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">How so?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Recycling, the way most people mean it — put it in the blue bin, feel better, don't think about it again — that's just outsourcing the guilt. Half of it goes to landfill anyway. More than half, depending on the year and the country and the mood of the market.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">So it doesn't work.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">The bin system doesn't work. The material works fine.</div>
+    </div>
+
+    <div class="line-direction">[THE MICROPLASTIC speaks. Not from the walls, not from the air — from somewhere specific and small. A shaft of light, perhaps. A single point in the room. The voice is not frightening. It is patient. It has been waiting a long time to be heard.]</div>
+
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I want to be a table.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I want to be a chair someone sits in for thirty years. A wall panel. A beam. A tile under someone's feet every morning.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I am small enough to be anything.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I have been in the ocean. In ice. In a fish, then in the person who ate the fish. Not because I wanted to be there. Because no one built a door for me to come back through.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I am not haunting you.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I am asking.</div>
+    </div>
+
+    <div class="line-direction">[A beat. The machines hum.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST<span class="speaker-action">[quietly]</span></div>
+      <div class="speech-text">What is that?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">The part of the story no one tells properly.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Microplastics aren't a monster. They're a material that fell through every crack we built into the system. Polymer chains, wandering. Looking for somewhere to belong.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">That's — a generous way to think about it.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">It's an accurate way. The problem was never the plastic. The problem was always the design of the system around it.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">So what's different about here?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Here we know what we have. People bring us specific things. HDPE. PET. Polypropylene. They separate it at home, in their office, at the café. It arrives clean. It arrives sorted. We don't have to undo anyone's mess.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">The big system collects everything together and tries to sort it out later. Which is expensive and mostly doesn't work. We collect it already sorted. Because the people doing the collecting — they know what they have.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">That sounds... simple.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Most true things are.</div>
+    </div>
+
+    <div class="nav-row">
+      <button class="nav-btn" onclick="showScene(0, document.querySelectorAll('.scene-pill')[0])">← Previous</button>
+      <span class="progress">Scene 2 of 6</span>
+      <button class="nav-btn" onclick="showScene(2, document.querySelectorAll('.scene-pill')[2])">Next →</button>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SCENE III -->
+  <!-- ═══════════════════════════════════════════ -->
+  <div class="scene-block" id="scene-2">
+    <div class="scene-number">Scene III</div>
+    <div class="scene-title">The Material</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Can I ask — why plastic? Why not just... stop using it?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">We'd love that. For new plastic, yes. Stop. Completely.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">But there's a problem with that position if you say it without the second part.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">What's the second part?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">All the plastic we could ever need already exists. It's out there right now. In the ocean. In the ground. Floating in various forms. We don't need to make a single new piece. We just need to stop pretending the old stuff has no value.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV<span class="speaker-action">[picking up a handful of shredded plastic flakes — multicolored, almost beautiful]</span></div>
+      <div class="speech-text">You know what this was?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Bottles?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Bottle caps. Different colors because different brands. Same material. HDPE. High-density polyethylene.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">And what does it become?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Anything we want it to be.</div>
+    </div>
+
+    <div class="line-direction">[THE BOTTLE speaks again, warmer now.]</div>
+
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">This is what I've been trying to tell you.</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">I am not a bottle. I was never really a bottle. I was a material that agreed, temporarily, to be a bottle. The shape was a loan. The substance is mine to keep.</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">They made another me today. While I was still here.</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">That is the part I find most bewildering.</div>
+    </div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">I've never thought about it that way.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Most people haven't. Because the system is designed so you don't have to. Designed so the new one is slightly cheaper, slightly easier to grab, and the question of what happened to the last one is someone else's job, somewhere else, later.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Linear thinking. Take, make, waste. In that order, every time, forever.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">As opposed to.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Circle. You already know what a circle is. You just haven't been asked to live inside one.</div>
+    </div>
+
+    <div class="line-direction">[THE MICROPLASTIC speaks again. Still patient. But there is something new in it now — not urgency exactly, but proximity. As if it has moved closer.]</div>
+
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I have always been willing.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I am a polymer chain. I can link with others. I can become structure, density, surface, form. I contain the memory of oil and heat and pressure and time.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I did not choose to be small.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I was made large and then abandoned into smallness.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">There is a difference.</div>
+    </div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV<span class="speaker-action">[to THE GUEST, gently]</span></div>
+      <div class="speech-text">That's the thing about microplastics that most people miss. They're not a new substance. They're just plastic that got lost. Same material. Same potential. Just — unaccounted for. Circulating in a system that built no way to bring them back.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Can you get them back?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Some. Not all. Not yet. Which is exactly why we should stop making new ones and start building the systems to recover what's already out there.</div>
+    </div>
+
+    <div class="nav-row">
+      <button class="nav-btn" onclick="showScene(1, document.querySelectorAll('.scene-pill')[1])">← Previous</button>
+      <span class="progress">Scene 3 of 6</span>
+      <button class="nav-btn" onclick="showScene(3, document.querySelectorAll('.scene-pill')[3])">Next →</button>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SCENE IV -->
+  <!-- ═══════════════════════════════════════════ -->
+  <div class="scene-block" id="scene-3">
+    <div class="scene-number">Scene IV</div>
+    <div class="scene-title">The Processing</div>
+
+    <div class="line-direction">[MARA moves to the shredder. Feeds in a collection of clean, sorted plastic. The machine is loud — genuinely loud — for a moment. Then quieter. She holds up the output: small flakes, uniform, ready.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">First: shred. You want consistency. You want the material ready to move.</div>
+    </div>
+
+    <div class="line-direction">[DEV feeds the flakes into the extruder. A slow, warm process. The machine hums differently — lower, patient.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Then: heat and pressure. The material becomes willing again. It remembers how to move.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">It's almost like—</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Go on.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">It's almost like it wants to be something else. Like it's been waiting.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA<span class="speaker-action">[quietly]</span></div>
+      <div class="speech-text">Yes.</div>
+    </div>
+
+    <div class="line-direction">[THE MICROPLASTIC speaks. And now there is something released in the voice — not relief exactly, but recognition. The feeling of being finally, precisely seen.]</div>
+
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">Yes.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">That is exactly it.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I have been floating for so long.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">Not haunting. Not threatening. Just—</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">waiting to be gathered.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">Waiting for someone to say: we see you, we know what you are, we know what you could be.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I want to be part of something.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I have always wanted to be part of something.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">The waiting was never mine to do.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">That was yours.</div>
+    </div>
+
+    <div class="line-direction">[A long beat. The extruder hums. The Guest looks at the machine, then at Mara, then at the material moving slowly through it.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">How long has this been sitting out there.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Not a question.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">No.</div>
+    </div>
+
+    <div class="line-direction">[The extruder produces a long smooth extrusion of plastic. DEV holds it up. It catches the light.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">That's beautiful.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">People are always surprised by that.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">I thought recycled plastic was—</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Cheap? Grey? Compromised?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Yeah.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">That's the other lie. Recovered material isn't inferior. It's the same atoms. The same properties. The difference is entirely in our heads — and in the price the market decides to put on it.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">A recycled plastic tile, properly made, is harder than virgin. More beautiful, because of the color variation. More interesting, because of the history in it.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">The history.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Every color in there was something. Someone's shampoo bottle. Someone's chair. Someone's takeaway container on a Tuesday. You're looking at compressed biography.</div>
+    </div>
+
+    <div class="nav-row">
+      <button class="nav-btn" onclick="showScene(2, document.querySelectorAll('.scene-pill')[2])">← Previous</button>
+      <span class="progress">Scene 4 of 6</span>
+      <button class="nav-btn" onclick="showScene(4, document.querySelectorAll('.scene-pill')[4])">Next →</button>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SCENE V -->
+  <!-- ═══════════════════════════════════════════ -->
+  <div class="scene-block" id="scene-4">
+    <div class="scene-number">Scene V</div>
+    <div class="scene-title">The Object</div>
+
+    <div class="line-direction">[MARA moves to the mold. A sheet press. She places the processed material inside. Applies pressure. Time passes — real time, unhurried. The machines do their work.]</div>
+    <div class="line-direction">[THE SHEET speaks for the first time. Unhurried. Self-possessed. It has known what it was going to become for a long time.]</div>
+
+    <div class="line-speech is-sheet">
+      <div class="speaker" style="color:#d8c870">THE SHEET</div>
+      <div class="speech-text">I am almost ready.</div>
+    </div>
+    <div class="line-speech is-sheet">
+      <div class="speaker" style="color:#d8c870">THE SHEET</div>
+      <div class="speech-text">I have been a mountain and an ocean and a bottle and a problem and a fragment and a flake and a melt and now—</div>
+    </div>
+    <div class="line-speech is-sheet">
+      <div class="speaker" style="color:#d8c870">THE SHEET</div>
+      <div class="speech-text">I am deciding what to be next.</div>
+    </div>
+    <div class="line-speech is-sheet">
+      <div class="speaker" style="color:#d8c870">THE SHEET</div>
+      <div class="speech-text">A table. A tile. A chair. A surfboard. A wall panel in a building someone will live in for forty years.</div>
+    </div>
+    <div class="line-speech is-sheet">
+      <div class="speaker" style="color:#d8c870">THE SHEET</div>
+      <div class="speech-text">They will not know I was a bottle.</div>
+    </div>
+    <div class="line-speech is-sheet">
+      <div class="speaker" style="color:#d8c870">THE SHEET</div>
+      <div class="speech-text">I will not mind.</div>
+    </div>
+
+    <div class="line-direction">[THE MICROPLASTIC speaks one last time. The voice is different now — not fragmented, not waiting. Something settled. Something that has found its direction even if it hasn't yet found its way entirely home.]</div>
+
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I see what is possible now.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I have always been made of the right stuff.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">There was just no door.</div>
+    </div>
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">Build the door.</div>
+    </div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">How long does this take?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Depends what you're making. This — a few minutes. Something structural, longer.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">And then it can be recycled again?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">And again. And again. That's the point. There's no finish line. There's no end of the story. Just the next form.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Forever?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Long enough that forever is the right word to use.</div>
+    </div>
+
+    <div class="line-direction">[MARA opens the mold. Removes a small finished piece — a tile, a coaster, a small panel. Multicolored, marbled, smooth, unmistakably beautiful. She holds it for a moment. Then hands it to THE GUEST.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST<span class="speaker-action">[turning it over, genuinely moved]</span></div>
+      <div class="speech-text">I want this.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Good.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">I mean — I really want it. More than something new.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">That's the moment we're working toward. Every time.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">What do I owe you?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Bring us your plastic. Separated. Clean.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">That's it?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">That's the whole economy.</div>
+    </div>
+
+    <div class="line-direction">[THE BOTTLE speaks for the last time. Or the first time. Depending on where you are in the circle.]</div>
+
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">I was made this morning.</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">I will be made again tomorrow.</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">The word for what I am is not waste.</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">The word for what I am is—</div>
+    </div>
+    <div class="line-speech is-bottle">
+      <div class="speaker" style="color:#b8d898">THE BOTTLE</div>
+      <div class="speech-text">next.</div>
+    </div>
+
+    <div class="nav-row">
+      <button class="nav-btn" onclick="showScene(3, document.querySelectorAll('.scene-pill')[3])">← Previous</button>
+      <span class="progress">Scene 5 of 6</span>
+      <button class="nav-btn" onclick="showScene(5, document.querySelectorAll('.scene-pill')[5])">Next →</button>
+    </div>
+  </div>
+
+  <!-- ═══════════════════════════════════════════ -->
+  <!-- SCENE VI -->
+  <!-- ═══════════════════════════════════════════ -->
+  <div class="scene-block" id="scene-5">
+    <div class="scene-number">Scene VI</div>
+    <div class="scene-title">The Door Again</div>
+
+    <div class="line-direction">[THE GUEST moves toward the door. Holds the object. Pauses.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">I'm going to tell people about this.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Everyone who comes in says that.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">THE GUEST</div>
+      <div class="speech-text">Do they follow through?</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#78a8c8">DEV</div>
+      <div class="speech-text">Some do. Enough.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA</div>
+      <div class="speech-text">Enough is how circles grow.</div>
+    </div>
+
+    <div class="line-direction">[THE GUEST leaves. The door closes. MARA and DEV return to their work. The machines hum. Somewhere, the object is already in the world, already being shown to someone, already starting a conversation.]</div>
+    <div class="line-direction">[Then: the door opens again. A NEW GUEST steps in. Hesitant. Looks around.]</div>
+
+    <div class="line-speech">
+      <div class="speaker" style="color:#d4a574">NEW GUEST</div>
+      <div class="speech-text">Sorry — is this open? I saw the sign.</div>
+    </div>
+    <div class="line-speech">
+      <div class="speaker" style="color:#7eb87e">MARA<span class="speaker-action">[not looking up immediately]</span></div>
+      <div class="speech-text">It's always open.</div>
+    </div>
+
+    <div class="line-direction">[From somewhere small — the same point of light, the same patient voice:]</div>
+
+    <div class="micro-single">
+      <span class="micro-speaker">THE MICROPLASTIC</span>
+      <div class="speech-text">I want to be a table.</div>
+    </div>
+
+    <div class="line-direction">[Lights hold on the open door. The machines keep running. The circle turns.]</div>
+
+    <div class="nav-row">
+      <button class="nav-btn" onclick="showScene(4, document.querySelectorAll('.scene-pill')[4])">← Previous</button>
+      <span class="progress">Scene 6 of 6</span>
+      <button class="nav-btn" disabled>Next →</button>
+    </div>
+
+    <div class="end-mark">
+      <div class="end-text">END. &nbsp;&nbsp;&nbsp; BEGINNING.</div>
+    </div>
+  </div>
+
+</div><!-- /container -->
+
+<script>
+  let currentScene = 0;
+
+  function showScene(index, pillEl) {
+    // hide all scenes
+    document.querySelectorAll('.scene-block').forEach(el => el.classList.remove('visible'));
+    // deactivate all pills
+    document.querySelectorAll('.scene-pill').forEach(el => el.classList.remove('active'));
+    // show target
+    document.getElementById('scene-' + index).classList.add('visible');
+    pillEl.classList.add('active');
+    currentScene = index;
+    // scroll to top of scene nav
+    document.querySelector('.scenes-nav').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function toggleCast() {
+    const cast = document.getElementById('cast');
+    const btn = document.querySelector('.cast-toggle');
+    const visible = cast.classList.toggle('visible');
+    btn.textContent = visible ? 'Hide Cast of Characters' : 'Show Cast of Characters';
+  }
+</script>
+
+</body>
+</html>
