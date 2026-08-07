@@ -31,6 +31,8 @@ All roles are written for any performer. No character need have a gender.
 
 **THE BOTTLE** & **THE MICROPLASTIC** — Expository Voices.
 
+(6 total "actors" but the bottle and microplastic could technically be the same person, New guest could be old guest w/ a costume change) — could be done by 3 actors and then have stage assistants read bottle and microplastic, or 4 actors, where one does double duty as both "expository voices")
+
 ---
 
 ## Scene I — The Order
