@@ -1,0 +1,126 @@
+[GD3] Day 1
+
+8/31/2011   - wk 1
+Go over syllabus
+Assign Analyzing Motion / Reverse Storyboard
+GET ALL THE BOOKS!!!
+    - need New Basics + Understanding Comics for Next week
+    - Need the AE book by 9/21
+
++++++++++++++
+
+Hello class
+
+This is GD3 — if you aren't supposed to be in GD3 you are in the wrong place
+
+So here is my deal:
+I'm a print + web designer, I'm from MPLS (which is where I am now). I moved to Bmore to do my MFA here at MICA, and now I am teaching you this class... I can give you more details in person starting next week.
+
+Here is the deal with the class:
+The point of this class is to discuss time+motion principles (what they are, how to use them, what are they good for, etc.), and figure out how to apply them to graphic design—and in a way that If you are into Motion graphics this class will make sense for you. If you are into print design this class will make sense for you. If you are into web sites and interactivity this will make sense for you.
+
+The hope is that we are able to cover these topics in a way that allows you to apply them to any design problem, not just "motion graphics"
+
+okay, before we get any farther, here's the plan for today:
+1. syllabus
+2. Intro to Motion + Time + Design
+3. Quick discussion about storyboarding
+4. Assign first project + readings
+5. Dismissed!
+
+1. SYLLABUS:
+oh, by the way, this is Skye, she'll be the class TI.
+She should have handed out a syllabus to everyone.
+
+okay, so the first page is the course description, both from the catalog, and what my focus is.
+
+basically, I think when most people think about time + motion + design, Motion Graphics is what comes to mind.
+I'm hoping we can get beyond this, and focus on the concepts, and then you can apply them to whatever sorts of design you each are personally interested in.
+
+Oh, and I'm gonna just say this upfront — Utilize your interests!
+
+Design school is for two things, 1. to learn about design, as well as other things, and 2. build a portfolio. You'll hopefully make better work if the subject is something you are interested in, and thus care about making, so I would recommend for you all to make the projects as much as you can about something you care about.
+
+Other than today, I'll be taking pretty good attendance — please show up on time!!! the demos require everyone being here so we can start, and so do the critiques, so please, be punctual. You don't have to be early, but BE ON TIME!
+
+Also, if you know we are having a critique, be ready. Everything will be outlined on the schedule on the website, and I'll be moving it over to moodle over the next week or two as well, so due dates will be well indicated. Have your files ready to roll on those days. No excuses.
+
+You really need very little for this class:
+    1. Vimeo account.
+    2. User acct. on teaching.ookb.co (if you are on the syllabus, I created an account for you already and the details should have been sent to your MICA.EDU accts.)
+    3. Some sort of drive 
+    4. access to a camera - you can check this out of AV if you need to
+    5. A couple books.
+
+Readings:
+Okay, so we'll be doing a decent amount of reading in addition to design work.
+You need to actually buy the following three books — I'm sorry they aren't in the bookstore, but I've linked to them on Amazon, or you can find them anywhere else you choose as well. 
+The rest of the readings will be downloadable PDFs
+
+The books you must buy are:
+Understanding Comics
+GD the New Basics (some of you may already have this)
+Creating Motion Graphics w/ After Effects.
+    - this last one is more optional... the demoes we'll be doing in class are based off the demos in this book, so you can reference it if you need help figuring out something we did in class. Of course, there is also Lynda + a bunch of other web references … but this will have exactly what we do, so I highly recommend that you get it for your own sakes.
+
+Go over the projects briefly...
+
+2. Basic Intro
+
+from below...
+
+3. Storyboarding basics
+The first thing we need to discuss are storyboards. 
+Does everyone know what a storyboard is?
+Now, I'm giving you the most rudimentary explanation of what they are, but more info is available on the class website under "project 1"
+Semantically the name describes it pretty well.
+It is a tool for helping to organize and outline time + motion pieces. Things with duration or with movement or both — It is basically sketching for time + motion
+Think of it kind of like a comic strip.
+All the important information is there, and you put the rest together.
+It can show action, camera movements (like pan or zoom), etc.
+
+Here are some examples.
+
+4. Project 1
+Okay, so now that you know what storyboarding is, here is your first assignment.
+Besides getting the few books I need you to get, you have (hopefully) something pretty easy to do as Assignment #1.
+It's called a reverse story board.
+BAsically, take a motion piece, and then reverse-engineer a storyboard that describes what's happening in that piece. Normally you'd do this first, 
+
+5. See you Next Week!
+Next week we'll have proper introductions, look at your storyboards, do some inclass stuff, and then move onto some stop motion stuff, which ties in nicely with the concepts of storyboarding, and should prepare us all for moving into the fully digital world of time and motion.
+
++++++++++++++++++++++++++++++++++++++++
+
+WHAT TO TRY AND MENTION:
+Motion is one of the most important changes in GD
+yeah sure, we've had to deal with time and space for a while, but it is new to be able to easily incorporate actual motion into our designs.
+
+Motion is no longer novel or complicated. It is becoming a requisite.
+
+The role of the Graphic designer is no longer limited to moving type around on the printed page
+
+Kinetics!
+(we'll talk more about what this "means" later on in the term)
+
+Motion Literacy is Essential!
+
+Aesthetics of Motion Design?
+
+Plato's Cave is an early example of motion graphics :)
+
+"Let there be Celluloid Projections!"
+
+Information is moving away from the domain of the static
+
+Basics of a narrative arc?
+
+Any word or image that moves functions both spatially and temporally
+
+Time and motion are considerations for all design work, from a multipage printed book, whose pages follow each other in time, to animations for film and television, which have literal duration.
+
+Animation encompasses diverse modes of visible change.
+
+Showing images in a row is an accepted way to represent time or movement on a 2D surface. Drawings or photos become like words in a sentence, linked together to tell a story. 
+
+All animation (and motion) consists of change over time.

@@ -1,0 +1,58 @@
+[GD3] Project 1: Reverse Storyboard
+
+Time-based communication introduces new sets of conditions that change the nature of “sketching.” The method used to sketch a temporal idea is the storyboard. Storyboards are visual representations that aid in the the creation process of digital storytelling. Storyboards outline the narrative and develops compositional models for type, images, image frames, transitions, and sound. These are then laid out in sequential order to create the the flow of a production. They can also include technical aspects and explanations of design. 
+
+For this project I need you to each pick a piece that you think counts as a “Motion Design” piece — it needs to be at least 30 seconds in length. 
+
+Next, develop a well organized storyboard of the piece you choose using whatever method you so choose (however, you must be able to present us the storyboard on the projector). Use still images, drawings, photos, and text to model and articulate what is occurring in the piece. Selected images should represent definitive changes: a cut, transition, or some other obvious change occurring on screen. Your assessment may also need notes articulating the basics of movement, sound, image, symbol, camera view, typographic gesture, and pacing if these are not obvious from your stills.
+
+
+++++++++++++++++++++++++++++++++++++
+
+Reference:
+----
+Visual communicators use a variety of sketching techniques as aids in translating concepts/ideas into meaningful communications. Sketching, using whatever tools are appropriate, translates abstract thoughts into tangible realities. Furthermore, the process of sketching refines the communicator's selection, improving the potential of the message to reach the intended audience. Time-based communication introduces new sets of conditions that fundamentally change the nature of sketching. The method used to sketch a temporal idea is the storyboard. The storyboard outlines the narrative and develops compositional models for type, images, image frames, transitions, and sound.
+
+For this project select a movie piece from the discussed list on the project page. Develop a well organized storyboard using whatever method you so choose (however, you must be able to present us the storyboard on the projector). Use still images and text to model and articulate what is occurring in the piece.
+
+----
+For this project select a time-based piece from the web sites discussed in class. Develop a well-organized storyboard … use still images and text to model and articulate what is occurring in the piece. Your assessment needs to include notes articulating the connotation of movement, sound, image, symbol, camera view, typographic gesture, and pacing.
+
+Include a description next to each image selected. Selected images should represent definitive changes: a cut, transition, or some other obvious change occurring on screen. Include an additional narratice articulating other key points listed above. 
+
+----
+1. Narrative development: students will develop a sequel to the movie they watched using the same narrative structure they used to break it down… Have students work in groups and write out each part of the narrative structure.
+
+2. Traditional storyboard: the major part of this project is investigating narrative structures. This project can incorporate found imagery as well as self generated photos and drawings. Students will use the narrative they devleoped in class and create a visual sequence of drawings to communicate the story.
+
+3. Animatic: This third phase will introduce after effects and allow the storyboard to become an animatic. Students will brign the panels of the board into AE and use the techniques introduced: duration of shots, transitions, and camera movements and zooms. If the length of the sequence is an issue, students can animate just one or two scenes.
+
+-----
+Basic storyboarding according to newton's laws of motion
+    
+Find three examples of anything in motion that demonstrates at least one of newton's laws. Motion must be uninitiated by the student. students shoud look for motion and not create motion. The purpose for uninitiated motion is to challenge students to see motion in things that would otherwise go unnoticed.
+
+-----
+A multimedia story is some combination of video, text, still photos, audio, graphics and interactivity presented in a nonlinear format in which the information in each medium is complementary, not redundant. So your storyboard should be put together with all those elements in mind.
+
+-----
+plan the writing and visual arrangement for your narrative, exhibits, and overall website. The components of your website should display text, visuals, and perhaps audio and/or video in a manner that best tell the stories you wish to convey about the history of your community.
+
+Storyboarding is a way to lay out the flow and order of the text and its corresponding components. Think of a storyboard as a map of your presentation that allows you to arrange all of the visual materials in the order you want them before you insert them into presentation software.
+
+You can sketch your plans on paper, use the table function in your word processor, or invest in storyboarding software—and make revisions as you go along. 
+
+Whichever method you choose, be sure to ask yourself these questions:
+    • Where do we need explanatory text or introductions?
+    • Where do we need transition text or a segue to another topic?
+    • Where do we want each image to appear on the page—in relation to which portion of text, or other components?
+
+----
+
+Explore various aspects of sequencing that will lead to an understanding of storyboarding
+conceptualize & execute a variety of storyboards
+become critically aware of storyboard structures such as transitions, timing, and scale, and what movements over time suggest the intended tone and tell the story.
+
+
+----
+

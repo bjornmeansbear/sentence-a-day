@@ -1,0 +1,64 @@
+[GD3] day3 New Basics time + motion reading notes
+
+Any word or image that moves functions both spatially and temporally
+
+time and motion are considerations for all design work, from a multipage printed book, whose pages follow each other in time, to animations for film and TV that have literal duration.
+
+Animation encompasses diverse modes of visible change
+ - there is literal movement
+ - also changes in scale, transparency, color, later, and more (these are not unlike Aristotle's 4 kinds of changes... which he describes as "motion")
+  
+It can be useful to think about the screen as an active, changing surface as well as a neutral stage or support onto which characters are rushed on and off.
+
+A word or design element can stay still while the environment around it changes
+
+Motion designers must think both like painters and typographers and like animators and filmmakers.
+
+The thing to keep in mind is the idea of change...
+next is "interactivity"
+    - how to the changing objects interact with each other?
+    - how does one thing changing affect (effect?) the other things changing.
+    
+Showing images in a row is an accepted way to represent time or movement on a two-dimensional surface.
+
+perisistence of vision:
+the retina retains images for a split second longer than the images are actually before us, resulting in the illustion of movement when numerous images appear in rapid succession. 
+
+frame-by-frame:
+the series of still frames are manually (or digitially/automatically created). These are actual still frames, one drawing (photo, or board, or whatever) exists for each frame of video
+    - this is what you're doing in stop motion obviously
+    - you must manually create all the deviations in scale, color, movement, etc.
+
+Keyframes:
+Fixed states that a lead designer/animator draws or creates.
+
+Normally first / last frames of each short sequence of action, indicating the start and conclusion of one or more important changes.
+
+inbetweeners:
+originally actual artists, they fill in the gaps between keyframes by drawing all the missing "in-between" frames
+These are then called "tweens"
+these can be generated automatically by digital animation software
+    (this is how flash and AE work) 
+
+p.224 Kinds of motion
+p.226 Animating type - this may be useful for our last AE project
+p.228 Review of storyboarding
+p.230 Beyond the Timeline - this will be useful to revisit for the Systems animated identity project.
+
+----
+
+MORE STOP MOTION STUFF:
+watch this: The Seed: http://vimeo.com/3715286
+and then this: http://vimeo.com/2425610
+
+then watch this: dot: http://vimeo.com/16162411
+and then this: http://vimeo.com/16421229
+
+maybe some of these:
+http://top-best-tips.com/marketing-tips/top-5-best-stop-motion-animation-videos/
+
+---
+
+Other reference:
+http://creativetechs.com/tipsblog/build-animated-gifs-in-photoshop/
+http://psd.tutsplus.com/tutorials/designing-tutorials/quick-tip-create-an-animated-banner-ad-in-photoshop-cs5/

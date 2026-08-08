@@ -1,0 +1,54 @@
+[GD3] Week 6 Schedule + links
+
+Pre-Dinner:
+
+Discuss Reading
+Videos that could have been made in AE
+    http://vimeo.com/25766789
+    http://vimeo.com/17902560
+    http://www.youtube.com/watch?v=jmntiZ5T4UQ or http://www.youtube.com/watch?v=QsZ75J8_jNE
+    
+    http://www.artofthetitle.com/
+    
+    http://www.artofthetitle.com/2011/05/02/dinner-for-schmucks/
+    http://www.artofthetitle.com/2011/03/28/elektra-luxx/
+    http://www.artofthetitle.com/2011/01/03/scott-pilgrim-vs-the-world/
+    
+    Anything else?
+    
+Demo set 1
+    1. review previous demos
+    2. Look at pre-comp 1 a second time to show how by changing just the first one you can change everything, and easily update things
+    3. What else do you all want to look at more of???
+    4. Parenting, Nesting, Precomping, the earth zoom and precomping should give you an idea of this...
+        parenting: define
+        nesting: define
+        precomping: define
+    5. 3D space, Cameras, Lights
+    6. Look at some videos that use this stuff
+        http://vimeo.com/20534171
+    7. Animate the static, quick inclass demo
+    
+Post Dinner:
+
+Demo Set 2
+    1. Working with Video
+        a. image sequences
+    2. Motion Tracking/Stabalization
+    3. Look at some video examples of this stuff
+        http://vimeo.com/29864141
+        
+    4. Adding to the Existing, quick inclass demo
+    5. More Advanced Type stuff if there is time.
+    6. present next project — says it is 2 weeks, going to be 3 instead, maybe 4 depending on what happens.
+    
+    
+FOR NEXT WEEK:
+
+basically we are making stuff like this: http://vimeo.com/5080958
+(Show the 2 projects from SVA MFAs on my vimeo as well)
+
+Kinetic Type Project.
+You need to pick an action verb.
+Also, find a Motion Graphic / Motion Design video that you think counts as "kinetic type"
+

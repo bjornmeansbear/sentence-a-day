@@ -1,0 +1,135 @@
+[gd3] Flipbook
+
+Flipbook
+The final project will be making a flipbook. This is meant to be a culmination of everything we have discussed and examined so far this term. The exact meaning of what a “flipbook” is is up to you to interpret, and you do not have to make a physical book if your concept/idea works better purely digitally. However, you MUST adhere to the following guidelines:
+
+1. If making a physical book, or using stop-motion, you must have at minimum 90 pages/frames. If you are doing something digital, and the piece has a concrete duration, it must last at least 3 seconds … For those that are doing something more interactive, or web or generative, these rules might not apply, so ask me for further clarification.
+
+2. You must be able to explain how your piece qualifies as a "book"
+    - if you are making a physical flipbook then you semi-automatically accomplish this…
+    - if doing something on screen, you might need to explain what you think "book" means in this new space.
+
+3. This needs to be a piece of graphic design still. How does time, motion, and graphic design translate into the space of a book? Analyze this in your design work.
+
+4. I'd like you all to keep thinking about the different things we've been talking about all term — physics, time, the universe expanding, light speed, entropy, systems … etc. These are all things that I find important when working with Time and Motion in Design, but also just for design in general. However, I think the Maholy-Nagy + Futurist essays will bring up some interesting ideas about how traditional 2D mediums can still embody the ideas of time and motion without having to be films or interactive works.
+
+====
+
+——————
+Make a “flipbook” that covers uses these ideas/elements as prompts:
+A. Time + Motion - what does this mean to you?
+B. Narrative + Storytelling - part of the advantage to sequential art is that it can easily carry a narrative, I want you to come up with some sort of narrative device for your flipbooks.
+C. Entropy - this is the idea that everything in the universe tends towards chaos, no matter how ordered you try to make it.
+
+——————
+Requirements
+1. Either Stop Motion or a Physical book (or both)
+2. @ the minimum 50 frames
+3. Discusses the ideas of Time + Motion, & Entropy
+4. Some sort of “narrative”
+
+
+====
+
+http://www.flipbook.info/index_en.php
+http://www.flipbook.info/history.php
+
+http://en.wikipedia.org/wiki/Flip_book
+http://en.wikipedia.org/wiki/Storytelling
+http://en.wikipedia.org/wiki/Narrative
+
+http://www.catherinezask.com/#hermes/hermes
+
+
+====
+
+Fall 2010
+Graphic Design 3
+Project 3: Flipbook (final Project)
+
+-----
+
+For our final project you will all be making a flipbook.
+This is meant to be a culmination of everything we have discussed and examined so far this term. Now the exact meaning of what a “flipbook” is is up to you to interpret, and you do not have to make a physical book if your concept/idea works better purely digitally. However, you MUST adhere to one of these two guidelines:
+    
+1. Use of Stop Motion - the idea of the flipbook is to actually capture things frame by frame, so my preference is that you actually make each frame.
+
+or
+
+2. If you don’t use stop motion (IE use tweening to create your transitions) you MUST output your design-a-mation as a physical book. I repeat — if you do not make a stop motion design-a-mation, you MUST print out and make a physical flipbook of your work.
+
+ALSO
+the bare minimum is 50 frames … if you have less than this, and you actually construct a physical book, there is no way you’ll have enough paper to actually grip and flip. I would say shoot for higher than that, as it will give you more opportunity for narrative—50 frames is the BARE MINIMUM.
+
+-----
+
+Prompts:
+Okay, this class is supposed to be about time and motion.
+I want you to make a flipbook that covers uses these ideas/elements as prompts:
+
+A. Time + Motion - what does this mean to you?
+B. Narrative + Storytelling - part of the advantage to sequential art is that it can easily carry a narrative, I want you to come up with some sort of narrative device for your flipbooks.
+C. Entropy - this is the idea that everything in the universe tends towards chaos, no matter how ordered you try to make it.
+
+----
+
+Requirements
+1. Either Stop Motion or a Physical book or both
+2. @ the minimum 50 frames
+3. When making physical books you must make at least 2 flipbooks so that I can keep one if you make a physical version (an edition of 5 probably isn't a bad idea, being able to trade projects amongst each other is always valuable)
+4. Discusses the ideas of Time + Motion, & Entropy
+5. Must have some sort of “narrative”
+6. Make sure the book / animation feels “Designed” …
+
+The rest is up to you.
+
+----
+
+Helpful Hints / Contstruction Guidelines
+—
+Paper stock
+- note cards work well, a little thinner than this would be fine too
+—
+Size/Shape
+- usually better if slightly wider than tall, remember, you only see about 1/3 of the outer edge of the page in a real, physical flipbook when flipping …
+—
+conceptual:
+- why does this need to be in motion
+- how does “flipping” through aid the concept
+—
+needs “design” components … type?
+- Remember to aim for “graphic design” over animation or illustration
+—
+Don’t forget that once you get to the end of the flipbook you can turn it over and flipback
+- this could be an interesting conceptual element to the piece—this is also a way to use less physical pages, but still achieve the same minimum 70 pages/frames/slides
+
+----
+
+Links, Etc.
+
+http://www.flipbook.info/index_en.php
+http://www.flipbook.info/history.php
+
+http://en.wikipedia.org/wiki/Flip_book
+http://en.wikipedia.org/wiki/Storytelling
+http://en.wikipedia.org/wiki/Narrative
+http://en.wikipedia.org/wiki/Entropy
+
+http://www.masa-ka.com/html/rainbow.html
+
+
+====
+
+
+ALSO, what do they have to turn in for the animated identity project:
+
+1. Video of the animation — .mov or .mp4 or similar.
+2. Example of how it is used on a website or in a commercial, etc. (this doesn't have to be animated, this can just be a mockup, but be prepared to discuss how it works)
+3. Static print examples:
+    a) business cards, letterhead
+    b) print posters, ads, or billboards?
+    c) shirts, hats, other collateral
+    d) signage for museum, office building, zoo or whatever
+    e) perhaps something else if you have a special use case
+4. Explain how the animation of the identity increases the meaning of the brand you've chosen — be able to answer the question "why add motion to this?"
+
