@@ -1,0 +1,24 @@
+Floss design
+
+Scribus
+Inkscape
+Gimp
+Krita 
+Fontforge
+Dia
+Blender
+Nodebox
+Gegl 
+Laidout
+I need a 3D cad tool... a) for this list, b) for my house project purposes
+LibreCad?
+FreeCad?
+B Processor? (http://www.b-processor.dk/)
+Handbrake
+VLC
+Tor?
+TruFont
+BirdFont
+Zotero
+OBS
+Etcher

@@ -1,0 +1,91 @@
+Art/Design/Craft
+
+You've been presented w/ an abstract timeline so far — how forms of making moved from a more definition-less overlapped set of disciplines to a divided, highly defined and specialized set of disciplines; from something based on doing and experiencing firsthand, something based on locality and culture, to something distributed — something based on instructions and removed from a specific time and place... Hand to tool to machine; oral to written to photo to video …
+
+Different contractors for each different step even — someone just for concrete floors; someone just for metal studs; someone just for fire safety sprinkler system; special, custom fabricators for exterior panels; etc.
+Also, special software for creating the architectural drawings;
+Uber specialization?
+
+Instructions are a type of code
+
+Creators? Artists? Craftspeople? Designers? Authors?
+
+I'd like to present a few variations where perhaps this becomes slightly reversed? how we can move back to a more experience based art/design/craft hybrid — do perhaps more tech-focused approaches do this? And how might one's working methods cross boundaries or definition …
+
+My examples are mostly from the world of “design” — but are designers that perhaps don't work the way culture would typically define “design”
+
+I think culture's definition might place design as something more "practical" more related to business or solving an external problem of a clients; not just making...
+
+But our new digital world unhinges things a bit.
+
+That’s where some of this point of view comes from...
+
+So, it would be easy to perhaps label each of these images to their "area" (goes w/ studio images through this code one))— a painter’s studio is a decent signifier for an artist; a workshop of wood tools a signifier for craft; a neatly kept desk w/ clever posters that for design; but what about this… what happens if your work has not just become abstract like a minimalist or conceptualist; what if your medium is the abstraction of code?
+
+How does my work as a designer change when I start working with the machine? How do I learn to make digital machines my tools? What do I need to understand to move from collaborating with Flickr to making a real printed poster? And what is special or different or better because of it? Is this still the realm of specializations and where a designer makes a drawing for others to implement (where I maybe don’t know anything about the site or specificities or methods of production, but just make forms to be produced) — or is this just a different variation on our fred astaire model???
+
+This poster started as a search on flickr — so I would say it was a collaborative effort between myself and flickr’s search algorithm … But its meant for a physical output; the orientation of a screen; the resolution of images themselves; how text may or may not be included or overlapped. These are all things that I can’t easily control or manipulate in my initial collaboration
+
+Is this just a set of tools to be learned?
+
+What do I need to know to print this that the digital side of the workflow can’t handle?
+
+Is Casey Reas an Artist? Designer? Craftsperson?
+
+Does this look like a studio?
+
+It’s not abnormal to hear about artists or craftspeople who end up customizing or creating their own tools as the ideas or forms they are trying to get out simply can’t be made other wise — the tools don’t serve the needs one has
+
+This digital realm is no different. Casey Reas was unable to make the sorts of digital drawings and formal creations he desired, so he invented Processing to help him realize it — create the tool that fits your vision; Then, become so fluent, so experienced in it that you can bend it to your will???
+
+Working beyond the realms of known/possible?
+How do you gain experiential knowledge there?
+Research and experiment as practice?
+
+Translate digital to the physical
+
+Metahaven currently works on the borders of design and art — what is this piece? Is it a website? Is it a video? Going to it, it starts to “play” — this breaks what we expect to have happen on a website; Part of how you arrive at a solution like this is by intentionally testing the unknowns; coming up with your own experience based learning but experiences of an ethereal, abstract nature …
+
+
+Jen & Trevor
+
+Daniel eatock.
+Digital documentation; crowd sourcing; designer as conceptual artist — what happens when you make your ideas the craft? Collecting as a design skill … An example of the gap - eatock makes very little, relies on the internet to provide him with things; serendipity to supply him with things; and recycled ideas and reused solutions to continue to provide him with things … Sol Lewitt as a contemporary designer.
+
+Your learning through experience can also be your portfolio — how you get work?
+Common to post in process things or just goofing around things to instagram, tumblr, etc. Make a portfolio of works out of just learning your interests?
+This helps the artist/designer/crafter to understand what they are doing; but also helps a broader public get a better understanding of what makes these things work — next wave of DIY/how tos?
+
+Makers have attempted to find many ways of helping people understand how things work via how they are made; many makers want us all to have more experience based knowledge …
+Enzo Mari w/ his Autoprogettazione experiments. Hoping furniture buyers would understand more about what differentiates good furniture from bad once they had built some simple designs on their own …
+
+In the past, a printer would have also been an artist/designer; the printer would have designed your poster, or laid out your pages, or perhaps even done the illustrating (Bodoni is a good example?)
+
+
+»»»»»»»»»»»»»»»
+
+
+Design or developer vs crafter or maker. Why do we call programmers designers instead of crafters?  
+Context of screen vs print work. How the hybrid process works. Flickr generative design. 
+*casey reas * metahaven learning the tool in order to break it
+What is experiential knowledge and where does it show up that you don’t expect it
+
+»»»»»»»»»
+
+You've been presented w/ an abstract timeline so far — how forms of making moved from a more definition-less overlapped set of disciplines to a divided, highly defined and specialized set of disciplines; from something based on doing and experiencing firsthand, something based on locality and culture, to something distributed — something based on instructions and removed from a specific time and place... Hand to tool to machine; oral to written to photo to video …
+
+I'd like to present a few variations where perhaps this becomes slightly reversed? how we can move back to a more experience based art/design/craft hybrid — do perhaps more tech-focused approaches do this? And how might one's working methods cross boundaries or definition …
+
+My examples are mostly from the world of “design” — but are designers that perhaps don't work the way culture would typically define “design”
+
+I think culture's definition might place design as something more "practical" more related to business or solving an external problem of a clients; not just making...
+
+But our new digital world unhinges things a bit.
+
+So, it would be easy to perhaps label each of these to their "area" — a painters studio is a decent signifier for an artist; a workshop of wood tools a signifier for craft; a neatly kept desk w/ clever posters that for design; but what about this… what happens if your work has not just become abstract like a minimalist or conceptualist; what if your medium is the abstraction of code? 
+
+Is Casey Reas an Artist? Designer? Craftsperson?
+
+Design or developer vs crafter or maker. Why do we call programmers designers instead of crafters?  
+
+

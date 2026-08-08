@@ -1,0 +1,253 @@
+A New Design Commons?
+
+This is intended as an encouragement to reflect critically on the pedagogy and tools that fill our daily existence!?
+
+If we want to tackle all the problems of the present and our future, we need our design disciplines to rapidly come up with implementable solutions, properly reuse existing solutions, innovate new solutions when appropriate, and then distribute all solutions in reusable, remixable, and repurposeable forms as quickly as possible. The current state of intellectual copyright isn't conducive to this. The mythology of newness and individual design genius isn't conducive to this... 
+
+## Adobe Vs...
+
+As I was working on this talk, I woke up one morning to find that Adobe had acquired the company Figma for 20 billion dollars. One of my former students that works there wrote me:
+
+> Obviously, this sucks for the entire design community. Adobe has done a lot of harm to the design community with their exploitative pricing strategy and their refusal to fix existing products. Everyone, even students, are forced to use it not because they like the tools, but because Adobe is sort of the only option. It's great to see other design tools becoming more popular in recent years as people start finding alternatives. The tools we use influence what we make and dictate the people who have access to them. Having a diverse toolset to choose from is good. Even if Figma doesn't change much in the first few years, relying on just one company for design gives Adobe way too much power in dictating which people and how people design. 
+> -- Amanda Yeh
+
+- I am concerned that any new tools I enjoy might be gobbled up (Adobe/Figma)
+- I am worried that my tools can be turned off (Adobe/Venezuela) [(cite!?) October 2019? https://www.itsnicethat.com/news/adobe-block-venezuela-digital-111019]
+- I am troubled that the makers of my tools care about nothing but money (adobe/rings of power) 
+	- PS, AI, ID splash screens all carry subtle ads for RoP > you could also download specialty templates, effects, etc. to do RoP style designs of your own > this is weird CAPITALIST commons > we want you to share and remix these things so that it makes it more likely people will pay for adobe stuff and Amazon prime video stuff moving forward!?
+
+There's a clear statement here — we don't own these tools, we are granted access to them. And even paying our “rent” isn't always sufficient to keep access to them. & even the showcasing of user created content is in the service of making money; the sharing of “resources” is about corporate sponsorship.
+
+This concern: that we're forced to use something because there is a monopoly on our tools of creation, not because they're the best or good is an issue of intellectual enclosure… That the company that supplies these tools now rents them too us effectively controls our access to them; this is a form of enclosure… That that same company is in league with other giant companies to subtly show us that these tools are meant for creating the tastes and needs of industry...  these are things that limit our future possibles…
+
+## Intellectual Enclosure // Define the commons?
+
+But, I don't really want to talk about capitalist software companies or licensing agreements. I want to talk about cultural resources that should and can belong to all of us. Though, I'm worried this can go away too!? (Unsplash/Getty). To protect cultural resources for reuse, we need an updated set of customs, rules, and behaviors for sharing our work. We need a "design commons" … Now, open software movements and Creative Commons already provide much of the framework and tools for this. However, I don't feel like most of my colleagues and friends actually embrace this mentality, despite sometimes using these frameworks and tools — perhaps I can convince you in my remaining 7 minutes.
+
+In a 2006 aTypi lecture called _Univers Strikes Back_, Ellen Lupton says about her book, thinking with type: (this is also where Lupton presented her "FREE FONT MANIFESTO!" > which went on to help inspire Dave Crossland to get into Libre Type; Crossland now helps to run Google Fonts...)
+
+> My book was never intended for experts. It is a book for everyone, because I believe that everyone on earth needs typography and can benefit from working with letterforms at the highest level.
+
+If we expand this out, my goal is to reframe Ellen's message in terms of design generally: That everyone on earth needs design and would benefit from working with design tools and content at the highest level… this requires some sort of more shareable, accessible, equitable distribution of recipes and resources.
+
+So, to finish the op ed and get to something more useful: How do we take the recipes and resources we have and find more and better tools to build and make and share and remix them. Sure you COULD use the proprietary tools to make these recipes, but it would be even better to not! Why? Well, for a variety of reasons: its a critical act ala Dunne and Raby's critical design; its more accessible; its more equitable; we can turn more energy on solving real NEW problems, rather than resolving old problems… here's where the references come in doctorow, Lessig, Stallman, OSP, etc.?
+
+What do I mean by a design commons? Basically that the recipe of a design work is shared for anyone to use. 
+
+A lot of the language around these things in contemporary culture comes from software — well, the last 40 years of software, Stallman's Free Software rants started in 1983!? But this is really just the way the world of cultural production has operated. Lawrence Lessig and the rest of the thinkers that put together Creative Commons were driven by this same return to how cultural artifacts used to be produced. Kirby fergesun tells us that Everything is a remix… Stewart Brand and his Vernacular building systems in How Buildings Learn again describe this same sort of process… Prelinger and his archive…
+
+Stallman's Free Software Four Freedoms...
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+Can they be better explained for creative production as:
+- Access to the source (recipe?): basically what are the raw materials you need to do this, and how can it be insured that users/community can access them?
+	- vernacular design examples?
+- The ability to remix/redistribute work as one needs (provided proper credit!)
+- End to predatory vendor lock in
+- Increased collaboration
+
+Cory Doctorow's makers: example of how a designer with the tools can open them up to their audience...
+
+What are some Myths of the commons and open source?
+1. No control of work
+	- what can be added/removed from a specific project is controllable
+2. Open is unsafe? 
+3. Everything is FREE as in Gratis
+	- NO! The "recipe" might be free, but all the constituent parts might have costs associated
+	- House building?
+
+> When we call software “free,” we mean that it respects the users' essential freedoms: the freedom to run it, to study and change it, and to redistribute copies with or without changes. This is a matter of freedom, not price, so think of “free speech,” not “free beer.” -- https://www.gnu.org/philosophy/open-source-misses-the-point.html
+
+## Ownership. Authorship.
+
+Mr. Keedy writes about a "Global Style" an affected modernism that now adorns all sorts of (in particular cultural) institutions around the globe. I don't desire this sameness. I don't think a commons should inspire sameness. A functioning, healthy commons has no single style or set of solutions.... IS this sameness because we all share the same tools? Is this intellectual enclosure? Is this the stylistic colonization of our tecno-social overlords? I mean, if Silicon Valley is all about softened corporate modernism... and then their tools are built based on that aesthetic assumption... and then we are told to use their tools to make new stuff... the systems for designing USING capitalist modernism are baked into everything... so we have no way to make EXCEPT within that framework
+
+So where do you go that is outside that!?
+
+The commons. The web. The F/LOSS community (sometimes)
+
+Critical Design > D&R references. If we are critical of the status quo, if we are trying to create alternatives, well then we need alternative tools, alternative visual references, and alternative ways to share with and learn from each other.
+
+±±±
+
+A commons is a place where yes, ideas may spread across cultures, across socio-economic/political divides, sometimes this may reach near-appropriation terms... But! The point is necessity, quality, love, new metaphor, doing something new, reviving something old but great, expanding knowledge, reconnecting with forgotten knowledge...
+
+Professors and students: we can share and dig more, learn from each other, build on the shoulders of each other (of giants!?)
+
+Don't want to lose the trail of authorship. On the contrary, this should make it more likely and easier that the trails of where ideas came from can be highlighted. The lineage doesn't need to be secret — if you've properly accredited your remixing, then there is no need to worry about ramifications of copying, combining, and transforming.
+
+Stop hoarding your content, your old designs, your good but unused designs... just let them out in the world. It doesn't have to be cheap, or dirty or whatever... but just give something way... how do you give the things you designed away but still get paid???
+
+Are you really concerned with someone taking your syllabi or projects? What if you just Share-Alike them!? Don't keep them enclosed!?
+
+An informal intellectual commons: the vernacular. Stewart Brand, the whole earth catalog, hippie modernists.. a better world through sharing.
+
+- Vernacular: How Buildings Learn describes the same process for buildings as is in use for things like RedHat linux or other open source software.
+- Many eyes make light work.
+- Rapid iteration and prototyping and error finding and fixing. The right person to find the problems and the right person to solve the problems aren't usually the same people, how do we connect them together? How does this work in the classroom or in the world at large for problems beyond software.
+
+- Progressive education
+- Version control
+- Open tools and open culture 
+- Dunne and raby against the status quo: If the status quo is a proprietary set of tools and intellectual enclosure, then to design alternatives to that we need some critical praxis: how do we use liberated tools and resources from the world of FREE CULTURE instead.
+
+## What is free culture?
+How does this lean to a new design commons!?
+
+Established power hates change.
+
+±±±
+
+If we as educators wish to create new knowledge; to teach the next generation(s) of designers, and to spread and disseminate our craft so as to make a difference, well, we need to embrace and help build these open, shareable framework(s) for design. We need tools and content free of enclosure. Our teaching can influence each other, and the broader world around us if we return to more open ideologies. This to me is the "new design commons."
+
+±±±
+
+This is a key aspect of learning — we as design educators need to adopt this as part of our pedagogy right? If we want students to get the most of their time with us, but using "free" tools that are free in this way, we increase access to learning! Take a font for example — requesting the use of open source or libre fonts in a project prompt means that students not only can use the fonts however they see fit, they can also change nd customize the font, or look at the source files and learn something extra about how a font has been made!?
+
+±±±
+
+> My interest in the commons is grounded in a desire for the conditions necessary to promote social justice, sustainability, and happy lives for all. As simple as that. -- Massimo De Angelis
+
+> Basically, free software combines capitalist, socialist and anarchist ideas. The capitalist part is: free software is something businesses can use and develop and sell. The socialist part is: we develop this knowledge, which becomes available to everyone and improves life for everyone. And the anarchist part: you can do what you like with it. -- Richard Stallman, Talking to the Mailman, NLR 113, September–October 2018
+
+Software as a service models — while perhaps "convenient" — are a form of intellectual enclosure. Models like Adobe Creative cloud deprive us our rights of access and privilege. This is the software equivalent of running barbed wire across the Great Plains, or walling in an English pasture. We can be cut off from these now rented tools at anytime. We've created a blockade for our future access to the resources and tools of our discipline.
+
+±±±
+
+> "The commons is the cultural and natural resources accessible to all members of a society, managed for collective benefit…" — this is a riff on Wikipedia's definition ... 
+
+If we are in the business of cultural production, of knowledge creation, and of passing on better possible futures, then we have to be thinking about "the commons" as design educators.
+
+The commons is a term that is used to describe a shared resource that is available for everyone to use. Contemporaneously, the term is often used in the context of open source software or creative works, like those that are released under a Creative Commons license. The idea behind the commons is that when we all have access to and can use these resources,  we can create something greater than what any one of us could create on our own. This is how cultural production has historically worked — so why not return to this?
+
+±±±
+
+The vernacular, common design by common people, of and for and from the commons.
+
+Can we design this way anymore? I mean, trends still exist — but following a trend isn't the same as building upon the commons. (Why? And why not?)
+
+Vernacular design, often this is 
+
+±±±
+
+# Reinventing Design as Open Source
+
+You might not know it exists, but open source design is changing the way we make things. By nature collaborative, planar, and recursive, open source design offers a model that overcomes many of the colonial tendencies of social design while proposing an agenda that stands adjacent to consumer capitalist practices. Yet its signature is invisible. There’s no particular open source style, or set of visual guidelines. Rather, OSD represents an emerging form of infrastructure that enables non-hierarchical, community-sourced collaboration.
+
+Open source design is rooted in the vernacular techniques which have existed alongside human creativity from the start. Sharing, iterating, and copying whatever worked best has allowed communities to develop effective tools, clothing, and shelter. The success of this technique can be seen in indigenous and regional buildings, from adobe dwellings in the Southwest to the Cape Cod cottages in the Northeast. Successful techniques are discovered to address local environmental conditions in an economic, reliable, and easily duplicatable manner. Regional variations develop through imitation, iteration, and experimentation resulting in forking pathways and further microclimate and site-specific specialization.
+
+For a time, this style of making largely disappeared. The industrial revolution enabled mass production, while increasingly restrictive copyright laws further discouraged iterative and derivative making, and modernism's one-to-one semiotic nature meant that “universal” forms and solutions became the norm. However, an interest in this vernacular approach began to surface within communities of computer scientists, called variously free software, libre, and open source.
+
+From the start, open source thinking centered around enabling a community of sharing, innovation, and iteration. Richard Stallman's GNU Manifesto, the precursor to the open source movement, insisted on keeping software free for this reason. Stallman argues that software must allow every user access to the source code, allow for modification, and enable redistribution. 
+
+Inspired by Stallman’s beliefs, Linus Torvalds developed the Linux kernel using the community development strategy we now call open source. The creation of Linux was revolutionary. Thousands of designers from around the globe worked together to build a reliable and open tool. This community of user–makers had advantages that no traditional team of software engineers could duplicate. For one, the products were rapidly distributed and widely used, subjecting the system to unparalleled scrutiny while allowing updated versions to be released as often as multiple times per day. As a result, Linux is one of the most secure and reliable operating systems available.
+
+At its heart, open source philosophy is motivated by need. “To solve an interesting problem, start by finding a problem that is interesting to you,” writes Eric Raymond in his pivotal open source essay “The Cathedral and the Bazaar.” This is one reason for the success of open source software: The solutions are sourced from people who are interested, invested, and often in need of solutions. This was true of Stallman, who began developing what would become the GNU operating system after he found he was unable to access the source code to modify a Xerox 9700 printer. For Eric Raymond—and most participants in open source software—pragmatism is at the heart of the practice.
+
+Coming from a history of scientific collaboration and a prehistory of necessity, this model values openness, innovation, and viability over profit. Premised upon the practices of sharing and increasing knowledge, its goals remain grounded. The focus is not on the development of commodity, but on addressing the needs of community members through continuous user-sourced feedback and iteration.
+
+Furthermore, open source projects propose an alternative reward system. The people contributing to open source projects are not doing so for monetary reward—they are doing it out of passion, need, curiosity, and pride. Recognition, reputation, and innovation are the reward. Motivation comes from the community.
+
+Open source design adopts the same attitude. This becomes apparent when examining the construction of Photon Design, a set of style tools and guidelines for web developers created by the Mozilla Foundation. This repository of grid tools, color pallets, icons, motion principals, and typography has been built by contributors from across the globe. Not only has the Photon Design community created a cohesive set of tools for Firefox developers to use, but they have simultaneously established a robust visual identity across the platform. More importantly, this approach has enabled maximum accessibility. Firefox is operational in over eighty languages. Front-end developers used the diversity of the contributor community to maximize the versatility of their tools. This approach helped to ensure that disabled users were included in development decisions. With special attention to screen readers, Firefox worked to promote a high standard for the integration of tools for the visually impaired. As an open source project, Photon is ongoing, with updates being pushed regularly. Those who are interested can join the Photon IRC—an instant messaging network—and start up a conversation about accessibility and open source principals with community members.
+
+Open source design can also take place on a much smaller scale. Commercial designers can integrate open source principles into their practice by simply sharing data, assets, and process. By making generosity a key component of practice, designers can build a rich ecosystem of collaboration and inspiration. Baring mistakes, demonstrating process, and revealing technique all contribute to the collective knowledge of the design community. Designers can seek client permission to post unused assets, sharing what would otherwise go to waste. In this way, libraries of icons, logos pallets, layouts, and systems can be built and iterated upon with little extra effort.
+
+Additionally, designers can choose to use open source tools like Scribus or Fontforge. Free to modify their tools, open source designers have the power to change the aesthetic mode of production. This is particularly important because, as Fredric Jameson writes in The Cultural Logic of Late Capitalism, “[a]esthetic production has become integrated into commodity production.” By using open source tools, designers can reclaim autonomy and authorship.
+
+Still, the boundaries that define open source design are difficult to articulate. For some designers, the OSD approach may entail the use of open source programs such as Penpot or Scribus. For others, it may mean designing a custom GitHub page for a worthy piece of open source software. Still for others it may mean sharing resources, process, and knowledge. Currently, most examples of open source design, such as Mozilla’s Photon Design, remain directly connected to the world of open source software (Netscape, the precursor to Mozilla, was the first commercial company to go "open source" with their browser). While the infrastructure of open source software has been intentionally developed, open source design is a practice still in its infancy, and lacks an effective platform to leverage the power of the community.
+
+Garth Braithwaite wrote a short manifesto that nicely sums up the goals of Open Source Designing.
+
+“I will:
+* find opportunities to design in the open
+* share my design experiences; both the good and the bad
+* find time for meaningful projects
+* openly participate in design discussions
+* work with other designers by choice
+* improve my toolbox”
+
+Though open source design offers a relational model that stands against consumerism, it remains a privileged practice. Not only does participation require access to a computer and a base level of technical competence, it requires free time, energy, and the willingness to share both.
+
+Despite these critiques, open source design offers a model that overcomes both the worst consumerist tendencies and the subtle colonialism inherent in even the best intentioned social design practices. By providing a planar model for collaboration, open source design eliminates the need for designers to act as outside facilitators, arbiters, or organizers of a community. With open source, the power to highlight problems and to propose solutions is held by the community. Furthermore, feedback comes from the user base, meaning change is constant and proportional to need. This stands in sharp contrast to the social design model which often fails to assess the results of projects, or to implement changes that better serve the community. In the end, an outside design team is hardly ever needed. Communities are not lacking in creativity; solutions have often already been described. What's missing is time, resources, and access to vital infrastructure. Open source design seeks to rectify this in part by establishing platforms of communications and organization that enable collaboration, conversation, and iteration.
+
+Participation in the open source community can cause radical shifts in design thinking, forcing dialogue into practice and problematizing tools often taken for granted. In the end, this may be the most significant advantage of open source design. As Enzo Mari writes in Autoprogettazione, building your own tools is the "best way to avoid being designed yourself." If everyone is given the opportunity to shape these tools, perhaps it is possible to design in a way which is responsive to the needs of the many, filling vital roles through user engagement. This not only guarantees greater inclusivity and accessibility, but represents a fundamental shift away from the capitalist mindset.
+
+±±±
+
+> The pursuit of uniqueness is devalued; dynamicism and flexibility are more important than originality, because originality itself is unattainable. … “Normcore is about adaptability, not exclusivity.”
+> — 3.2 Normcore as Brand Strategy, https://libbymarrs.net/post-authentic-sincerity/
+
+> graphic design being codified and converted into algorithms
+
+> ABANDON YOUR PURSUIT OF AUTHENTICITY! Normalize copying... // ...but only copy from the top. // anticipate the theft of your intellectual property and time, so practice your own time theft and bootlegging. // Conserve your energy by letting go of originality... 
+
+±±±
+
+> a commercial system bent on turning the free range intellectual culture that gave birth to computer science into a rude agglomeration of proprietary gated communities
+> — Free as in Freedom (v2.0); preface by sam Williams; pg vii
+
+> The notice was simple, something along the lines of \The printer is jammed, please fix it," and because it went out to the people with the most pressing need to fix the problem, chances were that one of them would fix it forthwith.
+> — FAIF, pg3 ¶2 L10
+
+>  A program would develop the way a city develops," says Stallman, recalling the software infrastructure of the AI Lab. \Parts would get replaced and rebuilt. New things would get added on. But you could always look at a certain part and say, `Hmm, by the style, I see this part was written back in the early 60s and this part was written in the mid-1970s.'"
+> — FAIF, Pg5 ¶3
+
+If something is good enough to solve your problems, is it not good enough to solve someone else's problems too???
+
+> Why not share it out of a simple desire for good karma? This system of cooperation was being undermined by commercial secrecy and greed, leading to peculiar combinations of secrecy and co-operation.
+
+> Stallman later explained, \If he had refused me his cooperation for personal reasons, it would not have raised any larger issue. I might have considered him a jerk, but no more. The fact that his refusal was impersonal, that he had promised in advance to be uncooperative, not just to me but to anyone whatsoever, made this a larger issue."
+> — FAIF Pg9
+
+> Eben Moglen, Columbia University law professor and Free Software Foundation general counsel. But it works. And it works because of Richard's philosophy of design."
+> — FAIF pg 184 ¶2, last lines...
+
+±±±
+
+Ostrom's Law:
+A resource arrangement that works in practice can work in theory.
+
+±±±
+
+I have CCed this content > Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 
+https://creativecommons.org/licenses/by-sa/4.0/
+
+±±±
+
+> What if we re-conceive the archive as a point of origin, as a birthplace for new works and a rebirthing venue for old works?
+> - Rick prelinger
+
+Adobe is equivalent to enclosure of the commons? Ala Linebaugh
+
+±±±
+
+Everything is a Remix by Kirby Fergesun
+Copy Transform Combine
+
+Lessig
+Doctorow
+Stallman
+Raymond
+Knuth
+Dunne + Raby
+Braithwaite
+Crossland
+Elinor Ostrom
+(Need non-white and non-male refs)
+???
+
+Open license
+Open file format
+Open tools
+Open forum
+Open access
+
+The 4 freedoms from GNU, but better written for cultural content/production?
+
+Collaborate More
+Share More
+Do More
+Repeat More purposefully...

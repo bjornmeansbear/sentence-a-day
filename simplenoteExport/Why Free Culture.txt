@@ -1,0 +1,61 @@
+Why Free Culture?
+
+I'm interested in the idea of free, open culture for several reasons.
+
+For one, the main way things have been created over time is through an open, free sharing of ideas, forms, content, etc. We slowly, steadily evolve each others ideas and visuals and references and metaphors. These trickle through a location, a nation, an area, a region, a group... ownership of the culture was more of a collective ownership, rather than an individual ownership
+
+Even in the history of ideas, it is often the case that, while we might accredit an idea to a single person, many people in different places came up with versions of that idea... There is also maybe this idea of a "scenious" — a whole "scene" of people that helped make an idea a reality, even again, if one person is granted credit for the movement, style, invention, whatever.
+
+So, free culture helps me unravel this myth of the great individual creator. The work we make is a lineage of other works. I draw on many aspects of the pasts, different times, spaces, cultures. And so, how can I make my work operate under the same parameters for others in the present and into the future.
+
+This is where the free/libre/open source/public domain stuff comes in!
+
+Let us honestly acknowledge how a group of people's ideas and work feed each other. We're here together now; you'll be there in college together for a while; you have a larger group of artists and designers and such you'll work with and we're all just here together on Earth — how can things we come up with be shared and reused and remixed and reconstructed to help the most people in the most ways with the least costs!!!????? I digress.
+
+Where did my interest in this come from???
+
+This all started with some ideas that came from work I do revolving around sustainability.
+
+When I say sustainability I am talking about work fighting for the welfare of all life! Understanding that everything is connected, how do we make things more cyclical, more environmentally friendly, more accessible, solve real people's problems and real natural problems...
+
+As I made design work for and of this realm, I started thinking about how could I find and use more accessible tools, frameworks, etc. This led me to at first some Free fonts … and from there, this world of Free/Libre/Open Source stuff was opened up, and it seems like it has a lot of opportunity to save resources: energy, materials, etc. as well as to reach more people and give more users with more real needs access to the equipment to help solve them.
+
+Here are 3 quick anecdotes about f/lospd:
+
+1. Vernacular Building: Stewart Brand and How Buildings Learn.
+In my work around sustainable design, I came across a book by stewart brand: how buildings learn. In the book, Brand describes an organic method for how vernacular buildings; meaning common buildings by and for common people; adapt over time to the needs, materials, and resources of money and time of the building dwellers. There are then community reviewed improvements that become patterns for growth on these kinds of structures. And while outer styling and building materials might change from region to region, the underlying systems and focus on constraints of time and space seem to be universal to many building types and even other vernacular design processes.
+
+Vernacular: common designs by common people
+Things not intentionally designed by an architect/designer -- at least not self-conscious designs. Un self concious objects made by everyday people to fulfill everyday needs using the materials/resouces at hand. 
+There is an organic process that objects go through to be created in the first place and then grow as time, resources, need require. What a beautiful way to think about how I could design! Can I come up with processes for doing things so that as needs and time changes the system adapts. 
+
+So how could I make my design practice operate like a community architectural style? What images could I use? What graphic language can I use?
+I could use these liberated fonts so that other can also just use and adapt my solutions as they see fit... I'll use these common colors, that will also grow and adapt over time... And then I'll use these public domain images... 
+
+These older images, removed from their context, can easily have new meanings and metaphors applied to them... most of the design things I've made for the last 10 years have been an evolution of this idea -- I guess what's next is my turn gin them into instructions and tools for others to use to!
+
+OOKB style kit!?
+
+This vernacular process; its a free cultural production process; and it was really my first entry point into the larger world of F/LOS.
+
+2. For want of a printer: Stallman and the start of Free Software.
+Now, I have also used a lot of open source web tools/frameworks for digital and web projects. This was my other entry into this world. Web site designing/building is a different world than print design. For one, most of one's tools are f/los — there is almost no cost to get up and running from a software perspective. If you are a visual artist/designer you are probably using the adobe creative cloud for most of your software needs. Adobe CC on a new(ish) Mac or windows machine. Adobe has an arrangement with most art/design departments: students get access to Adobe CC while students. This is great, until you graduate and suddenly you have to start paying US$52.99/mo, or your tools for creation just stop working. So what do you do? Well, maybe that's where this Free/Open stuff can come in... 
+
+Richard Stallman was concerned about this in 1982 -- he worked at MIT in the 80s; so in 1982 his lab gets a networked printer from Xerox, it can be printed too from anyone's computer in the office; but it has a bug — it takes forever to print stuff and so Stallman notices that he'll often go to check on his print 45 minutes or an hour later to just find the printer errored out without knowing what was wrong; how many other prints were waiting; etc. he calls up Xerox to get the source code for the printer... at this point, all computer programmers basically just share their code... so Stallman comes up with a fix, and updates the firmware on the printer with his new code addition and the printer is more useful... Xerox a year or two later updates the printer and sends them the new version. The printer has the same problem; so Stallman asks for the source again so he can fix it again... but this time! No! Xerox doesn't share code now, they're trying to sell this stuff, so suddenly their code is closed...
+
+This bothers Stallman so much (and he sees that more and more places will start doing this), and so he quits his job at MIT, vows to never not share his computer code, and sets off on this crusade for making a fully open operating system and set of programs... He calls this "free software" as it doesn't affect the freedom of the users...
+
+In the context of this Adobe question; they have control of these tools, you can't do anything with them — you can't control how the program evolves, you can't change how a program works; you can't use what they've done as a starting point and then head off in a new direction... so even though you are paying them in perpetuity; they could also just stop maintaining things or up keeping things...
+
+We asked you to try GIMP partially to this point -- what else can we find to make stuff with that allows us to no longer be beholden to technologist robber barons?
+
+Why not try Inkscape, blender, scribus, krita, processing, etc...
+
+This is a cool share and share a like ecosystem the same way a more vernacular process works....
+
+Conclusion.
+So why do this? Why free culture? As I said, this is how things used to be created -- why not go back to this? Why not help each other??? 
+
+Cultural production; we can share with each other -- if we accept a more un-self-concious position, we are just making things in a time and space based on what came before us. Why not let our present and future brethren learn from our work!
+
+So, how might we take what's available and give it new meaning through decontextualization? Through juxtaposition? And is this how culture grows? How it evolves?
