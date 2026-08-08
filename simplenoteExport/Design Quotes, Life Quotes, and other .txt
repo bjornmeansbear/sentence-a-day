@@ -1,0 +1,906 @@
+# Design Quotes, Life Quotes, and other things to look into
+
+https://www.washingtonpost.com/technology/2020/10/20/deep-fake-nudes/
+
+generative adversarial networks, or GANs, that has exploded in popularity in recent years for its ability to process mounds of data and generate lifelike videos, images and passages of text.
+
+AI researchers, he said, have long embraced a naive techno-utopian worldview that is hard to justify anymore, by openly publishing unregulated tools without considering how they could be misused in the real world.
+
+"What lies behind us and what lies ahead of us are tiny matters compared to what lies within us." [Ralph Waldo Emerson].
+
+College is your chance to try a bunch of things!?
+
+“Only a spiral galaxy can bring forth new stars perpetually.” 
+- April Greiman
+- https://www.are.na/block/2612881
+- https://www.youtube.com/watch?v=OhgHKxVLsu0
+
+> Foregoing clean lines and Swiss grids, “Does It Make Sense?” is populated with floating low-res video images and bitmapped type. In response to the piece’s titular question, Greiman has been known to paraphrase Wittgenstein: “It makes sense if you give it sense.” The Modernists were shook.
+https://eyeondesign.aiga.org/april-greiman-is-still-ahead-of-the-curve/
+
+Intelligence is the ability to adapt to change. — STEPHEN HAWKING
+
+We are all vulnerable, and you don't have to be ashamed of it.
+
+020200818
+The most thrilling times in design history are the ones of the greatest change, when designers interpreted shifts in science, technology, behavior, and politics for the rest of us
+- Alice Rawsthorn
+
+All you need to know:
+Becoming more confident doesn’t mean eliminating fear from your life, it means learning to live with your fear. Build the right habits and you can learn to speak and act with confidence no matter how you feel.
+- Accept your fear instead of running away from it.
+- Communicate your wants and needs assertively.
+- Make decisions based on values, not feelings.
+- Be compassionate with yourself after mistakes.
+(Nick Wignall)
+
+
+"Designers occupy a dialectical space between the world that is and the world that could be"- Victor Margolin.
+
+The most damaging phrase in the language is “We’ve always done it this way!"
+— Rear Admiral Grace Murray Hopper 
+
+Shirt to get/make: 
+Fuck Cars
+Libre not Gratis
+Free as in Freedom
+There is no Planet B
+
+Flyers to make and distribute:
+There is no Planet B: Request MICA Divest
+We need to make sure the strategic plan of MICA for 2026 includes divesting from fossil fuels, becoming 100% renewable energy sourced; and that any new building or retrofitting focuses on passive house standards and being net zero or carbon sequestering.
+
+The further a society drifts from the truth, the more it will hate those that speak it. - George Orwell
+
+To my mind, this framing of “ambient computing” gives much more urgency to questions of antitrust than do complaints about would-be Google or Facebook competitors, or even Apple app competitors. The truth is those companies’ structural advantages as Aggregators mean they would be likely to continue to dominate no matter the remedy (much as Microsoft did); what should be concerning is the next paradigm. And, to that end, most antitrust advocates, focused on issues like shopping or local or advertising or app competition are closing the proverbial door after the horse has escaped; what is more important are defaults and open APIs, particularly in terms of interacting with devices outside of the app context. And, I would note, Apple is the biggest offender here: you can change your assistant on Android, but not on the iPhone.
+
+I continue to find analogies between the offline world and online world to not simply be insufficient but actively harmful.
+
+The default state of the Internet is the endless propagation and collection of data: you have to do work to not collect data on one hand, or leave a data trail on the other. This is the exact opposite of how things work in the physical world: there data collection is an explicit positive action, and anonymity the default. 
+
+One could certainly make the cynical argument that, in the process of cloaking itself in privacy, Facebook is washing its hands of misinformation. 
+https://stratechery.com/2019/child-sexual-abuse-material-online-the-problem-with-community-towards-more-friction/?utm_campaign=The%20Interface&utm_medium=email&utm_source=Revue%20newsletter
+
+From systems thinking, we learn to see services for their structures and their dynamics.  
+
+the human element in the design is the cause of many failures.
+
+outline the role of people, the role of things, and the role of patterns
+
+designers must face up to their societal responsibility. They have to start with analyzing the context and forget about the romantic idea of creating isolated forms
+
+Speculation as a methodology that accommodates our awareness that things could be different
+Pg 11 speculation now 
+
+The ability to interface with and create media would draw upon skills from both higher order thinking skills including analysis, evaluation, and creation and lower order thinking skills which are remembering, comprehending, and application. 
+
+The critical content of any learning experience is the method or process through which the learning occurs
+— postman/weingartner
+
+How can students help to determine what problems are worth studying or what procedures of inquiry should be used???
+
+What is Sustainability?: Sustainability is the simultaneous pursuit of human health and happiness, environmental quality, and economic well-being for current and future generations
+-- from http://sustainability.psu.edu/climate-action
+
+We are helped by what is not to utilize what is
+—laotze 
+
+unite progressive design with new advances in engineering and materials > how to rephrase w/ a focus on social and environmental justice?
+
+The uses of culture are being shaped by men who would turn all objects and qualities, indeed human sensibility itself, into a flow of transient commodities
+-- C. Wright Mills, 1958
+
+Use design to ask questions. 
+-- Dunne & Raby
+
+Good deisgn take revolutions and progress and makes it into objects that we can use.
+Take innovation and bring it home.
+-- Paola Antonelli
+
+Our task isn’t to wonder about what could have been done differently, but rather to interact and engage with the work in front of us, and therefore to assume that the work is the most compelling work it can be.
+
+I am intrigued by the presumption that all worthwhile artworks are somehow engaged in a process of critiquing the dominant ideological and political formations of our time
+--Leslie Dick
+https://www.x-traonline.org/article/soft-talk-thoughts-on-critique/
+
+Designers, no matter where they work, as citizens of the world first and foremost, and need to do whatever they can to be good citizens.
+-- Jonathan Barnbrook
+
+"I do not think we should be too content, too satisfied, with anything, at anytime, whatsoever." Frank Lloyd Wright, 1957. 
+
+pedagogy: a theory of a way of learning
+
+Praxis: cycle of trying to upack what we know through action, observation, ethnography, practice, pedagogy, etc... ???
+
+low tech your life. can you fly? what is lowtech working? what are lowtech platforms? what is bare bones? what is tailored to this projecT? how can the design be low tech? if something is "sustainable" can recycling be worse sometimes? free/libre open? minimize server requests? call out the fact in the graphics??? reduce the bits via a semantic sign? efficiency in new projects? how does this make money? what the correct balance of friction? can you add a barrier to make things better? 
+
+Ask more ethical questions
+
+how to implement sustainable/ethical ideas in design metaphors -- like when one has a "green thumb" they are good gardeners; what is a good sustainable designer metaphor???
+
+if we produce things we need to know what its up with their production.
+
+concern that as we are image makers; we really contribute to negative parts of consumerist culture?
+
+fuck material culture
+
+what is a maker's responsibility for their objects lives and afterlives????????????????????
+
+why make anything? why change things? how do we buld fundamental knowledge????
+
+Things take longer than you think they will. And then they happen much faster than you thought they could. 
+-- Rudi Dornbush
+
+Move Up/Move Up -- if you participate too much; move up your listening. If you listen to much; move up your listening.
+
+Talk to a person; do not talk about them
+
+Say what you mean; do not say it meanly.
+
+Collaborate in the future with Jenna Frye on a climate related class? would it be good for "epic fail"? how to make work that sequesters carbon?
+
+What are your ideas of success and where did they come from???
+
+How to be slow???
+
+Brian Francois? who is he?
+https://www.osibaltimore.org/fellow/brian-francoise/
+
+Keep people from returning to their priveldge
+
+Designing is about making choices.
+
+The impulse for making art must be dictated by your inner convictions only: what commands you, not what “they” like.
+— Anna Held Audette. Pg102 the blank canvas inviting the muse
+
+Nothing is at the same time both new and perfect
+— Leon battista Alberti, paraphrasing Cicero, 1436
+
+One should photograph objects, not only for what they are, but for what else they are
+— minor white
+
+A manifesto should be a declaration of war against complacency.
+— Steven Heller, Design critic
+
+“It always seems impossible until it’s done.”
+– Nelson Mandela 
+
+Nature looks at greenhouse gases, like atmospheric carbon, as a feedstock, a raw material. It’s what trees, plants, or coral reefs are made from.
+
+Designers should be valued for the ideas embodied in their designs …
+
+Design ethics aren't about professional duties (???) -- the voice of design / the way a design "speaks"
+
+design should express desire, needs, aspirations.
+
+Design Tensions:
+1. To One's Self & One's Colleagues
+2. To The Client
+3. To The Public
+4. To The Environment/World/Universe
+5. To The Art of Design itself
+
+Design should ILLUMINATE problems (not just solve them...) ??? Transcend traditional definition of duty???
+
+intentional solution within a given set of constraints
+
+there aren't edge cases; just people
+
+But there are cases where you are designing something for a regime you disagree with, or to be misused as symbols for things that don't really exist! (freedom, democracy?)
+
+Is Graphic Design a moral issue? Human situations are moral issues -- and Graphic Design/Communication Design helps mediate human situations; so yeah, morality is important.
+
+Practice two things in your designing: either help or do no harm to cultures, societies, and most importantly our planet. (A Hippocratic path for designing???)
+
+Say what you mean; but don’t say it meanly (alanon?)
+
+Saying what you mean is more important than being agreed with 
+
+Use I statements rather than you statements 
+
+realizing that your mind has wandered IS the point of meditation... you bring it back to 0; and if it wanders again; so be it; bring it back to 0... repeat. it isn't about STAYING at 0; its about catching wanderings; bring it back...
+
+solar hot water house
+https://www.youtube.com/watch?v=vFmXsv1LFoo
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+Designers to learn more about:
+Willem Sandberg
+Kurt Schwitters
+Piet Zwart
+Ahn Sang Soo
+
+Artists to find more about:
+Matisse
+Xu Bing
+Sol Lewitt » specifically line/wall drawings
+
+Gregory Bateson _steps toward an ecology of mind_
+
+Poul Henningsen (1894-1967) Danish author, architect, and critic.
+
+Learn more about Aldus Manutius
+
+Socrates and the Logic Machine
+Aristotle and the Domain of Truth
+(re-watch Chimero's Build talk)
+
+Autarkic
+Didactic
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+Critique is just as important to those gathered as it is for the one who’s work is on view. It’s useful for the one providing the critique; it forces you to have a point of view; to frame a point of view; to explain your thoughts and better formulate your own position. In looking at work and formulating your opinion you are refining your tastes... you don’t have to look for problems, look for questions look for wonder look for ideas.
+
+“The consumption of complex art has always required privilege. Understanding “difficult” music, for example, often requires not just a specialized education, disposable income and plenty of leisure time, but also a surplus of intellectual capital. Difficult music takes work to consume.” — Adam Clair / @awaytobuildit﻿
+201903111326
+
+A box of tools is an extension of your hands. A whole room of tools is an extension of your mind.” 
+
+–Jay Baldwin (“JB"), 1933-2018
+201903102027
+
+It is not easy to search for the essential elements of form in an artificial object 
+Enzo Mari
+201809042332
+
+any sufficiently advanced neglect is indistinguishable from malice — deb chachra, reappropriating clarks's third law
+
+Airbnb altogether drives up the price of rent in many neighborhoods.
+https://www.theatlantic.com/business/archive/2018/02/airbnb-hotels-disruption/553556/
+
+I found that in my personal experience, freedom is secured by good government just as it’s threatened by bad government.
+https://www.politico.com/magazine/story/2018/02/16/pete-buttigieg-president-2020-profile-feature-217001
+(201802191121)
+
+“Free” services often come at the cost of our valuable personal information, with little recourse for users who value their privacy.
+https://platform.coop/about
+(201802120012)
+
+the data also showed that one out of five employees reported both high engagement _and_ high burnout.
+https://hbr.org/2018/02/1-in-5-highly-engaged-employees-is-at-risk-of-burnout
+(201802081159)
+
+Your two magic numbers for winter savings / remember these savings-packed settings for your thermostat: 68°F when you’re home; 60°F when you’re away
+— BGE
+(201801262208)
+
+So we should make light of all things and endure them with tolerance: it is more civilized to make fun of life than to bewail it.
+— Seneca, On Tranquility of Mind
+(201801250205)
+
+“People are not disturbed by things, but by the views they take of them.”
+— Epictetus
+(201801161357)
+
+“Paradoxically, our own soldiers created for the fight are what cause us to have symptoms,” said Dr. Schaffner.
+https://www.nytimes.com/2018/01/12/well/live/flu-h3n2-virus-care-remedy.html
+(201801150139)
+
+There are two goals in the experiential learning process. One is to learn the specifics of a particular subject, and the other is to learn about one's own learning process.
+— David Kolb
+(201801150009)
+
+https://creativitytheories.wikispaces.com/file/view/HarpersMagazine-1936-04-0019125.pdf
+
+“In theory, there is no difference between theory and practice. But, in practice, there is.” 
+— Yogi Berra
+(201801081404)
+
+Some people are great at Ivory Tower intellectual stuff, and others just don’t really care. It sucks, because those who are doing could be way better at it if they just knew some theory, and those who love to philosophize all day might be more understandable if they’d just actually do something sometimes.
+— Steve Klabnik
+http://words.steveklabnik.com/theory-and-practice
+(201801081403)
+
+“This society is essentially a consumers’ society where leisure time is used no longer for self-perfection or acquisition of more social status, but for more and more consumption and more and more entertainment…To believe that such a society will become more “cultured” as time goes on and education has done its work, is, I think, a fatal mistake. The point is that a consumers’ society cannot possibly know how to take care of a world and the things which belong exclusively to the space of worldly appearances, because its central attitude toward all objects, the attitude of consumption, spells ruin to everything it touches.”
+— Hannah Arendt, Between Past and Future, 1961
+(201801062216)
+
+The design of the book ... must correspond to the tensions and pressures of content.
+— El Lissitzky
+(201801051300)
+
+ “This time, like all times, is a very good one, if we but know what to do with it.”
+– Ralph Waldo Emerson
+(201801030500)
+
+Established, conventional political parties seem utterly incapable of addressing the gaps in well-being that the far right is so rapidly filling. If an effective response to a party like the Sweden Democrats is possible, it will come from those who dare to think differently—and even strangely—about politics, the future, and the future of politics.
+
+start talking instead about a future in which only about half the population has a job but everyone receives an income, in which technological advances and behavioral adjustments have transformed consumption and revolutionized education, and in which politics is continuously co-created.
+
+there is nothing more difficult than collectively devising a process for collective decision-making.
+
+The Initiative’s most important innovation is launching a party without a program but with two lists. One is a list of six values that the Party espouses: courage, openness, compassion, optimism, co-creation, and actionability. The other is a list of three crises that the Party must address: the crisis of faith in democracy, the environmental crisis, and the crisis of mental health.
+https://www.newyorker.com/news/our-columnists/the-invention-of-a-new-kind-of-political-party-in-sweden
+(201801030040)
+
+“It is not our job as art teachers to assess student artwork. That sounds shocking, I know, but if you reflect on it a moment, you’ll see that this statement is quite obviously true. It is our job as art teachers to assess student learning.” - Olivia Gude (artist and art education faculty member at the School of the Art Institute of Chicago). 
+(201712221323)
+
+An advanced battery startup in California, Envia Systems, a few years ago did some research and found that it took more than a decade, from 1995 to 2007, to double the energy stored in a battery -- and since then it hasn't even risen by 30 percent. 
+https://www.cnet.com/news/apple-slows-down-older-iphone-battery-issues/
+(201712221105)
+
+
+If you don't make changes, and challenge the status quo, no one will ever object to anything you do.
+(201712220110)
+
+“You can’t really make apolitical art.”
+— Brian Eno
+https://pitchfork.com/features/interview/10023-a-conversation-with-brian-eno-about-ambient-music/
+(201712211215)
+
+Closed cyberspaces thrive because they have artificially imposed incentives to thrive.
+https://staltz.com/a-plan-to-rescue-the-web-from-the-internet.html
+(201712191149)
+
+People take an impossibly complicated action and distill it into a manageable action that does a good enough job.
+
+The main difference between grandmasters and players of average strength is the speed of recognizing the central issue in each position.
+
+Google found that SAT scores had no predictive ability on an employee’s future performance, but being well-liked by your coworkers does.
+
+Charlie Munger was once asked why more people haven’t copied Berkshire Hathaway’s strategy. “More investors don’t copy our model because our model is too simple,” he said. “Most people believe you can’t be an expert if it’s too simple.”
+
+Try surrounding yourself with more expectations and fewer forecasts.
+
+using rules of thumb frees up time compared to digging into complex solutions
+
+Rules of thumb give you time to learn, and learning gives you rules of thumb.
+
+Most important is accepting that when you’re dealing with uncertainty and complexity, simple ideas are not dumbed-down ideas. They are often complex solutions gift wrapped for you in a way that makes their application practical and sustainable.
+
+http://www.collaborativefund.com/blog/solving-hard-problems-with-simple-ideas/
+(201712161427)
+
+Power Corrupts.
+Absolute Power Corrupts Absolutely.
+Knowledge is Power.
+WTF.
+(201712150124)
+
+“When philosophy is wielded with arrogance and stubbornly, it is the cause for the ruin of many. Let philosophy scrape off your own faults, rather than be a way to rail against the faults of others.”
+ — Seneca
+(2017-12-04)
+
+“Don’t judge each day by the harvest you reap but by the seeds that you plant.”
+– Robert Louis Stevenson 
+(added 2017-12-01)
+
+‘…graphic design only exists when other subjects exist first. It isn’t an a priori discipline, but a ghost; both a grey area and a meeting point…’
+—Stuart Bailey
+(added 2017-11-28)
+
+Everybody wants something different, of course, and this is just the beginning of a vision of what a city could be. “If every personal car space were converted to a pick-up or drop-off, or every personal car trip were converted to a shared ride, you would need a lot less space overall because you’re not storing cars—you’re dynamically moving people in and out,” says Andrew Salzberg,
+https://www.wired.com/story/city-planning-curbs/
+(added 2017-11-24)
+
+Harvard's computer lab used to have the policy that no program could be installed on the system if its sources were not on public display, and upheld it by actually refusing to install certain programs. I was very much inspired by this.
+— Robert Stallman; the GNU Manifesto
+https://www.gnu.org/gnu/manifesto.html
+(added 2017-11-24)
+
+Any fool can know. The point is to understand.
+– Albert Einstein
+(added 2017-11-22)
+
+Computers, on the other hand, don’t understand design at all. Not in the slightest. To a computer, fonts are a series of .otf files and a string giving them a name. To a computer, colors are a series of hexadecimal, RGB or HSL references. Computers, by default, aren’t even on a level playing field with non-designer humans.
+— Jon Gold
+http://www.jon.gold/2016/05/robot-design-school/
+(added 2017-11-21)
+
+
+“The greatest weapon against stress is our ability to choose one thought over another.”
+— William James
+
+"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration" 
+— Nikola Tesla
+
+If about a sixth of an EV’s route were electrified in this way (induction coils), it would never need to stop for a charge.
+https://www.economist.com/blogs/economist-explains/2017/11/economist-explains-4
+
+sooner or later you have to set that really tiny type at the bottom of the business reply card. This is what Franklin Gothic is for.
+— Michael Beirut
+https://www.fastcodesign.com/90148989/how-pentagrams-michael-bierut-picks-a-typeface
+(added 2017-11-10)
+
+architecture is not an imitative but an inventive art, whose models must be formed in the mind, because there are none in nature.”
+— Joseph Gandy
+(added 2017-11-10)
+
+it was a genuine instance of the technological sublime
+https://www.theatlantic.com/magazine/archive/2017/12/what-happens-if-china-makes-first-contact/544131/
+(added 2017-11-09)
+
+China poured more concrete from 2011 to 2013 than America did during the entire 20th century. The country has already built rail lines in Africa, and it hopes to fire bullet trains into Europe and North America, the latter by way of a tunnel under the Bering Sea.
+https://www.theatlantic.com/magazine/archive/2017/12/what-happens-if-china-makes-first-contact/544131/
+(added 2017-11-09)
+
+there are some strong correspondences between comics and architecture in terms of thinking about the way the entire space operates together.
+— Nick Sousanis
+http://spinweaveandcut.com/grids-gestures/
+http://spinweaveandcut.com/grids-and-gestures/
+http://digitalcommons.unl.edu/sane/vol2/iss1/8/
+(added 2017-11-08)
+
+the Cranbrook poster still seems right up to the mark is in its use of an A-Z structure to express many disparate ideas as briefly and engagingly as possible.
+— Rick Poyner, Love of Lexicons
+http://www.eyemagazine.com/feature/article/love-of-lexicons
+(added 2017-11-07)
+
+Image from page 98 of "Things worth doing and how to do them" (1906)
+https://www.flickr.com/photos/internetarchivebookimages/14767267462/in/photolist-ouW78G-4jyFvE-ow7L4V-i8xCyr-hVn5UX-occat4-egNwrV-oy7W2a-oeSnHV-hPXokC-ouzcty-CT5hcL-hV8Haa-ouEWu2-hXPtEc-occanU-odkBNC-odpgct-outccC-ocbBT1-orEHof-owoSea-osRmM7-ocbwMN-occa9N-ocbC5J-obVQq2-of1bgv-oua66v-oy7Ys2-odGzSm-hPP7ix-aZzSte-osKhtu-od8LCz-otrRHy-outL6o-owhMJG-odbKGS-x5cWJk-owpd8t-odEAvh-odu7wF-7boniR-ovs9C2-ocpowU-oeZyXd-i8juAZ-idt7Vp-i8jV2k
+(added 2017-11-07)
+
+Five Reasons You Might Fail to Become the Best in the World
+1. You run out of time (and quit)
+2. You run out of money (and quit)
+3. You get scared (and quit)
+4. You’re not serious about it (and quit)
+5. You lose interest (and quit)
+— Seth Godin
+(added 2017-11-06)
+
+There is nothing permanent except change.
+—Heraclitus
+(added 2017-11-04)
+
+“To find a form that accommodates the mess, that is the task of the artist now.”
+― Samuel Beckett
+(added 2017-11-03)
+
+what shall I love if not the enigma
+— Giorgio de Chirico
+(added 2017-11-03)
+
+Bryan Stevenson, founder of the Equal Justice Initiative, put it well: “The North won the Civil War, but the South won the narrative war.”
+https://www.vox.com/first-person/2017/10/31/16571238/black-man-deep-south-race
+https://thewitnessbcc.com/bryan-stevenson-talks-confederate-monuments-justice-and-repentance/
+(added 2017-11-01)
+
+But as long as there has been oppression, people have resisted it. Living in the South has turned my attention to the countless women and men whose acts of defiance, both everyday and exceptional, broke down barriers and built new bridges. 
+https://www.vox.com/first-person/2017/10/31/16571238/black-man-deep-south-race
+(added 2017-11-01)
+
+Banning only intentional gerrymandering, they concluded, would likely have little effect on the partisan balance of the U.S. House of Representatives (although it could have a significant effect on individual state legislatures).
+https://www.quantamagazine.org/the-mathematics-behind-gerrymandering-20170404/
+(Added 2017-10-29)
+
+Democratic voters in the early 2000s, they found, were clustering into highly homogeneous neighborhoods in big cities like Miami and spreading out their remaining support in suburbs and small towns that got swallowed up inside Republican-leaning districts. They were packing and cracking themselves.
+https://www.quantamagazine.org/the-mathematics-behind-gerrymandering-20170404/
+(Added 2017-10-29)
+
+Colleagues of mine would certainly report that I "enjoy functional programming", but what I actually enjoy is code that is simple to reason about and produces extremely few bugs. A functional programming style is one tool that often helps me achieve this.
+https://vuejs.org/v2/guide/comparison.html
+(added 2017-10-26)
+
+We acknowledge the existence of varying technical taste, and this comparison primarily aims to outline the reasons why Vue could potentially be a better fit if your preferences happen to coincide with ours.
+https://vuejs.org/v2/guide/comparison.html
+(added 2017-10-26)
+
+Now that the primary computer for so many people is a five-inch rectangle of glass in their pocket, it seems obvious that we need to redefine what a computer means.
+https://www.wired.com/2017/10/review-google-pixelbook/
+(added 2017-10-26)
+
+retired four-star Army general Barry McCaffrey said. “It really makes me sick, to be honest. I’m sure his phone call with the widow was absolutely disastrous. He wings stuff. He doesn’t have any empathy. But I think there’s a larger issue: What are we doing here?”
+https://www.washingtonpost.com/politics/in-sparring-with-a-grieving-widow-trump-follows-his-no-apology-playbook/2017/10/23/5f013276-b805-11e7-a908-a3470754bbb9_story.html?tid=hybrid_experimentrandom_with_top_mostshared_1_na&utm_term=.4883341f8f06
+(added 2017-10-24)
+
+The first clue that memory and imagining the future might go hand in hand came from amnesia patients. When they lost their pasts, it seemed, they lost their futures as well.
+https://www.theatlantic.com/science/archive/2017/10/imagining-the-future-is-just-another-form-of-memory/542832/
+(added 2017-10-21)
+
+“The creative process is about not knowing what you’re doing”
+— Tea Uglow
+https://simpleweb.co.uk/the-creative-process-is-about-not-knowing-what-youre-doing-interview-with-tea-uglow/
+(added 2017-10-19)
+
+Jamie points out that “generally speaking, fringe groups, whether they’re political or radical, tend to be early adopters of interesting technology. 
+https://simpleweb.co.uk/radicals-and-the-secrets-of-silicon-valley-interview-with-jamie-bartlett/
+(added 2017-10-19)
+
+real knowledge is knowing the extent of one’s ignorance
+— Confucius
+(added 2017-10-05)
+
+As Charles Darwin wrote in The Descent of Man (1871): ‘Ignorance more frequently begets confidence than does knowledge.’
+https://aeon.co/ideas/what-know-it-alls-dont-know-or-the-illusion-of-competence
+(added 2017-10-05)
+
+“Always in motion is the future.” 
+– Yoda
+(added 2017-09-21)
+
+The future is already here — it's just not evenly distributed
+— William Gibson
+(added 2017-09-19 // http://www.ryanjacoby.com/2010/04/hey-colin-the-future-of-strategy-is-design-launch-and-learn.html)
+
+Design is Art People Use
+— Ellen Lupton
+(added 2017-09-18)
+
+To fully grasp the concept of time, of course, is to visualize it. Jessica helfand, pg 78 design: the invention of desire. (Added 2017-09-03)
+
+There is only one way to avoid criticism: do nothing, say nothing, and be nothing.
+— Aristotle
+(added 2017-08-25)
+
+“Science knows still practically nothing about the real nature of matter, energy, dimension, or time… But whatever the meaning and purpose of this universe, you are a legitimate part of it.” 
+— Gene Roddenberry
+(added 2017-08-07)
+
+Design is moving from a world where we were concerned primarily with objects with tangible artifacts to one where increasingly we're concerned with systems and less tangible artifacts. As designers we have to develop tools for dealing with these intangibles.
+— Skolos & Wedell (Graphic Design Process, pg14)
+(2017-06-09)
+
+The critical pretense raises difficult questions for the designer. Am I satisfied with design's place in society? How are my educational and professional institutions supporting innovation in design? What can I do independently?
+— Dimitri Siegel
+https://www.typotheque.com/articles/context_in_critique_review_of_emigre_no64_rant
+(2017-06-09)
+
+Unlike art, there is no pristine gallery or gilded frame for graphic design: it is integrated with the social and political context in which it was created. 
+— Dimitri Siegel
+https://www.typotheque.com/articles/context_in_critique_review_of_emigre_no64_rant
+(2017-06-09)
+
+many stylistic choices are arbitrary, and purely a matter of personal preference. Choosing a style guide means building agreements in areas where we have strong differences of opinion about issues of little significance. It's not style that matters, but sameness of style.
+— Sandi Metz
+(2017-05-23)
+
+“In the future, if you want a job, you must be as unlike a machine as possible”
+— George Monbiot
+(2017-05-02)
+
+We need to change the things we can't accept...
+— Jill Casey, from Royal Pains (end of the Pilot) (played by Jill Flint)
+(2017-05-01, rewatching RP to stay up late working on a project...)
+
+As long as money is ok, as long as there isn’t a crisis, then we get to pretend that we do things that aren’t based on money, aren’t constructed out of money, aren’t determined by money.
+— Helena Fitzgerald
+(2017-04-26, from her tiny letter email...)
+
+I largely work on the web to create more access and balance, not create greater divide
+— @MrMrs
+(from a slack channel conversation)
+
+Intelligence is like 4-Wheel Drive. It allows you to get stuck in more remote places.
+— Garrison Keillor
+
+“If I had something to do in this world again, I would not want to be a designer. Because I believe, in the future, it will be less important to have many things and more important to exercise care about where and how we live.”
+— Dieter Rams
+
+“The world was not only made for the rich who live in large apartments and villas...”
+— Enzo Mari
+
+An art form or cultural practice thrives to the degree it is considered poisonous; by contrast, it's ailing when there are MFA programs  in it.
+— Virginia Heffeman, magic and loss: the Internet as art. (pg87-88)
+
+The present is a little unsatisfying because life is a little unsatisfying
+— Gil Pender, Midnight In Paris
+
+“Time is the longest distance between two places.”
+– Tennessee Williams
+
+“For some time past the manufacturers of typewriters have adopted straight quotation marks, for the reason that the same character can be used at the beginning and end of the sentence, thus saving one key.”
+— U. Sherman MacCormack, The Stenographer, 1893
+
+Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated. 
+— Paul Rand
+
+“Minimalism is not a lack of something. It’s simply the perfect amount of something.”
+— Nicholas Burroughs
+
+“Wisdom is knowing what to do next, skill is knowing how to do it, and virtue is doing it.”
+— David Starr
+
+“The point of creating adaptive sites is to create functional (and hopefully optimal) user experiences for a growing number of web-enabled devices and contexts. It’s not because it’s “the right thing to do”. It’s not because it’s fun. It’s not because it’s trendy. It’s not so you can impress your boss by resizing a browser window.”
+— Brad Frost
+http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/
+
+"Digital formats decay at extraordinary speed. Egyptian papyri have endured. On millennial scales, go analogue"
+— Grayson Clary / Laura Welcher
+
+"It might not work, and that's why we're doing it."
+http://www.ryanjacoby.com/2012/02/it-might-not-work.html
+— Ryan Jacoby
+
+I must create a system or be enslaved by another man's; I will not reason and compare: my business is to create.
+- William Blake, "The Marriage of Heaven and Hell"
+
+Matisse would give himself a constraint (the same subject matter, the same color palette) allowing him to focus on variation in technique. Why worry about composition or subject matter if you want to focus on something else altogether?
+— Ryan Jacoby
+
+When people's offhand remarks stick in my head, I wonder what offhand remarks of mine stick in theirs. We might all misperceive each other.
+— David Barringer
+
+“I know only that I don’t know anything.” 
+— Socrates
+
+“I dreamed of being special then awoke to be unique.”
+— Brian Spellman
+
+“Thinking is the hardest work there is, which is probably the reason why so few engage in it.”
+— Henry Ford
+
+He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.
+— Albert Einstein
+
+“The only reason for time is so that everything doesn’t happen at once.”
+– Albert Einstein
+
+If you can’t explain it simply, you don’t understand it well enough.
+— Albert Einstein
+
+The first principle is that you must not fool yourself and you are the easiest person to fool.
+— Richard P. Feynman
+
+The test of a first-rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.
+— F. Scott Fitzgerald, _The Crack-Up_ (1936)
+
+“Buy only what is necessary, not what is convenient. What is unnecessary, even if it only costs one cent, is expensive.”
+— Seneca
+
+“Perfection is achieved, not when there is nothing left to add, but when there is nothing left to remove”
+— Antoine de Saint-Exupery
+
+“Less is More”
+— Robert Browning
+
+“Make everything as simple as possible, but not simpler”
+— Albert Einstein
+
+If you try to make something that nobody hates, no one will love it
+—Tibor Kalman
+
+All great things require great dedication.
+— Chuck Norris
+
+“Who ever said that pleasure wasn’t functional?”
+— CHARLES EAMES
+
+“The moment just past is extinguished forever, save for the things made during it.” 
+— George Kubler
+
+======
+
+Perfection does not exist, but that does not mean we cannot continuously work to obtain it.
+
+Everything you are good at you were once bad at. You had to play, learn, practice.........
+
+======
+
+We are only going to be here for a while, so why don’t we invest everything we do with real meaning? Why don’t we make every communication we put out there a gift? Why don’t we stop waiting for ‘the perfect opportunity’ and make this one as perfect as it can possibly be? Why don’t we stop making excuses for our mediocrity and use our talents and our influence to make this package, this commercial, this poster something special?
+from: http://www.fastcodesign.com/1665148/what-sets-small-firms-apart-from-the-pack-they-think-big
+
+======
+
+A good design, in short, is the best possible visual (and/or dimensional) expression of the essence of “something,” whether that be a message or a product.
+Wucious Wong 
+
+======
+
+As expert sales trainer John Hammond says, “The elevator to the top is always ‘out of order’ – you will have to take the stairs and you will have to take them one at a time.”
+
+
+
+
+≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠
+
+Making is thinking.
+
+“I say that flat is the new black, that 2D is the new avant-garde; that a surface doesn’t have to be ashamed of being a surface”
+— Steven Poole
+
+The problem is well described by Andrei Herasimchuk in his post, The Culture of Fugly:
+“Paul Rand famously wrote: The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring. In the context of web and high-technology product design, this observation from Mr. Rand takes on special import.” - Andrei Herasimchuk
+- 
+Interaction Design is about observing and designing for the relationship between people over time
+
+Be Meaningful. Be Trustworthy. Be Well Designed.
+- Kyle Sollenberger
+
+“Don't make something unless it is both necessary and useful. But if it is, don't hesitate to make it beautiful.”
+– Shaker Adage
+
+I see God in the instruments and mechanisms that work reliably
+—buckminster fuller.
+
+LOCKSS
+Lots of Copies Keeps Stuff Safe
+
+Good design isn't about making decisions for users; it is about making decisions irrelevant...
+
+======
+
+Aristotle's Definition of Design
+(via Frank Chimero's Build video)
+Using good deliberation, understanding, resulting in deliberate desire to be carried out with cleverness.
+Technical know-how, skill, craft, art.
+Involved in production, manufacturing, and making.
+(this happens in the space where "things can be other than what they are")
+
+Merging two incongruent ideas IS creativity.
+(or, creativity is about embracing paradox).
+— Frank Chimero
+
+Aristotle:
+"Domain of Truth" — the logic machine, whether things cannot be other than they are...
+
+People are illogical...
+The 2nd machine — where things CAN be other than they are... (paradox)
+“The technical knowhow, skill, craft, or art involved in production, manufacturing and making...
+using good deliberation and understanding, resulting in deliberate desire to be carries out with cleverness..."
+
+======
+
+Understanding the constraints of production allows you to stretch them.
+A designer that cares about their craft must respect and understand their tools.
+
+George Bernard Shaw said it best when upon sending a letter to a close friend, he wrote, “I’m sorry this letter is so long, I didn’t have time to make it shorter.”
+
+Progress, not perfection.
+
+At a profit if we can, at a loss if we must, but always fine bourbon ... Just replace bourbon with design ...
+
+======
+
+Look into further:
+Reyner Banham
+Frank Harmon
+
+======
+
+Aristotle was really a scifi thinker ... We're nearing the point where raw matter really can be manipulated into any form, thus realizing his thinking around expanding plato's forms...
+
+Many people make the mistake of confusing information with knowledge. They are not the same thing. Knowledge involves the interpretation of information. Knowledge involves listening.
+
+Henning Mankell
+http://www.nytimes.com/2011/12/11/opinion/sunday/in-africa-the-art-of-listening.html?src=me&ref=general
+
+Abeunt studia in mores: “practices zealously pursued become habits.”
+
+Autarky is the quality of being self-sufficient
+
+A lot of people don't have joy in their lives...
+a Little joy can mean a lot.
+
+The Opposite of a true statement is a false statement.
+The Opposite of a Profound Truth may be another Profound Truth.
+— Niels Bohr
+
+It is Not Enough to Conquer.
+One must also know how to Seduce
+—Voltaire
+(if you seduce, then you may not need to conquer)
+
+Only those who act win the reward in life; and the reward in life is true happiness.
+Aristotle...
+
+======
+
+Gestalt
+Waste
+Patterns
+Birth of Tragedy (Nietzsche)
+Reconnect with who we really are
+Plato's perfect notion
+Being and Nothingness (Sartes)
+The Divided Self
+Group Dynamics
+Confusion with Maslow's hierarchy of needs
+
+======
+
+Oligarchy
+
+======
+
+Patterns
+Constraints
+Toolkits
+
+======
+
+That's not Styrofoam, it's polystyrene
+
+======
+
+Luxury is a function of scarcity
+
+In GOOD we trust
+
+Simplicity is the ultimate sophistication
+-Leonardo da Vinci
+
+"A developed country is not a place where the poor have cars. It's where the rich use public transportation." @petrogustavo Mayor of Bogota
+
+“To achieve great things, two things are needed; a plan, and not quite enough time.”
+- Leonard Bernstein
+
+Beware of Artists.
+They mix with all classes of society and are therefore the most dangerous
+
+quality is not an option -- expect it
+
+======
+
+It does not matter how slow you go so long as you do not stop.
+- Wisdom of Confucius
+
+Tomorrow today will be yesterday.
+
+More Data = More Conflicting Information
+(Information Anxiety)
+- Frank Chimero Build Talk...
+
+Attention is the most scarce resource.
+
+======
+
+Suggested reading
+Stuart Bailey, “(Only an attitude of orientation)”
+Stuart Bailey, “Towards a critical faculty”
+Thierry de Duve, “Putting transmission in its proper place in the art world”
+Rob Giampietro, “School days”
+Rob Roy Kelly, “The early years of graphic design at Yale University”
+Mark McGurl, “The Program Era”
+Gunnar Swanson, “Graphic design as a liberal art”
+Anton Vidokle, “Exhibition as school in a divided city”
+Lorraine Wild, “Castles made of sand”
+
+======
+
+When we design for humans, we know we need to be forgiving. We know that when they need help, we can’t talk down to them. We know they deserve respect, understanding, and compassion.
+
+Perhaps most of all, we know that when they fail, it’s our job to get better.
+
+context is crucial and none of us exist in a vacuum
+
+“Design is devising courses of action aimed at changing current situations into preferred ones”
+— Herbert Simon
+
+There's something to be said for sitting still and letting things come clear, the way morning fog burns off the lake.
+— George Witte
+
+Great rant by Armin Vit.
+http://www.underconsideration.com/brandnew/archives/follow-up_university_of_california.php
+
+Great Essay by Michael Beirut
+http://designobserver.com/observatory/feature/graphic-design-criticism-as-a-spectator-sport/37607/
+
+different religions are like the tracks of a train, leading to the same place but never meeting
+
+Form makes a claim and designers are responsible for the claims their work makes.
+Gunnar Swanson
+
+Time and attention are the most valuable currencies of our information age
+Gunnar Swanson
+
+(both from http://www.gunnarswanson.com/old/writingPages/EmigreLetter.html)
+
+A design may be called organic when there is an harmonious organization of the parts within the whole, according to structure, material, and purpose.
+- Eliot Noyes
+
+Ordinarily, grain is oriented along the length of the board. But what happens when the woodworker wants to exhibit a curved grain?
+- Wendell Castle
+
+Treat graphic design like hooking up at a bar; you don't want to be disgusted at what you did when you see it the next morning.
+— Angry Paul Rand
+
+Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated.
+— Angry Paul Rand
+
+(actually: “Design is the method of putting form and content together. Design, just as art, has multiple definitions, there is no single definition. Design can be art. Design can be aesthetics. Design is so simple, that’s why it is so complicated (Maeda, 1997).”)
+
+Human-centered design and goal-directed design are as much about setting aside the wrong goals as they are about pursuing the right ones.
+http://blog.fuzzymath.com/2014/08/29/fuzzy-math-focus-james-laslavic-ux-intern-14/
+
+In his book, By Design: Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons, Ralph Caplan advises us not to underestimate the power of situation design, or “the concept of moving from the design of things to the design of the circumstance in which things are used.”
+
+The mountains and rivers do it best — they know that the boundaries don't matter
+
+space is unaffected by the objects filling it — objects need space to exist, but space does not need objects. 
+
+Protest = speaking the truth in publicTackling the Manufacturing Industry’s 
+ Skills Dilemma

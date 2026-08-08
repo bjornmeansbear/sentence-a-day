@@ -1,0 +1,5 @@
+# Libre Graphics
+
+Tired of giving over all your money, attention, and energy to our Neo-liberal capitalist oligarchs? While to get paid you still might have to design for them; you do not have to use the software and computers made by them! Come on a tour of wild world of Free/Libre and Open Source Software available for Graphic Designing. (Inkscape, ImageMagick, Nodebox, etc.). There will be time for Q&A at the end.
+
+Requirements: A Chromium (like Chrome) based browser; access to Jitsi.org; the desire to liberate culture.

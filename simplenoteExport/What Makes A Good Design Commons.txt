@@ -1,0 +1,17 @@
+What Makes A Good Design Commons?
+
+ A "NEW DESIGN COMMONS"
+
+Copyright is still useful and important — we should want to attribute ideas and show where things have come from
+However, we still need to be able to be free to build and remix on each other's work.
+
+Creative Commons is still, at least in the context of most non-text cultural production, a way to do this — please pick a share-alike license :)
+
+But if we look at what a "commons" is for a moment...
+
+Then how does academia fit into this? How do non-proprietary tools and file formats fit into this?
+
+All cultural production USED to come from and contribute back to the commons.
+
+The start of Free/Libre software was Richard Stallman trying to figure out how to reconcile where software development was going with where it had come from — an open, commons of code that everyone shared and built upon becoming enclosed.
+
