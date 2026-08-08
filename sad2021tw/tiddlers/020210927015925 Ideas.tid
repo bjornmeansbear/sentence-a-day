@@ -1,9 +1,9 @@
 city: Baltimore
 created: 20210930055925034
-currentco2ppm:
-location:
-modified: 20210930055945238
-prompt:
+currentco2ppm: 
+location: 
+modified: 20260808061049800
+prompt: 
 state: Maryland
 tags: EssayADay
 title: 020210927015925 Ideas
@@ -11,10 +11,10 @@ type: text/vnd.tiddlywiki
 
 Interface for starting new design projects?
 
-* - do you just want a space to put down ideas?
-* - are you writing or drawing or both?
-* - is this a book?
-* - do you know how many pages it will be yet?
-* - have you already picked out body copy?
-* - Is there a font you already know you are going to use?
+* do you just want a space to put down ideas?
+* are you writing or drawing or both?
+* is this a book?
+* do you know how many pages it will be yet?
+* have you already picked out body copy?
+* Is there a font you already know you are going to use?
 

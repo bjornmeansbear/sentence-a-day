@@ -1,0 +1,31 @@
+[GD2] GD2 stuff...
+
+http://htwins.net/scale2/
+http://distancetomars.com/
+
+https://onepagelove.com/
+https://onepagelove.com/gallery/experimental
+
+http://www.ookb.co/gd2/striped/
+https://github.com/bjornmeansbear/stripes
+
+http://a11yproject.com/patterns/
+
+https://github.com/davatron5000/Foldy960
+
+Readings:
+http://trentwalton.com/2014/03/10/device-agnostic/
+http://daverupert.com/2013/04/responsive-deliverables/
+http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
+http://rauchg.com/2015/pure-ui/
+
+Other good design videos:
+Election Maps are Bad...
+https://www.youtube.com/watch?v=hlQE4IGFc5A
+
+http://www.cs.tut.fi/~jkorpela/wiio.html
+
+
+
+
+http://johnm.io/blog/im-kind-of-sorry/

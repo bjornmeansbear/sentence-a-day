@@ -1,0 +1,93 @@
+[GD3] Day 2
+
+Wed, 09/07/2011
+Lecture Topic: 
+Plato + Aristotle's descriptions of motion
+Stop Motion Basics
+
+Assignment: 
+Stop Motion Animation about Plato + Aristotle's views
+ •  do something about plato/aristotle that we talked about, but make it simple... just bring in your images — you need at least 75 frames
+ •  we'll go over putting them all together in class next week
+
+Read Time + Motion section of GD Basics
+
+In Class:
+1. showup.
+2. Attendance
+3. introductions + friendly chat
+4.  Look at the reverse story boards
+     •  talk further about story boarding
+     •  use that as a way to get into stop motion...
+5. lecture: Plato/Aristole
+6. Stop Motion Stuff!!!
+7. Demo: In-class stop motion basics
+8. Discuss Assignments for Next week
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+PLATO + ARISTOTLE
+- there was nothing that even barely resembled modern science in their day, philosophy was to them "science"
+- to understand plato + aristotle we must understand their writings and thoughts as them trying to scientifically describe the real world … plato was more caught up with ethics and politics, aristotle really impacted science the most...
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Plato's thoughts on motion:
+- interested in organizing a critique of pure reason as the instrument for obtaining scientific knowledge
+    * these are thought experiements, and logical arguments, not actual scientific study, which is why he and artistotle ended up being so wrong about so many physical realities.
+
+- Every object has two constitutional aspects: 
+    1. its matter
+        * matter is the "stuff" that something is comprised of
+    2. its form
+        * form is the integral meaning of the object, the sort of -ness of the object or thing, the universal guidelines for somethings being
+
+- Motion itself cannot be perceived, only bodies in motion 
+
+- Hypothesis:
+    plato is the first to really use this, basically a primordial judgement accepted as true — often called "prior knowledge" — though no logical proog can be adduced. 
+    
+From one idea a great company of cognate ideas may then be developed
+    - using antitheticals mostly:
+        1. same / different
+        2. like / unlike
+        3. motion / rest (physics)
+        4. equal / unequal (math)
+        
+        
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Aristotle's Thoughts on Motion:
+(Almost everyone respects his name, but almost no one reads what he wrote)
+
+rejected plato's forms, though he just came up with his own version of the same idea (for example, oxygen can have oxygen-ness, but it can also bond with hydrogen, and then get "water-ness" instead [although one could then argue that part of "oxygen-ness" is to be able to bond with hydrogen and form water, or carbon to form carbon dioxide, but whatever])
+
+    -> better example … Marble -> statue. Neither "marble-ness" nor "statue-ness" can explain how a person can carve the marble into the statue, the activity of the sculptor does this, and this isn't a "form" you can name.
+
+To know the causes of a change, one must recognize the matter as a cause in the sense that it underlies the whole change and actually receives the new form...
+
+physics to aristotle was the philosophy of nature
+    - physics to him was the science of natures and of natural changes — astronomy, physics, chemisty, biology + pschology
+    
+Of things that exist, some exist by nature, and some exist by other causes.
+Things that exist by nature has within itself a principle of motion and of stationariness
+Things from other causes have no innate impulse to change [ though their materials might ]
+Nature is a source or cause of being moved/being at rest
+natural things have within them the controls for the process of their creation
+
+Natural causes, and then there are chance and spontaneity
+Nature belongs to the class of causes which act for the sake of something.
+
+The Four Causes:
+1. Material Cause: that out of which something is made
+2. Efficient Cause: that by which something is made
+3. Formal Cause: that into which something is made
+4. Final Cause: that for the sake of which something is made.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Sidenote: The idea of motion graphics as an understandable, yet unexplainable thing, can be partly explained by Plato's and Aristotle's different "-ness" ideals.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+

@@ -1,0 +1,48 @@
+[GD3] Cause and Effect / Interactivity project
+
+
+Are books interactive?
+
+What about video games?
+    
+What About Websites?
+    
+====
+
+Newton's laws again:
+For every action there is an equal and opposite reaction.
+
+    - while these describe the physics of natural motion, this one in particular is well applied to the idea of cause/effect + interactivity.
+    
+====
+
+What does cause and effect really even mean?
+
+====
+
+Interactive Graphic Design is GD that involves users/viewers in ways that traditional GD doesn't.
+
+This starts getting difficult to describe because to a certain extent all GD is interactive... people must look at something, they must turn pages, etc. This is just passover interactivity. So is, at its basic level, clicking around on a website. 
+
+tennis and conversing with another person are both examples of interactivity, but they aren't the things we are referring to when we talk about interaction design, etc. What we mean then is that an interface of somekind is involved. The interaction is between the person and the interface.
+
+====
+
+What's on the other side of a black hole?
+I don't know, but I hope they still have nice typesetting.
+And maybe Helvetica.
+
+====
+
+user centered design
+design based on the interests and needs of the user.
+    - make it easy to determine what actions are possible at any moment (make use of constraints)
+    - make things visible, including the conceptual model of the system, the alternative actions, and the results of actions
+    - make it easy to evaluate the current state of the system
+    - follow natural mappings between intentions and the required actions; between actions and the resulting effect; and between the information that is visible and the interpretation of the system state.
+
+make sure that (1) the user can figure out what to do, and (2)  the user can tell what is going on.
+
+======
+
+sidenote: add vorticists to the Motion Graphics class array of art history references...
