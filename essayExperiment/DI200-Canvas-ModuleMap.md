@@ -6,11 +6,13 @@ Working plan for turning the Fall 2026 syllabus into Canvas modules/assignments 
 
 **Grade completion/consistency during process weeks, not photo or prototype quality.** Grading polish during the research/ideation/prototyping stretch would undercut the sacrificial-prototype and strong-link logic already built into the course — bad-fast beats good-slow there, and a rough cardboard mockup that taught the student something is a *better* submission than a polished one that didn't. The overriding goal is to get students to unselfconsciously try everything and stay in the process, not to protect a grade by playing it safe.
 
-This maps onto the strong-link/weak-link split already in the course planning:
-- **Wk1–13 (divergent: research, ideation, prototyping) = strong-link.** You don't need every weekly submission to be good, you need the student to keep showing up and iterating.
-- **Wk14–16 (convergent: the final pitch) = weak-link.** Here quality matters — one broken piece (can't explain the process, no evidence, missing a step) drags down the whole presentation the way a bad transmission ruins a good engine.
+This maps onto the strong-link/weak-link split — but it's three phases, not two, and research is the one that's easy to misclassify:
 
-Naming this split for students explicitly (it's already in the Wk6 framing via Mastroianni) helps the grading scheme make sense to them too: rough and frequent now, tight and evidenced at the end.
+- **Wk2–3 (research & fieldwork, coding) = weak-link.** This is the phase that's easy to get wrong by lumping it in with "process, so anything goes." It isn't. A biased interview sample, leading questions, or coding-by-opinion-instead-of-evidence doesn't cost you almost nothing the way a bad prototype does — it corrupts everything built on top of it: synthesis, HMWs, ideation, the final pitch all inherit whatever bias or sloppiness went into the research. Every part of this phase has to hold, which is exactly why Wk2 and Wk3 get their own objective method-checklists below instead of the universal completion check — the rigor isn't there to make grading easier (though it does), it's there because research is genuinely the phase where bias has to be kept out.
+- **Wk4–13 (ideation, sacrificial prototyping, fidelity iteration) = strong-link.** Once the research foundation is in place, this is where quantity wins. You don't need every HMW or every prototype to be good — you need *one* good one, and the weak attempts cost almost nothing. This is the phase where "just try things and see what fails fast" is the actual correct strategy, not a lack of rigor.
+- **Wk14–16 (the final pitch) = weak-link again.** Quality matters here — one broken piece (can't explain the process, no evidence, missing a step) drags down the whole presentation the way a bad transmission ruins a good engine.
+
+Naming this three-phase shape for students explicitly (the strong-link middle is already in the Wk6 framing via Mastroianni) helps the grading scheme make sense to them too: rigorous at the start, rough and frequent in the middle, tight and evidenced at the end — not "loose the whole time except the final."
 
 ## Grading Scale
 
@@ -19,11 +21,16 @@ Naming this split for students explicitly (it's already in the Wk6 framing via M
 **Universal component checklist** (applies to every weekly submission unless a named exception below overrides it):
 - [ ] Photo/screenshot attached? (presence only — never judged on how good it looks)
 - [ ] All 3 reflection prompts each answered with at least one written sentence? (presence/completeness only — not judged on whether the sentence is insightful)
+- [ ] Reading → Change field present, on weeks with an assigned reading? (names a specific reading + a specific change made — see "Reading → Change" section below)
 - [ ] Posted before the next class session (on time)?
 
 Each unchecked box = a specific, nameable reason for losing that point. Nothing else affects the grade.
 
-**Named exceptions** — a couple of weeks have their own literal, checkable rules instead of the universal list, because the syllabus already spells out what "did the method correctly" looks like:
+**Named exceptions** — the weak-link weeks (Wk2, Wk3) get their own literal, checkable rules instead of the universal list, because research rigor is the actual point, not just a grading convenience. Wk5 also gets one, because the syllabus already spells out what "did the method correctly" looks like there:
+- **Wk2 (Site Visit & Interview Planning).** Check mechanically:
+  - [ ] At least 3 interview questions documented?
+  - [ ] No question contains future-hypothetical phrasing ("would you," "could you see yourself," "do you think you'd") — the syllabus's own Mom Test principle (ask about specific past behavior, not predicted future behavior), made checkable with a banned-phrase list.
+  - [ ] At least one site-visit photo or observation note attached, separate from the interview questions?
 - **Wk5 (How Might We).** For each of the 3 HMWs submitted, check mechanically:
   - [ ] Literally starts with the words "How might we"?
   - [ ] Ends in a question mark (open-ended, not a statement)?
@@ -54,6 +61,38 @@ Total /20, or convert to whatever point scale the course syllabus uses overall.
 
 Share this rubric with students *before* Wk14 (it's literally the structure already taught that week — HMW → why it mattered → solution → ripple effects → evidence — so the rubric should feel like an echo of the lecture, not a surprise).
 
+## Course Learning Outcomes → Evidence Map
+
+Built so the rubrics above are actually traceable back to the official CLOs, not just internally consistent with each other. For each CLO: where it's demonstrated, which rubric criterion checks it, and — since only two weeks involve physical presence at the Hilton (Wk2 and Wk12, per the "On-Site vs. Off-Site" section) — whether Rodney and Hilton staff ever actually *see* that outcome happening.
+
+| CLO | Where it's demonstrated | Rubric criterion | Visible to Hilton on-site? |
+|---|---|---|---|
+| Bias-toward-action prototyping & visualization | Wk4 (Sacrificial Prototype) → Wk7, 9–13 (Iterations 1–4, Final) | Artifact-presence check each week; Wk16 rubric "Process & evidence shown" | **Yes, if physical prototypes are brought to the Wk12 return visit** — otherwise no |
+| Effective brainstorming | Wk5 (HMWs), Wk6 (Ideation) | Wk5 HMW checklist; Wk6 completion check | No — happens entirely off-site |
+| Iterative design process | Wk7, 9, 10, 11, 13 (numbered Iteration 1 → Final) | The iteration count itself; Wk16 "Process & evidence shown" | Partially — only whichever iteration is physically brought to Wk12 |
+| Ethnographic research methods | Wk2 (site visit + interviews), Wk3 (coding) | Wk2 interview checklist; Wk3 coding checklist | **Yes — this is the core Wk2 on-site activity** |
+| Synthesize research into actionable design prompts | Wk3 (coding) → Wk5 (HMWs), reinforced weekly by the Reading → Change component (below) | Coding checklist → HMW checklist, read together; presence of a named reading-to-practice link each week | No — synthesis itself happens off-site between visits |
+| Execute team-based design decisions | **Gap — nothing currently checks this**, even though Wk1–6 is explicitly team-based work | None yet | No |
+| Testing & feedback loops | Wk11 (designer feedback), Wk12 (return-to-site feedback), Wk13 (integrate) | Wk12 feedback-reflection check | **Yes — this is the core Wk12 on-site activity** |
+
+**The gap:** CLO 6 (team-based design decisions) has no dedicated evidence anywhere in the current assignment structure. Fix: add one objective check to the Wk6 Ideation submission — "names one specific decision the team disagreed on and how it was resolved" (present/absent, same pattern as everything else). That's the first time this CLO becomes visible at all, to a grader or to Hilton.
+
+**The pattern worth naming to Rodney directly:** only 2 of 7 CLOs get demonstrated physically at the Hilton (ethnographic methods at Wk2, testing/feedback at Wk12) — everything else happens in the studio between visits. If you want Hilton staff to actually witness more of what the course teaches, not just research and testing, the lever is what students *bring* to the Wk12 visit: physical prototype artifacts (not just a feedback conversation) make the bias-toward-action and iterative-process outcomes visible on-site too, for free, without adding a third visit.
+
+## Reading → Change (the praxis mechanism)
+
+This course is explicitly about praxis: theory and action in a continuous loop, each transforming the other, not theory-then-application as two separate steps (Freire's formulation — "reflection and action upon the world in order to transform it"). Action without reflection is just activity; reflection without action is just talk. A reading response that summarizes a text without touching the actual project is the second failure mode, so this course doesn't assign standalone reading-response papers.
+
+Instead, every week with an assigned reading, the existing Discussion submission (see Documentation Template below) gets one additional required field:
+
+**"Reading → Change."** Name one assigned reading from this week. State one specific thing you changed in your actual project because of it.
+
+Two checkable components, same pattern as everything else in this doc:
+- [ ] Names a specific reading/author (not "the readings" generically)?
+- [ ] States one specific, concrete change made to the work (not "it made me think differently")?
+
+This is graded as present/absent, never on whether the connection is a *good* one — the point is forcing the reading to touch the work the same week, as fast as possible, not producing insightful literary analysis. It also directly strengthens the "synthesize research into actionable design prompts" CLO above, since a reading that visibly changed a coded theme or an HMW is stronger evidence of synthesis than the coding/HMW work alone.
+
 ## Assignment Groups (Gradebook categories)
 
 Grade by skill area, not by week, so the gradebook reflects the six core skills rather than 16 flat rows:
@@ -69,10 +108,11 @@ Grade by skill area, not by week, so the gradebook reflects the six core skills 
 
 ## Documentation Template (reused every prototyping week)
 
-Same two fields every time — a habit, not a new assignment format to learn each week:
+Same fields every time — a habit, not a new assignment format to learn each week:
 
 1. **Photo(s) or screenshot(s)** of the artifact — cardboard/foam prototype, a Miro/FigJam board, a journey map on the wall, whatever the medium was that week.
 2. **Short reflection, 3 prompts** (same standing questions already in the Wk9–13 plan): *What did you build/test? What did it teach you? What's still unanswered?*
+3. **Reading → Change** (weeks with an assigned reading only): name one assigned reading; state one specific change you made to your work because of it.
 
 Use **Discussions**, not private Assignments, for Wk1–13 — this course's pedagogy already runs on shared notes and weekly crits, so peer visibility is a feature, not a side effect. Switch to private **Assignments** for Wk14–16, where the work is a personal final deliverable and self-reflection, not crit fodder.
 
@@ -87,7 +127,7 @@ No ePortfolio needed. Canvas already stores every submission permanently on the 
 | Wk | Module | Deliverable (from syllabus homework) | Format | Group | Grading |
 |---|---|---|---|---|---|
 | 1 | Design Thinking: Pros, Cons, Other Frames | "Arrival, in miniature" reflection + read Blauvelt/Kolko before Wk2 | Discussion | Design Think / Critique | Complete/Incomplete |
-| 2 | Site Visit & Interview Planning | Conduct/record interviews; upload site-visit photos | Discussion | Research & Fieldwork | Complete/Incomplete + reflection check |
+| 2 | Site Visit & Interview Planning | Conduct/record interviews; upload site-visit photos | Discussion | Research & Fieldwork | Complete/Incomplete + **interview checklist** |
 | 3 | Coding, Interviews & Observations | Close research gaps; updated codes/visuals + reflection | Discussion | Research & Fieldwork | Complete/Incomplete + **coding checklist** |
 | 4 | Sacrificial Prototype | Draft iterations of insights | Discussion | Synthesis | Complete/Incomplete |
 | 5 | Systems Thinking & How Might We | Three HMWs for Wk6 | Discussion | Synthesis | Complete/Incomplete + **HMW checklist** |
