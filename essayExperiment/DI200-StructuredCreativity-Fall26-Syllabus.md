@@ -53,6 +53,8 @@ The CLOs list outcomes; this is the same thing restated as six teachable verbs, 
 
 This semester's fieldwork is grounded in a partnership with the [Hilton Baltimore Inner Harbor](https://www.hilton.com/en/hotels/bwicchh-hilton-baltimore/) (401 West Pratt Street, Baltimore, Maryland, 21201). Students conduct on-site fieldwork — observation, semi-structured interviews with staff and guests — across the property, then move through synthesis, ideation, and prototyping toward a design intervention grounded in that research. Real stakeholders (staff, management, guests, community partners) are the audience for interim and final feedback where access allows.
 
+**The assignment, in one breath:** You've been hired by the City of Baltimore to reimagine some aspect of the Hilton Baltimore Inner Harbor — a hotel the city itself built, owns, and has subsidized by more than $140 million since it opened in 2008 to prop up the convention center next door. Your design team has to research the constituents who actually use the site — front-desk and housekeeping staff, conventioneers, leisure guests, the surrounding neighborhood, the taxpayers footing the bill whether they ever walk in or not — to decipher the interventions most worth making. The eight briefs below are entry points into that same assignment, not eight separate projects.
+
 **Example project briefs** (all sited within the Hilton property):
 - **Arrival & front desk.** The first five minutes of a stay set the tone for everything after. How might a design intervention change how guests experience arrival, check-in, or the transition from street to lobby?
 - **Meeting & convention spaces.** Business travelers move through the property differently than leisure guests — different pace, different needs, different stress points. How might a design intervention improve that experience for organizers, attendees, or staff supporting an event?
@@ -61,6 +63,7 @@ This semester's fieldwork is grounded in a partnership with the [Hilton Baltimor
 - **Wayfinding across a large, complex property.** Convention hotels are effectively small cities — ballrooms, towers, skybridges, parking. How might a design intervention help people (guests, first-time visitors, staff) navigate it?
 - **Sustainability & resource systems.** Linen and towel reuse programs, food waste, energy use, single-use amenities. How might a design intervention make an existing sustainability effort more visible, more effective, or more participatory?
 - **Civic asset & public accountability.** The Hilton Baltimore Inner Harbor is city-owned — Baltimore borrowed $301M to build it in 2005, and taxpayers have covered over $140M in operating losses since it opened in 2008, including a first-ever hotel worker strike in 2024 that preceded a new labor contract. How might a design intervention make that civic relationship — city, taxpayers, guests, workers — more visible, more legible, or more accountable to the public actually funding it?
+- **Community partnership & connection.** Rodney specifically named this as a priority for the site partnership — how does the Hilton better connect with the surrounding neighborhood and community partners, not just its guests? This could include underused spaces the Hilton has already flagged as opportunities (the green roof, the outdoor restaurant space, streetscape engagement) as vectors for that connection, rather than treating them as separate asks. Especially suited to graduate students looking for a more complex engagement track.
 
 What makes a good brief: a lot of different kinds of people to interview, many different problems or opportunities with many different goals. The point of the research is to find an emergent solution, not to arrive with one. The focus stays on how a design choice ripples through the larger system (staff labor, guest experience, resource use) rather than on an isolated artifact.
 
@@ -153,7 +156,13 @@ Come back to this sentence at the start of each new phase of the semester: "we'r
 
 - Syllabus, basic intro, professor brings a brief to go over
 - Ethnography introduction
-- In-class: brief Observe → Insight → Prototype exercise
+- **In-class exercise — "Arrival, in miniature" (25–30 min):** stays entirely in Dolphin, no site visit needed yet.
+  1. *Recall (5–8 min).* Individually, jot down: what did you notice or feel walking into Dolphin today? Where did you hesitate, get confused, or have to guess? What wasn't clear until someone told you?
+  2. *Insight (5 min).* Pairs compare notes, find one specific, shared pattern, turn it into a sentence: "People hesitate at X because Y."
+  3. *Prototype (10 min).* Paper, tape, marker — a fast, ugly fix. Could be literal (a sign, a floor arrow) or not.
+  4. *Share (5 min).* Quick pin-up, one sentence each.
+
+  Since it's Day 1, every student just had a real, unstaged arrival experience — no need to travel to the Hilton or stage foot traffic to get authentic material. This directly rehearses the "Arrival & front desk" project brief they'll tackle for real at the Hilton in Wk2+. It also quietly seeds two things that get named explicitly later: that research here is a team sport (no one person can hold the whole picture — comparing notes in pairs is required, not optional), and that a researcher is sometimes the observer and sometimes the observed/subject, which becomes a real question again at the Wk2 ethics briefing. Don't name "sacrificial prototype" or "strong-link" yet — those terms arrive formally in Wk4 and Wk6; let Day 1 just model the practice, then call back to it when the vocabulary shows up.
 
 **Part 1 — Where it came from (the pro case, briefly)**
 - 15-minute lecture: brief history of the Design Methods movement (1960s–70s) through Herbert Simon's foundational framing of design as a discipline, to the 2000s rise of the design consultancy (IDEO, Stanford d.school) that packaged "Design Thinking" into a named, sellable process
@@ -339,7 +348,7 @@ One cover page/poster; keep to 10 minutes or under; help students see what needs
 
 Not a dedicated unit — there isn't room in sixteen weeks for a full sustainability module — but worth touching deliberately at the points where it's already almost present, rather than leaving it as an accident.
 
-- **Already built in as a project brief.** "Sustainability & resource systems" (linen/towel reuse, food waste, energy, single-use amenities) is already one of the seven example briefs above — some teams may pick it directly.
+- **Already built in as a project brief.** "Sustainability & resource systems" (linen/towel reuse, food waste, energy, single-use amenities) is already one of the eight example briefs above — some teams may pick it directly.
 - **Materials circularity in prototyping (Wk4, 7, 9).** Cardboard and balsa wood are already the default prototyping materials for reasons of speed and cost — worth one explicit line noting that's also a circularity choice, not just a cheap one: reclaimed cardboard has minimal embodied energy and is genuinely recyclable or compostable at end of life, unlike foam board or 3D-printed plastic. A "sacrificial" prototype that gets thrown away matters more, and costs less to throw away, when the material itself is low-impact.
 - **Already half-built into the standing questions.** Wk9–13's repeated prompt list already includes "what are the sustainability questions? materials? energy?" — the gap wasn't the content, it was naming it as a deliberate thread instead of a stray bullet buried in a longer list.
 - **Further-reading pointers, not assigned:** SUX (Sustainable UX Network), Design Council's "Skills for Planet," and a piece on "Zoöp Futures" (organizational cooperation between humans and more-than-humans) — all already surfaced from the Are.na channel. Good to have on hand if a student's project heads this direction on its own; no need to build a lecture around them unless one does.

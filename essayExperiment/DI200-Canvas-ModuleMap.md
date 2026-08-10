@@ -1,16 +1,58 @@
 # DI 200 — Canvas Module & Assignment Map
 
-Working plan for turning the Fall 2026 syllabus into Canvas modules/assignments that collect work weekly instead of all at once. One module per week, one recurring documentation template for prototyping weeks, archived via Gradebook rather than student-maintained portfolios (see "Archiving for Assessment" below).
+Working plan for turning the Fall 2026 syllabus into Canvas modules/assignments that collect work weekly instead of all at once, plus the rubrics needed to grade it quickly and consistently. One module per week, one recurring documentation template for prototyping weeks, archived via Gradebook rather than student-maintained portfolios (see "Archiving for Assessment" below).
 
 ## Grading Philosophy
 
-**Grade completion/consistency during process weeks, not photo or prototype quality.** Grading polish during the research/ideation/prototyping stretch would undercut the sacrificial-prototype and strong-link logic already built into the course — bad-fast beats good-slow there, and a rough cardboard mockup that taught the student something is a *better* submission than a polished one that didn't.
+**Grade completion/consistency during process weeks, not photo or prototype quality.** Grading polish during the research/ideation/prototyping stretch would undercut the sacrificial-prototype and strong-link logic already built into the course — bad-fast beats good-slow there, and a rough cardboard mockup that taught the student something is a *better* submission than a polished one that didn't. The overriding goal is to get students to unselfconsciously try everything and stay in the process, not to protect a grade by playing it safe.
 
-This isn't "nothing is ever graded on quality" — it maps directly onto the strong-link/weak-link split already in the course planning:
-- **Wk1–13 (divergent: research, ideation, prototyping) = strong-link.** You don't need every weekly submission to be good, you need the student to keep showing up and iterating. Grade these as complete/incomplete or on a simple consistency rubric (did they document this week, yes/no/partial).
-- **Wk14–16 (convergent: the final pitch) = weak-link.** Here quality matters — one broken piece (can't explain the process, no evidence, missing a step) drags down the whole presentation the way a bad transmission ruins a good engine. Grade the final deliverable on actual quality/rubric criteria.
+This maps onto the strong-link/weak-link split already in the course planning:
+- **Wk1–13 (divergent: research, ideation, prototyping) = strong-link.** You don't need every weekly submission to be good, you need the student to keep showing up and iterating.
+- **Wk14–16 (convergent: the final pitch) = weak-link.** Here quality matters — one broken piece (can't explain the process, no evidence, missing a step) drags down the whole presentation the way a bad transmission ruins a good engine.
 
 Naming this split for students explicitly (it's already in the Wk6 framing via Mastroianni) helps the grading scheme make sense to them too: rough and frequent now, tight and evidenced at the end.
+
+## Grading Scale
+
+**Default, every Wk2–13 Discussion submission: Complete / Incomplete, based only on whether required components are present.** No craft judgment, no "is this good" call — every check below is answerable with a yes/no that two different graders would always agree on. If a student disputes a grade, the resolution is always "component X was/wasn't there," never a debate about quality.
+
+**Universal component checklist** (applies to every weekly submission unless a named exception below overrides it):
+- [ ] Photo/screenshot attached? (presence only — never judged on how good it looks)
+- [ ] All 3 reflection prompts each answered with at least one written sentence? (presence/completeness only — not judged on whether the sentence is insightful)
+- [ ] Posted before the next class session (on time)?
+
+Each unchecked box = a specific, nameable reason for losing that point. Nothing else affects the grade.
+
+**Named exceptions** — a couple of weeks have their own literal, checkable rules instead of the universal list, because the syllabus already spells out what "did the method correctly" looks like:
+- **Wk5 (How Might We).** For each of the 3 HMWs submitted, check mechanically:
+  - [ ] Literally starts with the words "How might we"?
+  - [ ] Ends in a question mark (open-ended, not a statement)?
+  - [ ] Does *not* contain a named solution/technology word (app, website, platform, device, tool, service)? (This is the syllabus's own "avoids suggesting a solution in disguise" rule, made checkable: keep a short banned-word list, run a literal find against it.)
+  - All 3 HMWs pass all 3 checks → Complete. Any HMW fails any check → Incomplete, with the specific failing line and rule cited.
+- **Wk3 (Coding).** Check mechanically:
+  - [ ] At least 5 distinct codes/tags submitted?
+  - [ ] Each tag is 5 words or fewer? (a short label, not a sentence — the syllabus's own "tag what you see" instruction, made countable)
+  - [ ] Each tag is attached to a cited quote or observation, not freestanding?
+
+These trade a small amount of gameability (a student could technically satisfy the letter of a rule while missing its spirit) for zero grading disputes — which is the explicit priority here. If a pattern of rule-gaming shows up, it's a conversation to have with that student directly, not a reason to make the rubric subjective for everyone.
+
+## Wk14–16 Final Deliverable Rubric (criteria-based)
+
+This is the one place quality is graded, matching the weak-link logic above. Four of five criteria are fully countable — the last one (rhetoric) is the only place a sliver of judgment survives, flagged explicitly rather than dressed up as objective when it isn't.
+
+| Criterion | 1 pt | 2 pts | 3 pts | 4 pts |
+|---|---|---|---|---|
+| **HMW & research lead-in** | Neither present | HMW stated, no cited research, OR research cited, no HMW stated | Both present | Both present, and the HMW is traceable to the specific cited research (not just adjacent to it) |
+| **Process & evidence shown** | 0–1 prototype iteration shown with photo/artifact | 2 iterations shown | 3 iterations shown | 4+ iterations shown, each with photo/artifact |
+| **Systemic/ripple-effect framing** | 0 system-level connections named (staff labor, guest experience, resource use, civic/community) | 1 named | 2 named | 3+ named, each tied to a specific design choice in the work |
+| **Reflection & open questions** | 0 specific unanswered questions named | 1 named | 2 named | 3+ named, each with a stated next step to test it |
+| **Clarity & cut (rhetoric)** *(the one subjective criterion — see note)* | Over time limit, or exhaustively narrates every artifact produced | Over time limit OR narrates excessively, not both | Within the 10-minute limit, narration hits the required structure (HMW → why → solution → features → ripples → evidence) without extra steps | All of the above, and a reader unfamiliar with the project could restate its argument in one sentence after watching |
+
+Total /20, or convert to whatever point scale the course syllabus uses overall.
+
+**Note on the rhetoric row:** every other criterion is a count — no two graders can disagree on whether 3 iterations were shown. This one still requires a judgment call (whether the one-sentence argument test is met), because persuasive writing quality genuinely isn't countable. Worth being upfront about that with students rather than pretending the whole rubric is objective when 4/5 of it actually is. If a dispute happens on this row specifically, the fallback is the time-limit and structure checks (both objective), which make up half the row's own criteria.
+
+Share this rubric with students *before* Wk14 (it's literally the structure already taught that week — HMW → why it mattered → solution → ripple effects → evidence — so the rubric should feel like an echo of the lecture, not a surprise).
 
 ## Assignment Groups (Gradebook categories)
 
@@ -40,32 +82,32 @@ No ePortfolio needed. Canvas already stores every submission permanently on the 
 - **Gradebook → Download Submissions** on any assignment zips every student's photos/notes for that week in one click.
 - **SpeedGrader** lets you flip through one student's submissions across weeks in sequence if you want a chronological read without downloading anything.
 
-## Weekly Module Map
+## Weekly Module Map — Full Project List for Canvas
 
-| Wk | Module | Deliverable (from syllabus homework) | Format | Group |
-|---|---|---|---|---|
-| 1 | Design Thinking: Pros, Cons, Other Frames | Read Blauvelt + Kolko before Wk2; reflect on the crit frame | Discussion | Design Think / Critique |
-| 2 | Site Visit & Interview Planning | Conduct/record interviews; upload site-visit photos | Discussion | Research & Fieldwork |
-| 3 | Coding, Interviews & Observations | Close research gaps; updated codes/visuals + reflection | Discussion | Research & Fieldwork |
-| 4 | Sacrificial Prototype | Draft iterations of insights | Discussion | Synthesis |
-| 5 | Systems Thinking & How Might We | Three HMWs for Wk6 | Discussion | Synthesis |
-| 6 | Selecting HMWs & Ideation | Reflection on idea post-sorting (pos/neg effects) | Discussion | Synthesis |
-| 7 | Low-Fidelity Prototyping | **Prototype Doc — Iteration 1** (rough prototype, photo + reflection) | Discussion | Prototyping & Iteration |
-| 8 | Break | — | — | — |
-| 9 | Increasing Fidelity, Work Time | **Prototype Doc — Iteration 2** | Discussion | Prototyping & Iteration |
-| 10 | Desk Crits, Continued Fidelity Work | **Prototype Doc — Iteration 3** | Discussion | Prototyping & Iteration |
-| 11 | External (Designer) Feedback | **Prototype Doc — Iteration 4**, plan for eliciting feedback | Discussion | Prototyping & Iteration |
-| 12 | External (Non-Designer) Feedback, Return to Site | Feedback reflection (what did site testing teach you) | Discussion | Feedback & Testing |
-| 13 | Integrating Feedback | **Prototype Doc — Final Fidelity** + presentation plan notes | Discussion | Prototyping & Iteration |
-| 14 | Design as Rhetoric | Documentation compilation (select from archive) + draft presentation script | Assignment | Final Communication |
-| 15 | Draft Presentations | Final adjustments after peer practice | Assignment | Final Communication |
-| 16 | Pitch Day | Final slide deck + written self-reflection | Assignment | Final Communication |
+| Wk | Module | Deliverable (from syllabus homework) | Format | Group | Grading |
+|---|---|---|---|---|---|
+| 1 | Design Thinking: Pros, Cons, Other Frames | "Arrival, in miniature" reflection + read Blauvelt/Kolko before Wk2 | Discussion | Design Think / Critique | Complete/Incomplete |
+| 2 | Site Visit & Interview Planning | Conduct/record interviews; upload site-visit photos | Discussion | Research & Fieldwork | Complete/Incomplete + reflection check |
+| 3 | Coding, Interviews & Observations | Close research gaps; updated codes/visuals + reflection | Discussion | Research & Fieldwork | Complete/Incomplete + **coding checklist** |
+| 4 | Sacrificial Prototype | Draft iterations of insights | Discussion | Synthesis | Complete/Incomplete |
+| 5 | Systems Thinking & How Might We | Three HMWs for Wk6 | Discussion | Synthesis | Complete/Incomplete + **HMW checklist** |
+| 6 | Selecting HMWs & Ideation | Reflection on idea post-sorting (pos/neg effects) | Discussion | Synthesis | Complete/Incomplete + reflection check |
+| 7 | Low-Fidelity Prototyping | **Prototype Doc — Iteration 1** (rough prototype, photo + reflection) | Discussion | Prototyping & Iteration | Complete/Incomplete + reflection check |
+| 8 | Break | — | — | — | — |
+| 9 | Increasing Fidelity, Work Time | **Prototype Doc — Iteration 2** | Discussion | Prototyping & Iteration | Complete/Incomplete + reflection check |
+| 10 | Desk Crits, Continued Fidelity Work | **Prototype Doc — Iteration 3** | Discussion | Prototyping & Iteration | Complete/Incomplete + reflection check |
+| 11 | External (Designer) Feedback | **Prototype Doc — Iteration 4**, plan for eliciting feedback | Discussion | Prototyping & Iteration | Complete/Incomplete + reflection check |
+| 12 | External (Non-Designer) Feedback, Return to Site | Feedback reflection (what did site testing teach you) | Discussion | Feedback & Testing | Complete/Incomplete + reflection check |
+| 13 | Integrating Feedback | **Prototype Doc — Final Fidelity** + presentation plan notes | Discussion | Prototyping & Iteration | Complete/Incomplete + reflection check |
+| 14 | Design as Rhetoric | Documentation compilation (select from archive) + draft presentation script | Assignment | Final Communication | Part of final rubric |
+| 15 | Draft Presentations | Final adjustments after peer practice | Assignment | Final Communication | Part of final rubric |
+| 16 | Pitch Day | Final slide deck + written self-reflection | Assignment | Final Communication | **Wk14–16 criteria rubric (/20)** |
 
 ## Build Order
 
-Build Wk2 or Wk9 fully first (module page, assignment/discussion, rubric) since they're the most representative of the recurring pattern, then duplicate the module and edit specifics for the rest rather than building 16 from scratch.
+Build Wk2 or Wk9 fully first (module page, assignment/discussion, rubric) since they're the most representative of the recurring pattern, then duplicate the module and edit specifics for the rest rather than building 16 from scratch. Build the Wk16 rubric in Canvas's rubric tool once, attach it to the Wk14, Wk15, and Wk16 assignments so students see it developing across all three weeks, not just at the finish line.
 
 ## Open Questions
 
-- Exact rubric wording for the completion-based prototyping weeks (points-based vs. check/plus/minus)
 - Whether Wk1's reading reflection and Wk3/5/6 synthesis deliverables should also use the photo+reflection template, or stay text-only
+- Whether the Wk14–16 rubric total (/20) should map onto a specific percentage of the final course grade, and what that percentage is
