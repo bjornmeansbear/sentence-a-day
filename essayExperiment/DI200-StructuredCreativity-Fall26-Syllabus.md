@@ -1,12 +1,12 @@
 # DI 200 / Structured Creativity — Fall 2026 Syllabus
 
-*Working draft. Bracketed items `[ ]` need confirmation — exact Hilton property, site contact, scope of student access.*
+*Working draft. Bracketed items `[ ]` need confirmation — site contact, scope of student access.*
 
 ## Course Info
 
 DI 200 / Structured Creativity / 3 Cr
 Fall 2026
-Site partner: **Hilton Baltimore Inner Harbor**
+Site partner: **Hilton Baltimore Inner Harbor** — 401 West Pratt Street, Baltimore, Maryland, 21201, USA ([hilton.com](https://www.hilton.com/en/hotels/bwicchh-hilton-baltimore/))
 
 ## Official Course Description
 
@@ -49,9 +49,9 @@ The CLOs list outcomes; this is the same thing restated as six teachable verbs, 
 
 **6. Co-design** — the actual gap. As currently drafted, this course is closer to classic HCD (research *about* people, design team synthesizes and decides) than PAR/co-design (design *with* people). Sanders & Stappers' "Co-creation and the New Landscapes of Design" (already assigned Wk6) has a well-known diagram plotting exactly this spectrum — user-centered → participatory → co-design — worth actually showing in class, not just assigning as text. The PAR readings already sit in the Research Ethics section (Whyte, Carr & Kemmis), but nothing in the weekly schedule currently puts a Hilton stakeholder *inside* an ideation or prototyping session — Wk11's stakeholder visit is feedback/crit, which is still research-adjacent, not co-design. Worth deciding deliberately whether that's fine for this semester's scope, or whether one session (Wk6 ideation, most naturally) should genuinely include a staff or guest participant as a collaborator rather than a subject.
 
-## Site Partner: Hilton
+## Site Partner: Hilton Baltimore Inner Harbor
 
-This semester's fieldwork is grounded in a partnership with Hilton [property]. Students conduct on-site fieldwork — observation, semi-structured interviews with staff and guests — across the property, then move through synthesis, ideation, and prototyping toward a design intervention grounded in that research. Real stakeholders (staff, management, guests, community partners) are the audience for interim and final feedback where access allows.
+This semester's fieldwork is grounded in a partnership with the [Hilton Baltimore Inner Harbor](https://www.hilton.com/en/hotels/bwicchh-hilton-baltimore/) (401 West Pratt Street, Baltimore, Maryland, 21201). Students conduct on-site fieldwork — observation, semi-structured interviews with staff and guests — across the property, then move through synthesis, ideation, and prototyping toward a design intervention grounded in that research. Real stakeholders (staff, management, guests, community partners) are the audience for interim and final feedback where access allows.
 
 **Example project briefs** (all sited within the Hilton property):
 - **Arrival & front desk.** The first five minutes of a stay set the tone for everything after. How might a design intervention change how guests experience arrival, check-in, or the transition from street to lobby?
@@ -60,6 +60,7 @@ This semester's fieldwork is grounded in a partnership with Hilton [property]. S
 - **Lobby, bar & F&B as social space.** Hotels are one of the few semi-public "third places" left in a lot of downtowns. How might a design intervention make the Hilton's public spaces more useful or engaging to guests, staff, or the surrounding neighborhood?
 - **Wayfinding across a large, complex property.** Convention hotels are effectively small cities — ballrooms, towers, skybridges, parking. How might a design intervention help people (guests, first-time visitors, staff) navigate it?
 - **Sustainability & resource systems.** Linen and towel reuse programs, food waste, energy use, single-use amenities. How might a design intervention make an existing sustainability effort more visible, more effective, or more participatory?
+- **Civic asset & public accountability.** The Hilton Baltimore Inner Harbor is city-owned — Baltimore borrowed $301M to build it in 2005, and taxpayers have covered over $140M in operating losses since it opened in 2008, including a first-ever hotel worker strike in 2024 that preceded a new labor contract. How might a design intervention make that civic relationship — city, taxpayers, guests, workers — more visible, more legible, or more accountable to the public actually funding it?
 
 What makes a good brief: a lot of different kinds of people to interview, many different problems or opportunities with many different goals. The point of the research is to find an emergent solution, not to arrive with one. The focus stays on how a design choice ripples through the larger system (staff labor, guest experience, resource use) rather than on an isolated artifact.
 
@@ -338,7 +339,7 @@ One cover page/poster; keep to 10 minutes or under; help students see what needs
 
 Not a dedicated unit — there isn't room in sixteen weeks for a full sustainability module — but worth touching deliberately at the points where it's already almost present, rather than leaving it as an accident.
 
-- **Already built in as a project brief.** "Sustainability & resource systems" (linen/towel reuse, food waste, energy, single-use amenities) is already one of the six example briefs above — some teams may pick it directly.
+- **Already built in as a project brief.** "Sustainability & resource systems" (linen/towel reuse, food waste, energy, single-use amenities) is already one of the seven example briefs above — some teams may pick it directly.
 - **Materials circularity in prototyping (Wk4, 7, 9).** Cardboard and balsa wood are already the default prototyping materials for reasons of speed and cost — worth one explicit line noting that's also a circularity choice, not just a cheap one: reclaimed cardboard has minimal embodied energy and is genuinely recyclable or compostable at end of life, unlike foam board or 3D-printed plastic. A "sacrificial" prototype that gets thrown away matters more, and costs less to throw away, when the material itself is low-impact.
 - **Already half-built into the standing questions.** Wk9–13's repeated prompt list already includes "what are the sustainability questions? materials? energy?" — the gap wasn't the content, it was naming it as a deliberate thread instead of a stray bullet buried in a longer list.
 - **Further-reading pointers, not assigned:** SUX (Sustainable UX Network), Design Council's "Skills for Planet," and a piece on "Zoöp Futures" (organizational cooperation between humans and more-than-humans) — all already surfaced from the Are.na channel. Good to have on hand if a student's project heads this direction on its own; no need to build a lecture around them unless one does.
