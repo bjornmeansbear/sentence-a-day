@@ -211,19 +211,6 @@ You probably already own some of this. Buy what you're missing, not the whole li
 
 **Printing.** Most of what you print for this course is documentation and final presentation material, late in the semester. Two options on campus:
 
-*15/15 Print Lab* — risograph and film positives, paid by Flex at pickup:
-
-| Service | Cost |
-|---|---|
-| Risograph, minimum per job | $5 |
-| Color master | $4 each, plus $0.01 per color per page |
-| Gold master | $6 each, plus $0.06 per gold page |
-| Paper, 8.5×11 or 11×17 | free for first 25 copies, $0.05/sheet after |
-| Film positive, paper vellum | $3.00 per foot |
-| Film positive, clear film | $5.00 per foot |
-
-Riso is cheap, fast, and physical — a good match for how this course works. A 25-copy two-color job runs about $13.
-
 *Digital Print Lab, Art Tech Center* — 2nd floor, 1208 W. Mount Royal Ave. **Monday–Friday, 8am–4pm. Closed weekends.** 410-462-7597.
 
 | Service | Cost |
@@ -476,6 +463,22 @@ We meet Mondays, 9am–3pm. **Five of those Mondays we meet at the Hilton instea
 | 16 | Dec 7 | TBD | Final presentations, with Hilton staff present |
 
 Week 16 is either at the Hilton or on campus with Hilton staff attending. You'll know by early November.
+
+### Dates that aren't ours
+
+| | |
+|---|---|
+| Aug 31 | Last day to add |
+| Sep 18 | Last day to drop without a transcript record |
+| Oct 19 | Midterm grades due |
+| **Nov 2** | **Withdrawal deadline — W on transcript, no refund** |
+| Dec 11 | Last day of classes |
+
+Two of these are worth planning around.
+
+**If you add this course on Aug 31, you'll be adding it on a day we're at the Hilton** — and you'll have missed the ethics and conduct briefing that happens in Week 1, before anyone sets foot on the property. Email me before you add. We'll sort out how you catch up, but you can't skip that briefing and go to the site.
+
+**Midterm grades land Oct 19, and the withdrawal deadline is Nov 2.** That order is deliberate on MICA's part — you'll see where you stand before you have to decide. Use the two weeks between them. If you're thinking about withdrawing, come talk to me first; by mid-October I'll have a clear sense of whether the rest of the semester is going to work for you.
 
 Full week-by-week detail, including readings and what's due, is at the end of this syllabus.
 
