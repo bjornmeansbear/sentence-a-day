@@ -1,0 +1,59 @@
+[gd3] Animated Logo / Digital Branding
+
+Totality.
+A Logo must distill what a company or product is all about. However, it is Essential to communicate how a brand goes far beyond a logo — don't become preoccupied with JUST THE MARK — consider the whole system.
+
+Think about the Medium.
+Brands have to work across multiple channels — digital is now a part of our everyday lives, but not all the old channels have died! 
+Have you thought about how a “user” or “viewer” will interact with each iteration?
+
+Make it great and make it basic
+Leave highlights, various colors, gradients, etc. until the end — focus up front on everything being great at its most basic levels.
+
+Make it scale
+You no longer have full control over the contexts your work will be viewed. Digital means multiple devices, screen sizes, ratios, etc. — big, small, and everything in between. Logos must scale appropriately w/out breaking.
+
+Ditch the visual complexity
+Scaling well on different devices, resolutions, and use cases should push designers to reduce complexity of shapes and color palettes. 
+KISS — keep it simple stupid. It used to be that gradients were hard to reproduce, or that typically runs would only be in 1 color. This meant logos needed to be simple and solid. Today, with a different variety of uses — load times, resolution differences, scaling, etc. — the same rules apply.
+
+Keep it static.
+Animated logos must still have a static version (or versions) for use outside of digital.
+
+Multiple Applications
+Variants are Vital! Ensure that generally your logo works in one color and scales from large to small; but also think about multiple versions that might be optimized for one use or another. Consider forms that have multiple applications, shapes, and colors. How can you translate the logo beyond just a mark to place in the corner?
+
+Hold onto Principles
+Digital and motion thrown their own set of challenges — but the basic principles of good design and branding still apply.
+
+16x16 Rule
+Does this need to work as a Favicon? The logo itself might not work, but something from the system probably should so that it still ties into the brand...
+
+Hip to be Square.
+While a logo doesn't have to fit perfectly into a square or circle, because of places like Facebook, twitter, etc., something that crops nicely to a square is beneficial. This could be some other equilateral shape, just think about what it looks like when used as a Twitter avatar or application icon.
+
+Play with Shape.
+Spend time playing with basic geometric shapes and tools … don't just by default rely on Squares and Circles.  Pentagons, Heptagons, Octagons, these are all options too. Also, you can end up with some cool stuff by playing with the pathfinder as well.
+
+Remain Consistent.
+Especially across more avenues than ever before, consistency must be king! A system or a kit of parts should help with this.
+
+Embrace Digital Flexibility
+Digital space is fluid. Allow for fluidity and flexibility in your work...
+
+Explore infinite opportunities
+This is self explanatory, but can be hard to manage — how to “guide” someone through the use of infinity?
+
+
+
+=====
+
+Stuff to show:
+Sagmeister's casa de musica
+Neue's Nordkyn
+Walker's “Walker Expanded” system
+
+
+
+Tags:
+  GD3

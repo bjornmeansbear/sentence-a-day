@@ -1,0 +1,15 @@
+[GD3] Animate Line Drawing
+
+• Recreate the drawing in Illustrator, and make a separate layer for each line you want to animate. If lines have to cross one another as they animate, you'll definitely want to make them separate layers. 
+• Whatever you do, don't make it all one big layer or you'll drive youself bonkers later. 
+• I suggest 50% gray as a color. The reason: Illustrator documents come into AE with an automatic alpha (transparency) channel, and it defaults to black. Black-on-black is tough to see. You can change it later using the Fill effect on one layer, then copying the effect to the rest of the layers. Boom. Done.
+• Import the AI file into AE as a composition (NOT Cropped Layers).
+• Duplicate the resulting AE comp for safety, and open the comp.
+
+Now you have several options. In my personal order of preference:
+• You can animate masks to reveal the lines
+• You can animate solids used as track mattes to reveal them
+• You can animate the stroke effect on solids, using the strokes as track mattes
+• You can try vector painting on solids to use them as track mattes
+
+Those would be the most popular ways to do it.

@@ -1,0 +1,1554 @@
+Why Libre Design?
+
+I decided to utilize Free/Libre Open Source software (F/LOS(s)) as a critical tool for engaging in new methods of making and thinking.
+
+This series of essays considers Free/Libre Open Source (F/LOS) as a lens through which to re-envision design practice and pedagogy. Contained are an overview of F/LOS concepts, figures, and thinking. The narratives attempt to inter-connect these concepts with historical design precedent and outcomes and with thoughts on how design practice and pedagogy improve by adopting F/LOS tools and mindsets.
+
+Towards a libre culture?
+
+>>>
+
+What is free cultural production anyway?
+
+So, for the history of mankind creation of "objects" was a communal endeavor. Sure, some individual might find or come up with the "right" or "best" solution, but as soon as as that solution was "found" it proliferated. Those around you benefited from the new or improved object. it was copied and further improved upon by the others around and over time.
+
+This is vernacular design.
+This is common design by common people.
+
+Art worked this way
+Architecture worked this way
+Industrial design worked this way
+Music worked this way
+Fashion, gardening, science, technology, language, blacksmithing... everything used to work this way.
+
+Cultural production was by and for the people (well, I mean there has also always been high-end cultural production for kings and aristocrats and whatever, but this followed most of these ideals as well! Though it was definitely overly influenced by what a particular "master" told someone to produce, not merely for necessity or personal benefit)
+
+What's crazy is that so much present cultural production has been removed from this cycle/system — we all rip each other off, but its sort of a secret now... And when we rip off something too much or in the wrong way, well then its a real problem, potentially a serious legal issue. This also depends on the direction of the ripping off!
+
+I have benefitted from the work that came before me, and from work from other fields. I can use ideas and solutions, and remix them into my new designs. I purposefully draw on artifacts from my cultural heritage. I want the work I create to be able to be used and remixed the same way moving forward.
+
+Okay, so, ideology aside. This isn't a new idea. This is how the history of cultural production has worked ...
+
+F/LOSS > particularly the Free/Libre world, more so than the Open Source world, tries to do this. GNU's public license states that you can only use and build off a tool if you let your tool be used and built upon by everyone else too... 
+
+This is infectious.
+
+Infectious open ness. Freedom as a virus.
+
+Why are we so stuck in not doing this; is it only because of clients and capitalism? Do we somehow see "designing" differently?
+
+## Should Everything Be Freed?
+
+What do we gain by letting people use our things?
+
+>>>
+
+F/LOS Regularly[^1]
+
+## (or, the Libre Graphic Designer)
+
+"The master's tools will never dismantle the master's house" -- Audrey Lorde
+
+"... Capitalism must constantly 'cool hunt' and turn whatever is authentic and genuine into trends for consumption" -- Micah White
+
+"We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe[^2]
+
+"I consider that the Golden Rule requires that if I like a program I must share it with other people who like it." -- Stallman in GNU manifesto
+
+"Teaching is more difficult than learning because what teaching calls for is this: to let learn. The real teacher, in fact, lets nothing else be learned than learning. His conduct, therefore, often produces the impression that we learn nothing from him, if by 'learning' we now suddenly understand merely the procurement of useful information." -- Martin Heidegger
+
+"allowing someone else to find something in my work that I had never seen before can be beautiful and fulfilling. Yet, having someone reinterpret my artwork is not the same as someone coming up with a clever new use for a sorting algorithm." -- Eric Schrijver
+
+Free/Libre Open Source Software has a wide reach. Open operating systems power servers and computers and open programs and modules run websites and makeup pieces of or the totality applications we rely on daily. F/LOSS also contemporaneously has extended deeply into the corporate (at least start up wise) sector -- Facebook React, Adobe Brackets and Phone Gap, the IBM Plex typeface, etc. -- But, despite most of the internet (and increasingly enterprise backends) running on open source tools (Linux, Apache, Node, PHP, React, etc.) visual design has yet to fully embrace these tools and ideas. What does visual design gain (or preserve?) by not dipping its toes into free/libre/open source? What can we bring to graphic design from F/LOS communities?
+
+Why don't designers use open source? it's got bad UI? it's hard to find, install and actually use? The moderno-capitalist machine tells you that only Adobe CC can produce "professional" work? (or maybe something from AutoDesk) -- other than Maxim, who makes C4D can you name another design software company???
+
+Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
+
+Designers in open source are often found in the contemporary web/app sphere. There are plenty of CSS frameworks and component libraries that are upkept by designers (@fat, @jxnblk to list two such "designers" -- Twitter Bootstrap, BassCss, Styled System, etc.); or maybe they work on for a dsitributor of a specific Linux flavor (Nuno Pinheiro). Either way, they don't typically run in the typical graphic design circles. Why aren't there more graphic designers involved in these things?
+
+Why don't designers participate in open source communities the same way that developers do? presumably the design of the tools can be open just like the programming. Is there just not an easy way for designers to get involved? is everything too technical, even in terms of designing how something should look? or is it that no designers really participate already, and everything is so hard on the the eyes that the few designers who try the tools just turn away in fear or disgust? How do we get designers making design-magic for these open source tools? (And designing in accordance w/ the ideals/values of the community; but that is a different conversation.)
+
+Why F/LOS? tools? Ideas? How they change design?
+
+Applying F/LOSS principles to art and design might help us improve visual literacy, just as F/LOSS improves computer literacy. Applying F/LOSS principles to art and design might help us better understand the knowledge present in the creative process.[^3]
+
+Through the use of the tools interesting new thinking was created. Via readings and discussions, reasons for using the F/LOS offerings were realized. Of course, pragmatic reasons (excuses? complaints?) were also found for _not_ F/LOSing. I preferred the utopian ideals, critical view point, design fiction stance that influenced many of the directions conversations took.
+
+Open Source ideals and how those relate nicely for pedagogical, social, and ethical reasons for using F/LOSS. (Designing w/ F/LOS tools and ideals)
+
+if anything deserves a reward it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results. [GNU Manifesto]
+
+schools will be able to provide a much more educational environment by encouraging all students to study and improve the system code. [GNU Manifesto]
+
+F/LOSS encourages a mindset of bringing together disparate sources to make something new. This is why artists could potentially feel at home. There's never a clean slate when you make a work of art or design. We are informed by our personal history, we are informed by all the other works we know.[^2]
+
+I've been frustrated as of late with my role in the classroom. How am I to teach designing without accidentally falling back to just teaching software. Instead of demoing tools, how might we demo designing? Instead of learning a prescription for executing a specific outcome, how can I work towards the learning of learning to find the outcome you desire from anywhere (any place? any tool?)?
+
+F/LOS doesn't remove this issue, but it creates alternatives.
+
+Good place to insert some Dunne and Raby??? Possible/probable? Adjacent possibles? Also, Femke's thoughts on everyone using adobe from "awkward gestures?"
+
+These aren't the standards. You can't conflate learning to use scribus or inkscape with learning to work with the production tools of a design studio. It might be about drawing vecotrs or the general ideas of using layout tools. But it isn't being taught the "right way" industry expects you to use. Conflict between what the graphic design industry wants and what being an educator wants. I don't want to teach you to be a worker or a productionist, I want to teach you to be a designer. Might these alternative tools do this better?
+
+Rudnick -- designing is increasingly focused on solving problems of a client, not problems of an audience. Does leraning to use the right tools to get employed relate to this? focus on technical skills as they apply to a workspace as opposed to the more general ideas of designing period?
+
+F/LOS tools are a struggle. Especially if you're already conditioned to how other tools work. Again, in presenting alternatives they point out the failings and successes of existing, more commonly used tools. Inkscape has more options when drawing with the pen tool for example -- that can lead to some really radical outcomes that you can't just accidentally arrive at w/ something like Adobe Illustrator.
+
+If the goal of us as academics is in increasing knowledge (I would also say that any field period is only useful if it is constantly producing knowledge and moving culture), then we are arbitrarily limiting the futures of visual design by collectively standardizing on a set of softwares/operating systems/formats.
+
+Digression to pure content? In science its useful for people to share units and equations -- I would equate this with file formats and design standards. Scientists/mathematicians can use all manner of tools and instruments to arrive at the same outcomes because of shared "infrastructure" -- like all using the same calculus notation -- not because of homogenous ways in/out??? If anything could edit/open a file, then it would matter less what thing you picked to edit that file. See HTML/CSS/Javascript (or any computer language frankly) -- you can use any editor you want... You can then even use these same text editors to edit SVG and XML files that really are visual files..........
+
+A little bit about using the software, what that presents, then get into the background ideals.
+
+Stallman's main ideal is "Free and in Freedom." He didn't want to be limited by how or what he could do with the programming tools he was using. The mythology basically goes is that he gets frustrated with a printer, writes some new code for the print driver since he had the source code, but when the next version of the printer comes out it has the same problem but now xerox won't share the code so that he can fix it. This makes him so mad he walks out, quits his job at MIT, and writes the GNU manifesto ... From then on focusing on free software (and literally living in his office at MIT still despite no longer officially working there [that's what having ideals gets you???]).
+
+The gist of "free as in freedom" is multi-fold:
+
+1. Free means that you have access to the under the hood raw materials and can tinker, fix, change, etc. at your will.
+2. Free also means that your improvements, changes, whatever can and should also then be shareable/redistributable
+3. It does not imply free as in no cost... Since the access to the source code is free, this is often the case, but it is not the intention.
+
+(four freedoms here instead????)
+
+A student found this tool: NodeBox as part of a simple research prompt they were give: find an F/LOS design tool none of the rest of us have seen/heard of yet. Nodebox is one of the more amazing pieces of software for making visuals I have used. Period. It's amazing. Its a fun, intuitive, fast way to make programmatic visuals.
+
+Something quaint and william morris-y about all of this. Understanding your tools better?
+
+Don't forget to get a bit more into the "making" part? some things faster, some things slower, but it presents new opportunities for learning in and out of the classroom. Students more forced to help each other. Learn to Learn ala Heideggar?
+
+open file formats ae superior. Understand what is in them in a way you can't w/ proprietary file types.
+
+Open fonts are superior pedagogically. You can actually see the insides of a font w/out needing to do anything else.
+
+Type design is a place that seems to be doing pretty well open source wise... why type but not other graphic design places? Is it because we're accustomed to revival typefaces, but not revival layouts or logos? Is it because typefaces are more like tools and objects, and less purely formal, visual metaphors? What???
+
+From a typographic stand point, Libre fonts are superior pedagogically. Students can look at and legally experiment with the actual insides of a typeface. Useful for also learning some actual typographic design -- can build onto, fork and build anew, or add something to an existing typeface w/out fear of retribution! Better experiential learnng enabled?
+
+Ease of use is predominantly familiarity based. (find the essay this idea came from > open source ui? > maybe they linked to one more that really had it?)
+
+If we increasingly design interfaces, then we should probably use a lot more and different and varied versions of the interfaces to understand at least some of the other points of view (literally and figuratively)
+
+Good transition time into the ideals???
+
+So all this talk about the software/tools is great, and looking at how some of that more pragmatic stuff ended up directly in class, good too... however... what about the ideals/philosophies?
+
+GNU's origins are in ethical utopia. Users are the same as neighbors, fellow citizens. We must apply our do unto others beliefs to the access and reuse of and extension of the tools we make, not just our person to person interactions.
+
+Pragmatic utopia: Imagine the world the way you wish it was, and then you actually sit down and try to build it that way.[^4]
+
+Can I design the design that belongs to the time/space/world that I want to live in? if it doesn't exist already around you then you have to make the objects to help grow the future you want around those designs.
+
+find yourself in places that you didn't intend to be. New, different, strange, tools from other places, these can allow for this in ways that "regular" or "main stream" tools cannot.
+
+Raymonds libertariansism?
+
+I'm into stallman's ideals, maybe not Open Source's generally?
+
+Free becomes Open Source to better serve business interests.
+
+Closed tools & Closed ecosystems?
+
+Design versions of this???
+
+Jump back to the whole earth catalog? and other counter-culture 60s/70s stuff?
+
+So Free/Libre/Open Source finds some footing in software, computer programming and the web. But what about visual design? what does it contribute other than just alternatives to the adobe creative suite?
+
+»»»»»»»»»»»»»
+
+When you hear "Open Source," an image of an aging techno-hippie, linux laptop toting developer, or silicon-valley millennial might come to mind. What probably would not pop into your head is a graphic designer.
+
+You also don't typically think easy to use, pleasant to look at, good user experience tools. Issues with UI and ability for "professional" outputs. This is partially due to the fact that most of the users and developers of these things are not designers (they are developers who need a design tool, or hobbyists or hackers).
+
+Libre Design
+
+Design Fiction
+
+Values are extreme but the "stuff" is more or less conservative.
+
+Challenge preconceptions about how software shapes our profession and pedagogy.
+
+In order for conceptual
+
+Dunne and Raby talk about speculative design -- that design should create an alternative to the status quo. When they talk about speculative deisgn or design fictions they are often presenting ideas related to using more or less conservative technologies/designs, but presenting values that are extreme.
+
+One way to engage in a "design fiction" of ones own is to choose F/LOS tools over our traditional ones. Arriving in a typically design classroom, one is presented with a wall of aluminum and glowing white fruit (or maybe space gray). Behind these glowing walls students will likely be typing and clicking around with the Adobe Creative Cloud.
+
+Is it problematic that an entire discipline shares not standard formats necessarily, but standard machines and softwares? If we are all using the sam einterfaces, the same programs for output, the same filetypes for input (file types that often prohibit other tools/users from being able to engage with them) what is lost in the disciplne of design? what kings of making are we prohibiting? what outcomes are not achievable? What learning opportunities are being missed or negated?
+
+## Spectacular Vernacular
+
+Enzo Mari's project Autoprogettazione? asked users of furniture to learn about how the furniture was structurally built in the hopes that by participating in the act of construction, one would learn what makes a table or chair or bed frame stable -- what makes a piece of furniture "good" at more than a surface, purely style based evaluation.
+
+Critical design claims?
+
+He arrived at this place through observing the traditional, ad hoc methods of building employed by carpenters, masons, etc. for utilitarian needs. These vernacular solutions inspired ???
+
+Move to brand? that vernacular thing is the switch?
+
+How to get back to open source?
+
+## The Golden Rule
+
+Stallman?
+
+Do unto others?
+
+How to get to teaching?
+
+## A New toolbox?
+
+## One Cloud to Rule them All?
+
+What are we teaching in our graphic design classes? Are we teaching students to use the Adobe Creative Suite -- or are we teaching them designing?
+
+How does the new toolbox solve whatever things I mention before???
+
+How is teaching design different than teaching a specific tool? are some of these open tools better when it comes to learning designing over learning a software to enable the designing?
+
+Obviously, on one hand, we have a pragmatic situation: these are the tools of industry, pretty much every design studios my students are going to get jobs working at will be running Adobe Creative Suite on macs. Why would I not want to help students learn to use these things in my classes? But then I run into an issue -- I don't know that the computer software we use to do these things will be the computer software we always use to do these things... how closely is the "designing" I'm teaching linked to the "softwareing"? Can I teach a student all the same time and motion concepts without ever having them use After Effects?
+
+Are the tools the issue or is it just the file formats? Regardless of paper or pencil brand I can draw the way I've learned to draw... regardless of paint I buy I can paint what I wish to paint... regardless of circular saw and hammer or typeface I can make a reasonable bench or poster... Are the digital tools we use which have replaced our hand tools so different that they cannot be replaced? WTF am I saying?
+
+Adobe more or less has a monoply on the toolset of the visual designer. Worldwide most designers, studios, and educational programs rely on Adobe tools to output their visuals (more physical good related things might be reliant on all autodesk suites of things instead, but the point more or less stands).
+
+Is there a pedagogical or ethical problem with that? Is it made worse by the fact that we can't get at any of the components under the hood? and I don't mean make or modify the software, I just mean even the basics of having file formats that aren't easily interchangeable or editable w/out their tools. Most of the libre design tools use some sort of open format, or at least text-editable format if you are mising the program. Scribus and Nodebox for example, their file formats are really both just special xml documents. Opening in a text editor means you can still pretty easily "read" the design even if you can't see it. This means that you can edit, improve, and reflow your file w/out even needing to have Scribus installed! If you can figure out the xml, you can make actual meaningful edits to your layout w/out the gui! Try that in Indesign.
+
+Designing at its heart should be a set of skills, processes, patterns, ways of thinking, that are agnostic to discipline or tool. Obviously one needs some manner of experiential knowledge with a tool or medium or format in order successfully realize their vision, but in an abstract way. One of my favorite things about modernists like Massimo Vignelli is that thinking that their designing could be applied to anything -- you need an identity? I can use my design knowledge to do that. You need a teacup? I can design that too. You need a suit? I can design a suit... a chair? wallpaper? table? business card? check check check check. That is agnostic to the tools of production. Have we tied the tools of production too closely to the designing?? what does open source change about that?
+
+Something interesting about us designers is that we are using the same operating systems and softwares [CAN I GET A STAT FOR THIS???? NEED SOME FACTS]. In a field that values creativity and inventiveness, how can we be good at designing new interfaces and layouts when we all are looking at and fiddling with the same set of things as each other (and looking at the same visual inspiration on the internet [TRENDLIST? PINTEREST?])?
+
+One thing about a _good_ interface is that goodness to a user is often about familiarity. There is a certain amount of intuitiveness that you want to achieve, but in the end I like my Mac because I've been using macs for 30 years (a Mac SE from 1988 was my family's first comp I really remember using a lot). My colleagues that exclusively have used Windows or the few that are die hard Linux afficianados feel the same for their chosen ecosystems. The things I am used to work as expected, those other tools don't, thus this one I understand is good and those are bad.
+
+I ran into this with my students. I requested that they all try to use open source alternatives to Adobe products for the term. Most of them indulged me by at least installing inkscape, gimp, scribus, blender, etc. on their machines, but in the end claimed they were too hard to get to make the "finished" work they were trying to make... it was bad software and they couldn't make it work. I would argue that goodness and badness isn't really the issue -- its learned behavior that's the issue. It's like knowing how to play a piano, and then being handed a guitar having never played one before -- you can figure out the notes and maybe generally make something musical, but you wouldn't be able to say, play all the pieces of music you'd already learned for the piano with any skill. By forcing yourself to try alternative tools you are actually making yourself a better designer. You see more things, you experience more, you might find that there are multiple ways of drawing vector paths (for example, Inkscape has 5 different kinds of vector path options when you select the pen tool compared to illustrator's one (Illustrator only draws good old beziers))
+
+Is there something aesthetically important we can learn from open source?
+
+OSD represents and emerging form of infrastructure that, at its heart, enable non-hierarchical community sourced collaboration?
+
+OSD is rooted in vernacular techniques. Sharing, iterating, copying whatever works best was what allowed communities to develop effective tools, clothing, shelter, objects, etc. A similar set of practices, more or less everywhere, allowed for forms to slowly iterate, progress, improve, disperse, but still to generate local flavor and specialization. Aesthetics, materials, decoration, forms are able to grow and evolve based on specific locations, but the general idea of iterative, open, designs was the way pretty much all cultures "designed" in the past. Successful techniques were discovered to address local environmental conditions in an economic, reliable, easily duplicable manner.
+
+Interest in this vernacular approach began to surface within communities of computer scientists (this was also how scientific knowledge often is shared and grows) ... this became (and is called variously) F/LOS: Free, Libre, Open Source...............
+
+Equal parts pragmatism and utopia...
+
+Values openness, innovation, viability over profit.
+
+Premised on the practices of sharing and increasing knowledge
+
+Focus is not on the development of commodity, but on addressing the needs of community members through continuous user-sourced feedback and iteration. (referece Proton from Firefox?)
+
+As designers we can integrate open principles into our practices simply by being more transparent and sharing more... sharing assets, data, visual components, processes... By making generosity a key component of practice, designers can build a rich ecosystem of collaboration and inspiration.
+
+release early, release often -- share and share, iterate, collect feedback and data, make more and show people as soon as is possible. Don't wait until perfect.
+
+--------------------------------------------------------------------------------
+
+[^1]: F/LOS stands for "Free/Libre Open Source," it describes anything that fits into the realm of "free as in freedom," either the original Richard Stallman, GNU meaning of "free," to the more contemporary business friendly open source... It is also employed as F/LOSS -- the last S meaning "Software" -- Free/Libre Open Source Software.
+
+[^2]: Open Fields Catalog... figure it out tomorrow!
+
+[^2]: Eric Schrijver, This is the First Day of the rest of my life... (Libre design mag?)
+
+[^3]: Eric Schrijver, This is the First Day of the rest of my life... (Libre design mag?)
+
+[^4]: Bjarke Ingels; BRIAN ENO & BJARKE INGELS - ON INSTRUMENTS OF CHANGE (Live at Heartland Festival 2016) <https://www.youtube.com/watch?v=4wMhvUHftUo>
+
+>>>>
+
+## A Starting place
+
+The original spark for this course was a Google Fonts related visit to MICA by David Crossland. After showing off some new open source variable type that Google and Type Network were working on, Crossland explained how he had ended up working at Google Fonts in the first place: being a lover of open source. While I had been using F/LOS fonts myself as part of sustainability related constraints, I had not thought much about the larger "open source design" ecosystem.
+
+MICA had also recently been visited by Loraine Furter and Eric Schrijver, two members of a collective known as "Open Source Publishing" (OSP). They had done two workshops in as many years, one related to using public domain resources, and one related to customizing open source fonts. Crossland's visit seemed like one too many coincidences. I had to dive deeper. These ideas needed a class.
+
+## Open Source Design
+
+"Why have developers latched onto the open source movement, but designers have not?" -- Garth Braithwaite
+
+A web search for "Open Source Design" returns quite a few resources to start understanding how F/LOS has a graphic design impact. Near the top of the list is "The Open Source Design Manifesto" by Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects still within Adobe), The manifesto is as follows:
+
+```
+I will:
+
+- find opportunities to design in the open
+- share my design experiences; both the good and the bad
+- find time for meaningful projects
+- openly participate in design discussions
+- work with other designers by choice
+- improve my toolbox
+```
+
+[cite Open Source Design Manifesto, originally Published on Sep 25, 2013]
+
+With the _Open Design Manifesto_, and a 2013 talk called "Designers Can Open Source,"[cite treehouse?] Braithwaite explores simple actions and behavioral changes for designers to immediately become more "open." This revolves around an increase in general sharing: "Sharing process, especially the failures, really helps" and "post as you are working, show how things evolve." This (hopefully) creates a new kind of design ecosystem where designers are much friendlier and collaborative with their neighbors -- more un-self-concious. Braithwaite summarizes some of the history of the open source movement, and then also points to some tools that help in doing his points.
+
+We read the manifesto and watched Braithwaite's presentation as a class. In response, we decided to post all of our work on github and to record all of our discussions. Utilizing github and recording our conversations made the class immediately feel like something different from the typical studio. This felt like a good place to begin the term. [links?]
+
+As a class we had decided to be open, to share more, to start to utilize at least one tool of open source developers (github), but where did this way of working come from?
+
+## Linus's law
+
+The way we think about and talk about open source today is rooted in _The Cathedral and the Bazaar_ by Eric Raymond. In this essay, Raymond analyzes how Linus Torvalds, and the distributed hacker crew Torvalds helped lead, developed the Linux Kernel. Raymond outlines and explains nineteen points key to Linux's and Linus's successes. There are two in particular that better actualize Braithwaite's sentiments -- and clearly outline what is understood as "open source" today.
+
+As soon as a semi-functioning version of Linux was working, it would be posted for others to use. This "release early, release often" maxim flew in the face of existing software development practice -- the cathedral model. One did not want to release buggy code, it was feared that users would abandon your project. Raymond found that this was not the case with Linux. "[I]t was clear that something different and much healthier was going on [with Linux]." The success was in how Torvalds was treating his users -- they were being treated as colleagues and co-developers. Release early and often is a predicate for Raymond's key takeaway from his analysis: "Linus's Law." Linus's law states that "Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone," or "Given enough eyeballs, all bugs are shallow."[cite raymond + the wikipedia page?] Basically, get as many users as you can to look at and tinker with your stuff, and make sure they tell you about everything wrong that they find.
+
+This is what Braithwaite is trying to get designers to understand that developers seem to have latched onto: many eyes make light work. In graphic design we are trying to find the best visual solutions -- but how often do we throw out partially formed ideas and see if anyone can poke holes (or find pain points we didn't plan on) early in the process? This can be done within a classroom or studio between colleagues -- as things come together make sure you're passing things around between desks/desktops -- or it can take place out in the world at large (via something like Dribbble? Github? Behance?).
+
+## Not just Theory
+
+"It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>)
+
+What Raymond is describing in _TCATB_ is actually not anything novel. There are other structures that enable cultural creation via means that are distributed, include "bug fixes" from the community, and shared and forked: vernacular design. What is described by Raymond, and what has been adopted by F/LOS communities is really not so different from the way that most human creations came to be.
+
+In _How Buildings Learn_, Stewart Brand dissects vernacular building and describes a process that predates the Linux community, yet sounds uncannily similar. In Brand's view, the vernacular process is a systematic framework for evolving concepts. A culture steadily culminates frameworks over time. Vernacular designers reuse the invented forms and methods for common, everyday tasks. Contemporary design typically looks for new or unique solution to a given problem, which is counter-productive to creating traditions.
+
+Vernacular in this context means common designs by common people. Common features survive the passage of time when they are generally understood as "good." Over years, the vernacular incorporates more and more "good" features while eradicating "bad" ones.
+
+To illustrate this in _HBL_, Brand references the Cape Cod house. He includes a wonderful diagram called "The Evolution Chart of the Siasconset Whale House," which visualizes what Raymond is trying to explain to us in _TCATB_ (and that Braithwaite also wants contemporary designers to get), that simple things released into the wild of a user community will grow, evolve, and change -- and will come back with improvements. The improvements are merged into the computer code or architectural language. Repeat. Torvalds is a genius to Raymond not because he uncovered something brand new, but in that he managed to take an existing form of cultural production and accelerate and decentralize it so as to maximize the merging of fixes and improvments and new features!
+
+If new software can be designed and constructed this way, and vernacular cultural objects have always come to be this way, what's so hard in contemporary visual design?
+
+## Free as in Freedom
+
+"I consider that the Golden Rule requires that if I like a program I must share it with other people who like it." -- Stallman in GNU manifesto
+
+Richard Stallman first published the GNU Manifesto in 1985\. In it, he described "Free Software," which was in opposition to proprietary software. Stallman's motivations for this were both pragmatic and utopian. He was hoping to maintain the kind of environment that he had come to expect from computer programming: a vernacular-like model where everyone builds upon everyone else's work. Stallman also was hoping to fight against the tide of proprietary, closed softwares and tools he felt rising. Free software is predecated on the following freedoms:
+
+```
+A program is free software if the program's users have the four essential freedoms:
+
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+A program is free software if it gives users adequately all of these freedoms. Otherwise, it is nonfree. While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
+```
+
+Free software, as defined by Stallman, is ethical. It has a point of view. Its clear about where it stands. Braithwaite and Raymond do not deal with this in their discussion or analysis of "Open Design" and "Open Source" respectively. Students that were attempting to get a grip on their position as a designer intentionally using design as a political or critical act found something of use here that they had not in the other readings and discussion. The software they might use could reflect their ethics.
+
+## Opposition
+
+The way Stallman positioned GNU was intentionally oppositional to "main stream" software. As GNU/Linux and other F/LOS tools have grown, they've mostly maintained this outside, oppositional status. Stallman was never against developers making money -- the GNU project and Free Software Foundation have always been clear that Free means Freedom, not free as in price -- but he is against developers or companies making money by sacrificing or minimizing the freedoms of their users.[gnu reference]
+
+Software / OS as a radical act was a fresh take for the class. Anthony Dunne and Fiona Raby in _Designer as Author_ propose that designers "develop a parallel design activity that questions and challenges industrial agendas."
+
+Walking into the average design classroom or studio presents one is greeted by an aluminum wall punctuated by glowing fruit behind which everyone has the same "creative cloud" raining down similar outputs from (mostly) the same sets of aesthetic inputs. By replacing one's computer and software suite with F/LOSS alternatives a designer immediately engages in Stallman's AND Dunne & Raby's critical activities. Designer's can better access the transparency Braithwaite talks about and better actualize the sort of vernacular un-self-concious iterating, improving, and forking; as well as provide a critique of our current situation by embodying alternative social and technical values.[D&R]
+
+## Free doesn't mean easy
+
+So we have on one hand a pragmatic approach that is based in the history of designing, the history of just how we as humans created cultural and societal artifacts, and on the other a critical design approach that intentionally positions itself as different from mainstream capitalism.
+
+By choosing openness, transparency, and sharing designers are working in a way that is at odds w/ what the market wants. If you see design as serving business, then making your designs available to everyone might not seem like the right approach (Stallman has a rebuttal to this kind of thinking, but its a barrier).
+
+Another obstacle is that while you might be adopting more open practices for yourself and are being more open to collaboration, you are actually less able to collaborate as you no longer use the tools of your peers. In our class we collaborated with MICA's library on some new materials. The library thinks of itself as an open entity within the school -- the ideals of Stallman's and F/LOS at large are mirrored by the Library's director and staff. However, there were limitations to what we could do -- we still had to create everything with creative cloud for example. We were able to collect and share all manner of our designs, but we couldn't ever include the typefaces in our repositories as they also aren't open (the Library adheres to MICA's brand guidelines for its materials).
+
+That F/LOS tools are hard to install and/or hard to use commonly is cited at the main barrier to use. Every student at least once this term came in frustrated with not being able to do something or get a feature to work, etc. with some application being used.
+
+## Forks in the Road
+
+"We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe [Open Fields....]
+
+F/LOS ideals create an oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (Linux, Scribus, etc.) a designer is specifically saying "I am not using the same computer or software as you." and "my computer software has different ethics than yours" This has use as a critique of the status quo.
+
+What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We should start to see chances for design as a social critique; design that can return to its vernacular roots and not just serve clients or business.
+
+As a course, Special Topics in Graphic Design: Open Source was half seminar and half studio. What the course was most useful for to me was remembering that the way that Open Source software works is not unique to contemporary startup culture -- the things we need as humans have been being made in these ways forever. This means that we as visual designers are not precluded from accessing the techniques and ideas.
+
+As an educator my role is to help create new knowledge for my discipline. F/LOS allows for this in pragmatic and utopian ways. Its pragmatic in that there are F/LOS tools that do not exist in main stream operating systems nor from Adobe or Autodesk (the Spiro tool in InkScape for example, or NodeBox or Processing). It is utopian in that the tools themselves can reflect non-traditional values and propose alternate fictions or expand what is understood as possible or "standard."
+
+Another pedagogical advantage to F/LOS is that the file types are open standards. This means files can easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy. It also relinquishes one from the tyranny of tools. One can focus on designing over application learning.
+
+»»»»»»»»»»»»»»»»»»
+
+GD399.01 Special Topics in Graphic Design: Open Source ran from January to May 2018 at the Maryland Institute College of Art (MICA). We explored new tools and ideologies for making design using the lens of "Free/Libre/Open Source (F/LOS)." Each student was asked to use F/LOS tools in the making of their design projects all semester, and to experiment with how the ideas and technologies from this realm might serve their needs. While using some of the F/LOS software for final outcomes wasn't always possible (we worked on templates for our school library for example, they still needed things in InDesign), the conversations we had and ideas that surfaced from readings and classroom visitors made their way into student work both inside and outside the classroom.
+
+Open Source Design
+
+Why have developers latched onto the open source movement, but designers have not? -- Garth Braithwaite
+
+A web search for "Open Source Design" returns several resources to start understanding how F/LOS has a graphic design impact. Near the top of the list is The Open Source Design Manifesto by Garth Braithwaite, a designer at Adobe. The manifesto is as follows:
+
+I will:
+
+- find opportunities to design in the open
+- share my design experiences; both the good and the bad
+- find time for meaningful projects
+- openly participate in design discussions
+- work with other designers by choice
+- improve my toolbox
+
+With the Open Design Manifesto, and a 2013 talk called Designers Can Open Source, Braithwaite explores simple actions/behavioral changes designers can take to become more "open." This revolves around an increase in sharing: sharing processes, especially the failures; and post as you are working, show how things evolve. This (hopefully) creates a new kind of ecosystem where designers are friendlier and more collaborative with their neighbors -- more un-self-concious.
+
+In response to Braithwaite's ideas, we decided to post all of our work on github and to record all of our discussions. This felt like a good place to begin the term. We had decided to be open, to share more, to start to utilize at least one tool of open source developers (Github), but where are the roots of this way of working?
+
+Linus's law
+
+The way we think about and talk about open source today owes a lot to Eric Raymond's The Cathedral and the Bazaar. In the essay, Raymond analyzes how Linus Torvalds (and the distributed hacker crew Torvalds helped lead) developed the Linux Kernel. Raymond outlines and explains nineteen points key to Linux's and Linus's successes. There are two in particular that merge well with Braithwaite's deisres.
+
+As soon as a new version of Linux was working, it would be posted for others. This "release early, release often" maxim flew in the face of existing software development practice: one typically did not want to release buggy code, it was feared that users would abandon your project, so one waited until every error was found before releasing. Raymond found that this was not the case with Linux. [I]t was clear that something different and much healthier was going on [with Linux]. The success was in how Torvalds treats users -- they are treated as colleagues and co-developers. Release early and often is a predicate for Raymond's next takeaway from his analysis: "Linus's Law." Linus's law states that "Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone," or "Given enough eyeballs, all bugs are shallow." Get as many users as you can to tinker with your design, and make sure they tell you about everything right and wrong that they find -- especially the wrong.
+
+This is what Braithwaite is trying to get designers to understand that developers seem to have latched onto: many eyes make light work. In graphic design we are trying to find the best visual solutions -- but how often do we throw out partially formed ideas and see if anyone can poke holes in our thinking early on in the process? This can be done within a classroom or studio between colleagues -- as things come together make sure you're passing things around between desks/desktops; or, it can take place out in the world at large (via something like Dribbble? Github? Behance?).
+
+More Than A Theory
+
+It is absurdly arrogant to begin the design process with an empty piece of paper -- Hella Jongerius & Louise Schouwenberg
+
+What Raymond is describing in The Cathedral and the Bazaar is not anything novel. There are other structures enabling cultural creation via distributed means and including bug fixes from the community: vernacular design. What is described by Raymond is not so different from the way that human creative endeavors have come into existence for most of our collective past. In fact "the 'open source' way is closer to how human creativity has always worked" -- it's the proprietary model of production that is new.
+
+In How Buildings Learn, Stewart Brand dissects vernacular building and describes a process that predates the Linux community while sounding uncannily similar. In Brand's view, the vernacular process is a systematic framework for evolving concepts. A culture steadily culminates frameworks over time. Vernacular designers reuse invented common forms and methods for common, everyday tasks. Vernacular in this context means common designs by common people. Common features survive the passage of time when they are collectively understood as "good." Over the years then, a vernacular incorporates more and more "good" features while eradicating "bad" ones. Contemporary design typically looks for new or unique solution to a given problem -- this is counter-productive to creating traditions and building tested solutions over time, and it cannot easily tke advantage of this methodology.
+
+To illustrate this in How Buildings Learn, Brand references the Cape Cod house. His included diagram is named "The Evolution of the Siasconset Whale House." This chart visualizes what Raymond is trying to explain to us in The Cathedral and the Bazaar (Braithwaite also wants contemporary designers to understand this), that simple things released into the wild of a user community will grow, evolve, and change -- and will evolve improvements. The improvements merge back into the computer code or architectural language. Repeat. Torvalds is a genius to Raymond not because he uncovered something new, but in that he managed to take an existing form of cultural production and accelerate and decentralize it so as to maximize merging fixes and improvements and features!
+
+If new software can be designed and constructed this way, and vernacular cultural objects have always existed this way, what's so hard in contemporary visual design?
+
+Free as in Freedom
+
+I consider that the Golden Rule requires that if I like a program I must share it with other people who like it. -- Stallman in GNU manifesto
+
+Richard Stallman first published the GNU Manifesto in 1985\. In it, he described "Free Software," which was in opposition to proprietary software. Stallman's motivations for this were both pragmatic and utopian. He hoped to maintain the kind of environment expected from academic computer programmers: a vernacular-like model where everyone builds upon everyone else's work. Stallman also was hoping to fight the tide of proprietary, softwares and tools he felt rising. Free software is predicated on the following freedoms:
+
+A program is free software if the program's users have the four essential freedoms:
+
+```
+-    The freedom to run the program as you wish, for any purpose (freedom 0).
+-    The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+-    The freedom to redistribute copies so you can help others (freedom 2).
+-    The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+A program is free software if it gives users adequately all of these freedoms. Otherwise, it is nonfree. While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
+```
+
+Free software, as defined by Stallman, is ethical. It has a point of view. Its clear about where it stands. Braithwaite and Raymond do not deal with this in their discussion or analysis of "Open Design" and "Open Source" respectively. Students that were attempting to get a grip on their position as a designer intentionally using design as a political or critical act found something of use here. The software one chooses to use can reflect ethics.
+
+In Opposition
+
+The way Stallman positioned GNU was intentionally oppositional to "main stream" software. As GNU/Linux and other F/LOS tools have grown, they've maintained an outside, counter-cultural status. Stallman was never against developers making money -- the GNU project and Free Software Foundation have always been clear that Free means Freedom, not free meaning price -- but he is against developers or companies making money by sacrificing or minimizing the freedoms of their users.
+
+Software/OS as a radical act is a fresh take for design perhaps? Anthony Dunne and Fiona Raby in Designer as Author propose that designers develop a parallel design activity that questions and challenges industrial agendas. F/LOS does this.
+
+Walking into the average design classroom or studio presents one is greeted by an aluminum wall punctuated by glowing fruit behind which everyone has the same "creative cloud" raining down similar outputs from (mostly) the same sets of aesthetic inputs. By replacing one's computer and software with F/LOSS alternatives a designer immediately engages in Stallman's and Dunne & Raby's critical activities. Designer's can better access the transparency Braithwaite talks about and better actualize the open source/vernacular un-self-concious iterating, improving, and forking; as well as provide a critique of our current situation by embodying alternative social and technical values.
+
+Free Does Not Mean Easy
+
+We have on the one hand a pragmatic approach based in the history of designing -- how we as humans created cultural and societal artifacts; and on the other, a critical design approach that intentionally positions itself as oppositional from mainstream moderno-capitalism. By choosing openness, transparency, and sharing designers are working in a way that is at odds w/ what the market wants. If you see design as serving business, then making your designs available to everyone might not seem like the right approach (Stallman has a rebuttal to this kind of thinking, but its a barrier).
+
+While one might adopt more open practices for themselves and be more open to collaboration, one is less able to collaborate as the tools have changed -- these are not the tools of most peers. In our class we collaborated with MICA's library on some new materials. The library thinks of itself as an open entity within the school (the ideals of Stallman's and F/LOS at large are mirrored by the Library's director and staff -- we even did a wikipedia editing demo with a library staff member). However, there were limitations to what we could do; we still had to create everything for them with Adobe Creative Cloud. Our content and ideals were inspired by F/LOS -- but our tools were not able to be. We were able to collect and share all manner of our designs, but we could not include the typefaces used in our repositories as they aren't open (the Library adheres to MICA's brand guidelines for its materials, so choices like Theinhardt for type were pre-determined).
+
+That F/LOS tools are hard to install and/or hard to use is cited as a barrier to use. Every student came in frustrated at least once with not being able to do something in Inkscape or Blender, or was unable to get a feature of Scribus to work, etc. Is it actually harder or more complicated or "worse" though really? or have we just given so much of our time to other things already that it just feels like "bad" software because of the inconvenience?
+
+Forks in the Road
+
+Or, Random final thoughts/questions...
+
+We need utopian thinking because without it, we are constrained by the tyranny of the possible. -- Stephen Duncombe
+
+What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We should start to see chances for design as a social critique; design that can return to its vernacular roots and not just serve clients or business. F/LOS ideals create an oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (Linux, Scribus, etc.) a designer is specifically saying "I am not using the same computer or software as you." and "my computer software has different ethics than yours" This has use as a critique of the status quo.
+
+As an educator my role is to help create new knowledge for my discipline. F/LOS allows for this in pragmatic and utopian ways. Its pragmatic in that there are F/LOS tools that do not exist in main stream operating systems nor from Adobe or Autodesk (the Spiro tool in InkScape for example, or NodeBox or Processing). It is utopian in that the tools themselves can reflect non-traditional values and propose alternate fictions or expand what is understood as possible or "standard."
+
+Another pedagogical advantage to F/LOS is that the file types are open standards. This means files can easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy. It also relinquishes one from the tyranny of tools. One can focus on designing over application learning.
+
+As a course, Special Topics in Graphic Design: Open Source, what was most useful was being reminded that Open Source software's successes are not unique to contemporary startup culture. The objects we actually need as humans have been being made in these ways forever. This means that we as visual designers are not precluded from accessing the techniques and ideas.
+
+The end?
+
+>>>
+
+
+Open Source Design
+A search for “open source design” online returns The Open Source Design Manifesto by Garth Braithwaite, a designer working on open source projects at Adobe. Braithwaite’s manifesto made a simple starting point in understanding how F/LOS impacts graphic design. The manifesto reads:
+
+I will:
+- find opportunities to design in the open
+- share my design experiences—both the good and the bad
+- find time for meaningful projects
+- openly participate in design discussions
+- work with other designers by choice
+- improve my toolbox 
+
+In a 2013 talk called “Designers Can Open Source,”  Braithwaite explains actions and behaviors designers might adopt for the “open-ness” the manifesto aims to inspire. The main tenant is to share more: “Sharing process, especially the failures, really helps” and “post as you are working, show how things evolve.”  This creates an ecosystem in which designers are more collaborative and more open with their neighbors—more unself-conscious—making design knowledge more effectively shared. Taking Braithwaite’s ideas to heart, our class made sharing and communicating a goal. To facilitate this, we moved our class project files to repositories on Github  (Braithwaite mentions Github as a tool for sharing and collaborating for codebases, we tried it for designing). We wanted to earnestly “design in the open.”  
+
+How Bazaar
+Contemporary open source understanding (Braithwaite’s included) comes from Eric Raymond’s The Cathedral and the Bazaar (2001). In the essay, Raymond analyzes Linus Torvalds’s (and his distributed hacker crew’s) development of the Linux Kernel. Raymond found magic in Torvald’s “release early, release often” mantra and distributed method of working.  Raymond points to the maxim “Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone,” or “Given enough eyeballs, all bugs are shallow,”  as key to Linus’s (and Linux’s) success. Get as many self-selected, expert users as possible to tinker with a design; then ask those same users to share everything wrong they find. As fixes are made, redistribute updates as fast as possible back to the group. Problem finding and solving is accelerated (duplicate searches end quickly because redistribution of fixes is rapid). This was crucial to Linux’s stability and rapid improvement. 
+
+Braithwaite is encouraging designers to adopt the same shared, distributed model in hopes that many skilled eyes will also make light work.    Graphic designers aim to find the best visual solution to a problem, but do we show “buggy” ideas to clients, colleagues, or stakeholders as part of our process in such an unself-conscious way? This is done easily within the classroom or in the studio between colleagues: hang work on the walls; pass designs between desks/desktops as they develop; look over one another’s shoulders. It can take place out in the world by using services like Dribbble,  Behance, and Github. However, open designing is not about accruing comments like “cool!” or “nice work!” or “wow! what’s that great esoteric typeface!” The goal is real solutions to unsolved problems. Designers and audience members other than ourselves might see things differently, catch things we have missed, or have a solution waiting that we have not found on our own (or have not found yet, thus shortening our solution’s path). 
+
+Our Special Topics in Graphic Design: Open Source class had moved our project files to Github, and we also decided to utilize Github’s issue queue to aid in communal problem-solving—making sure we lent one another our eyes. Issues let a user reveal found problems to the “community” (in this case our class but in general the maintainer and anyone else interested in a project) and then request help with solution finding. Peers peruse one another’s queues and attempt to help by providing thoughts; sharing a tutorial; or downloading, tweaking, and re-publishing a fix. For our class, utilizing issue queues encouraged us  when at our homes or working from separate studios across campus to stay a community. It was also incredibly complicated! For visual design projects the Github “distributed critique” made it hard to get deeper into one anothers’ experiments than just superficial commentary. It was easy to provide basic visual feedback: asking a question is not hard; theorizing is not too much work; throwing up a screen shot or two is easy; a “this is working, that isn’t” is not difficult. In contrast, forking  someone’s project, opening the files, and trying to make sense of design decisions AND understand the context and content of that direction required time that not many ended up investing. Our class found what most open source communities have found: a small percentage of the community are actually responsible for the majority of the work; most “members” merely download and attempt to use the software, code, utility, and so forth but do not actually help problem solve and improve.
+
+Free Means Freedom
+The community aspects that Braithwaite and Raymond point to are not all there is to F/LOS—and not all that might interest a graphic designer. Torvalds was working on the Linux Kernel to aid in the completing of a larger project, GNU.  GNU was created by Richard Stallman as “an operating system that is free software—that is, it respects users’ freedom.”  This is where the Free/Libre part of Free/Libre Open Source came from.
+
+Stallman predicated Free software on the following essential freedoms:
+
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+
+A program is free software if it gives users adequately all of these freedoms. Otherwise, it is nonfree. 
+
+Free software defined by Stallman values users; it does not want to enslave a user to the will of a program or the will of that program’s developer. Stallman’s motivation in 1983 was to maintain the share-and-share-alike, vernacular-like model computer programmers were accustomed to where all are able to build upon existing works. Stallman saw this under attack (most accounts claim that “free software” was birthed when Xerox asked a peer programmer not to share a printer’s source code with Stallman).  He was also motivated by being a good citizen.
+
+“I consider that the Golden Rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.”
+—Richard Stallman 
+
+Neither Braithwaite nor Raymond deal with any ethical points in their discussions or analysis of open source. Neither take a point of view as to why making should be done this way other than that “open design” arrives at better designs while saving resources. But “better” in that context is about less bugs and faster improvements not “better” morals. Corporate culture has embraced the “open source” part of F/LOS,    but what about the Stallman-esque free/libre piece, does that have implications for designing?
+
+In their book chapter “Designer as Author,” Anthony Dunne and Fiona Raby propose that designers “develop a parallel design activity that questions and challenges industrial agendas.”  This is design that is in opposition to mainstream culture. Stallman’s ideals play wonderfully with this “critical design” perspective—Stallman is promoting critical software. Free software challenges proprietary software’s agendas. Designers fully embracing “free-ness” in their software end up precluding themselves from the normal range of design tools but open themselves to new territory better representing socially conscious and sustainability related content (the ideology of respecting a user [an audience] matches nicely with a socially aware design practice). Switching one’s software in this context is a critical act. 
+
+Students in Special Topics in Graphic Design: Open Source formulating practices around “design is political” or “design is ideological”  found Stallman’s position more valuable than the pure pragmatics of Braithwaite’s “share more.” Using collective making to more rapidly come to a solution was not the important bit from F/LOS—the good citizenship was! That tools might now reflect one’s ethics was a valuable discovery. But, somewhat ironically, when adopting full libre practices for ideological reasons, collaboration can be more difficult. A peer’s set of tools may no longer be your tools.  So, although F/LOS tools might not always be possible, protecting an audience member’s freedom is. Stallman’s golden rule still holds true: “The Golden Rule requires that if I like a program [design] I must share it with other people who like it.” 
+
+The Special Topics in Graphic Design: Open Source class collaborated with MICA’s library on new print and signage materials. The library thinks of itself as an open entity within the school—the ideals of Stallman’s and F/LOS at large are mirrored by the library’s director and staff (free-ness of information, open access, collaboration, etc.). There were limitations to how “free” we could be—we had to create files with Adobe Creative Cloud (it is a standard toolset for MICA offices), and we had to use the institution’s fonts. Though software and fonts were non-free, students did still go to great lengths to find ways of using F/LOS content and the share and share alike mentalities. One student utilized the MICA library’s personal archives for imagery, often works in the public domain with no known copyright holder or to which the MICA library directly holds the rights. Reusing and remixing in the vernacular/open source vein is now a possibility for future library works. The class used issue queues to help divide and assign work, and the library staff were able to have access to the repositories to provide some input. The MICA brand guidelines can be made more powerful if following institutional “open sourcing” as the goal. Instead of blindly following brand guides, find holes and places for improvement. The one “bug” that the class asked the MICA communications department about for the library materials was in regard to which default set of icons MICA school projects should use. The communications team did not have an answer and since then have been exploring the best way to solve a branded icon set institutionally with some of our work as starting point.
+
+A Conclusion?
+As visual designers we are not precluded from accessing the techniques and ideas of F/LOS. Graphic designers can integrate F/LOS into their practice both pragmatically and conceptually: more and more (and better and better) tools exist from this realm (Github, Inkscape, NodeBox, etc.). F/LOS offers chances for design as a social critique; design that returns to unselfconscious, vernacular roots (open source is not new, it is basically the way that human creative endeavors have historically come into existence ); and design that serves more than just stereotypical clients and business needs (or, can serve those needs but even better—faster and with fewer bugs!). In choosing F/LOS alternatives in software a designer can say “I (and my tools) have different ethics than you (and your tools).” Designers adopting F/LOS critique the status quo, and even simply trying to make things with F/LOSS makes us better designers. Experiencing (or struggling with) new tools reminds designers that “goodness” in an interface, typeface, or other artifact is often based on familiarity—when things do not behave as expected they appear less good, whether or not this is objectively true.
+
+Making with F/LOS tools and ideals has pedagogical implications: all designers become teachers and students. A design file that one can open and poke around in is useful for anyone to learn from (How did they organize these layers? What makes that loopity-loop animate?). Because everyone can see the source code, information transfer can go back and forth through many different paths, not just from the top down. F/LOS tools are also likely to use open file formats that can be used across a wide variety of other tools and mediums so you are not locked into one program. Even if the program’s file type is specific, the many file types are really some type of XML, so the files can still be read with a text editor to see what is going on.  In addition to access to files, F/LOSS also offers access to more kinds of tools, so more options for making are available. There are F/LOS tools that do not exist in offerings from Adobe or Autodesk (the Spiro spline drawing tool that finds its way into InkScape and FontForge, or generative design tools like NodeBox and Processing). Seeing other kinds of vector drawing options might open space for one to make new things. If you believe that as an educator part of your role is to build on the knowledge of the past to create new knowledge, you must adopt F/LOS.
+
+The Special Topics in Graphic Design: Open Source class meandered along over the term but always in the direction of becoming more open, more libre. Despite not always being able to be fully libre (Richard Stallman would not have approved all our methods or tools), we did come out at the end of the term with new points of view on what makes a graphic design practice “good.” To the students “goodness” in a design practice now includes being open to sharing one’s work (failures and successes, code, files, etc.). Goodness also means building on works when and where you can (and letting others build and re-use your works). By increasing the variety of tools and techniques at one’s disposal a design practice can be more good. By utilizing open source tools, even in addition to proprietary ones—students did not think we needed to fully abandon our old tools and operating systems to be libre designers—one massively increases possibilities for formal output. Goodness also means operating ethically, attempting to make your designs ethical in the context of the golden rule (do unto others…) or in egalitarian access or in not enslaving or entrapping an audience to the will of a client or a designer.   
+
+So, the next time you research fonts, icons, templates, stock illustrations, or frameworks for a design project, look for free/libre open source ones. F/LOS offers not only a pragmatic approach reviving how we have historically created sociocultural artifacts but also a critical approach that, through utilizing ideologically based software and tools, intentionally positions itself in opposition to mainstream modern-techno-capitalism. 
+
+Bibliography 
+Braithwaite, Garth. “Designers Can Open Source.” Filmed September 2013 at Blend Conference, Charlotte, NC, video, 39:02. https://teamtreehouse.com/library/design-track-designers-can-open-source-garth-braithwaite.
+Braithwaite, Garth. “The Open Source Design Manifesto.” Open Design Foundation. Accessed May 1, 2018. http://opendesign.foundation/articles/the-open-source-design-manifesto/. 
+Brand, Stewart. How Buildings Learn: What Happens after They’re Built. New York: 
+Penguin Press, 1994.
+Dunne, Anthony, and Fiona Raby. Design Noir: The Secret Life of Electronic Objects. London: Birkhauser, 2001. 
+GNU Operating System. “The GNU Manifesto.” Accessed May 27, 2018. https://www.gnu.org/gnu/manifesto.html.
+GNU Operating System. “The GNU Project.” Accessed May 1, 2018. https://www.gnu.org/gnu/thegnuproject.html.
+GNU Operating System. “What Is Free Software?” Accessed May 1, 2018. https://www.gnu.org/philosophy/free-sw.html.
+Raymond, Eric. The Cathedral and the Bazaar. Sebastopol: O’Reilly Media, Inc., 2001.
+Vaidhyanathan, Siva. “Open Source as Culture-Culture as Open Source.” 2005. https://www.researchgate.net/publication/228232634_Open_Source_as_Culture-Culture_as_Open_Source. I’ll
+Williams, Sam. Free as in Freedom: Richard Stallman’s Crusade for Free Software. Sebastopol, CA: O’Reilly Media, Inc., 2002.
+
+>>>>
+
+# The Libre Designer.
+
+I have been working on a project called "The Libre Designer."
+
+I guess it started as an attempt to better explore the territory where Sustainability and Design overlap and create a new ideal for a design practice.
+
+[sust + design venn diagram?]
+
+What stemmed from an initial investigation into some Libre fonts — I had found things like the Gentium project. At the time (2007 or 2008?) had one of the more complete latin character maps. This felt more accessible, it was free to get, free to use, and served more people's languages, this felt more "sustainable" than other non-free, less character complete options at the time...
+
+So, from starting there I've ended up in this new place where I'm trying to adopt a fully libre computer setup.
+
+[GNU/Linux? F/LOSS? slide][tux? GNU wildebeast? something else visually interesting]
+
+The way I'm attempting to describe my point of view (for sustainable design) is with this idea: design for the welfare of all life; or that all life should be allowed to flourish, and we need to help serve that end...
+
+What I'm trying to figure out now is how F/LOS does that — serves the welfare of all life — better than what we've got going on now...
+
+I've found that the realm of F/LOS (Free/Libre Open Source) is an idealistic and diverse ecosystem.
+
+It's underpinnings lie in Richard Stallman's "Four Freedoms"
+
+The four essential freedoms according to the Free Software Foundation are (1) “the freedom to run the program, for any purpose,” (2) “the freedom to study how the program works, and change it to make it do what you wish,” (3) “the freedom to redistribute copies so you can help your neighbor,” and (4) “the freedom to distribute copies of your modified versions to others.” Free Software Foundation, “The Free Software Definition,” 1996,
+
+[Stallman's golden rule quote?]
+
+Long story short, Stallman lamented the loss of the vernacular, no strings attached method of computer programming (everyone shared and built upon each others code...). He saw the capitalist wave coming. His freedoms were meant to keep the user in power, not make software users subservient to software providers. Anyway, with this set of ideals, these match better the aims of sustainability!?
+
+(these are also good academically, but that's perhaps a different discussion?)
+
+Anyway, my vision of "sustainability" is more marxist, less capitalist — more about measuring different kinds of metrics than just dollars in the bank account or share price — more about helping humans do what they need, not what someone else wants … And if we look at nature, nature has lots of different solutions, not giant monolithic ones, F/LOSS fits into all this better than proprietary...
+
+…
+
+That's great as a set of ideals — how does it work in practice?
+Can Designer's open source???
+
+What operating system do I pick???
+
+So you want to use GNU/Linux? well, first you have to pick from the roughly 1500 distributions which one is right for you...
+
+I've tried Debian, Raspbian (built from debian specifically for optimization on Raspberry Pis), Ubuntu, Fedora, OpenSUSE, LinuxMINT, Manjaro, EasyOS, Arch Linux, and a few other things... Ubuntu is based on Debian, LinuxMINT is based on Ubuntu... Manjaro is based on Arch... It gets confusing...
+
+Okay, so you finally figured out what you're installing — now, what GUI are you going to choose? simple? complex? bloated? minimal? GNOME, XFCE, KDE Neon, Cinnamon, LXDE, MATE????? omg.
+
+What theme? What icon package???????
+
+[explode?]
+
+No wonder designer's don't do this.
+And yet, why not, you're actually in control — the same kinds of crazy detail you put into all the parts of a website, all the pieces of a brand, all the line breaks of a book, or picking (often open source if for a digital project) components, themes, colors, type, whatever, you can now put into your operating system!
+
+You can customize the icons, the layouts, all kinds of things — you can even control some things within the programs themselves (though this differs application to application)
+
+Okay, so, that's just to get an install on your computer and booted up into a usable (mostly) desktop environment.
+
+What about software???
+
+Now, it wasn't so long ago that this was a complicated question... There weren't always options... that's been changing. For sure there is something for pretty much anything you need to make. How it works though, that's a crap shoot. Since the software follows the same haphazard, diverse ecosystem patterns, its all over the place in terms of how things work, what keys do what, where menus are, what conventions are understood.
+
+You start playing around with these things and you say to yourself, okay, do I want to make something, or do I want to make my computer work... like is just getting my os and interfaces setup my fulltime job now? when do I get around to actually designing something?
+
+In terms of installing things, in terms of accessing whatever you want, GNU/Linux has been amazing.
+In terms of actually getting things setup enough that I feel comfortable working? I'm still figuring that out. Perhaps its because I've made the playing around with what's what the main part of my process right now, I need to find some projects to actually make somethings for (this talk was a good one...)
+
+The tools I've found most interesting aren't teh ones trying to be direct replacements for some existing tools — LibreOffice, Inkscape, GIMP, Scribus, FontForge (scribus is the worst to use of pretty much all the tools I've tried in linux) — it is the software that doesn't have a proprietary counterpart — Drawbot, Nodebox, some command line tools (ghostscript).
+
+What I've learned in my 10 months or so of GNU/Linux experiments (really hardcore for the last couple of months) is that I have to remind myself that I spent nearly 30 years using and learning and training myself on MacOS and Adobe products and the like. I spent most of my life using these proprietary tools and letting myself get used to them. I didn't really think there was an alternative; or rather I didn't really think of using or trying alternatives, they were "professional"
+
+What I'm finding is that, assuming that, its stupid. These other things are totally capable of producing "professional" output. I just might have to learn more, or relearn some, to make that happen. The advantage is I'm no longer tied to what Apple or Adobe want me to make; want to allow me to make.
+
+Eli Heuers quote re: under estimating vs over estimating user abilities
+
+I also need to get into how to make my files/designs open too.
+There are a few people working on this — unsplash, undraw, many icons and typeface, OSP, LibreGraphics Magazine... there aren't that many other options to look into right now — and the way the licensing works for software isn't exactly perfect when it comes to design files. Why is it useful to be able to download my files for this identity I made?
+
+To wrapup:
+
+I've been exploring the Free/Libre Open source landscape
+
+I've been trying to switch all my typefaces to F/loss
+
+I've been switching my workflow as much as possible on new things to it as well (basically I slowly am trying to make each new thing more and more fully reliany on the new tools, old things/collaborations are currently gradfathered in)
+
+I've been engaging people on twitter and instagram towards these ends as well, and I've inspired a few students and other colleagues to try new software, install linux, tweak projects to be more about these somethings
+
+I'm working on getting some repositories of actually design files online too
+
+And then next steps are that I need to document all the things I've done and thought about so far to speed up some other designer's adoption of these somethings
+
+I'm also hoping to work on some graphics of my own — an icon theme, some typefaces, etc. and build a designed GUI layer that can show how a designer might engage in customizing things on their end, or at least convey that this realm isn't designer less (most designers you find, either weren't initially designers, or perhaps have a different set of standards or tastes they are basing successful design from?)
+
+Sidenote: I want to add that its humourous to me that so many web things are "open source". It isn't strange for a designer to use something like twitter bootstrap or skeleton or react or wordpress to make something for the web (or even just HTML, CSS, Javascript, XML, PHP, MySQL — these are all "open source" too) but balk at libre type or a libre graphics software. Maybe its that the newer open source stuff is innovating in interesting ways — or just that there is only open source stuff online for the most part? Anyway, you see the same sort of massive ecosystems of tools in these places, and its getting hard to know what to learn or pick or whatever... anyway, we're not averse to open source in some tools and places (processing? brackets/atom?) so why not others?
+
+As the ideals of floss were socially positive, if you believe in valuing people over companies, if you believe in democracy and merit, if you believe in diversity, then F/LOSS tools provide a plethora of options that should better match your philosophies than the proprietary offerings do...
+
+https://www.naturalreaders.com/online/
+
+>>>>
+
+# Free as in Freedom.
+
+- intro
+- Bruce Lee? David Rudnick? Stewart Brand? Vernacular? Enzo Mari? Stallman? Raymond?
+- what are some useful ideals/philosophies from F/LOSS?
+- How do these apply/affect designing?
+- What about F/LOS tools/software?
+- How does the making/teaching of design change once the F/LOS ideas and tools are applied?
+- Modernism, Capitalism, etc. are all bad?
+- Conclusion
+
+“The master’s tools will never dismantle the master’s house” — Audrey Lorde
+
+“… Capitalism must constantly ‘cool hunt’ and turn whatever is authentic and genuine into trends for consumption” — Micah White
+
+Open source software has a wide reach. That reach is predominantly felt in the web/app sphere. It's also contemporaneously extended deeply into the corporate (at least start up wise) sector — Facebook React, Adobe Brackets and Phone Gap, IBM Plex typeface, etc. — But, despite most of the internet runing on open source tools (Apache, Node, PHP, etc.) visual design has yet to embrace or grow with this... Why?
+
+What does design save by not diving more fully into free/libre/open source? What can we bring to design from F/LOS communities?
+
+Type design is a place that seems to be doing pretty well open source wise… why type but not other graphic design places? Is it because we're accustomed to revival typefaces, but not revival layouts or logos? Is it because typefaces are more like tools and objects, and less purely formal, visual metaphors? What???
+
+From a typographic stand point, libre fonts are superior pedagogically. Students can look at and legally experiment with the actual insides of a typeface. Useful for also learning some actual typographic design — can build onto, fork and build anew, or addsomething to an existing typeface w/out fear of retribution! Better experiential learnng enabled?
+
+Open source is socialized means of production — which means you often have to help make your own shit. This isn't always what people want/can do? It is especially hard in regards to design: we are creators and problem solvers, but of often visual or physical things, not digital/code based things — especially not always of the actual tools of our design's productions (often working within a system — turn to printers for printing, typesetters/typographers for type, etc.)
+
+Does anyone here use Quark? do we all teach students Adobe Creative Cloud? We don't (I hope) all specify the same typefaces as right to use, we don't all use the same brand of pencil or notebook, we don't all read the same design books, we do mostly all use the same computers and computer software though.
+
+I'm having a hard time making this argument — we wouldn't expect a photo class to require that you use a Nikon f1, any camera might do. Why should all designers use Illustrator, Indesign and After Effects?
+
+How is teaching design different than teaching a specific tool? are some of these open tools better when it comes to learning designing over learning a software to enable the designing?
+
+Obviously, on one hand, we have a pragmatic situation: these are the tools of industry, pretty much every design studios my students are going to get jobs working at will be running Adobe Creative Suite on macs. Why would I not want to help students learn to use these things in my classes? But then I run into an issue — I don't know that the computer software we use to do these things will be the computer software we always use to do these things... how closely is the "designing" I'm teaching linked to the "softwareing"? Can I teach a student all the same time and motion concepts without ever having them use After Effects?
+
+Are the tools the issue or is it just the file formats? Regardless of paper or pencil brand I can draw the way I've learned to draw... regardless of paint I buy I can paint what I wish to paint... regardless of circular saw and hammer or typeface I can make a reasonable bench or poster... Are the digital tools we use which have replaced our hand tools so different that they cannot be replaced? WTF am I saying?
+
+Okay, alternatively though, if you think about designing as being a problem solver...
+
+Designing at its heart should be a set of skills, processes, patterns, ways of thinking, that are agnostic to discipline or tool. Obviously one needs some manner of experiential knowledge with a tool or medium or format in order successfully realize their vision, but in an abstract way. One of my favorite things about modernists like Massimo Vignelli is that thinking that their designing could be applied to anything — you need an identity? I can use my design knowledge to do that. You need a teacup? I can design that too. You need a suit? I can design a suit… a chair? wallpaper? table? business card? check check check check. That is agnostic to the tools of production. Have we tied the tools of production too closely to the designing?? what does open source change about that?
+
+Why don't designers use open source? it's got bad UI? it's hard to find, install and actually use? The moderno-capitalist machine tells you that only Adobe CC can produce "professional" work? (or maybe something from AutoDesk) — other than Maxim, who makes C4D can you name another design software company???
+
+This class has really changed student views. I've seen a lot of affect on projects outside of our class. I've heard a lot of conversations about other's works in other critiques that were influenced by our class. In the classroom for this class however, it always felt like we were "doing" very little — but maybe that was because of what we were doing. It wasn't about producing a lot of new work, it was about producing our work differently. So studnets were making things for other classes perhaps twice, or perhaps it was taking longer to make things for other classes because they were experimenting with multiple tools or unfamiliar tools.
+
+Something interesting about us designers is that we all are using the same operating systems and softwares. In a field that values creativity and inventiveness, how can we be good at designing UI's, etc. when we all are looking at and fiddling with the same set of things as each other? One thing about a good interface is that goodness is often about familiarity. There is a certain amount of intuitiveness that you want to achieve, but in the end I like my Mac because I've been using macs for 30 years (a Mac SE from 1988 was my family's first comp I really remember using a lot). My colleagues that exclusively have used Windows or the few that are die hard linux afficianados feel the same for their chosen ecosystems — these things work as expected, those others don't, thus this is good and those are bad. I ran into this with my students too. I requested that they all try to use open source alternatives to Adobe products for the term. Most of them indulged me by at least installing inkscape, gimp, scribus, blender, etc. on their machines, but in the end claimed they were too hard to get to make the "finished" work they were trying to make... it was bad software and they couldn't make it work. I would argue that goodness and badness isn't really the issue — its learned behavior that's the issue. It's like knowing how to play a piano, and then being handed a guitar having never played one before — you can figure out the notes and maybe generally make something musical, but you wouldn't be able to say, play all the pieces of music you'd already learned for the piano with any skill... Anyway, the point is — by forcing yourself to try alternative tools you are actually making yourself a better designer. you see more things, you experience more, you might find that there are multiple ways of drawing vector paths (for example, Inkscape has 5 different kinds of vector path options when you select the pen tool compared to illustrator's one (Illustrator only draws good old beziers))
+
+What's important about Free/Libre/Open source? to me its the ethics and the ideology. Even if you don't want to use the software or the fonts themselves (though you should, there are some magnificently robust F/LOS fonts [Fira, Noto, Gentium, …; and really, Inkscape is superior for pure vector drawing]) you can benefit from seeing designing from the point of view of an open source developer. Mainly, that while you might be the creative visionary, you owe it to the community that exists around your project to involve them in improving your work.
+
+Adopting the idea that your creativity should result in outputs that others can benefit from and build upon is at odds with our contemporary capitalist culture.
+
+You can do this in different ways.
+
+There are tools that do things that no adobe thing does (nodebox) …
+
+Teaching is more difficult than learning because what teaching calls for is this: to let learn. The real teacher, in fact, lets nothing else be learned than learning. His conduct, therefore, often produces the impression that we learn nothing from him, if by 'learning' we now suddenly understand merely the procurement of useful information. -- Martin Heidegger
+
+Anyway to illustrate my talk/essay with stuff from here: https://undraw.co/illustrations
+
+GNU's origins are in ethical utopia. Users are the same as neighbors, fellow citizens. We must apply our do unto others beliefs to the access and reuse of and extension of the tools we make, not just our person to person interactions.
+
+Pragmatic utopia: Imagine the world the way you wish it was, and then you actually sit down and try to build it that way.
+
+Can I design the design that belongs to the time/space/world that I want to live in? if it doesn't exist already around you then you have to make the objects to help grow the future you want around those designs.
+
+find yourself in places that you didn't intend to be. New, different, strange, tools from other places, these can allow for this in ways that "regular" or "main stream" tools cannot.
+
+You probably heard that one before because it was never new and it never gets old and its a folk song... — LLewyn Davis
+
+I have been teaching a class called Special Topics in Graphic Design: Open Source.
+
+We keep a special class on the books at the Maryland Institute College of Art called "Special Topics in Graphic Design." Its there so if something catches a professors interest they can easily run one experimental section o fit without having to go through the rigamarole of adding a new class to the books...
+
+Dave crossland at mica. google fonts. started a conversation about his background in open source and how that might have an effect on graphic designing. I asked him if he thought that using scribus and inkscape on linux led to different aesthetic or functional choices as a designer...
+
+What is the purpose of design? How does it change with Open Source?
+
+You often don't understand a problem until after the first time you implement a solution. If you want to get it right, be ready to start over at least once. How might one do this with their design practice? How about tools?
+
+What are benefits of using open source tools? Why would a designer open source their visual materials?
+
+Is there something aesthetically important we can learn from open source?
+
+Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected
+
+Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods.
+
+Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions?
+
+Nodebox is an interesting example of a toll that perhaps has one of the more intuitive interfaces I've used period. The normal rub against open source tools is taht the UI design is a nightmare. This is sort of a double strike against them from the point of view of a designer?
+
+From a variety of places, I arrived at experimenting w some alternative tools to the adobe creative suite. I had a raspberry pi sitting unused leftover from a previous project and thought I might try actually using linux to do some design work of my own. Not to much later, David Crossland of Google Fonts visited our graphic design department at MICA and after finding out about his background in the libre graphics community ended up having a conversation with him about my ideas re: alternative, open tools… anyway, a class was born.
+
+Since January I have been running a new course experiment at the Maryland Institute College of Art: Open Source Design.
+
+I've had a lot of experience with open source communities on the web — I was a Drupal user fairly early on, have tried all sorts of CSS frameworks, and contemporary javascript plugins — but had never really tried to use linux to run anything other than a server, nor gave any of the desktop tools a real go. Personally and pedagogically I was interested in giving some things a go.
+
+Stallman, GNU, cathedral and the bazaar, enzo mari's auto progettazione, DIYer counter culture 60s,70s, etc. stuff?
+
+Are we limited by our tools?
+
+Are we teaching students to use Adobe Creative Suite, or are we teaching them to be designers? How might alternative tools work better pedagogically in this goal?
+
+The Adobe creative suite is a outcome of Contemporary capitalism and contemporary aesthetic modernism (becoming the new global styles instead, sort of neo-avant-modernism)
+
+Stallman's main ideal is "Free and in Freedom." He didn't want to be limited by how or what he could do with the programming tools he was using. The mythology basically goes is that he gets frustrated with a printer, writes some new code for the print driver since he had the source code, but when the next version of the printer comes out it has the same problem but now xerox won't share the code so that he can fix it. This makes him so mad he walks out, quits his job at MIT, and writes the GNU manifesto … From then on focusing on free software (and literally living in his office at MIT still despite no longer officially working there [that's what having ideals gets you???]).
+
+The gist of "free as in freedom" is multi-fold:
+1. Free means that you have access to the under the hood raw materials and can tinker, fix, change, etc. at your will.
+1. Free also means that your improvements, changes, whatever can and should also then be shareable/redistributable
+1. It does not imply free as in no cost... Since the access to the source code is free, this is often the case, but it is not the intention.
+
+Reading the _GNU manifesto_ and _the Cathedral and the Bazaar_ (as well as a handful of other new and old open-source/libre/free software related stuff) reminded me of an architecture book I frequently return to, _How Buildings Learn_ by Stewart Brand. Brand explains various ways that vernacular buildings work and learn from each other over time. Pulling from Eric Raymond's points in TCATB and some of Stallman's freedoms yields a number of similarities: releasing early and often, that the "design" is communal and open (no one owns the design?), bug fixes come from the community at large (see the housing addition diagrams?), and successes are moved forward while failures are removed over time, things are often modular, people solve their problems first which often end up being other people's problems...
+
+Also from brand, the whole earth catalog.
+
+The whole ecosystem of the whole earth catalog and the other sort of DIY, counter culture things from the 60s and 70s. Enzo Mari's Autoprogettazione, How to Build your own Living Structures, Nomadic Furniture, etc.
+
+Open source as utopia?
+
+What's humourous about all of this is that Design was historically open source... Life/Humanity has always evolved and grown based on slowly and building on whatever came before without worry of credit or cost or whatever else... That we need something like open source now is slightly amusing — Wanting to carefully protect our intellectual or creative "properties" is a fairly new ideal. Perhaps its connected to the fairly modern idea of artist/designer as unique, special, individual creator/solver of problems?? Capitalism of course needs to be able to make money off these things... so that is part of the rub too. But, "Open Source" still works in capitalism (see RedHat, or Acquia as examples — selling support and other services, etc. built on top of an otherwise free tool (Redhat mainly sells support for its linux distributions, Acquia sells support and specialized hosting for large Drupal websites)).
+
+Open Design is not about community sourced design decisions, there can still be a single originator of the design, someone with singular vision, etc. but it does imply that there is transparency. (look at Garth's thoughts for reference on this?)
+
+How does a designer fit into F/LOS?
+
+F/LOS — Free, Libre, Open Source — Free as in Freedom...
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+How can you make open source more interesting to regular people, not just designers? Do people have any idea what open source is? Is it different than DIY?
+
+Is open source elitist?
+
+If you think of 20000 years ago you had to be a real individual — you had to find and make your own food, construct your own shelter, etc. Now you don't need that you can get away with only knowing how to be a musician... the collective brain we have is gigantic, other people can know how to do all these other things, and I can just play music...
+
+A hand axe can be created by a single individual, any modern thing, like a computer mouse or most software, no one person can create anymore. Distribution of labor and collaboration allow for gigantic things like building cathedrals or traveling to other worlds.
+
+Why would a smart person become a designer? Instead of being a arch-librarian governing eternal truth, the philosopher became a creative thinker that invented new concepts that we could use to advance our lives and society.
+
+Can code generate out design in a meaningful way?
+
+What have I learned? what have we learned? what did we talk about?
+
+do graphic designers make tools or just use tools
+
+read and discuss stallman, raymond, and some other typical open source writings, also look at designers working in the realm of vernacular, DIY, etc.
+
+Why not inkscape?
+Why not scribus?
+why not linux?
+
+The Four Freedoms:
+https://www.gnu.org/philosophy/free-sw.html
+
+The four essential freedoms
+A program is free software if the program's users have the four essential freedoms:
+
+The freedom to run the program as you wish, for any purpose (freedom 0).
+The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+The freedom to redistribute copies so you can help others (freedom 2).
+The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+A program is free software if it gives users adequately all of these freedoms. Otherwise, it is nonfree. While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
+
+In any given scenario, these freedoms must apply to whatever code we plan to make use of, or lead others to make use of. For instance, consider a program A which automatically launches a program B to handle some cases. If we plan to distribute A as it stands, that implies users will need B, so we need to judge whether both A and B are free. However, if we plan to modify A so that it doesn't use B, only A needs to be free; B is not pertinent to that plan.
+
+“Free software” does not mean “noncommercial”. A free program must be available for commercial use, commercial development, and commercial distribution. Commercial development of free software is no longer unusual; such free commercial software is very important. You may have paid money to get copies of free software, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.
+
+The Libre Designer.
+
+>>> start GNU references
+
+The GNU manifesto was originally written by Richard Stallman in 1985.
+
+The GNU project is part of the Free Software movement a campaing for freedom for users of software — Do not confuse Free Software with Open Source. Open Source was a term coined in 1998 by people who disagree with the Free Software Movement's ethical values. It promotes an amoral approach to the same field.
+
+"I consider that the Golden Rule requires that if I like a program I must share it with other people who like it." — stallman in GNU manifesto
+
+The fundamental act of friendship among programmers is the sharing of programs. The purchaser of software must choose between friendship and obeying the law. GNU serves as an example to inspire and a banner to rally others to join us in sharing.
+
+Once GNU is written, everyone will be able to obtain good system software free, just like air.
+
+wasteful duplication of system programming effort will be avoided.
+
+a user that needs to make changes to their system will always be free to make them.
+
+schools will be able to provide a much more educational environment by encouraging all students to study and improve the system code. [GNU Manifesto]
+
+Copying all or parts of a program is as natural to a programmer as breathing, and as productive. It ought to be as free.
+[does this sentence work if you replace program with design and programmer with designer??? — copying all or part of a design is as natural to a designer as breathing, and as productive. It ought to be as free.]
+
+distinguish between support in the form of real programming work and mere handholding.
+[the handholding is often missing in my personal experience]
+
+if anything deserves a reward it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results. [GNU Manifesto]
+
+There is nothing wrong with wanting to be paid for work or seeking to maximize one's income as long as one does not use means that are desctructive. The means customary in the field of software today are based on destruction. Restrictions reduce the amount and the ways that a program can be used. The reason a good citizen does not use such destructive means to become wealthier is that, if everyone did so, we would all become poorer from the mutual desctructiveness — this is Kantian ethics, or the Golden Rule. The desire to be rewarded for one's creativity does not justify depriving the world in general of all or part of that creativity.
+
+Control over the use of one's ideas really constitutes control over other epopel's lives; and it is usually used to make their lives more difficult.
+
+The intention was that nobody have to pay for permission to use gnu
+
+Distuinguish carefully between free in the sense of freedom and free in the sense of price. Free software is software users have the freedom to change and distribute.
+
+>>> end GNU references
+
+## Open Source Design Manifesto
+by Garth Braithwaite
+
+I will:
+- find opportunities to design in the open
+- share my design experiences; both the good and the bad
+- find time for meaningful projects
+- openly participate in design discussions
+- work with other designers by choice
+- improve my toolbox
+
+## Open Source Design Is Now Design Open
+
+To work on open source design means to publish creative work with an open license, giving the community a chance to reuse and rework your content in ways you may not have considered. It is also the act of contributing design work to existing open source projects. Both executions of open source design imply that the work is open to contributions and collaboration from outside designers.
+
+Although open sourcing is great, not every design can be published under an open license. However, almost every project can be designed openly
+
+As an added benefit to designing in the open, it is a short leap to open source design.
+
+encourage all designers to become familiar with open source and make contributions to projects they care about.
+
+This is not merely a nice idea, it is a clarion call to shed our insecurities, pride, and paralyzing perfectionism; to dedicate effort to helping worthy causes; and to raise the quality of design and design education on the web. A call to design open. — How do we improve this? How do we carry on the discussion?
+
+## On Being a Unicorn
+
+if you use F/LOS graphics software, standards and methods in your art or design practice, chances are good you have something interesting to talk to developers about. What you have to talk to them about is the way you use their software.
+
+## Designing Open Source
+
+I profit from using these technologies but I don’t know where to start with fixing any of their bugs. It's really frustrating.
+
+This is a real issue for designers — we don't really know how to jump in, its intimidating, its obtuse, its not designerly? We're good at solving problems, we're good at seeing places for improvement, but we don't know how to write computer programming... We might not even know how to use Github or IRC or any of that junk... Too many barriers?
+
+## This is the first day of the rest of my Life
+
+Anything awesome has a gestation period. We just happen to love believing in spontaneous creation.
+
+Applying F/LOSS principles to art and design might help us improve visual literacy, just as F/LOSS improves computer literacy. Applying F/LOSS principles to art and design might help us better understand the knowledge present in the creative process.
+
+Scientists have built an economy where giving things away will increase their reputation
+
+Even if the production methods of art have changed radically, the art market is still built on scarcity. Galleries will produce a limited number of copies of a video or photograph even if this medium potentially allows for unlimited copying and redistribution.
+
+allowing someone else to find something in my work that I had never seen before can be beautiful and fulfilling. Yet, having someone reinterpret my artwork is not the same as someone coming up with a clever new use for a sorting algorithm.
+
+the experience opens up new possibilities
+
+F/LOSS encourages a mindset of bringing together disparate sources to make something new. This is why artists could potentially feel at home. There’s never a clean slate when you make a work of art or design. We are informed by our personal history, we are informed by all the other works we know.
+
+Arguments against open design include that the process itself isn't clear, there aren't easy objective measurements of success (like a function works or it doesn't, a design is sort of subjective in this regard...)
+
+Is the accessibility of a tool at issue? is the accessibility a problem?
+
+does just showing content/process/files/etc. count as open design?
+
+open source = recursive?
+
+OSD represents and emerging form of infrastructure that, at its heart, enable non-hierarchical community sourced collaboration?
+
+OSD is rooted in vernacular techniques. Sharing, iterating, copying whatever works best was what allowed communities to develop effective tools, clothing, shelter, objects, etc. A similar set of practices, more or less everywhere, allowed for forms to slowly iterate, progress, improve, disperse, but still to generate local flavor and specialization. Aesthetics, materials, decoration, forms are able to grow and evolve based on specific locations, but the general idea of iterative, open, designs was the way pretty much all cultures "designed" in the past. Successful techniques were discovered to address local environmental conditions in an economic, reliable, easily duplicable manner.
+
+Interest in this vernacular approach began to surface within communities of computer scientists (this was also how scientific knowledge often is shared and grows) … this became (and is called variously) F/LOS: Free, Libre, Open Source...............
+
+Equal parts pragmatism and utopia...
+
+Values openness, innovation, viability over profit.
+
+Premised on the practices of sharing and increasing knowledge
+
+Focus is not on the development of commodity, but on addressing the needs of community members through continuous user-sourced feedback and iteration.
+
+Firefox Photon Design system? Solve a problem that others won't because some design decisions/bug finding comes from the community. (firefox best at screen reader friendly stuff, etc.)
+
+As designers we can integrate open principles into our practices simply by being more transparent and sharing more... sharing assets, data, visual components, processes... By making generosity a key component of practice, designers can build a rich ecosystem of collaboration and inspiration.
+
+designers can choose to use open source tools like Scribus or Fontforge. Free to modify their tools, open source designers have the power to change the aesthetic mode of production. This is particularly important because, as Fredric Jameson writes in _Postmodernisn, or The Cultural Logic of Late Capitalism_, because, “[a]esthetic production has become integrated into commodity production.” By using open source tools, designers can reclaim autonomy and authorship. [potential connection with Dunne/Raby, Mari, and the modernsim is bad conversation our class had]
+
+Still, the boundaries that define open source design are difficult to articulate. For some designers, the OSD approach may entail the use of open source programs such as Sketch or Scribus. For others, it may mean designing a custom GitHub page for a worthy piece of open source software. Still for others it may mean sharing resources, process, and knowledge. However, most examples of open source design, such as Mozilla’s Photon Design, remain directly connected to the world of open source software. While the infrastructure of open source software has been intentionally developed,open source design is a practice still in its infancy, and lacks an effective platform to leverage the power of the community.
+
+Participation in the open source community can cause radical shifts in design thinking, forcing dialogue into practice and problematizing tools often taken for granted. In the end, this may be the most significant advantage of open source design. As Enzo Mari writes in Autoprogettazione, building your own tools is the "best way to avoid being designed yourself." If everyone is given the opportunity to shape these tools, perhaps it is possible to design in a way which is responsive to the needs of the many, filling vital roles through user engagement. This not only guarantees greater inclusivity and accessibility, but represents a fundamental shift away from the capitalist mindset.
+
+Am i really this much of a communist? In my thinking about sustainability, I've been moving towards the idea that my tools are incorrect. Adobe's creative suite is a creation of a modernist/capitalist system that is creating the sustainability issues. If this is the case, only another set of tools should be supported. Is that where the OS stuff comes in? That's where it started for me — fonts — open fonts seemed more sustainable and egalitarian. From there I've moved towards more intrinsically open tools. I've been trying to make the way I work more transparent as well.
+
+>>> TCATB
+
+Every good piece of software starts by scrathcing a developer's personal itch. How can this be a design system instead????
+
+Good Programmers know what to write. Great programmers know what to rewrite and reuse. How might we reuse design patterns? design solutions? visual metaphors?
+
+Or, to put it another way, you often don't really understand the problem until after the first time you implement a solution. The second time, maybe you know enough to do it right. So if you want to get it right, be ready to start over at least once. How to do this with design generally? Is this just the regular creative process? is that why release early and often works? What am I working on that I can redo better now? what would be advantaged from a complete restart?
+
+If you are a designer and a lot of the users of your tools/designs are also designers, what benefits do you get by talking to the users more often?
+
+How to treat users as co-designers to find the least hassle route to design improvement and effective problem/gap identification?
+
+Whats the equivalent in a visual system for "release early and release often?"
+
+Can code generate out a design in meaningful ways???
+
+We generally work in design in the cathedral model: toiling away endlessly in the background for the one perfect release. More and faster output = better in open source programming, why not in open designing? less≠more in this context!
+
+Given enough eyeballs all bugs are shallow: what's the design version of this statement in my work (in academia?)
+
+the person who understands a problem is not necessarily or even usually the person that finds the problem first.
+
+One special feature of the Linux situation that clearly helps along the Delphi effect is the fact that the contributors for any given project are self-selected. An early respondent pointed out that contributions are received not from a random sample, but from people who are interested enough to use the software, learn about how it works, attempt to find solutions to problems they encounter, and actually produce an apparently reasonable fix. Anyone who passes all these filters is highly likely to have something useful to contribute. — TCATB
+
+One effect of a ``release early and often'' policy is to minimize such duplication by propagating fed-back fixes quickly — TCATB
+
+11. The next best thing to having good ideas is recognizing good ideas from your users. Sometimes the latter is better.
+
+12. Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.
+
+When you hit a wall in development—when you find yourself hard put to think past the next patch—it's often time to ask not whether you've got the right answer, but whether you're asking the right question. Perhaps the problem needs to be reframed.
+
+13. ``Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away.'' — Can a more open systems help graphic designers with this too???
+
+I think you can't really aim or plan for a result like this. You have to get pulled into it by design ideas so powerful that afterward the results just seem inevitable, natural, even foreordained. The only way to try for ideas like that is by having lots of ideas—or by having the engineering judgment to take other peoples' good ideas beyond where the originators thought they could go.
+
+Neither of us was original in the romantic way people think is genius...
+
+14. Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected. — for sure applicable, but what is a tool? do graphic designers make tools or just use tools?
+
+It's fairly clear that one cannot code from the ground up in bazaar style. One can test, debug and improve in bazaar style, but it would be very hard to originate a project in bazaar mode. Linus didn't try it. I didn't either. Your nascent developer community needs to have something runnable and testable to play with.
+
+When you start community-building, what you need to be able to present is a plausible promise. Your program doesn't have to work particularly well. It can be crude, buggy, incomplete, and poorly documented. What it must not fail to do is (a) run, and (b) convince potential co-developers that it can be evolved into something really neat in the foreseeable future.
+
+I think it is not critical that the coordinator be able to originate designs of exceptional brilliance, but it is absolutely critical that the coordinator be able to recognize good design ideas from others.
+
+But the problem with being clever and original in software design is that it gets to be a habit—you start reflexively making things cute and complicated when you should be keeping them robust and simple. I have had projects crash on me because I made this mistake, but I managed to avoid this with fetchmail.
+
+I restrained my tendency to be clever
+
+A bazaar project coordinator or leader must have good people and communications skills.
+
+The Social Context of Open-Source Software:
+
+18. To solve an interesting problem, start by finding a problem that is interesting to you.
+
+in shops where developers are not territorial about their code, and encourage other people to look for bugs and potential improvements in it, improvement happens dramatically faster than elsewhere. This seems to be the important part of openness, it doesn't even have to be super broad — just sharing and not being ego-driven is what's important?
+
+from TCATB: while coding remains an essentially solitary activity, the really great hacks come from harnessing the attention and brainpower of entire communities. The developer who uses only his or her own brain in a closed project is going to fall behind the developer who knows how to create an open, evolutionary context in which feedback exploring the design space, code contributions, bug-spotting, and other improvements come from from hundreds (perhaps thousands) of people. Brian eno says basically this same thing in his conversation with Bjarke... reference both???
+
+adaptive systems in biology and economics also irresistably suggest themselves
+
+like a free market or an ecology, a collection of selfish agents attempting to maximize utility which in the process produces a self-correcting spontaneous order more elaborate and efficient than any amount of central planning could have achieved
+
+start from individual vision and brilliance, then amplify it through the effective construction of voluntary communities of interest.
+
+>>> end TCATB
+
+±±±±
+
+A key issue in understanding — online in documents I found, with people I talked too, and in my students in the classroom — what that open design meant co-designing. I think this is not true. A design, to be good, needs strong initial vision and planning and theorizing. So, it would probably still start with an individual need or vision and spark of creative brilliance, but be amplifyied through the ideals expoused by Stallman, Raymond, et. al.: Openess, transparency, etc.
+
+±±±±
+
+The success of the open-source community sharpens this question considerably, by providing hard evidence that it is often cheaper and more effective to recruit self-selected volunteers from the Internet than it is to manage buildings full of people who would rather be doing something else. Okay, so is this then also a way to run a design studio???
+
+the moment there is open-source competition for a `boring' piece of software, customers are going to know that it was finally tackled by someone who chose that problem to solve because of a fascination with the problem itself—which, in software as in other kinds of creative work, is a far more effective motivator than money alone. Okay! so is this a good reason to use open source/free/libre tools?
+
+Human beings generally take pleasure in a task when it falls in a sort of optimal-challenge zone; not so easy as to be boring, not too hard to achieve. A happy programmer is one who is neither underutilized nor weighed down with ill-formulated goals and stressful process friction. Enjoyment predicts efficiency. Again, how does this relate to designing? And isn't this Marxist in its view? is that bad? is that what draws me to all of this, its being at odds with capitalist impulses?
+
+±±±±
+
+## Autoprogettazione:
+
+
+»»»»»»»»»»»»»»»»»»»»»
+
+# F/LOS Regularly[^1]
+
+## (or, the Libre Graphic Designer)
+
+Special Topics in Graphic Design is an elective in the Maryland institute college of art's (MICA) graphic design course list with no set structure or content. It is meant to evolve and change with new developments and faculty. This term I choose to run it with the topic of "Open Source" -- What this meant was roughly outlined: we'd use open source tools and discuss how design can be more open -- other than that, my ideas as the instructor were mainly in using the term as a lab: we'd experiment, hypothesize, and use the act of making with unfamiliar, non-traditional tools as a way to learn more about design and designing, as well as explore and implement first hand the ideals and softwares from the free/libre open source spheres. (From here on out: F/lOS or F/LOSS).
+
+From the work I've done around sustainability and workshops, conversations, and meetings had with some key visiting designers to MICA (David Crossland of Google Fonts, Loraine Furter & Eric Schrijver of Open Source Publishing), I felt that this was an important special topic to explore.
+
+The class became a hybrid studio/acadmic class. There was pure making -- just sitting down, opening a program, and trying to make a poster in inkscape for example (we would setup linux computers some days in class just for the purpose of trying a tool).
+
+The premise was meant to be simople: explore designing w/ this alternative set of tools and ideas.
+
+The students and I did a lot of reading, thinking, experimenting, and just attempting to use things like Blender, Scribus, Inkscape, Linux, NodeBox, Processing, and more... We looked at tools, file formats, philosophies and ideologies.
+
+Modernism is bad?
+
+Why F/LOS? tools? Ideas? How they change design? Garth DB?
+
+Through the use of the tools interesting new thinking was created. Via readings and discussions, reasons for using the F/LOS offerings were realized. Of course, pragmatic reasons (excuses? complaints?) were also found for _not_ F/LOSing. I prefered the utopian ideals, critical view point, design fiction stance that influenced many of the directions conversations took.
+
+Open Source ideals and how those relate nicely for pedagogical, social, and ethical reasons for using F/LOSS. (Designing w/ F/LOS tools and ideals)
+
+So what is this paper? what is (was?) this class? What is Libre Design (what is FLOS design?)
+
+I've been frustrated as of late with my role in the classroom. How am I to teach designing without accidentally falling back to just teaching software. Instead of demoing tools, how might we demo designing? Instead of learning a prescription for executing a specific outcome, how can I work towards the learning of learning to find the outcome you desire from anywhere (any place? any tool?)?
+
+F/LOS doesn't remove this issue, but it creates alternatives.
+
+Good place to insert some Dunne and Raby??? Possible/probable? Adjacent possibles? Also, Femke's thoughts on everyone using adobe from "awkward gestures?"
+
+These aren't the standards. You can't conflate learning to use scribus with learning to work in a design studio.
+
+Rudnick -- designing is increasingly focused on solving problems of a client, not problems of an audience. Does leraning to use the right tools to get employed relate to this? focus on technical skills as they apply to a workspace as opposed to the more general ideas of designing period?
+
+F/LOS tools are a struggle. Especially if you're already conditioned to how other tools work. Again, in presenting alternatives they point out the failings and successes of existing, more commonly used tools. Inkscape has more options when drawing with the pen tool for example -- that can lead to some really radical outcomes that you can't just accidentally arrive at w/ something like Adobe Illustrator.
+
+If the goal of us as academics is in increasing knowledge (I would also say that any field period is only useful if it is constantly producing knowledge and moving culture), then we are arbitrarily limiting the futures of visual design by collectively standardizing on a set of softwares/operating systems/formats.
+
+Digression to pure content? In science its useful for people to share units and equations -- I would equate this with file formats and design standards. Scientists/mathematicians can use all manner of tools and instruments to arrive at the same outcomes because of shared "infrastructure" -- like all using the same calculus notation -- not because of homogenous ways in/out??? If anything could edit/open a file, then it would matter less what thing you picked to edit that file. See HTML/CSS/Javascript (or any computer language frankly) -- you can use any editor you want... You can then even use these same text editors to edit SVG and XML files that really are visual files..........
+
+A little bit about using the software, what that presents, then get into the background ideals.
+
+A student found this tool: NodeBox as part of a simple research prompt they were give: find an F/LOS design tool none of the rest of us have seen/heard of yet. Nodebox is one of the more amazing pieces of software for making visuals I have used. Period. It's amazing. Its a fun, intuitive, fast way to make programmatic visuals.
+
+Something quaint and william morris-y about all of this. Understanding your tools better?
+
+Don't forget to get a bit more into the "making" part? some things faster, some things slower, but it presents new opportunities for learning in and out of the classroom. Students more forced to help each other. Learn to Learn ala Heideggar?
+
+open file formats ae superior. Undersatnd what is in them in a way you can't w/ proprietary file types.
+
+Open fonts are superior pedagogically. You can actually see the insides of a font w/out needing to do anything else.
+
+Ease of use is predominantly familiarity based. (find the essay this idea came from > open source ui? > maybe they linked to one more that really had it?)
+
+If we increasingly design interfaces, then we should probably use a lot more and different and varied versions of the interfaces to understand at least some of the other points of view (literally and figuratively)
+
+Good transition time into the ideals???
+
+So all this talk about the software/tools is great, and looking at how some of that more pragmatic stuff ended up directly in class, good too... however... what about the ideals/philosophies?
+
+Stallman's ethical foundations?
+
+Raymonds libertariansism?
+
+I'm into stallman's ideals, maybe not Open Source's generally?
+
+Free becomes Open Source to better serve business interests.
+
+Closed tools & Closed ecosystems?
+
+Design versions of this???
+
+Jump back to the whole earth catalog? and other counter-culture 60s/70s stuff?
+
+So Free/Libre/Open Source finds some footing in software, computer programming and the web. But what about visual design? what does it contribute other than just alternatives to the adobe creative suite?
+
+»»»»»»»»»»»»»
+
+"We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe
+
+» Caveat: I'm talking mainly about graphic and web design -- 2d, 3d visual design. That is where my experience and teaching live.
+
+When you hear "Open Source," an image of an aging techno-hippie, linux laptop toting developer, or silicon-valley millennial might come to mind. What probably would not pop into your head is a graphic designer.
+
+You also don't typically think easy to use, pleasant to look at, good user experience tools. Issues with UI and ability for "professional" outputs. This is partially due to the fact that most of the users and developers of these things are not designers (they are developers who need a design tool, or hobbyists or hackers).
+
+Libre Design
+
+Design Fiction
+
+Values are extreme but the "stuff" is more or less conservative.
+
+Challenge preconceptions about how software shapes our profession and pedagogy.
+
+In order for conceptual
+
+Dunne and Raby talk about speculative design -- that design should create an alternative to the status quo. When they talk about speculative deisgn or design fictions they are often presenting ideas related to using more or less conservative technologies/designs, but presenting values that are extreme.
+
+One way to engage in a "design fiction" of ones own is to choose F/LOS tools over our traditional ones. Arriving in a typically design classroom, one is presented with a wall of aluminum and glowing white fruit (or maybe space gray). Behind these glowing walls students will likely be typing and clicking around with the Adobe Creative Cloud.
+
+Is it problematic that an entire discipline shares not standard formats necessarily, but standard machines and softwares? If we are all using the sam einterfaces, the same programs for output, the same filetypes for input (file types that often prohibit other tools/users from being able to engage with them) what is lost in the disciplne of design? what kings of making are we prohibiting? what outcomes are not achievable? What learning opportunities are being missed or negated?
+
+## Spectacular Vernacular
+
+Enzo Mari's project Autoprogettazione? asked users of furniture to learn about how the furniture was structurally built in the hopes that by participating in the act of construction, one would learn what makes a table or chair or bed frame stable -- what makes a piece of furniture "good" at more than a surface, purely style based evaluation.
+
+Critical design claims?
+
+He arrived at this place through observing the traditional, ad hoc methods of building employed by carpenters, masons, etc. for utilitarian needs. These vernacular solutions inspired ???
+
+Move to brand? that vernacular thing is the switch?
+
+How to get back to open source?
+
+## The Golden Rule
+
+Stallman?
+
+Do unto others?
+
+How to get to teaching?
+
+## A New toolbox
+
+What are we teaching in our graphic design classes? Are we teaching students to use the Adobe Creative Suite -- or are we teaching them designing?
+
+How does the new toolbox solve whatever things I mention before???
+
+## One Cloud to Make them All
+
+Adobe more or less has a monoply on the toolset of the visual designer. Worldwide most designers, studios, and educational programs rely on Adobe tools to output their visuals (more physical good related things might be reliant on all autodesk suites of things instead, but the point more or less stands).
+
+Is there a pedagogical or ethical problem with that? Is it made worse by the fact that we can't get at any of the components under the hood? and I don't mean make or modify the software, I just mean even the basics of having file formats that aren't easily interchangeable or editable w/out their tools. Most of the libre design tools use some sort of open format, or at least text-editable format if you are mising the program. Scribus and Nodebox for example, their file formats are really both just special xml documents. Opening in a text editor means you can still pretty easily "read" the design even if you can't see it. This means that you can edit, improve, and reflow your file w/out even needing to have Scribus installed! If you can figure out the xml, you can make actual meaningful edits to your layout w/out the gui! Try that in Indesign.
+
+»»»
+
+Teaching is more difficult than learning because what teaching calls for is this: to let learn. The real teacher, in fact, lets nothing else be learned than learning. His conduct, therefore, often produces the impression that we learn nothing from him, if by 'learning' we now suddenly understand merely the procurement of useful information. -- Martin Heidegger
+
+--------------------------------------------------------------------------------
+
+[1]: F/LOS stands for "Free/Libre Open Source," it describes anything that fits into the realm of "free as in freedom," either the original Richard Stallman, GNU meaning of "free," to the more contemporary business friendly open source... It is also employed as F/LOSS -- the last S meaning "Software" -- Free/Libre Open Source Software.
+
+
+
+±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
+
+## References:
+
+Still need dates, authors, etc. and to format according to CMOS.
+
+- The GNU Manifesto: https://www.gnu.org/gnu/manifesto.en.html
+- The Four Essential Freedoms: https://www.gnu.org/philosophy/free-sw.html
+- Open Design Manifesto: http://opendesign.foundation/articles/the-open-source-design-manifesto/
+- Open Source Design Is Now Design Open: https://medium.com/design-open/open-source-design-is-now-design-open-e7005d577f6b
+- On being a Unicorn: the case for user-involvement in F/LOSS, libre graphics 1.2
+- Designing Open Source: https://medium.com/words-about-design/designing-open-source-e3adc220cfa7
+- This is the first day of the rest of my life, Eric Schrijver, libre graphics 1.1
+- The Catehdral and the Bazaar, Eric Raymond, This is version 3.0, Copyright © 2000 Eric S. Raymond, http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
+- Brian Eno and Bjarke Ingels Instruments of Change, https://www.youtube.com/watch?v=aBG8t6jDWuA
+- Brian Eno on Genius, and “Scenius”: http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/
+- Havoc Pennington, Free Software UI, April 2002, http://ometer.com/free-software-ui.html (accessed 2018-04-22)
+
+— https://www.are.na/kristian-bjornard/free-libre-open-design
+
+»»»»»»»»»
+
+Open Source Design
+
+Brief:
+What do the tools and ethos from Free/Libre/Open Source (FLOS) communities bring to a visual designer's education and praxis?
+
+500 Word Abstract:
+
+Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods. This paper also presents how the research, discussions, interviews, experiments, and work/output of the course “Open Source Design” (running Jan-May 2018) changes the ways a designer envisions their practice and methods of making. The paper utilizes the author's own work and research, work and research from the FLOSS community, as well as content created by their students to support the arguments. The way one works with FLOSS tools and ideals creates different systems, processes, methodologies, and aesthetics. The works of the author and their students provide interesting visual and code-based examples to help answer and illustrate this. Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions?
+
+Reviewer 1
+Been waiting for this.
+The proposal poses some interesting questions. Specifically, these broad and philosophical questions are located in paragraph 1. In paragraph 2, the proposal falls flat. I would recommend to the author, that s/he focus on addressing the questions raised in the first paragraph. If the paper simply becomes a write-up of the teaching experience, it will essentially retread many ideas and experiences that all faculty have already had in the classroom. The paper has the potential to be more provocative is it deals with the issues of "reuse," "accessibility," "transparency," "tools and ideas," et al. than if it becomes a reporting of a classroom experience.
+
+Reviewer 2
+Another hot topic that seems to be arising quickly with ever changing technology.
+I attended design conferences just last year and haven't heard this topic being discussed in a Design-Ed environment. I would be very interested to see how this open source softwares are integrated into the classroom.
+
+Reviewer 3
+Very thorough, supports how all claims will be executed and discussed. It is very clear what will take place during this presentation.
+I'm sure there are concrete examples of how you use this software in both the presentation and paper, but I would suggest perhaps including sample assignments as well to illustrate how to effectively implement these FLOSS programs into the classroom.
+
+»»»»»»»»»»»»»»»»»
+
+Design should be a conduit to communicate your values …
+do the tools that you choose to use affect this?
+
+
+>>>
+
+Libre Designer?
+
+I'm Kristian Bjornard, I am a faculty at the Maryland Institute College of art in Baltimore.
+
+This talk reinterprets the content in my paper to better focus on the "making" — I've earnestly attempted to make all aspects of my presentation from the Free/Libre Open Source (if I say F/LOS moving forward, its an acronym for Free/Libre Open Source) sphere of tools, tech, etc. — so fonts, imagery, etc. are either F/LOS, public domain, or made with F/LOS. To better show the making, I've screen captured a few experiments...
+
+Okay, onto the talk.
+
+We have an open ended GD class on the books at MICA called “Special Topics in Graphic Design.” The purpose being that faculty with an idea they'd like to test, or something particularly timely, can throw it into GD399 without needing to go through the bureaucracy regularly required for adding new course offerings. 
+
+This spring I ran a it with the topic of “Open Source.”
+
+What I proposed at the start was that there was this other world of software/fonts — tools — one might use based on a differing set of ideologies and needs than our “normal” tools — the Adobe suite on Macs for the most part, in my Graphic Design context. I saw the class predominantly as a graphic design studio. We'd be making print design mostly, but with Scribus instead of indesign, inkscape instead of illustrator. etc.
+
+I setup a lab w/ some linux computers with F/LOSS design tools — Blender, FontForge, GIMP, Inkscape, Scribus — to make playing with these things easier for students if they didn't wish to install them on their own machines. (more on why in "barriers" later)
+
+Just a show of hands — have any of you in the room tried designing using a linux machine and/or at least scribus/inkscape/gimp/blender/etc?
+I highly recommend it even as just playtime.
+
+Students would show up each week and we'd talk about readings and then try to make works we would make otherwise, but with the F/LOSS offerings.
+
+I hadn't personally used FLOSS for serious graphic designing. The class was also an opportunity for me to do all these things alongside the students.
+
+I've been interested in F/LOS as a way to better integrate my sustainability beliefs into my design work. So, the course was a way for me to test some conceptual things as well.
+
+Readings assigned were from the Free Software and Open source software movements themselves (GNU manifesto, TCATB), some musings from contemporary designers trying to make design w/ F/LOSS (Braithwaite, Libre Graphics Mag, OSP stuff), and then bits and pieces from designers not necessarily dealing with contemporary FLOS, but dealing with ideologies and ethics in one's work that have a community aspect, critical aspect, or all of the above... (Enzo Mari, Dunne and Raby, Michael Mandiberg, etc.)
+
+One part of what came out of the class were new views on how the actual processes of designing could better match world views and beliefs. And how the software we use is just as important as clients, types of work, aesthetics, etc. if we see design as ideological or political act... Another was in showing how intentional collaboration, transparency, etc. might make designing more effecting… another that perhaps humanity had just been doing this all along and we chose to forget it and are struggling to figure out how to do it again… and another that perhaps — from a less abstract place — that just trying to make things with new tools is a good way to separate the "designing" from the "tool" …
+
+I'll attempt to cover the barriers to entry, the successes, and then some opportunities for class/pedagogy/practice.
+
+So, where to start. Where does F/LOS even come from? Why would a graphic designer be interested in this stuff? Do we need additional tools????
+
+Where does it come from:
+
+Richard Stallman. One day in 1983 he's sitting in his office trying to print to the new Xerox copier his lab at MIT had been given (he worked as a programmer in the AI lab). He goes to get his print and instead finds some other incomplete job waiting for him instead, and the copier has some error. He figures he can fix the printer software… but can't get the source code, Xerox isn't letting anyone outside the project have access to the source. 
+
+Stallman finds this abhorrent — all computer programs up until then had basically been a sort of vernacular-like share-and-share-alike, where programmers just handed over or mailed actual disks and tapes w/ stuff on them. how could Xerox be forcing his fellow programmer pals to not share with each other? … it continues to bother him, and this printer not printing is Stallman's last straw that leads him to found GNU and the Free Software Foundation.
+
+The Free in free software means freedom. Due to some understanding issues, the libre was added to be clear about the type of freeness this means — freedom, not price...
+
+Freedom to use, freedom to edit, freedom to share.
+
+Stallman felt (still feels) that the tide was shifting, more software was going to become proprietary, and that these freedoms were being violated. Stallman decided to take a stance.
+
+So Stallman see's freeness as valuable. It's tied to his thinking of how programs work, and how being a good human works:
+
+“I consider that the Golden Rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.”
+— Richard Stallman
+
+This is a person standing up for what they think is right. Stallman's Free/Libre stance is to use software to promote his ethics — be a good neighbor...
+
+To take this to a step closer to graphic design, there's two ideas I want to quickly analyze — for pragmatics, we can look at vernacular models, and wonder, well, what stallman is describing in terms of users having freedoms to use a thing however they want, share it, and modify it to their needs, that just sounds like how all things used to be made … I mean cape cod houses, shaker chairs, whatever. So, for me, I have been wondering why this got lost to visual designers, is it just capitalism? or is there something else we're missing? I don't have an answer for this yet.
+
+And then, in terms of utopianism, if Stallman founded the free software foundation and the GNU operating system on such intentional, oppositional to main stream views, GNU is a "critical design" a la Dunne and Raby.
+
+"Designers should develop parallel design activity that questions and challenges industrial agents."
+
+Is this too good to be true? by just using GNU/Linux and installing the F/LOS design equivalents you're participating in a community challenging mainstream techno-modern-capitalism… Using F/LOS is just a critical design act!
+
+I personally loved this. this felt like a real connection between my designing and my interests in sustainability and other socially conscious endeavors. My students liked it to. That a tool might reflect your ethics more authentically was valuable.
+
+Students in Special Topics: Open Source formulating practices around “design is political” or “design is ideological” found Stallman’s position more valuable than the pragmatics of Braithwaite’s “share more.” Using collective making to more rapidly come to a solution was not the important bit from F/LOS — the good citizen-ship was! That tools might now reflect one’s ethics was a valuable discovery. But, somewhat ironically, in adopting full libre practices for ideological reasons, collaboration can be more difficult. A peer’s set of tools may no longer be your tools. Though F/LOS tools might not always be possible, but protect an audience member’s freedom is. Stallman’s golden rule still holds true: “… The Golden Rule requires that if I like a program [design] I must share it with other people who like it.”
+
+All Design is Ideological
+
+Shouldn't our design tools be ideological too?
+
+It also felt like a nice tie to 60s/70s counter-cultural design stuff like the whole earth catalog, Enzo Mari's Autoprogettazione, Papanek's Nomadic Furniture, Ken Isaacs living structures, Buckminster Fuller's dymaxion objects... etc. Those are projects and figures referenced by contemporary designers still, and those works were about trying to "open up" design using the freedoms stallman outlines, before stallman got to his free software! this was "free design" seemingly, and helped me at least validate that designers can do this (though, again, its easiest to find object and architecture designed things that have published plans, etc. where you build it yourself or 3D print it yourself, but not necessarily print graphics...)
+
+Why have developers latched onto the open source movement, but designers have not?
+— Garth Braithwaite
+
+okay, so, Great, we/ve got this utopian position — all software should be free software, all designs should be free designs, it sounds great, but if this is all wonderful and great, why are there those OS letters at the end of the FLOS acronym???
+
+stallman creates this initial position. based on the 4 freedoms. since the freedoms say things can be modified and redistributed. That means that the ideas can too. Open source is a good example of it. Something interesting happens, we take that and do something, and forget about the intention to begin with...
+
+Linus/Raymond?
+
+let's go back and look at the other, pragmatic side of things.... that idea that cultural artifacts have just generally been created through the sort of free sharing process Stallman wants to hold onto …
+
+So, what contemporary "Open Source" means, that's basically that aspect of the freedoms — the freedom to modify and redistribute — but removed from the other ethical/ideological implications of Stallman. Contemporary open source is vernacular designing, free designing, that's been accelerated and decentralized.
+
+And that's where a lot of "open source design" stuff one comes across lives. It isn't in the critical design, idealistic place, its in this pragmatic place, software that will do things anywhere for anyone if you can figure out how to install it, not that you take up a position. That's because, business has latched onto Open Source — but they never really latched onto "Free software" — the "freedoms" part wasn't in their best interest.
+
+Is that way more designers haven't adopted the tools or structures? If you see design as serving business, making designs and design processes available to anyone might seem strange initially. However the pragmatic, “open source” of Raymond results in design that more rapidly improves. Unselfconcious, share-and-share-alike behavior then raises everyone’s boats. Raymond’s description of the “bazaar” that initially helped define open source is how almost all software is built these days — Facebook, Google, Oracle all benefit from this model. Business has embraced “Open Source” in software, we can embrace the same in Design.
+
+part of that is semantic, it was too easy to accidentally hear "free as in price, so it is probably less-than" … but its also ideologic — businesses find that they make easy money by not following the full set of freedoms...
+
+the main reason businesses have latched onto OS is that is has a better sales pitch: Open Source arrives at better designs while saving resources. But “better” in that context is about less bugs and faster improvements, not “better” morally. There's nothing about freeing users, etc.
+
+basically that the more you share and the more transparency you have re: processes, problems in need of solutions, etc. the faster you can improve a design...
+
+okay, so, idealists, yeah. Pragmatists that just want to design better and faster, yeah. F/LOS helps on both fronts.
+
+So that is design practice helped, does design pedagogy get a similar boost???
+
+My answer is yes.
+
+My role as an educator is to help create new knowledge. 
+
+F/LOS software allows for this. 
+
+At the most basic level there are just more kinds of tools available for making if you choose to integrate F/LOSS into your practice or classroom. Inkscape has more options for drawing lines than illustrator. There is this great tool called the Spiro Spline that lets you draw amazing continuous curves — and — even better, breaks in weird and wonderful ways we you don't use it as intended.
+
+You're missing out if you only use illustrator.
+
+Another example is Nodebox. It's a generative design tool, but has one of the best user interfaces of anything I've ever used. Due to the nature of its open sorcery, the community around it is also remarkable. And sharing is a way to learn to use the tool. The best way to find out something is to post your problem to the issue queue with your files and see if someone else will download your files, do something with them and post (hopefully) a new result that is closer too what you intended
+
+w/ the four freedoms, and with everyone attempting to return to a vernacular, share and share alike model, all designers become practitioners and teachers and students.  A design file that one can open up and poke around in is useful for anyone to learn from. 
+
+That we can download fonts, and actually inspect and alter their letterforms aids in teaching typography. 
+
+Seeing multiple kinds of vector drawing options at work shows you new things you might make. 
+
+There are F/LOS tools that do not exist in offerings from Adobe or Autodesk (the Spiro spline drawing tool which finds its way into InkScape and FontForge, or generative design tools like NodeBox and Processing (generative design in Indesign is possible through using your own custom javascript (open source) or with the addition of something like the Basel.js plugin (open source))). 
+
+barriers:
+- hard to figure out what to download
+- accessing, etc. different initially for everything
+- lazy/frustration on student part
+- communities inherently biased
+- in my case, school computers weren't able to have the stuff installed
+- obviously I could come up with more, but I'd rather not.
+
+Successes
+- few real legit making days (illustration day, Book making last day)
+- interface "goodness" is based on familiarity, good for help empathizing with users? audience?
+- at least at first, the content and class make up was really good for discussion — I don't know if that was just luck, or a success of the class
+- The course really influenced making outside of the class as well in ways I hadn't seen before
+- fun!
+
+
+The next time you go looking for F/LOS design and quickly find fonts, icons, templates, stock images and illustrations, and frameworks ask yourself: Is this all that F/LOS design means? Is that really all that’s possible? F/LOS offers up a pragmatic approach based on reviving how we as humans previously created socio-cultural artifacts; and a critical approach intentionally positioning itself in opposition to mainstream moderno-techno-capitalism. Those design “objects” that might help make more designs are the pragmatic side of things. The main outcome of our class it turns out is in trying to now populate the ideological side.
+
+
+>>>>
+
+# F/LOS Regularly[^1]
+
+## (or, the Libre Graphic Designer)
+
+"The master's tools will never dismantle the master's house" -- Audrey Lorde
+
+"... Capitalism must constantly 'cool hunt' and turn whatever is authentic and genuine into trends for consumption" -- Micah White
+
+"We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe[^2]
+
+"I consider that the Golden Rule requires that if I like a program I must share it with other people who like it." -- Stallman in GNU manifesto
+
+"Teaching is more difficult than learning because what teaching calls for is this: to let learn. The real teacher, in fact, lets nothing else be learned than learning. His conduct, therefore, often produces the impression that we learn nothing from him, if by 'learning' we now suddenly understand merely the procurement of useful information." -- Martin Heidegger
+
+"allowing someone else to find something in my work that I had never seen before can be beautiful and fulfilling. Yet, having someone reinterpret my artwork is not the same as someone coming up with a clever new use for a sorting algorithm." -- Eric Schrijver
+
+Free/Libre Open Source Software has a wide reach. Open operating systems power servers and computers and open programs and modules run websites and makeup pieces of or the totality applications we rely on daily. F/LOSS also contemporaneously has extended deeply into the corporate (at least start up wise) sector -- Facebook React, Adobe Brackets and Phone Gap, the IBM Plex typeface, etc. -- But, despite most of the internet (and increasingly enterprise backends) running on open source tools (Linux, Apache, Node, PHP, React, etc.) visual design has yet to fully embrace these tools and ideas. What does visual design gain (or preserve?) by not dipping its toes into free/libre/open source? What can we bring to graphic design from F/LOS communities?
+
+Why don't designers use open source? it's got bad UI? it's hard to find, install and actually use? The moderno-capitalist machine tells you that only Adobe CC can produce "professional" work? (or maybe something from AutoDesk) -- other than Maxim, who makes C4D can you name another design software company???
+
+Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
+
+Designers in open source are often found in the contemporary web/app sphere. There are plenty of CSS frameworks and component libraries that are upkept by designers (@fat, @jxnblk to list two such "designers" -- Twitter Bootstrap, BassCss, Styled System, etc.); or maybe they work on for a dsitributor of a specific Linux flavor (Nuno Pinheiro). Either way, they don't typically run in the typical graphic design circles. Why aren't there more graphic designers involved in these things?
+
+Why don't designers participate in open source communities the same way that developers do? presumably the design of the tools can be open just like the programming. Is there just not an easy way for designers to get involved? is everything too technical, even in terms of designing how something should look? or is it that no designers really participate already, and everything is so hard on the the eyes that the few designers who try the tools just turn away in fear or disgust? How do we get designers making design-magic for these open source tools? (And designing in accordance w/ the ideals/values of the community; but that is a different conversation.)
+
+Special Topics in Graphic Design is an elective in the Maryland institute college of art's (MICA) graphic design course list with no set structure or content. It is meant to evolve and change with new developments and faculty. This past term I choose to run it with the topic of "Open Source" -- What this meant was sketchily outlined: the class would use open source tools and discuss how design can be more open. Other than that, my ideas were mainly in using the term as a lab: we'd experiment, hypothesize, and use the act of making with unfamiliar, non-traditional tools as a way to learn more about design and designing, as well as explore and implement F/lOS ideals and software.
+
+The course was inspired by work and thinking I've done around sustainability and from workshops, conversations, and meetings had with some key visiting designers to MICA over the last several years (David Crossland of Google Fonts, Loraine Furter & Eric Schrijver of Open Source Publishing).
+
+The premise was meant to be simple: explore designing w/ this alternative set of tools and ideas.
+
+The students and I did a lot of reading, thinking, experimenting, and just attempting to use things like Blender, Scribus, Inkscape, Linux, NodeBox, Processing, and more... We looked at tools, file formats, philosophies and ideologies.
+
+Why F/LOS? tools? Ideas? How they change design?
+
+Applying F/LOSS principles to art and design might help us improve visual literacy, just as F/LOSS improves computer literacy. Applying F/LOSS principles to art and design might help us better understand the knowledge present in the creative process.[^3]
+
+Through the use of the tools interesting new thinking was created. Via readings and discussions, reasons for using the F/LOS offerings were realized. Of course, pragmatic reasons (excuses? complaints?) were also found for _not_ F/LOSing. I preferred the utopian ideals, critical view point, design fiction stance that influenced many of the directions conversations took.
+
+Open Source ideals and how those relate nicely for pedagogical, social, and ethical reasons for using F/LOSS. (Designing w/ F/LOS tools and ideals)
+
+if anything deserves a reward it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results. [GNU Manifesto]
+
+schools will be able to provide a much more educational environment by encouraging all students to study and improve the system code. [GNU Manifesto]
+
+F/LOSS encourages a mindset of bringing together disparate sources to make something new. This is why artists could potentially feel at home. There's never a clean slate when you make a work of art or design. We are informed by our personal history, we are informed by all the other works we know.[^2]
+
+I've been frustrated as of late with my role in the classroom. How am I to teach designing without accidentally falling back to just teaching software. Instead of demoing tools, how might we demo designing? Instead of learning a prescription for executing a specific outcome, how can I work towards the learning of learning to find the outcome you desire from anywhere (any place? any tool?)?
+
+F/LOS doesn't remove this issue, but it creates alternatives.
+
+Good place to insert some Dunne and Raby??? Possible/probable? Adjacent possibles? Also, Femke's thoughts on everyone using adobe from "awkward gestures?"
+
+These aren't the standards. You can't conflate learning to use scribus or inkscape with learning to work with the production tools of a design studio. It might be about drawing vecotrs or the general ideas of using layout tools. But it isn't being taught the "right way" industry expects you to use. Conflict between what the graphic design industry wants and what being an educator wants. I don't want to teach you to be a worker or a productionist, I want to teach you to be a designer. Might these alternative tools do this better?
+
+Rudnick -- designing is increasingly focused on solving problems of a client, not problems of an audience. Does leraning to use the right tools to get employed relate to this? focus on technical skills as they apply to a workspace as opposed to the more general ideas of designing period?
+
+F/LOS tools are a struggle. Especially if you're already conditioned to how other tools work. Again, in presenting alternatives they point out the failings and successes of existing, more commonly used tools. Inkscape has more options when drawing with the pen tool for example -- that can lead to some really radical outcomes that you can't just accidentally arrive at w/ something like Adobe Illustrator.
+
+If the goal of us as academics is in increasing knowledge (I would also say that any field period is only useful if it is constantly producing knowledge and moving culture), then we are arbitrarily limiting the futures of visual design by collectively standardizing on a set of softwares/operating systems/formats.
+
+Digression to pure content? In science its useful for people to share units and equations -- I would equate this with file formats and design standards. Scientists/mathematicians can use all manner of tools and instruments to arrive at the same outcomes because of shared "infrastructure" -- like all using the same calculus notation -- not because of homogenous ways in/out??? If anything could edit/open a file, then it would matter less what thing you picked to edit that file. See HTML/CSS/Javascript (or any computer language frankly) -- you can use any editor you want... You can then even use these same text editors to edit SVG and XML files that really are visual files..........
+
+A little bit about using the software, what that presents, then get into the background ideals.
+
+Stallman's main ideal is "Free and in Freedom." He didn't want to be limited by how or what he could do with the programming tools he was using. The mythology basically goes is that he gets frustrated with a printer, writes some new code for the print driver since he had the source code, but when the next version of the printer comes out it has the same problem but now xerox won't share the code so that he can fix it. This makes him so mad he walks out, quits his job at MIT, and writes the GNU manifesto ... From then on focusing on free software (and literally living in his office at MIT still despite no longer officially working there [that's what having ideals gets you???]).
+
+The gist of "free as in freedom" is multi-fold:
+
+1. Free means that you have access to the under the hood raw materials and can tinker, fix, change, etc. at your will.
+2. Free also means that your improvements, changes, whatever can and should also then be shareable/redistributable
+3. It does not imply free as in no cost... Since the access to the source code is free, this is often the case, but it is not the intention.
+
+(four freedoms here instead????)
+
+A student found this tool: NodeBox as part of a simple research prompt they were give: find an F/LOS design tool none of the rest of us have seen/heard of yet. Nodebox is one of the more amazing pieces of software for making visuals I have used. Period. It's amazing. Its a fun, intuitive, fast way to make programmatic visuals.
+
+Something quaint and william morris-y about all of this. Understanding your tools better?
+
+Don't forget to get a bit more into the "making" part? some things faster, some things slower, but it presents new opportunities for learning in and out of the classroom. Students more forced to help each other. Learn to Learn ala Heideggar?
+
+open file formats ae superior. Understand what is in them in a way you can't w/ proprietary file types.
+
+Open fonts are superior pedagogically. You can actually see the insides of a font w/out needing to do anything else.
+
+Type design is a place that seems to be doing pretty well open source wise... why type but not other graphic design places? Is it because we're accustomed to revival typefaces, but not revival layouts or logos? Is it because typefaces are more like tools and objects, and less purely formal, visual metaphors? What???
+
+From a typographic stand point, Libre fonts are superior pedagogically. Students can look at and legally experiment with the actual insides of a typeface. Useful for also learning some actual typographic design -- can build onto, fork and build anew, or add something to an existing typeface w/out fear of retribution! Better experiential learnng enabled?
+
+Ease of use is predominantly familiarity based. (find the essay this idea came from > open source ui? > maybe they linked to one more that really had it?)
+
+If we increasingly design interfaces, then we should probably use a lot more and different and varied versions of the interfaces to understand at least some of the other points of view (literally and figuratively)
+
+Good transition time into the ideals???
+
+So all this talk about the software/tools is great, and looking at how some of that more pragmatic stuff ended up directly in class, good too... however... what about the ideals/philosophies?
+
+GNU's origins are in ethical utopia. Users are the same as neighbors, fellow citizens. We must apply our do unto others beliefs to the access and reuse of and extension of the tools we make, not just our person to person interactions.
+
+Pragmatic utopia: Imagine the world the way you wish it was, and then you actually sit down and try to build it that way.[^4]
+
+Can I design the design that belongs to the time/space/world that I want to live in? if it doesn't exist already around you then you have to make the objects to help grow the future you want around those designs.
+
+find yourself in places that you didn't intend to be. New, different, strange, tools from other places, these can allow for this in ways that "regular" or "main stream" tools cannot.
+
+Raymonds libertariansism?
+
+I'm into stallman's ideals, maybe not Open Source's generally?
+
+Free becomes Open Source to better serve business interests.
+
+Closed tools & Closed ecosystems?
+
+Design versions of this???
+
+Jump back to the whole earth catalog? and other counter-culture 60s/70s stuff?
+
+So Free/Libre/Open Source finds some footing in software, computer programming and the web. But what about visual design? what does it contribute other than just alternatives to the adobe creative suite?
+
+»»»»»»»»»»»»»
+
+When you hear "Open Source," an image of an aging techno-hippie, linux laptop toting developer, or silicon-valley millennial might come to mind. What probably would not pop into your head is a graphic designer.
+
+You also don't typically think easy to use, pleasant to look at, good user experience tools. Issues with UI and ability for "professional" outputs. This is partially due to the fact that most of the users and developers of these things are not designers (they are developers who need a design tool, or hobbyists or hackers).
+
+Libre Design
+
+Design Fiction
+
+Values are extreme but the "stuff" is more or less conservative.
+
+Challenge preconceptions about how software shapes our profession and pedagogy.
+
+In order for conceptual
+
+Dunne and Raby talk about speculative design -- that design should create an alternative to the status quo. When they talk about speculative deisgn or design fictions they are often presenting ideas related to using more or less conservative technologies/designs, but presenting values that are extreme.
+
+One way to engage in a "design fiction" of ones own is to choose F/LOS tools over our traditional ones. Arriving in a typically design classroom, one is presented with a wall of aluminum and glowing white fruit (or maybe space gray). Behind these glowing walls students will likely be typing and clicking around with the Adobe Creative Cloud.
+
+Is it problematic that an entire discipline shares not standard formats necessarily, but standard machines and softwares? If we are all using the sam einterfaces, the same programs for output, the same filetypes for input (file types that often prohibit other tools/users from being able to engage with them) what is lost in the disciplne of design? what kings of making are we prohibiting? what outcomes are not achievable? What learning opportunities are being missed or negated?
+
+## Spectacular Vernacular
+
+Enzo Mari's project Autoprogettazione? asked users of furniture to learn about how the furniture was structurally built in the hopes that by participating in the act of construction, one would learn what makes a table or chair or bed frame stable -- what makes a piece of furniture "good" at more than a surface, purely style based evaluation.
+
+Critical design claims?
+
+He arrived at this place through observing the traditional, ad hoc methods of building employed by carpenters, masons, etc. for utilitarian needs. These vernacular solutions inspired ???
+
+Move to brand? that vernacular thing is the switch?
+
+How to get back to open source?
+
+## The Golden Rule
+
+Stallman?
+
+Do unto others?
+
+How to get to teaching?
+
+## A New toolbox?
+
+## One Cloud to Rule them All?
+
+What are we teaching in our graphic design classes? Are we teaching students to use the Adobe Creative Suite -- or are we teaching them designing?
+
+How does the new toolbox solve whatever things I mention before???
+
+How is teaching design different than teaching a specific tool? are some of these open tools better when it comes to learning designing over learning a software to enable the designing?
+
+Obviously, on one hand, we have a pragmatic situation: these are the tools of industry, pretty much every design studios my students are going to get jobs working at will be running Adobe Creative Suite on macs. Why would I not want to help students learn to use these things in my classes? But then I run into an issue -- I don't know that the computer software we use to do these things will be the computer software we always use to do these things... how closely is the "designing" I'm teaching linked to the "softwareing"? Can I teach a student all the same time and motion concepts without ever having them use After Effects?
+
+Are the tools the issue or is it just the file formats? Regardless of paper or pencil brand I can draw the way I've learned to draw... regardless of paint I buy I can paint what I wish to paint... regardless of circular saw and hammer or typeface I can make a reasonable bench or poster... Are the digital tools we use which have replaced our hand tools so different that they cannot be replaced? WTF am I saying?
+
+Adobe more or less has a monoply on the toolset of the visual designer. Worldwide most designers, studios, and educational programs rely on Adobe tools to output their visuals (more physical good related things might be reliant on all autodesk suites of things instead, but the point more or less stands).
+
+Is there a pedagogical or ethical problem with that? Is it made worse by the fact that we can't get at any of the components under the hood? and I don't mean make or modify the software, I just mean even the basics of having file formats that aren't easily interchangeable or editable w/out their tools. Most of the libre design tools use some sort of open format, or at least text-editable format if you are mising the program. Scribus and Nodebox for example, their file formats are really both just special xml documents. Opening in a text editor means you can still pretty easily "read" the design even if you can't see it. This means that you can edit, improve, and reflow your file w/out even needing to have Scribus installed! If you can figure out the xml, you can make actual meaningful edits to your layout w/out the gui! Try that in Indesign.
+
+Designing at its heart should be a set of skills, processes, patterns, ways of thinking, that are agnostic to discipline or tool. Obviously one needs some manner of experiential knowledge with a tool or medium or format in order successfully realize their vision, but in an abstract way. One of my favorite things about modernists like Massimo Vignelli is that thinking that their designing could be applied to anything -- you need an identity? I can use my design knowledge to do that. You need a teacup? I can design that too. You need a suit? I can design a suit... a chair? wallpaper? table? business card? check check check check. That is agnostic to the tools of production. Have we tied the tools of production too closely to the designing?? what does open source change about that?
+
+Something interesting about us designers is that we are using the same operating systems and softwares [CAN I GET A STAT FOR THIS???? NEED SOME FACTS]. In a field that values creativity and inventiveness, how can we be good at designing new interfaces and layouts when we all are looking at and fiddling with the same set of things as each other (and looking at the same visual inspiration on the internet [TRENDLIST? PINTEREST?])?
+
+One thing about a _good_ interface is that goodness to a user is often about familiarity. There is a certain amount of intuitiveness that you want to achieve, but in the end I like my Mac because I've been using macs for 30 years (a Mac SE from 1988 was my family's first comp I really remember using a lot). My colleagues that exclusively have used Windows or the few that are die hard Linux afficianados feel the same for their chosen ecosystems. The things I am used to work as expected, those other tools don't, thus this one I understand is good and those are bad.
+
+I ran into this with my students. I requested that they all try to use open source alternatives to Adobe products for the term. Most of them indulged me by at least installing inkscape, gimp, scribus, blender, etc. on their machines, but in the end claimed they were too hard to get to make the "finished" work they were trying to make... it was bad software and they couldn't make it work. I would argue that goodness and badness isn't really the issue -- its learned behavior that's the issue. It's like knowing how to play a piano, and then being handed a guitar having never played one before -- you can figure out the notes and maybe generally make something musical, but you wouldn't be able to say, play all the pieces of music you'd already learned for the piano with any skill. By forcing yourself to try alternative tools you are actually making yourself a better designer. You see more things, you experience more, you might find that there are multiple ways of drawing vector paths (for example, Inkscape has 5 different kinds of vector path options when you select the pen tool compared to illustrator's one (Illustrator only draws good old beziers))
+
+Is there something aesthetically important we can learn from open source?
+
+OSD represents and emerging form of infrastructure that, at its heart, enable non-hierarchical community sourced collaboration?
+
+OSD is rooted in vernacular techniques. Sharing, iterating, copying whatever works best was what allowed communities to develop effective tools, clothing, shelter, objects, etc. A similar set of practices, more or less everywhere, allowed for forms to slowly iterate, progress, improve, disperse, but still to generate local flavor and specialization. Aesthetics, materials, decoration, forms are able to grow and evolve based on specific locations, but the general idea of iterative, open, designs was the way pretty much all cultures "designed" in the past. Successful techniques were discovered to address local environmental conditions in an economic, reliable, easily duplicable manner.
+
+Interest in this vernacular approach began to surface within communities of computer scientists (this was also how scientific knowledge often is shared and grows) ... this became (and is called variously) F/LOS: Free, Libre, Open Source...............
+
+Equal parts pragmatism and utopia...
+
+Values openness, innovation, viability over profit.
+
+Premised on the practices of sharing and increasing knowledge
+
+Focus is not on the development of commodity, but on addressing the needs of community members through continuous user-sourced feedback and iteration. (referece Proton from Firefox?)
+
+As designers we can integrate open principles into our practices simply by being more transparent and sharing more... sharing assets, data, visual components, processes... By making generosity a key component of practice, designers can build a rich ecosystem of collaboration and inspiration.
+
+release early, release often -- share and share, iterate, collect feedback and data, make more and show people as soon as is possible. Don't wait until perfect.
+
+--------------------------------------------------------------------------------
+
+[^1]: F/LOS stands for "Free/Libre Open Source," it describes anything that fits into the realm of "free as in freedom," either the original Richard Stallman, GNU meaning of "free," to the more contemporary business friendly open source... It is also employed as F/LOSS -- the last S meaning "Software" -- Free/Libre Open Source Software.
+
+[^2]: Open Fields Catalog... figure it out tomorrow!
+
+[^2]: Eric Schrijver, This is the First Day of the rest of my life... (Libre design mag?)
+
+[^3]: Eric Schrijver, This is the First Day of the rest of my life... (Libre design mag?)
+
+[^4]: Bjarke Ingels; BRIAN ENO & BJARKE INGELS - ON INSTRUMENTS OF CHANGE (Live at Heartland Festival 2016) <https://www.youtube.com/watch?v=4wMhvUHftUo>

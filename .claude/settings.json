@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s https://bjornpaedia.wjerk.shop/404.html)"
+    ]
+  }
+}
