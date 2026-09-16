@@ -19,14 +19,17 @@ type: text/vnd.tiddlywiki
         own work rather than default to easy, greenwashed answers. A working design philosophy built over time.</p>
 </div>
 
-<section class="tc-story-river tc-static-story-river">
-    <ul>
-        <$list filter="[!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]] +[sort[title]]">
-            <li>
-                <$link to=<<currentTiddler>>>
-                    <$view field="title" />
-                </$link>
-            </li>
-        </$list>
-    </ul>
-</section>
+<div id="tiddler-list-container">
+    <input class="search" type="text" placeholder="Search entries…" aria-label="Search entries">
+    <section class="tc-story-river tc-static-story-river">
+        <ul class="list">
+            <$list filter="[!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]] +[sort[title]]">
+                <li>
+                    <$link to=<<currentTiddler>>>
+                        <span class="title"><$view field="title" /></span>
+                    </$link>
+                </li>
+            </$list>
+        </ul>
+    </section>
+</div>

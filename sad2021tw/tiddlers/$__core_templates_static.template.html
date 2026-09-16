@@ -22,6 +22,14 @@
 
 {{IndexPageBody||$:/core/templates/html-tiddler}}
 
+<script src="vendor/list.min.js"></script>
+<script>
+(function () {
+    if (typeof List === "undefined") return;
+    new List("tiddler-list-container", { valueNames: ["title"] });
+})();
+</script>
+
 </body>
 
 </html>
