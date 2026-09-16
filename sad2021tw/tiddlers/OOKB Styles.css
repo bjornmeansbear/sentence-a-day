@@ -321,3 +321,33 @@ section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
     padding: .25em .5em;
     display: block;
 }
+
+/** Search box for the homepage entry list (List.js filters the <ul class="list">
+    below it in place; see IndexPageBody and $:/core/templates/static.template.html). **/
+#tiddler-list-container {
+  margin: 2em 2em 0;
+}
+
+.search {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: .6em .75em;
+  border: 1px solid #2D2826;
+  background: #F8FAE7;
+  color: #2D2826;
+  font: inherit;
+  font-size: 1rem;
+  line-height: 1.5rem;
+}
+
+.search::placeholder {
+  color: #535348;
+  opacity: 1;
+}
+
+.search:focus-visible {
+  outline: 3px solid #C53965;
+  outline-offset: 2px;
+}
