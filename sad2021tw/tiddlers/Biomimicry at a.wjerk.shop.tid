@@ -1,0 +1,24 @@
+created: 20260919175830000
+modified: 20260919175830000
+related: [[Biomimicry]] [[The Sustainabilitist Principles]]
+tags: Principle
+title: Biomimicry at a.wjerk.shop
+type: text/vnd.tiddlywiki
+
+Janine Benyus's [[biomimicry|Biomimicry]] has nine rules for how nature runs itself: on sunlight, on only the energy it needs, fitting form to function, recycling everything, rewarding cooperation, banking on diversity, demanding local expertise, curbing excess from within, tapping the power of limits. [[The Sustainabilitist Principles]] came out of the same instinct in 2009 — asking what already-working systems could teach a designer. Coming back to that question now, against a live project instead of a manifesto, the honest test is which of these nine a.wjerk.shop actually does, and which is just a good line for a footer.
+
+Two of the nine are about energy, and the site treats them differently. "Uses only the energy it needs" is already built: no framework, no client-side JavaScript, no webfonts, every homepage image run through a 1-bit Atkinson dither. Every page footer stamps its own transfer weight, computed at build time from the actual bytes shipped. Most sustainable design asks you to take its word for it; this asks you to check the math. "Runs on sunlight" is still a line item in a methodology doc, not a fact about the server — Cloudflare's renewable claim is annual matching, not the same as the electrons at your page load coming from the sun. That rule is still ahead of the site, not behind it.
+
+"Fits form to function" shows up smaller and more literal: the two-column gallery layout on a case study page only appears when there are three or more photos to fill it. Below that, the wrapper divs get skipped entirely, and the CSS — scoped with `:has()` — never tries to split a page that isn't built for it.
+
+"Recycles everything" is the Green Acres case study, which reused the Ecovention Europe template rather than being redesigned from nothing — a direct line back to the same Sustainabilitist Principles instinct to just do less.
+
+"Rewards cooperation" is the Elsewhere links on every case study — out to the Are.na channel it drew from, the essay that goes deeper, the shop page where the object exists. None of that content lives twice. The site doesn't pretend to be self-contained; it's one node pointing at the others.
+
+"Curbs excess from within" is the weight number again, looked at differently. It isn't an audit someone else runs on the site after the fact — it's visible to me before it's visible to anyone else. The constraint polices itself.
+
+"Taps the power of limits" might just be the build philosophy stated plainly: no framework, no webfonts, hand-written HTML. Not what's left after cutting things — the actual method the site's character comes from.
+
+Banks on diversity doesn't hold up. Every case study runs the same template — hero image, h1, dek, article body, Elsewhere block, prev/next nav in the same wraparound order. The tint color changes per project. The shape never does.
+
+Most of these were already how I build, before I had Benyus's list to check them against. The one that isn't: diversity.
