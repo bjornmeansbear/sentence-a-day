@@ -60,6 +60,18 @@ cp sad2021tw/output/404.html "$BJORNPAEDIA_DIR/"
 # path — this is what turns a dead/TBA link into the custom "not written
 # yet" page instead of GitHub's generic 404.
 
+echo "== Syncing vendor/ (list.min.js for homepage search) =="
+mkdir -p "$BJORNPAEDIA_DIR/vendor"
+# `mkdir -p` creates the directory if it doesn't exist yet, and does nothing
+# (no error) if it already does — safe to run every time.
+cp sad2021tw/vendor/list.min.js "$BJORNPAEDIA_DIR/vendor/"
+# The homepage's search box (see IndexPageBody.tid) is powered by List.js,
+# a small third-party library, referenced as <script src="vendor/list.min.js">.
+# It used to live only in the bjornpaedia repo itself, with nothing in
+# sentence-a-day to rebuild it from — vendoring it here and copying it on
+# every publish means the search feature is no longer a step you'd have to
+# remember to redo by hand if bjornpaedia were ever wiped and re-cloned.
+
 cd "$BJORNPAEDIA_DIR"
 # Switch the shell's working directory into the target repo. Every command
 # from here on runs as if you'd `cd`'d there yourself in the terminal.
