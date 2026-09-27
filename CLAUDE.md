@@ -66,3 +66,4 @@ System tiddlers (configuration, UI state) have filenames starting with `$__`. Co
 - `publish.sh` — builds and syncs output into the separate `~/Code/bjornpaedia` deploy repo
 - Root `.md`/`.txt` files — earlier writing archive (2019–2022)
 - `otherIdeas/` — standalone essay drafts
+  (when a draft here belongs to a project, log it in that project's pointer file: `~/Code/lectureScripts/projectWriteups/<slug>.md`)
