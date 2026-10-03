@@ -63,7 +63,7 @@ Own your content. If you use a blogging service like Tumblr you should have a ba
 Serving static HTML is inherently safe. No server side scripts to get attacked, or abused. Anytime your site is being dynamically generated that software must be updated regularly or you are at risk for security vulnerabilities.
 
 !!!! Focus on the content
-Interfaces change, content remains. It's too difficult to have layout specific information in the content if you want to display the content in more than one place. The content needs to be **presentation agnostic**. One of the greatest things about the Web is its universality. Web-enabled devices are everywhere. Your content should be accessible from any device. A Content Management System should focus on **managing content** not displaying it. 
+Interfaces change, content remains. It's too difficult to have layout specific information in the content if you want to display the content in more than one place. The content needs to be **presentation agnostic**. One of the greatest things about the Web is its [[universality|Universality]]. Web-enabled devices are everywhere. Your content should be accessible from any device. A Content Management System should focus on **managing content** not displaying it. 
 
 !!!! Responsive Design
 The web is responsive by nature. Responsive design gets really difficult to accomplish when there are display rules mixed into the content. As it is impossible to test for all the possibilities we must try to design, code, and content-create for the flexibility and the unknown. By treating content as its own layer, removed from the presentation, we are better able to do this.

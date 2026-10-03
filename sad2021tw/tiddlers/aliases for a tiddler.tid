@@ -1,7 +1,11 @@
 created: 20210618043240375
-modified: 20210618043319254
+modified: 20261003360000000
 tags: tiddlyWiki
 title: aliases for a tiddler
 type: text/vnd.tiddlywiki
 
 Is there a way to make aliases for a tiddler title? do you just do that by writing custom text and then still linking it to a tiddler?
+
+!! Current working plan
+
+For now, make a small pointer tiddler under the alternate title that just links to the real one. For example, [[Vitsoe]] says "See [[Vitsœ]]", and [[Absolutism]] says "See [[Universality]]". The pointer tiddler is a real page, so links and searches for the alternate name land somewhere, and you can later fill it in or delete it.
