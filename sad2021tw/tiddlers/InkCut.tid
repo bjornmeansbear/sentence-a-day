@@ -1,0 +1,9 @@
+created: 20261002150200000
+modified: 20261002150200000
+tags: Definition
+title: InkCut
+type: text/vnd.tiddlywiki
+
+A libre 2D plotter controller, at [[inkcut.org|https://inkcut.org/]]. Runs a [[Vinyl Cutter]] without Adobe Illustrator.
+
+Used with the Roland GX-24 in [[Pi-Top + AxiDraw = Libre Drawing Machine]].

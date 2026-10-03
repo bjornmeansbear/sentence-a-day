@@ -1,0 +1,15 @@
+created: 20261002150200000
+modified: 20261003145337772
+tags: Definition
+title: Pi-Top
+type: text/vnd.tiddlywiki
+
+A laptop-style case built around a [[Raspberry Pi]]. The original is a fluorescent green matte plastic wedge.
+
+Its stock operating system was pi-topOS Polaris. Pi-Top stopped supporting and distributing Polaris in favor of newer versions (Sirius, then Further), so it is no longer officially downloadable. See [[Pi-Top's post on the new pi-topOS|https://www.pi-top.com/blog/new-pi-topos]].
+
+In summer 2018 it became the control station for an [[AxiDraw]] in [[Pi-Top + AxiDraw = Libre Drawing Machine]], running a minimal [[Raspbian]] and [[OpenBox]] instead of Polaris.
+
+This was maybe ≈2018
+
+They no longer make the laptop case, they've gone to other things, despite keeping the name!

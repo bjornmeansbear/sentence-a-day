@@ -1,0 +1,9 @@
+created: 20261002150200000
+modified: 20261002150200000
+tags: Definition
+title: Raspberry Pi
+type: text/vnd.tiddlywiki
+
+Small, inexpensive single-board computer from the [[Raspberry Pi Foundation|https://www.raspberrypi.com/]]. Runs [[GNU/Linux]]. The computer inside the [[Pi-Top]].
+
+Used in [[Pi-Top + AxiDraw = Libre Drawing Machine]].

@@ -1,0 +1,13 @@
+created: 20261002150200000
+modified: 20261002150200000
+tags: Definition
+title: AxiDraw
+type: text/vnd.tiddlywiki
+
+A [[Pen Plotter]] from Evil Mad Scientist: it holds a pen and draws a vector file on paper. It draws from [[Inkscape]] through a plugin. [[Original product page|https://shop.evilmadscientist.com/846]].
+
+Its software is [[open source under the GPL|https://github.com/evil-mad/axidraw]] (GPL-2.0).
+
+Bantam Tools acquired Evil Mad Scientist in 2024 and the AxiDraw is discontinued. The successor, the [[NextDraw|https://bantamtools.com/products/bantam-tools-nextdraw-8511]], lists at $949, about double the [[$475|https://www.adafruit.com/product/3509]] the AxiDraw V3 cost, and Bantam's site calls its software proprietary.
+
+Used in [[Pi-Top + AxiDraw = Libre Drawing Machine]].

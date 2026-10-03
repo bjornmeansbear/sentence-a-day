@@ -1,0 +1,11 @@
+created: 20261002150200000
+modified: 20261002150200000
+tags: Definition
+title: Vinyl Cutter
+type: text/vnd.tiddlywiki
+
+A machine that cuts shapes from vinyl with a blade, from a vector file. With a pen in the blade holder it works as a [[Pen Plotter]]. See [[Adhocism]].
+
+MICA's Graphic Design department has a Roland GX-24. On a Mac, the only way to drive it is Roland's plugin for Adobe Illustrator, and that plugin doesn't work with Illustrator 2025 or 2026. [[InkCut]] runs it from a [[Pi-Top]] instead.
+
+Used in [[Pi-Top + AxiDraw = Libre Drawing Machine]].

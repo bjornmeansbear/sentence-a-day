@@ -1,0 +1,13 @@
+created: 20261002150200000
+modified: 20261002150200000
+tags: Definition
+title: Raspbian
+type: text/vnd.tiddlywiki
+
+The Debian-based operating system for the [[Raspberry Pi]]. Renamed Raspberry Pi OS on May 28, 2020.
+
+Raspbian Lite boots to a text console with no desktop. A fuller version adds the PIXEL desktop.
+
+See [[Raspbian download page (2018)|https://www.raspberrypi.org/downloads/raspbian/]] and [[a 2021 guide to Openbox on Raspberry Pi OS Lite|https://forums.raspberrypi.com/viewtopic.php?t=312104]].
+
+Used in [[Pi-Top + AxiDraw = Libre Drawing Machine]].

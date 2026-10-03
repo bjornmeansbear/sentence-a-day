@@ -1,0 +1,9 @@
+created: 20261002150200000
+modified: 20261002150200000
+tags: Definition
+title: OpenBox
+type: text/vnd.tiddlywiki
+
+A window manager, at [[openbox.org|https://openbox.org/]]. A graphical interface at its most minimal: it draws windows you can move and resize, and nothing else. No taskbar, no file manager, no icons.
+
+Used on [[Raspbian]] Lite in [[Pi-Top + AxiDraw = Libre Drawing Machine]].
