@@ -3,8 +3,6 @@
 Source: `~/Library/CloudStorage/Dropbox/TO SORT/020210415-InsaneDesktopCleanup/Roam-Export-1614486916757` (305 files, exported Feb 27, 2021).
 Target: `sad2021tw/tiddlers/`.
 
-**Done so far (Sections 1–3):** already-the-same pages confirmed, empty stubs skipped, and all the "new, not in the wiki" pages imported (tagged `roam-import`). Find them any time with the tag `roam-import`.
-
 **Working rules we settled on:**
 - Skip empty Roam stubs (link targets with no body).
 - Thin pages are fine; interlink more later.
@@ -31,8 +29,6 @@ Decision for each: append the Roam extras under a heading, show a side-by-side f
 
 **Smaller:** How Buildings Learn, Everything Is Connected, Super Normal, Michael Beirut, Pragmatic Utopian, Biomimicry (Biomimicry already got the 9 principles + tags), Inkscape, Blender, GIMP, Kristian Bjørnard, Charles Sanders Peirce, Stephen Farrell, Marc O'Brien, People Doing People Things, The Futures Cone, ReCycle / ReDuce / ReUse, All Designs are Predictions, Alain de Botton, Andrew Shea, Eric Benson, William James, The Architecture of Happiness, The Libre Designer, Principles, Grafting. Most are a line or two.
 
-(Christopher Butler was already merged.)
-
 ## 4b. Near-miss titles (probably the same thing under a different name)
 - [ ] 10 Principles of Good Design ↔ **Ten Principles for Good Design**
 - [ ] A Teaching Philosophy (10 KB) ↔ **Teaching Philosophy**
@@ -48,9 +44,6 @@ Decision for each: append the Roam extras under a heading, show a side-by-side f
 - [ ] `F/LOSS`, `F/LOSD` (folder `F/`), `Free/Libre Open Source` (folder `Free/`), `Make/Unmake` (folder `Make/`): decide keep or skip
 
 ---
-
-## Open small questions
-- None outstanding from Section 3.
 
 ## To resume
 Tell Claude "continue the Roam import from `roam-import-next-time.md`". The comparison script from this session was in a temp folder; Claude can re-run a fresh comparison if needed.
