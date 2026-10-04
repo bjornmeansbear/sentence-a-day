@@ -42,7 +42,11 @@ a.tc-tiddlylink-missing::after {
     box-sizing: border-box;
     overflow: visible;
     margin: 0;
-    padding: 42px 42px 42px 0;
+    /* Left padding is the gutter between the tiddler column and the
+       sidebar text. It used to be 0, so the sidebar touched the
+       tiddler's border; the story-river's own right padding is 0 too,
+       so the gap has to come from this side. */
+    padding: 42px 42px 42px 42px;
 }
 
 .wjerk-tiddler-columns > .tc-story-river {
