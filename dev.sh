@@ -1,6 +1,6 @@
 #!/bin/bash
 # dev.sh — preview the static site locally, and re-render just the CSS
-# whenever you edit a system tiddler (templates, stylesheets, theme).
+# whenever you edit a system tiddler or a .css file (templates, stylesheets).
 #
 # Usage:
 #   bash dev.sh          full build once, then serve + watch for CSS edits
@@ -50,7 +50,7 @@ trap 'kill $SERVER_PID 2>/dev/null; echo; echo "Stopped."' EXIT
 # `trap ... EXIT` registers a cleanup that runs whenever the script ends
 # (including when you press Ctrl-C), so a stray server isn't left running.
 
-echo "== Watching system tiddlers for changes (Ctrl-C to stop) =="
+echo "== Watching system tiddlers and .css files for changes (Ctrl-C to stop) =="
 touch /tmp/sad2021tw-dev-marker
 # A marker file whose modification time means "the last time we looked".
 
@@ -58,11 +58,12 @@ while true; do
   sleep 1
   # Poll once a second. Simple and dependable, no extra tools to install.
 
-  CHANGED=$(find sad2021tw/tiddlers -name '$__*' -newer /tmp/sad2021tw-dev-marker | head -1)
+  CHANGED=$(find sad2021tw/tiddlers \( -name '$__*' -o -name '*.css' \) -newer /tmp/sad2021tw-dev-marker | head -1)
   # `find ... -newer FILE`: files modified more recently than FILE.
-  # System tiddlers are the ones whose filenames start with `$__` — that is
-  # where the stylesheet and the static templates live. `head -1` just asks
-  # "is there at least one?".
+  # Two kinds of file matter: system tiddlers (filenames starting `$__`,
+  # where the static templates and the template's CSS live) and plain .css
+  # files like "OOKB Styles.css", the main custom stylesheet. `\( ... -o ... \)`
+  # means "this OR that". `head -1` just asks "is there at least one?".
 
   if [ -n "$CHANGED" ]; then
     # -n: the string is non-empty, i.e. something changed.

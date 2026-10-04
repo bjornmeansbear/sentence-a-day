@@ -1,0 +1,21 @@
+created: 20261004130000000
+modified: 20261004130000000
+tags: $:/tags/Stylesheet hide
+title: Wjerk Tokens
+type: text/vnd.tiddlywiki
+
+\rules except dash
+/* Kit semantic tokens (see ~/Code/color-system-and-guidelines/kit.css),
+   read from the active palette $:/palettes/Wjerk so the hex values live in
+   exactly one place. TiddlyWiki's colour math needs literal colors, which is
+   why the palette holds them and this file exposes them as var(--color-*). */
+:root {
+  --color-bg: <<colour background>>;
+  --color-text: <<colour foreground>>;
+  --color-text-muted: <<colour muted-foreground>>;
+  --color-border: <<colour foreground>>;
+  --color-accent: <<colour primary>>;
+  --color-accent-hover: <<colour wjerk-accent-hover>>;
+  --color-accent-subtle: <<colour wjerk-accent-subtle>>;
+  --color-surface-muted: <<colour wjerk-surface-muted>>;
+}

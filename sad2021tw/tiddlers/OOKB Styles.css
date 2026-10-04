@@ -1,89 +1,87 @@
-/* Trying something clever w/ titles of tiddlers */
-/* .tc-tiddler-title { */
+/* One spacing token for the tiddler card's inner padding (14px on small
+   screens, 42px from 960px up, matching the vanilla theme). Everything that
+   has to bleed out to the card's edge, or line up with its text, uses this
+   instead of repeating the number. */
+:root {
+  --frame-pad: 14px;
+}
+@media screen and (min-width: 960px) {
+  :root {
+    --frame-pad: 42px;
+  }
+}
+
+/* Visible focus on everything interactive (kit rule: never suppress it). */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible {
+  outline: .25rem solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* Static tiddler pages: the sidebar text sits under the card on small screens
+   and used to run to the screen edge. Same gutter as the card's own padding;
+   the >=960px two-column rule in the static CSS template takes over from there. */
+.wjerk-tiddler-columns > .tc-sidebar-scrollable {
+  padding: var(--frame-pad);
+}
+
+/* Tiddler title sticks to the top while you scroll. The solid background
+   stops the body text from showing through behind it as it scrolls past. */
 .tc-title {
   position: sticky;
   top: 0;
-  background: white;
+  background: var(--color-bg);
   z-index: 1;
 }
 .tc-tiddler-frame {
-  position: relative;
+  position: relative; /* the card is the positioning parent for the title and word count */
+  margin-top: 1em;
 }
 
-/* Added/Modified this Day */
-/* designing the in/out links section for each card */
+/* In/out links, tags and dates: full-bleed rows at the bottom of each card.
+   The negative side/bottom margins cancel the card's padding. */
 .explorerWrap {
   display: flex;
   border-top: 1px solid;
-  margin: 0 -14px;
+  margin: 0 calc(var(--frame-pad) * -1);
 }
 .explorerWrap:last-of-type {
-  margin-bottom: -14px;
+  margin-bottom: calc(var(--frame-pad) * -1);
 }
-
-
-.dateExplorer + .linkExplorer,
-.tagExplorer + .dateExplorer,
-.tagExplorer + .linkExplorer {
-margin-top: 14px;
+.explorerWrap + .explorerWrap {
+  margin-top: var(--frame-pad);
 }
-
 @media screen and (min-width: 960px) {
   .explorerWrap {
-    margin: 2rem -42px -42px;
-  }
-  .explorerWrap:last-of-type {
-    margin-bottom: -42px;
-  }
-
-  .dateExplorer + .linkExplorer,
-  .tagExplorer + .dateExplorer,
-  .tagExplorer + .linkExplorer {
-    margin-top: 42px;
+    margin-top: 2rem;
   }
 }
 
 .explorerWrap .column {
   flex: 1;
 }
-
 .dateExplorer .column:first-child,
 .linkExplorer .column:first-child {
   border-right: 1px solid;
 }
-
+.explorerWrap .column ul {
+  padding-right: 1.5em;
+}
 .explorerWrap h3 {
   font-size: .9rem;
-  padding: .25em 0 .25em 42px;
-  background-color: #eee;
+  padding: .25em 0 .25em var(--frame-pad);
+  background-color: var(--color-surface-muted);
   margin: 0;
 }
 
-.explorerWrap .column ul {
-    padding-right: 1.5em;
+/* Key/value table of a tiddler's fields (author, ISBN, publisher...). */
+.fieldDisplay {
+  margin-inline: calc(var(--frame-pad) * -1);
 }
-
-/* trying to make a "table" of info for each tiddler where necessary to be helpful!? */
-
 .flex {
   display: flex;
 }
-
-.fieldDisplay {
-  width: calc(100% + 28px);
-  margin-left: -14px;
-  margin-right: -14px;
-}
-
-@media screen and (min-width: 960px) {
-.fieldDisplay {
-  width: calc(100% + 84px);
-  margin-left: -42px;
-  margin-right: -42px;
-}
-}
-
-
 .row {
   border-top: 1px solid;
   width: 100%;
@@ -95,14 +93,13 @@ margin-top: 14px;
   padding: .25rem .5rem;
 }
 .row .key {
-background: #eee;
-flex: 1;
-padding-left: 42px;
+  background: var(--color-surface-muted);
+  flex: 1;
+  padding-left: var(--frame-pad);
 }
-
 .row .value {
   flex: 3;
-  padding-right: 42px;
+  padding-right: var(--frame-pad);
 }
 
 .imgWrapper.bookCover img {
@@ -116,97 +113,78 @@ padding-left: 42px;
 
 /** external links show a clever symbol, marginal style difference **/
 .tc-tiddlylink-external::after {
-/*  content: ' ◯↗⤴🌍';*/
   content: ' ⤴◯';
+  content: ' ⤴◯' / '';  /* alt text: read aloud as nothing; the link's own text already says it */
   text-decoration: none;
 }
 
-/** Adding Wjerk Nav **/
-/** Site identity block (logo + blurb), matching the condensed header used
-    on a.wjerk.shop case-study pages. **/
+/** Wjerk header + nav, matching the condensed header on a.wjerk.shop **/
 .tc-page-container-inner > p {
-  margin: 0;
+  margin: 0; /* the nav include leaves an empty paragraph above the header */
 }
 
 .wjerk-header {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: center;
-  background: white;
+  background: var(--color-bg);
 }
-
 .wjerk-header-logo {
   display: flex;
-  flex-basis: 100%;
+  flex: 1 1 100%;
   align-items: center;
   justify-content: center;
   height: 3em;
 }
-
 .wjerk-header-logo img {
   height: 100%;
   width: auto;
   padding: .25em;
 }
-
 .wjerk-header-blurb {
-  flex-basis: 100%;
+  flex: 1 1 100%;
   padding: 1rem;
   font-size: 1.33em;
 }
-
 .wjerk-header-blurb p {
   margin: 0;
 }
 
-/** Nav back to the other Wjerk properties (portfolio, store, newsletter) **/
-.wjerk-nav {
-    display: flex;
-    margin-top: 0;
-    background: white;
-}
-
+/* Nav: the container's background IS the divider color and `gap: 1px` shows
+   it between cells, so the lines stay right however the cells wrap (no
+   per-cell border juggling). Flex, not grid, so a short last row grows to
+   fill instead of leaving a line-colored hole. */
 .wjerk-nav ul {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-around;
-  border-top: 1px solid;
-  border-bottom: 1px solid;
+  gap: 1px;
+  margin: 0;
   padding: 0;
-  margin: 0;;
-  width: 100%;
+  list-style: none;
+  background: var(--color-border);
+  border-block: 1px solid var(--color-border);
 }
-
-.wjerk-nav ul li {
+.wjerk-nav li {
   display: flex;
-  border-left: 1px solid;
-  flex: 1 1 50%;
-  height: inherit;
+  flex: 1 1 40%; /* two per row on small screens */
+  background: var(--color-bg);
 }
-
-.wjerk-nav ul li:nth-child(odd) {
-  border-left: none;
-}
-
-.wjerk-nav ul li:nth-child(n+3) {
-  border-top: 1px solid;
-}
-
 .wjerk-nav a {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
   padding: 1em;
   font-weight: bold;
   text-align: center;
   text-decoration: none;
   color: inherit;
-  height: 100%;
 }
-
-.wjerk-nav a:hover {
-  background-color: blue;
-  color: white;
+/* State shows by inverting foreground/background, not by color or glow. */
+.wjerk-nav a:hover,
+.wjerk-nav a:focus-visible {
+  background: var(--color-text);
+  color: var(--color-bg);
 }
 
 .tc-hide-sidebar-btn {
@@ -219,77 +197,36 @@ padding-left: 42px;
     border-radius: 50%;
 }
 
-/* ============================================================================
-   Progressive enhancement from here up: everything above is the mobile
-   baseline; this query layers on the side-by-side desktop treatment once
-   there's enough width for it to actually read well.
-   ============================================================================ */
+/* Mobile-first: everything above is the stacked baseline; this layers on the
+   side-by-side treatment (kit breakpoint: 40rem). */
 @media (min-width: 40rem) {
   .wjerk-header-logo {
-    flex-basis: auto;
     flex: 1;
   }
-
   .wjerk-header-blurb {
-    flex-basis: auto;
     flex: 9;
-    border-left: 1px solid;
-    text-align: left;
+    border-left: 1px solid var(--color-border);
   }
-
   .wjerk-nav ul {
     flex-wrap: nowrap;
-
   }
-
-  .wjerk-nav ul li {
-    display: flex;
+  .wjerk-nav li {
     flex: 1;
-    align-items: center;    /* Centers text vertically */
-    justify-content: center; /* Centers text horizontally */
-    align-self: stretch;
-  }
-
-  .wjerk-nav a {
-    display: flex;
-    align-items: center;    /* Centers text vertically */
-    justify-content: center; /* Centers text horizontally */
-    padding: 1em;
-    font-weight: bold;
-    text-align: center;
-    text-decoration: none;
-    color: inherit;
-    height: 100%;
-    width: 100%;
-  }
-
-  .wjerk-nav ul li:nth-child(n+3) {
-    border-top: none;
-  }
-
-  .wjerk-nav ul li:first-child {
-    border-left: none;
-  }
-
-  .wjerk-nav ul li:not(:first-child) {
-    border-left: 1px solid;
   }
 }
 
 /** Trying to add this little word count widget!? **/
 /** did a little overhang, hopefully this looks cool **/
 .word-count {
-    color: white;
-    background-color: #CCC;
-    border-radius: 1em;
-    float: right;
-    font-size: .8em;
-    line-height: 2;
-    padding: 0 1em;
-    /**/
-    position: absolute;
-    right: -1.5em;
-    top: .5em;
+  color: var(--color-text);
+  background-color: var(--color-accent-subtle);
+  border-radius: 1em; /* pill: radius is fine at badge scale */
+  font-size: .8em;
+  line-height: 2;
+  padding: 0 1em;
+  position: absolute; /* the deliberate overhang past the card edge */
+  right: -1.5em;
+  top: .5em;
 }
 
 /** Static homepage export idea? **/
@@ -299,22 +236,20 @@ section.tc-static-story-river {
   margin: 0;
   width: 100%;
 }
+/* Homepage entry list: as many columns as fit at a readable width (one on a
+   phone), rows always filled evenly. */
 section.tc-static-story-river > ul {
-    display: flex;
-    margin: 2em;
-    padding: 0;
-    flex: auto;
-    flex-wrap: wrap;
-    align-items: flex-start;
-    list-style: none;
-    gap: 0 2em;
+  display: grid;
+  flex: 1; /* its parent section is a flex container; fill it */
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap: 0 2em;
+  margin: 2em 0;
+  padding: 0;
+  list-style: none;
 }
-
 section.tc-static-story-river > ul li {
-    flex: 1 1 20%;
-    border-bottom: 1px solid black;
-    overflow: hidden;
-    align-self: normal;
+  border-bottom: 1px solid var(--color-border);
+  overflow: hidden;
 }
 
 section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
@@ -324,8 +259,24 @@ section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
 
 /** Search box for the homepage entry list (List.js filters the <ul class="list">
     below it in place; see IndexPageBody and $:/core/templates/static.template.html). **/
+/* Homepage: the header and nav run edge to edge; the intro, search box and
+   entry list share one side gutter (same token as the tiddler cards). */
+.siteIntro,
 #tiddler-list-container {
-  margin: 2em 2em 0;
+  padding-inline: var(--frame-pad);
+}
+.siteIntro .tc-sidebar-header {
+  padding: 0; /* the vanilla theme adds its own 14px below 960px, doubling the gutter */
+}
+#tiddler-list-container {
+  margin-top: 2em;
+}
+/* The entry list reuses TiddlyWiki's story-river class, whose own padding
+   (42px at desktop width) would indent it past the gutter above. The id
+   selector wins without !important. */
+#tiddler-list-container .tc-story-river {
+  margin: 0;
+  padding: 0;
 }
 
 .search {
@@ -334,20 +285,20 @@ section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
   width: 100%;
   margin: 0;
   padding: .6em .75em;
-  border: 1px solid #2D2826;
-  background: #F8FAE7;
-  color: #2D2826;
+  border: 1px solid var(--color-text);
+  background: var(--color-bg);
+  color: var(--color-text);
   font: inherit;
   font-size: 1rem;
   line-height: 1.5rem;
 }
 
 .search::placeholder {
-  color: #535348;
+  color: var(--color-text-muted);
   opacity: 1;
 }
 
 .search:focus-visible {
-  outline: 3px solid #C53965;
+  outline: .25rem solid var(--color-accent);
   outline-offset: 2px;
 }
