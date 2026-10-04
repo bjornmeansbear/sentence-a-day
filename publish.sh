@@ -56,6 +56,12 @@ cp sad2021tw/output/index.html "$BJORNPAEDIA_DIR/"
 # it's one file, always overwritten wholesale.
 
 cp sad2021tw/output/404.html "$BJORNPAEDIA_DIR/"
+
+cp sad2021tw/output/favicon.svg sad2021tw/output/favicon.ico sad2021tw/output/apple-touch-icon.png "$BJORNPAEDIA_DIR/"
+# The tab icon (SVG, plus an .ico fallback for older browsers) and the iOS
+# home-screen icon. They sit at the repo root because every page links to them
+# with an absolute path (/favicon.svg); the rsync --delete above only touches
+# static/, so these are never wiped. build.sh puts them in output/ first.
 # GitHub Pages automatically serves a repo-root 404.html for any unresolved
 # path — this is what turns a dead/TBA link into the custom "not written
 # yet" page instead of GitHub's generic 404.
