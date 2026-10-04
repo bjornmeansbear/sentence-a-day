@@ -19,23 +19,23 @@ input:focus-visible {
   outline-offset: 2px;
 }
 
-/* Static tiddler pages: the sidebar text sits under the card on small screens
-   and used to run to the screen edge. Same gutter as the card's own padding;
-   the >=960px two-column rule in the static CSS template takes over from there. */
+/* Static tiddler pages on small screens: the card and the sidebar text below
+   it share a 2em side gutter. It keeps the word-count pill's 1.5em overhang
+   on screen, and the sidebar text lines up with the card's edge. From 960px
+   up, the two-column rules in the static CSS template take over both. */
+.wjerk-tiddler-columns > .tc-story-river {
+  padding-inline: 2em;
+}
 .wjerk-tiddler-columns > .tc-sidebar-scrollable {
-  padding: var(--frame-pad);
+  padding: var(--frame-pad) 2em;
+}
+.wjerk-tiddler-columns .tc-sidebar-header,
+.wjerk-tiddler-columns .tc-site-subtitle {
+  padding: 0; /* the vanilla theme adds its own 14px below 960px, off the card's edge */
 }
 
-/* Tiddler title sticks to the top while you scroll. The solid background
-   stops the body text from showing through behind it as it scrolls past. */
-.tc-title {
-  position: sticky;
-  top: 0;
-  background: var(--color-bg);
-  z-index: 1;
-}
 .tc-tiddler-frame {
-  position: relative; /* the card is the positioning parent for the title and word count */
+  position: relative; /* the card is the positioning parent for the word count */
   margin-top: 1em;
 }
 
@@ -111,6 +111,37 @@ input:focus-visible {
     list-style-type: decimal !important;
 }
 
+/* Links in running text are told apart from the ink by more than color
+   (cornflower-6 is only 1.86:1 against it; WCAG wants 3:1 or another cue). */
+.tc-tiddler-body a.tc-tiddlylink:not(.tc-tag-label),
+.tc-tiddler-body a.tc-tiddlylink-external {
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+
+/* Tag pills are links in the static export. TiddlyWiki's link widget drops the
+   inline colors it normally gives a pill, and TiddlyWiki's own pill shape is
+   written for buttons and spans, not links, so both come from here: gray-7
+   pill, ground-colored text; hover and keyboard focus lighten it to gray-4 and
+   switch the text to ink. */
+a.tc-tag-label,
+.tc-tiddler-body a.tc-tag-label {
+  display: inline-block;
+  padding: .16em .7em;
+  font-size: .9em;
+  line-height: 1.2em;
+  border-radius: 999px; /* pill: radius is fine at badge scale */
+  background-color: var(--color-tag);
+  color: var(--color-bg);
+  fill: var(--color-bg);
+  text-decoration: none;
+}
+a.tc-tag-label:is(:hover, :focus-visible) {
+  background-color: var(--color-tag-hover);
+  color: var(--color-text); /* cream on gray-4 would be 2.72:1; ink is 5.06:1 */
+  fill: var(--color-text);
+}
+
 /** external links show a clever symbol, marginal style difference **/
 .tc-tiddlylink-external::after {
   content: ' ⤴◯';
@@ -140,6 +171,7 @@ input:focus-visible {
   height: 100%;
   width: auto;
   padding: .25em;
+  mix-blend-mode: multiply;
 }
 .wjerk-header-blurb {
   flex: 1 1 100%;
@@ -180,11 +212,17 @@ input:focus-visible {
   text-decoration: none;
   color: inherit;
 }
-/* State shows by inverting foreground/background, not by color or glow. */
-.wjerk-nav a:hover,
-.wjerk-nav a:focus-visible {
-  background: var(--color-text);
+/* Same affordance as a.wjerk.shop's header nav: accent fill, ground-colored
+   text, for hover and keyboard focus alike. */
+.wjerk-nav a:is(:hover, :focus-visible) {
+  background-color: var(--color-accent);
   color: var(--color-bg);
+}
+/* Block links run to the screen edge, where an outside focus ring is cut off;
+   draw it inside instead. */
+.wjerk-nav a:focus-visible {
+  outline-color: currentColor;
+  outline-offset: -0.5rem;
 }
 
 .tc-hide-sidebar-btn {
@@ -230,15 +268,13 @@ input:focus-visible {
 }
 
 /** Static homepage export idea? **/
-
-section.tc-static-story-river {
+.home section.tc-static-story-river {
   display: flex;
-  margin: 0;
-  width: 100%;
+  margin: 2em;
 }
 /* Homepage entry list: as many columns as fit at a readable width (one on a
    phone), rows always filled evenly. */
-section.tc-static-story-river > ul {
+.home section.tc-static-story-river > ul {
   display: grid;
   flex: 1; /* its parent section is a flex container; fill it */
   grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
@@ -247,24 +283,44 @@ section.tc-static-story-river > ul {
   padding: 0;
   list-style: none;
 }
-section.tc-static-story-river > ul li {
+.home section.tc-static-story-river > ul li {
   border-bottom: 1px solid var(--color-border);
   overflow: hidden;
 }
 
-section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
+.home section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
     padding: .25em .5em;
     display: block;
+}
+
+@media (min-width: 40rem) {
+  .home section.tc-static-story-river {
+    display: flex;
+    margin: 0;
+    width: 100%;
+  }
 }
 
 /** Search box for the homepage entry list (List.js filters the <ul class="list">
     below it in place; see IndexPageBody and $:/core/templates/static.template.html). **/
 /* Homepage: the header and nav run edge to edge; the intro, search box and
    entry list share one side gutter (same token as the tiddler cards). */
-.siteIntro,
+/* (.home keeps this off the tiddler pages, where the sidebar reuses .siteIntro.) */
+.home .siteIntro,
 #tiddler-list-container {
   padding-inline: var(--frame-pad);
 }
+
+.home .siteIntro {
+  padding-top: var(--frame-pad);
+}
+
+@media (min-width: 40rem) {
+  .tc-sidebar-scrollable .siteIntro {
+    padding: 0;
+  }
+}
+
 .siteIntro .tc-sidebar-header {
   padding: 0; /* the vanilla theme adds its own 14px below 960px, doubling the gutter */
 }

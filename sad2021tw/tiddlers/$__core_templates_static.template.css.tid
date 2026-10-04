@@ -3,6 +3,7 @@ modified: 20210723043042510
 title: $:/core/templates/static.template.css
 type: text/vnd.tiddlywiki
 
+\rules except dash
 {{$:/boot/boot.css||$:/core/templates/plain-text-tiddler}}
 
 {{$:/core/ui/PageStylesheet||$:/core/templates/wikified-tiddler}}
@@ -15,11 +16,23 @@ type: text/vnd.tiddlywiki
    not-yet-written so that's clear before the click too — static build
    only, on purpose. Left fully clickable: the 404 page is the intended
    destination, not a dead end. */
+a.tc-tiddlylink-missing,
+.tc-tiddler-body a.tc-tiddlylink-missing {
+    /* Pink marks "not written yet", set apart from the cornflower links that
+       go somewhere. pink-6 is 7.33:1 on the page ground (pale pink text would
+       fail: pink-4 is 2.94:1). Dotted, not solid, underline: same cue as
+       other links, but "not there yet". */
+    color: var(--color-accent-hover);
+    text-decoration: underline dotted;
+    text-underline-offset: .15em;
+}
 a.tc-tiddlylink-missing::after {
     content: " (TBA)";
     font-style: normal;
     font-size: 0.8em;
-    opacity: 0.6;
+    /* A step lighter than the link text. pink-5 is the lightest pink that still
+       passes AA as text (4.78:1); pink-4 would be 2.94:1. */
+    color: var(--color-accent);
 }
 
 @media (min-width: 960px) {

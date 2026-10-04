@@ -14,8 +14,10 @@ type: text/vnd.tiddlywiki
   --color-text: <<colour foreground>>;
   --color-text-muted: <<colour muted-foreground>>;
   --color-border: <<colour foreground>>;
-  --color-accent: <<colour primary>>;
+  --color-accent: <<colour wjerk-accent>>;
   --color-accent-hover: <<colour wjerk-accent-hover>>;
   --color-accent-subtle: <<colour wjerk-accent-subtle>>;
   --color-surface-muted: <<colour wjerk-surface-muted>>;
+  --color-tag: <<colour tag-background>>;
+  --color-tag-hover: <<colour wjerk-tag-hover>>;
 }
