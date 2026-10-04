@@ -4,11 +4,11 @@ tags: $:/tags/ViewTemplate hide
 title: TagExplorer
 type: text/vnd.tiddlywiki
 
-<$list filter="[all[current]tagging[]] +[first[]]" variable=_>
+<$list filter="[all[current]tagging[]!tag[private]!tag[hide]!prefix[.]] +[first[]]" variable=_>
   <div class="tagExplorer explorerWrap">
       <div class="column">
           <h3>Tagged with //{{!!title}}//</h3>
-          <<list-links "[all[current]tagging[]sort[title]]">>
+          <<list-links "[all[current]tagging[]!tag[private]!tag[hide]!prefix[.]sort[title]]">>
       </div>
   </div>
 </$list>

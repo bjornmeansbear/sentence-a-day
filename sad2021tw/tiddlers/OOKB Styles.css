@@ -135,8 +135,10 @@ a.tc-tag-label,
   color: var(--color-bg);
   fill: var(--color-bg);
   text-decoration: none;
+  font-style: normal; /* pills for page-less tags are "missing" links to TiddlyWiki, which italicises those */
 }
 a.tc-tag-label:is(:hover, :focus-visible) {
+  text-decoration: none; /* the theme underlines every link on hover; not the pills */
   background-color: var(--color-tag-hover);
   color: var(--color-text); /* cream on gray-4 would be 2.72:1; ink is 5.06:1 */
   fill: var(--color-text);

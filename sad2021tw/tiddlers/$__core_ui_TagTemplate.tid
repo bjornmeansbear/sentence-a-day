@@ -6,19 +6,13 @@ title: $:/core/ui/TagTemplate
 <!--
 Override of TiddlyWiki's own tag pill. The static export sets wjerk-static (see
 $:/core/templates/static.tiddler.html): there the pill becomes a real link to
-the tag's page, and a tag with no page of its own stays a plain pill instead of
-a link to nowhere. Everywhere else (the live wiki) the second list renders the
-original pill + dropdown, unchanged from TiddlyWiki 5.3.8.
+the tag's page. A tag with no page of its own gets one generated at build time
+(see the build in tiddlywiki.info and $:/core/templates/static.tagpage.html).
+Everywhere else (the live wiki) the second list renders the original pill +
+dropdown, unchanged from TiddlyWiki 5.3.8.
 -->
 <$list filter="[<wjerk-static>match[yes]]" variable="ignore">
 <span class="tc-tag-list-item" data-tag-title=<<currentTiddler>>>
-<$list filter="[<currentTiddler>!is[missing]]" variable="ignore" emptyMessage="""<$macrocall $name="tag-pill-body"
-		tag=<<currentTiddler>>
-		icon={{{ [<currentTiddler>] :cascade[all[shadows+tiddlers]tag[$:/tags/TiddlerIconFilter]!is[draft]get[text]] }}}
-		colour={{{ [<currentTiddler>] :cascade[all[shadows+tiddlers]tag[$:/tags/TiddlerColourFilter]!is[draft]get[text]] }}}
-		palette={{$:/palette}}
-		element-tag="span"
-	/>""">
 <$macrocall $name="tag-pill-body"
 	tag=<<currentTiddler>>
 	icon={{{ [<currentTiddler>] :cascade[all[shadows+tiddlers]tag[$:/tags/TiddlerIconFilter]!is[draft]get[text]] }}}
@@ -27,7 +21,6 @@ original pill + dropdown, unchanged from TiddlyWiki 5.3.8.
 	element-tag="$link"
 	element-attributes="""to=<<currentTiddler>>"""
 />
-</$list>
 </span>
 </$list>
 <$list filter="[<wjerk-static>!match[yes]]" variable="ignore">

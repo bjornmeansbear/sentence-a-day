@@ -1,0 +1,51 @@
+created: 20261004200000000
+modified: 20261004200000000
+title: $:/core/templates/static.tagpage.html
+type: text/vnd.tiddlywiki
+
+\define tv-wikilink-template() $uri_doubleencoded$.html
+\define tv-config-toolbar-icons() no
+\define tv-config-toolbar-text() no
+\define tv-config-toolbar-class() tc-btn-invisible
+\define wjerk-static() yes
+\import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]
+`<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="generator" content="TiddlyWiki" />
+<meta name="tiddlywiki-version" content="`{{$:/core/templates/version}}`" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<meta name="mobile-web-app-capable" content="yes"/>
+<meta name="format-detection" content="telephone=no">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="static.css">
+<title>`<$view field="caption"><$view field="title"/></$view>: {{$:/core/wiki/title}}`</title>
+</head>
+<body class="tc-body">
+
+`<$view tiddler="WjerkNav" field="text" format="text"/>`
+
+`{{$:/StaticBanner||$:/core/templates/html-tiddler}}`
+<div class="wjerk-tiddler-columns">
+<section class="tc-story-river tc-static-story-river">
+<div class="tc-tiddler-frame tc-tiddler-view-frame">
+<div class="tc-tiddler-title"><div class="tc-titlebar"><h2 class="tc-title">`<$view field="title"/>`</h2></div></div>
+<div class="tc-tiddler-body"><p>A tag with no page of its own yet.</p></div>
+`<$transclude tiddler="TagExplorer"/>`
+</div>
+</section>
+
+<!-- KB Additions -->
+<div class="tc-sidebar-scrollable" style="overflow: auto;">
+`<$view tiddler="SiteIntro" field="text" format="text"/>`
+</div>
+</div>
+
+</body>
+</html>
+`
