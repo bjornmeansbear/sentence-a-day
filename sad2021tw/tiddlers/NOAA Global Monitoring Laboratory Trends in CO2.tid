@@ -1,6 +1,6 @@
 created: 20210618180214300
 modified: 20210618180444952
-tags: Source meta currentco2ppm
+tags: Source meta
 title: NOAA Global Monitoring Laboratory Trends in CO2
 type: text/vnd.tiddlywiki
 url: https://gml.noaa.gov/ccgg/trends/monthly.html
@@ -8,3 +8,13 @@ url: https://gml.noaa.gov/ccgg/trends/monthly.html
 Where I am choosing to gather my info for each entry's [[CO2]] [[PPM]] reading.
 
 This is run by the [[NOAA]], and they base it on their Muana Loa, Hawaii facility's data
+
+!! Entries that recorded a reading
+
+Every tiddler with a `currentco2ppm` field filled in, with the number as written.
+
+<ul>
+<$list filter="[has[currentco2ppm]!currentco2ppm[]!currentco2ppm[---]!is[system]!tag[private]!tag[hide]sort[title]]">
+<li><$link /> — <$view field="currentco2ppm"/></li>
+</$list>
+</ul>
