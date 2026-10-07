@@ -103,12 +103,12 @@ input:focus-visible {
 }
 
 .imgWrapper.bookCover img {
-    max-width: 50%;
-    height: auto;
+  max-width: 50%;
+  height: auto;
 }
 
 .numberedList {
-    list-style-type: decimal !important;
+  list-style-type: decimal !important;
 }
 
 /* Links in running text are told apart from the ink by more than color
@@ -228,13 +228,13 @@ a.tc-tag-label:is(:hover, :focus-visible) {
 }
 
 .tc-hide-sidebar-btn {
-    padding: 9px 6px 7px 8px;
-    align-items: center;
-    justify-content: center;
-    display: flex;
-    text-align: center;  
-    border: 1px solid;
-    border-radius: 50%;
+  padding: 9px 6px 7px 8px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 50%;
 }
 
 /* Mobile-first: everything above is the stacked baseline; this layers on the
@@ -291,13 +291,12 @@ a.tc-tag-label:is(:hover, :focus-visible) {
 }
 
 .home section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
-    padding: .25em .5em;
-    display: block;
+  padding: .25em .5em;
+  display: block;
 }
 
 @media (min-width: 40rem) {
   .home section.tc-static-story-river {
-    display: flex;
     margin: 0;
     width: 100%;
   }
@@ -356,7 +355,24 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   opacity: 1;
 }
 
-.search:focus-visible {
-  outline: .25rem solid var(--color-accent);
-  outline-offset: 2px;
+/* Toolbar icon states. The palette's hover and selected colors each land on
+   more than one background, so the pairings that fall under 3:1 are fixed here
+   and the palette keeps one value apiece.
+   Selected icon on the page ground (info panel open, etc.): the palette green
+   would be 2.56:1; the darker pink is 7.33:1. */
+.tc-tiddler-controls button.tc-selected svg,
+.tc-page-controls button.tc-selected svg {
+  fill: var(--color-accent-hover);
+}
+/* Editor toolbar: dark buttons with green icons (5.37:1) come straight from
+   the palette. A selected button turns cornflower, where green is 2.88:1, so
+   its icon takes the ground color (7.38:1). A hovered button turns green,
+   where the ground color is 2.56:1, so its icon takes the ink (5.37:1). */
+.tc-editor-toolbar button.tc-selected {
+  color: var(--color-bg);
+  fill: var(--color-bg);
+}
+.tc-editor-toolbar button:hover {
+  color: var(--color-text);
+  fill: var(--color-text);
 }

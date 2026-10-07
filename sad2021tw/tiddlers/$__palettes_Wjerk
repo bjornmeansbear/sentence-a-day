@@ -78,7 +78,7 @@ tag-foreground: #F8FAE7
 tiddler-background: <<colour background>>
 tiddler-border: <<colour foreground>>
 tiddler-controls-foreground-hover: <<colour wjerk-accent>>
-tiddler-controls-foreground-selected: <<colour wjerk-accent-hover>>
+tiddler-controls-foreground-selected: #8ca573
 tiddler-controls-foreground: <<colour foreground>>
 tiddler-editor-background: <<colour background>>
 tiddler-editor-border-image: <<colour foreground>>
