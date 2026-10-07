@@ -46,7 +46,7 @@ primary: #355188
 select-tag-background: 
 select-tag-foreground: 
 sidebar-button-foreground: <<colour foreground>>
-sidebar-controls-foreground-hover: <<colour background>>
+sidebar-controls-foreground-hover: <<colour wjerk-accent>>
 sidebar-controls-foreground: <<colour foreground>>
 sidebar-foreground-shadow: rgba(0,0,0, 0)
 sidebar-foreground: <<colour foreground>>
@@ -77,8 +77,8 @@ tag-background: #34332A
 tag-foreground: #F8FAE7
 tiddler-background: <<colour background>>
 tiddler-border: <<colour foreground>>
-tiddler-controls-foreground-hover: #ddd
-tiddler-controls-foreground-selected: #8ca573
+tiddler-controls-foreground-hover: <<colour wjerk-accent>>
+tiddler-controls-foreground-selected: <<colour wjerk-accent-hover>>
 tiddler-controls-foreground: <<colour foreground>>
 tiddler-editor-background: <<colour background>>
 tiddler-editor-border-image: <<colour foreground>>

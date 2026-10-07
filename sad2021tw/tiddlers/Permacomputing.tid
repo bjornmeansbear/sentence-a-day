@@ -1,0 +1,69 @@
+created: 20261007010421000
+modified: 20261007010421000
+tags: Definition
+title: Permacomputing
+type: text/vnd.tiddlywiki
+url: https://permacomputing.net/
+
+Permacomputing is a way of practicing computing that takes its ethics from [[Permaculture]]: care for the earth, care for people. It reuses the hardware and software that already exist, keeps things small enough to understand, and treats limits as material to design with. The community and its principles live at https://permacomputing.net/.
+
+Hannah Gmeiner's bachelor's thesis, //Permacomputing as a Practice for Digital Graphic Design//, tries those principles out on graphic design. Tim Rodenbroeker interviewed her about it in August 2024.
+
+* Thesis: https://permacomputingasapracticefordigitalgraphicdesign.com/
+* Interview: https://trcc.timrodenbroeker.de/hannah-gmeiner/
+
+She sums the principles up as an approach that is "as transparent, resource-efficient, low-complexity, sustainable, and flexible as possible."
+
+! Maximalist techno-aesthetics
+
+This is the permacomputing name for what it argues against.
+
+<<<
+This describes a mindset in which quantitative growth is seen as good and desirable. It glorifies a data-intensive reality, increasing complexity, and growing resource consumption by digital devices.
+<<< Hannah Gmeiner
+
+Her example is social media moving from text posts to image posts to video posts. For designers it shows up as steady pressure to adopt each new tool, and as a reluctance to criticize how the new tools look.
+
+It gives [[High Fidelity]] a motive. See [[Why are lo-fi things appealing?]]
+
+! Two kinds of limits
+
+A self-imposed limit is one you choose: a format, a rule, an old machine. She says these "can function as amplifiers of creativity while simultaneously focusing attention on the process behind the work."
+
+An externally imposed limit comes from outside the work: restrictive copyright law, uncertain legal status, no money, no access to a gallery. Less privileged artists adapt to these whether they want to or not.
+
+The first kind is where [[Radical Simplicity]] and [[Low Fidelity]] sit. The second kind is closer to [[The Libre Designer]].
+
+! Making limits visible
+
+"Integrating and making boundaries visible in the process plays a significant role." That is [[Signs Signaling Sustainability]] in one sentence. [[Solar.LowTechMagazine.com]] is the example I already have.
+
+! Nostalgia
+
+Using an old machine gets called nostalgic because the machine has run out of economic value. Permacomputing answers that there is no better era of computing to miss.
+
+<<<
+From the perspective of Permacomputing, it is impossible to long for and romanticize a time when computer technology was better because such a time never existed.
+<<< Hannah Gmeiner
+
+What she wants in its place is "a more reflective nostalgia, within which experimenting, playful combination, and critical thinking occur." The end of a computer's economic life is when somebody can reclaim it.
+
+! What carried over to graphic design, and what didn't
+
+* Saving and reusing resources worked well.
+* Reusing old devices worked less well. She hit technical hurdles she couldn't clear alone.
+* "One resource you definitely don't save on is time."
+* "Not all principles could be transferred because they were too technically loaded."
+* She couldn't plan an exact output. The process had to stay experimental.
+
+The interview names no tools, file sizes, image treatments, or print methods. Those would be in the thesis.
+
+! Related
+
+* [[What is permaculture?]]
+* [[Why are lo-fi things appealing?]]
+* [[Low Fidelity]]
+* [[Solar.LowTechMagazine.com]]
+* [[Signs Signaling Sustainability]]
+* [[Striving For Static Sites]]
+* [[The Libre Designer]]
