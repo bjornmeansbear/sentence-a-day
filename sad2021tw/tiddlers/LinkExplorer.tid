@@ -1,18 +1,23 @@
 created: 20210616045144239
-modified: 20210728064440182
+modified: 20261008123742000
 tags: $:/tags/ViewTemplate hide
 title: LinkExplorer
 type: text/vnd.tiddlywiki
 
-<$list filter="[all[current]links[]] [all[current]backlinks[]] +[first[]]" variable=_>
+\define linkNeedle() [[$(currentTiddler)$]]
+\define linksIn() [all[current]backlinks[]] [all[tiddlers]!is[system]!is[draft]search:$(linkFields)$:literal,casesensitive<linkNeedle>] +[!tag[private]!tag[hide]sort[title]]
+\define linksOut() [list[MetaInfoFields]] :map:flat[<..currentTiddler>get<currentTiddler>enlist-input[]] :filter[<..currentTiddler>search:$(linkFields)$:literal,casesensitive<linkNeedle>] [all[current]links[]] +[sort[title]]
+<$set name="linkFields" value={{{ [list[MetaInfoFields]join[,]] }}}>
+<$list filter="[subfilter<linksIn>] [subfilter<linksOut>] +[first[]]" variable=_>
 <div class="linkExplorer explorerWrap">
     <div class="linksIn column">
         <h3>Inbound</h3>
-         <<list-links "[all[current]backlinks[]]">>
+        <$macrocall $name="list-links" filter=<<linksIn>>/>
     </div>
     <div class="linksOut column">
         <h3>Outbound</h3>
-        <<list-links "[all[current]links[]]">>
-     </div>
+        <$macrocall $name="list-links" filter=<<linksOut>>/>
+    </div>
 </div>
 </$list>
+</$set>

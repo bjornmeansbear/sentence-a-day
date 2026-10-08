@@ -1,5 +1,5 @@
 created: 20261008021003000
-modified: 20261008022209000
+modified: 20261008122428000
 tags: note GD3
 title: Why Add Motion
 type: text/vnd.tiddlywiki
@@ -30,6 +30,30 @@ These are basically just a formal graphic studies, most of these frames, if stop
 I'm not really a “motion designer” by trade. However, I feel like the concepts that are behind much of what is in designed in motion apply when something is static. Also, the concepts of interaction, [[cause-and-effect|Cause and Effect / Interactivity]], and even sequence are all required in web and print design—these are key in motion design as well.
 
 My biggest pet peeve in motion projects is that typically the motion used just isn't really necessary other than as a parlor trick. It adds a pretty something else, but that often gets in the way of the actual meaning or message to begin with.
+
+! How are time and motion useful design concepts?
+
+The lecture version, from my GD3 notes (2020).
+
+If designs have motion (or are //literally// in motion) they are functioning in space and time. The way western science has described our universe so far, there's the idea of a three dimensional space that we can move around in at our will (XYZ axes) and there is a dimension of time that's always moving forward outside of our control.
+
+Anything that “moves” functions within those four dimensions. Generally this means you change x/y/z coordinates, and that happens in some duration of seconds, minutes, hours, years, whatever…
+
+So, If anything you design is functioning in four dimensions — x,y,z,t — then every design piece has to take those considerations into account, and you can’t help but try to see them as additional design properties to account for; or constraints to design within.
+
+!! Using time/motion as graphic designers
+
+# Represent something with actual duration. The most obvious reason that time in a medium is useful IS that you are representing duration of time. Or you're actually able to represent a thing moving and not just sort of symbol of that thing moving.
+# Add emotion or additional meaning in a way that it being static can't.
+# Control narrative or story or explanation arc in a clear way?
+#* you can control the flow of that narrative or story or sequence. A book or a magazine is sequential but you, as the designer, can't control the way that a reader/viewer choses to go through that sequence. An animation just plays in the sequence you intend...
+#* You can with a much higher certainty presume that I'm just going to hit play and watch it through the way that you intended.
+# Simplify the Complex
+#* Roll out the information over time. it reduces the cognitive load at each moment that you're looking at something.
+#* If we show 2008 this was a thing and then 2018 now this is a thing and we animate between those, it might give us a better idea that it really is rapidly growing because we can even control the animating so it simplifies complex data and communicates its meaning better.
+# The “I don’t know what” factor. It could just have that //je ne sais quoi// where the static thing is “meh” and with motion it is “ah damn that's really great,” and you can't explain why, it is just better.
+
+Remember: graphic design is not restricted to static objects or fixed forms. Screens are ubiquitous and we must be prepared for that! You can apply your designing to screens and videos and animations using the same principles and techniques and processes that general graphic design practice cultivates ... adding change and motion on top of balance, typography, etc.
 
 !! Related
 

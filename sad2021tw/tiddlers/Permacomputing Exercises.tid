@@ -1,8 +1,9 @@
 created: 20261007180449000
-modified: 20261007180449000
+modified: 20261008122952000
 tags: Workshop
 title: Permacomputing Exercises
 type: text/vnd.tiddlywiki
+url: https://permacomputingasapracticefordigitalgraphicdesign.com/
 
 Short exercises for a class or a workshop. Each one sets a limit, asks for one made thing, and ends with a question to talk through. Most fit inside one session. Exercises 1 to 6 are adapted from the experiments in Hannah Gmeiner's thesis, //Permacomputing as a Practice for Digital Graphic Design//. The rest are mine. See [[Permacomputing]].
 
@@ -120,5 +121,3 @@ List every limit on your last project: budget, deadline, software, format, the b
 * Exercise 6 needs a week's notice so people can find a device.
 * Exercise 11 is a good closer. It raises the thesis's own objection, that chosen limits can become "a hobby for the privileged."
 * Her EPUB poster (a poster built in HTML and CSS and shown on a second-hand e-reader) would make a twelfth, but it needs a starter file prepared ahead of time. Her source was //From Print to Ebooks: A Hybrid Publishing Toolkit for the Arts//.
-
-Source: https://permacomputingasapracticefordigitalgraphicdesign.com/

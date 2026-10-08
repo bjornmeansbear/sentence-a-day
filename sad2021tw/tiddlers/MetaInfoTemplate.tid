@@ -1,103 +1,30 @@
 created: 20210616052809773
-modified: 20210728064552998
+modified: 20261008123741000
 tags: $:/tags/ViewTemplate hide
 title: MetaInfoTemplate
 type: text/vnd.tiddlywiki
 
+\define metaLabel() <$text text={{{ [[MetaInfoFields]getindex<field>else<field>] }}}/>
 <div class="infoTable fieldDisplay">
-    <!-- <section class="row flex">
-        <div class="key">Title</div>
-        <div class="value">{{!!title}} / {{!!caption}}</div>
-    </section> -->
-
-    <$list filter="[all[current]!author[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Author</div>
-        <div class="value">{{!!author}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!isbn[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">ISBN</div>
-        <div class="value">{{!!isbn}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!publisher[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Publisher</div>
-        <div class="value">{{!!publisher}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!year[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Year</div>
-        <div class="value">{{!!year}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!prompt[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Prompt</div>
-        <div class="value">{{!!prompt}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!currentco2ppm[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">PPM</div>
-        <div class="value">{{!!currentco2ppm}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!description[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Summary</div>
-        <div class="value">{{!!description}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!city[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Written from</div>
-        <div class="value">{{!!city}}, {{!!state}}, {{!!location}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!url[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">URL</div>
-        <div class="value">{{!!url}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!field:are.na[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Are.na</div>
-        <div class="value">{{!!are.na}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!medium[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Medium</div>
-        <div class="value">{{!!medium}}</div>
-    </section>
-    </$list>
-
-    <$list filter="[all[current]!wikipedia[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="key">Wikipedia</div>
-        <div class="value">{{!!wikipedia}}</div>
-    </section>
-    </$list>
-
-
-    <$list filter="[all[current]!coverurl[]] +[first[]]" variable=_>
-    <section class="row flex">
-        <div class="imgWrapper bookCover"><img src={{!!coverurl}} /></div>
-    </section>
-    </$list>
+<$list filter="[list[MetaInfoFields]]" variable="field">
+<$list filter="[all[current]has<field>]" variable="_">
+<$list filter="[<field>!match[city]!match[coverurl]]" variable="_">
+<section class="row flex">
+<div class="key"><<metaLabel>></div>
+<div class="value"><$transclude field=<<field>> mode="inline"/></div>
+</section>
+</$list>
+<$list filter="[<field>match[city]]" variable="_">
+<section class="row flex">
+<div class="key"><<metaLabel>></div>
+<div class="value">{{!!city}}, {{!!state}}, {{!!location}}</div>
+</section>
+</$list>
+<$list filter="[<field>match[coverurl]]" variable="_">
+<section class="row flex">
+<div class="imgWrapper bookCover"><img src={{!!coverurl}} /></div>
+</section>
+</$list>
+</$list>
+</$list>
 </div>

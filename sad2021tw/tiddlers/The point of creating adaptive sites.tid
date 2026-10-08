@@ -1,0 +1,11 @@
+author: [[Brad Frost]]
+created: 20261008025529950
+modified: 20261008122952000
+tags: Quote
+title: The point of creating adaptive sites
+type: text/vnd.tiddlywiki
+url: http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/
+
+<<<
+The point of creating adaptive sites is to create functional (and hopefully optimal) user experiences for a growing number of web-enabled devices and contexts. It’s not because it’s “the right thing to do”. It’s not because it’s fun. It’s not because it’s trendy. It’s not so you can impress your boss by resizing a browser window.
+<<<

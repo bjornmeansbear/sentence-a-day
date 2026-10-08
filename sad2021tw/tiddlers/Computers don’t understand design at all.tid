@@ -1,0 +1,11 @@
+author: [[Jon Gold]]
+created: 20261008025529915
+modified: 20261008122951000
+tags: Quote
+title: Computers don’t understand design at all
+type: text/vnd.tiddlywiki
+url: http://www.jon.gold/2016/05/robot-design-school/
+
+<<<
+Computers, on the other hand, don’t understand design at all. Not in the slightest. To a computer, fonts are a series of .otf files and a string giving them a name. To a computer, colors are a series of hexadecimal, RGB or HSL references. Computers, by default, aren’t even on a level playing field with non-designer humans.
+<<<

@@ -1,0 +1,11 @@
+author: [[Richard Stallman]]
+created: 20261008025529913
+modified: 20261008122951000
+tags: Quote
+title: No program could be installed if its sources were not on public display
+type: text/vnd.tiddlywiki
+url: https://www.gnu.org/gnu/manifesto.html
+
+<<<
+Harvard's computer lab used to have the policy that no program could be installed on the system if its sources were not on public display, and upheld it by actually refusing to install certain programs. I was very much inspired by this.
+<<< the GNU Manifesto

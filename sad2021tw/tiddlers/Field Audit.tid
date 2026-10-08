@@ -1,0 +1,34 @@
+created: 20261008123741000
+modified: 20261008123741000
+tags: hide
+title: Field Audit
+type: text/vnd.tiddlywiki
+
+Fields that tiddlers use but the top matter does not print. The top matter is drawn by [[MetaInfoTemplate]] from the list in [[MetaInfoFields]].
+
+* ''show'' adds the field to the end of that list, so it prints on every tiddler that has it.
+* ''ignore'' takes it off this page without printing it.
+
+To change the order, or to stop printing a field, edit the `list` field of [[MetaInfoFields]]. To give a field a nicer label, add a line to its text, like `monoskop: Monoskop`.
+
+<table>
+<tr><th>Field</th><th>Tiddlers with a value</th><th>Example</th><th></th></tr>
+<$list filter="[all[tiddlers]!is[system]fields[]sort[]] -[list[MetaInfoFields]] -[enlist{MetaInfoFields!!ignore}] -title -text -tags -created -modified -type" variable="field">
+<$list filter="[all[tiddlers]!is[system]has<field>first[]]" variable="example">
+<tr>
+<td><$text text=<<field>>/></td>
+<td><$text text={{{ [all[tiddlers]!is[system]has<field>count[]] }}}/></td>
+<td><$link to=<<example>>><$text text=<<example>>/></$link></td>
+<td><$button>show<$action-listops $tiddler="MetaInfoFields" $subfilter="[<field>]"/></$button> <$button>ignore<$action-listops $tiddler="MetaInfoFields" $field="ignore" $subfilter="[<field>]"/></$button></td>
+</tr>
+</$list>
+</$list>
+</table>
+
+!! Printing now, in this order
+
+<$list filter="[list[MetaInfoFields]]" variable="field"><$text text=<<field>>/> (<$text text={{{ [[MetaInfoFields]getindex<field>else<field>] }}}/>)<br></$list>
+
+!! Ignored
+
+<$text text={{MetaInfoFields!!ignore}}/>

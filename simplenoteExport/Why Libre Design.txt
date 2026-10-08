@@ -1175,18 +1175,6 @@ What do the tools and ethos from Free/Libre/Open Source (FLOS) communities bring
 
 Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods. This paper also presents how the research, discussions, interviews, experiments, and work/output of the course “Open Source Design” (running Jan-May 2018) changes the ways a designer envisions their practice and methods of making. The paper utilizes the author's own work and research, work and research from the FLOSS community, as well as content created by their students to support the arguments. The way one works with FLOSS tools and ideals creates different systems, processes, methodologies, and aesthetics. The works of the author and their students provide interesting visual and code-based examples to help answer and illustrate this. Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions?
 
-Reviewer 1
-Been waiting for this.
-The proposal poses some interesting questions. Specifically, these broad and philosophical questions are located in paragraph 1. In paragraph 2, the proposal falls flat. I would recommend to the author, that s/he focus on addressing the questions raised in the first paragraph. If the paper simply becomes a write-up of the teaching experience, it will essentially retread many ideas and experiences that all faculty have already had in the classroom. The paper has the potential to be more provocative is it deals with the issues of "reuse," "accessibility," "transparency," "tools and ideas," et al. than if it becomes a reporting of a classroom experience.
-
-Reviewer 2
-Another hot topic that seems to be arising quickly with ever changing technology.
-I attended design conferences just last year and haven't heard this topic being discussed in a Design-Ed environment. I would be very interested to see how this open source softwares are integrated into the classroom.
-
-Reviewer 3
-Very thorough, supports how all claims will be executed and discussed. It is very clear what will take place during this presentation.
-I'm sure there are concrete examples of how you use this software in both the presentation and paper, but I would suggest perhaps including sample assignments as well to illustrate how to effectively implement these FLOSS programs into the classroom.
-
 »»»»»»»»»»»»»»»»»
 
 Design should be a conduit to communicate your values …

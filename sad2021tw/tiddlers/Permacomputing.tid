@@ -1,5 +1,5 @@
 created: 20261007010421000
-modified: 20261007180500000
+modified: 20261008025619000
 tags: Definition
 title: Permacomputing
 type: text/vnd.tiddlywiki
@@ -57,6 +57,14 @@ What she wants in its place is "a more reflective nostalgia, within which experi
 * "One resource you definitely don't save on is time."
 * "Not all principles could be transferred because they were too technically loaded."
 * She couldn't plan an exact output. The process had to stay experimental.
+
+! Scaling down
+
+<<<
+Scalability is also a crucial design variable that requires a compelling rationale when expanding within the context of Permacomputing. Often, scalability downwards is more significant.
+<<< Hannah Gmeiner
+
+Scaling up needs a reason. Scaling down usually matters more. Not written up yet. Cases to write it from: the image list on a.wjerk.shop, the 800px dithered tiles, the cutter server on a Pi, and exercise 10 in [[Permacomputing Exercises]].
 
 ! The experiments
 
