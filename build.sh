@@ -19,3 +19,21 @@ rm -rf sad2021tw/output/static-tags
 # root, e.g. <link rel="icon" href="/favicon.svg">, so they have to land at the
 # top of the output folder, next to index.html.
 cp sad2021tw/icons/favicon.svg sad2021tw/icons/favicon.ico sad2021tw/icons/apple-touch-icon.png sad2021tw/output/
+
+# Version-stamp the stylesheet link on every page. Cloudflare and browsers hold
+# on to static.css for hours, while the pages themselves refresh in minutes, so
+# right after a publish a visitor could get a new page with an old stylesheet
+# (this happened on 2026-10-08: the new homepage showed up unstyled). Adding
+# ?v=<something> to the link makes it a different address, so nobody is handed
+# the stale copy.
+#
+# The "something" is the first 8 characters of the stylesheet's checksum
+# (shasum prints a fingerprint of a file's contents). It only changes when the
+# CSS changes, so an unchanged stylesheet keeps its address and stays cached.
+CSS_VERSION=$(shasum sad2021tw/output/static/static.css | cut -c1-8)
+# find lists every .html file in the output; perl -pi edits each one in place,
+# turning   static.css"   into   static.css?v=1a2b3c4d"   wherever it appears
+# (the homepage, tiddler pages, tag pages and 404 page each spell the path
+# differently, but they all end the link with static.css").
+find sad2021tw/output -name '*.html' -print0 | xargs -0 perl -pi -e "s/static\\.css\"/static.css?v=${CSS_VERSION}\"/g"
+echo "Stylesheet version stamped: ${CSS_VERSION}"

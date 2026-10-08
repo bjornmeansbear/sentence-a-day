@@ -53,6 +53,8 @@ Re-checked against the files on 2026-10-08.
   - It starts with `\rules except dash` so `var(--color-*)` survives.
 - **`$:/core/templates/static.template.html`** (`$__core_templates_static.template.html` + `.meta`) — the homepage shell. It was stock in July; it is now customized: favicon links, `static/static.css`, the body from **`IndexPageBody`**, and a `vendor/list.min.js` script that filters the entry list as you type. A short inline script after it folds the list away, runs the show/hide button, and announces the number of matches.
 
+`build.sh` finishes by stamping every page's stylesheet link with a version (`static.css?v=` plus the first 8 characters of the file's checksum). Cloudflare caches the stylesheet for four hours, and without the stamp a publish could pair new pages with an old stylesheet. The templates themselves still say plain `static.css`; the stamp is added to the built files.
+
 Supporting tiddlers, all tagged `hide`:
 
 - **`WjerkNav`** — the header (logo as an inline image, blurb) and the nav list. Used by both static shells, and shown in the live wiki through `WjerkNavPageSegment` (tagged `$:/tags/PageTemplate`, placed before the top-left bar).
