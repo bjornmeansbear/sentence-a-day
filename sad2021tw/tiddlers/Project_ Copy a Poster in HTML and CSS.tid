@@ -1,0 +1,52 @@
+created: 20261008021003000
+modified: 20261008022208000
+tags: Project GD2
+title: Project: Copy a Poster in HTML and CSS
+type: text/vnd.tiddlywiki
+
+\rules except wikilink
+So, for next week please have an html/css copy of a poster. A few of you have asked about trying to replicate a poster you've made for something else — this is fine. You don't have to replicate a famous poster or anything, just try to do something with text and images and see where you can get. Also remember to think about the ideas of the browser window being fluid while a printed poster is fixed. And, if you can start to think about what changes when one can hover or click on things, then do that too!
+
+!! Transforms
+
+* https://www.w3schools.com/cssref/css3_pr_transform.asp
+* https://www.w3schools.com/css/css3_2dtransforms.asp
+
+!! @keyframes & animations
+
+* https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp
+* https://www.w3schools.com/css/css3_animations.asp
+* https://www.w3schools.com/cssref/css3_pr_animation.asp
+
+!! Transitions
+
+* https://www.w3schools.com/css/css3_transitions.asp
+* https://www.w3schools.com/cssref/css3_pr_transition.asp
+
+!! Font related
+
+* https://www.w3schools.com/css/css_font.asp
+* https://www.w3schools.com/cssref/pr_font_font.asp
+* https://www.w3schools.com/cssref/pr_font_font-family.asp
+* https://www.w3schools.com/cssref/pr_font_font-size.asp
+* https://www.w3schools.com/cssref/pr_text_letter-spacing.asp
+* https://www.w3schools.com/cssref/pr_dim_line-height.asp
+
+!! :hover
+
+https://www.w3schools.com/csSref/sel_hover.asp
+
+the w3c uses a:hover for a lot of the examples — but you can do a :hover state on anything! — this is for "rollover" states.
+
+!! :active
+
+https://www.w3schools.com/cssref/sel_active.asp
+
+the w3c uses a:hover for a lot of the examples — but you can do a :active state on anything! — this is equivalent to "click".
+
+!! Related
+
+* [[html2print]]
+* [[Web]]
+* [[Copy, Transform, Combine]]
+* [[Dyptych Poster Prompt]]
