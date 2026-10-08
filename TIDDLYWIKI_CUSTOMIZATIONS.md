@@ -51,13 +51,16 @@ Re-checked against the files on 2026-10-08.
   - **Missing links** get pink text, a dotted underline and a "(TBA)" suffix, because on the static site a missing link has nothing behind it but the 404 page.
   - **Two columns from 960px up:** `.wjerk-tiddler-columns` is a flex row, tiddler 60% and sidebar 40%. The wrapper exists so these rules out-rank the vanilla theme's fixed-position sidebar. Below 960px the two stack, with gutters set in `OOKB Styles.css`.
   - It starts with `\rules except dash` so `var(--color-*)` survives.
-- **`$:/core/templates/static.template.html`** (`$__core_templates_static.template.html` + `.meta`) — the homepage shell. It was stock in July; it is now customized: favicon links, `static/static.css`, the body from **`IndexPageBody`**, and a `vendor/list.min.js` script that filters the entry list as you type.
+- **`$:/core/templates/static.template.html`** (`$__core_templates_static.template.html` + `.meta`) — the homepage shell. It was stock in July; it is now customized: favicon links, `static/static.css`, the body from **`IndexPageBody`**, and a `vendor/list.min.js` script that filters the entry list as you type. A short inline script after it folds the list away, runs the show/hide button, and announces the number of matches.
 
 Supporting tiddlers, all tagged `hide`:
 
 - **`WjerkNav`** — the header (logo as an inline image, blurb) and the nav list. Used by both static shells, and shown in the live wiki through `WjerkNavPageSegment` (tagged `$:/tags/PageTemplate`, placed before the top-left bar).
 - **`SiteIntro`** — the site title and description paragraph. Sidebar on tiddler pages, intro on the homepage.
-- **`IndexPageBody`** — the homepage body: `WjerkNav`, `SiteIntro`, a search box, and a list of every tiddler that is not system, `private`, `hide`, or dot-prefixed.
+- **`IndexPageBody`** — the homepage body: `WjerkNav`, `SiteIntro`, the **doors**, a search box, and the list of every published tiddler. Since 2026-10-08 the full list is folded away until a visitor types in the search box or presses "Show the full list"; with scripts off it simply shows.
+- **`HomeDoors`** (dictionary tiddler, tagged `hide`) — the homepage's table of contents. Its `list` field names the tags that get a door, in order; its text gives each a label (`Principle: Principles`). Each door links to that tag's own page and shows how many published pages carry the tag. To add, remove or reorder doors, edit the `list` field. Pages that carry none of the door tags are reached by search, links, or the full list.
+  - Its **`start` field** lists the "Start here" pages shown above the doors: a handful to hand a stranger first.
+  - The sentence under each door and each start page is that tiddler's own **`description` field**. The same sentence prints as "Summary" in the top matter of the page itself, so it is written once and shown in two places. No `description`, no sentence.
 
 `tiddlywiki.info` uses that same filter (`[!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]]`) to choose which tiddlers get a page. Tagging a tiddler `hide` or `private` keeps it off the published site.
 

@@ -27,8 +27,32 @@
 <script src="vendor/list.min.js"></script>
 <script>
 (function () {
+    // Without the search library there is no way to filter, so leave the
+    // full list on show (the same thing a visitor with scripts off gets).
     if (typeof List === "undefined") return;
-    new List("tiddler-list-container", { valueNames: ["title"] });
+    var box = document.getElementById("tiddler-list-container");
+    var input = box.querySelector(".search");
+    var button = box.querySelector(".showAll");
+    var status = box.querySelector(".indexStatus");
+    var list = new List("tiddler-list-container", { valueNames: ["title"] });
+    var showAll = false;
+
+    // The list is on show while someone is searching, or after they ask
+    // for all of it. Otherwise it stays folded away under the doors.
+    function update() {
+        var searching = input.value.trim() !== "";
+        box.classList.toggle("is-open", searching || showAll);
+        button.setAttribute("aria-expanded", showAll ? "true" : "false");
+        button.textContent = showAll ? "Hide the full list" : "Show the full list";
+        var n = list.matchingItems.length;
+        status.textContent = searching ? n + (n === 1 ? " page matches" : " pages match") : "";
+    }
+
+    box.classList.add("is-collapsible");
+    button.hidden = false;
+    button.addEventListener("click", function () { showAll = !showAll; update(); });
+    list.on("searchComplete", update);
+    update();
 })();
 </script>
 

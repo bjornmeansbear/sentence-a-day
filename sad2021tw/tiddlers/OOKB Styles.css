@@ -376,3 +376,151 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   color: var(--color-text);
   fill: var(--color-text);
 }
+
+/** Homepage doors: a few ways in, in place of an index of everything. The
+    list of doors lives in the HomeDoors tiddler. Same divider-grid as the
+    nav: the list is painted in the line color, the cells in the ground, and
+    the 1px gap between them is the rule. **/
+.startHere {
+  margin-top: var(--frame-pad);
+}
+/* Section bars: the same muted strip as the Inbound / Outbound headings. */
+.startHere h2,
+.doors h2 {
+  margin: 0;
+  padding: .25em var(--frame-pad);
+  font-size: .9rem;
+  background-color: var(--color-surface-muted);
+  border-top: 1px solid var(--color-border);
+}
+/* Start here: a handful of pages to hand a stranger first (the `start` field
+   of HomeDoors). One per row on a phone, side by side from 40rem. */
+.startHere ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: var(--color-border);
+  border-top: 1px solid var(--color-border);
+}
+.startHere li {
+  display: flex;
+  flex: 1 1 100%;
+  background: var(--color-bg);
+}
+.startHere a {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: .5rem;
+  padding: 1.25em var(--frame-pad);
+  text-decoration: none;
+  color: inherit;
+}
+.startHere .startTitle {
+  font-size: 1.25rem;
+  font-weight: bold;
+  line-height: 1.2;
+}
+.startHere a:is(:hover, :focus-visible) {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+}
+.startHere a:focus-visible {
+  outline-color: currentColor;
+  outline-offset: -0.5rem;
+}
+@media (min-width: 40rem) {
+  .startHere li {
+    flex: 1 1 18%; /* up to five across */
+  }
+}
+.doors ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background: var(--color-border);
+  border-block: 1px solid var(--color-border);
+}
+.doors li {
+  display: flex;
+  flex: 1 1 40%; /* two per row on small screens */
+  background: var(--color-bg);
+}
+/* Each door: name and count on one line, a short note under them. The note
+   is the tag page's own `description` field, so the same sentence also shows
+   as the Summary on that page. */
+.doors a {
+  display: grid;
+  flex: 1;
+  grid-template-columns: 1fr auto;
+  align-content: start;
+  align-items: baseline;
+  gap: .25rem 1em;
+  padding: 1em var(--frame-pad);
+  font-weight: bold;
+  text-decoration: none;
+  color: inherit;
+}
+.doors .doorCount,
+.doors .doorNote {
+  font-weight: normal;
+  color: var(--color-text-muted); /* gray-6 on the ground: 7.34:1 */
+}
+.doors .doorCount {
+  font-variant-numeric: tabular-nums;
+}
+.doors .doorNote {
+  grid-column: 1 / -1;
+}
+/* Same affordance as the nav: accent fill, ground-colored text (4.78:1). */
+.doors a:is(:hover, :focus-visible) {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+}
+.doors a:is(:hover, :focus-visible) :is(.doorCount, .doorNote) {
+  color: inherit;
+}
+.doors a:focus-visible {
+  outline-color: currentColor;
+  outline-offset: -0.5rem;
+}
+@media (min-width: 40rem) {
+  .doors li {
+    flex: 1 1 22%; /* four per row */
+  }
+}
+
+/* Search sits under the doors. The full list is folded away until someone
+   searches or asks for it; the script adds .is-collapsible, so with scripts
+   off the whole list simply shows. */
+.searchLabel {
+  display: block;
+  margin-bottom: .5rem;
+  font-weight: bold;
+}
+.indexStatus {
+  min-height: 1.5rem;
+  margin: .5rem 0;
+}
+.showAll {
+  padding: .5em 1em;
+  border: 1px solid var(--color-text);
+  background: var(--color-bg);
+  color: var(--color-text);
+  font: inherit;
+  cursor: pointer;
+}
+.showAll:is(:hover, :focus-visible) {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent);
+  color: var(--color-bg);
+}
+#tiddler-list-container.is-collapsible:not(.is-open) .tc-static-story-river {
+  display: none;
+}

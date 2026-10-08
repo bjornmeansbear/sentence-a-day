@@ -1,17 +1,48 @@
 created: 20260714232854000
-modified: 20260714232854000
+modified: 20261008130257000
 tags: hide
 title: IndexPageBody
 type: text/vnd.tiddlywiki
 
+\define published() [!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]]
 <div class="home">
     {{WjerkNav}}
     {{SiteIntro}}
+    <section class="startHere" aria-labelledby="startHeading">
+        <h2 id="startHeading">Start here</h2>
+        <ul>
+            <$list filter="[enlist{HomeDoors!!start}]" variable="page">
+                <li>
+                    <$link to=<<page>>>
+                        <span class="startTitle"><$text text=<<page>>/></span>
+                        <span class="startNote"><$transclude tiddler=<<page>> field="description" mode="inline"/></span>
+                    </$link>
+                </li>
+            </$list>
+        </ul>
+    </section>
+    <nav class="doors" aria-labelledby="doorsHeading">
+        <h2 id="doorsHeading">Browse by kind</h2>
+        <ul>
+            <$list filter="[list[HomeDoors]]" variable="door">
+                <li>
+                    <$link to=<<door>>>
+                        <span class="doorName"><$text text={{{ [[HomeDoors]getindex<door>else<door>] }}}/></span>
+                        <span class="doorCount"><$text text={{{ [tag<door>!tag[private]!tag[hide]!prefix[.]count[]] }}}/></span>
+                        <span class="doorNote"><$transclude tiddler=<<door>> field="description" mode="inline"/></span>
+                    </$link>
+                </li>
+            </$list>
+        </ul>
+    </nav>
     <div id="tiddler-list-container">
-        <input class="search" type="text" placeholder="Search entries…" aria-label="Search entries">
+        <label class="searchLabel" for="entrySearch">Search all <$text text={{{ [subfilter<published>count[]] }}}/> pages</label>
+        <input class="search" id="entrySearch" type="text" placeholder="Type a word or a name…">
+        <p class="indexStatus" aria-live="polite"></p>
+        <button type="button" class="showAll" aria-expanded="false" aria-controls="entryList" hidden>Show the full list</button>
         <section class="tc-story-river tc-static-story-river">
-            <ul class="list">
-                <$list filter="[!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]] +[sort[title]]">
+            <ul class="list" id="entryList">
+                <$list filter="[subfilter<published>sort[title]]">
                     <li>
                         <$link to=<<currentTiddler>>>
                             <span class="title"><$view field="title" /></span>
