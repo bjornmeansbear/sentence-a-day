@@ -1,0 +1,20 @@
+created: 20261007180252000
+modified: 20261007180252000
+tags: Definition
+title: Virtualism
+type: text/vnd.tiddlywiki
+url: https://permacomputingasapracticefordigitalgraphicdesign.com/
+
+Virtualism is the habit of hiding how a system works so that it looks simpler than it is. The term comes from the [[Permacomputing]] scene.
+
+The web is the example Hannah Gmeiner gives. It shows up as layers of pages with no physical location. What is there is a chain of servers spread around the world, each one in a building, each one drawing power.
+
+<<<
+A typical approach in the IT sector is to hide complexity behind layers of abstraction, making everything appear much simpler than it actually is.
+<<< Hannah Gmeiner, //Permacomputing as a Practice for Digital Graphic Design//
+
+She pairs it with maximalism, the belief that more data, more resolution, and more computing are good in themselves. A system that keeps growing gets more complex, and the complexity has to go somewhere, so it gets covered. The cover makes the growth easy to live with. "This virtualism and maximalism are pervasive in our society and reinforce each other."
+
+[[Signs Signaling Sustainability]] works the other way: put the cost where you can see it. [[Solar.LowTechMagazine.com]] shows its battery level on the page. Gmeiner's thesis site prints the file size next to every image.
+
+Source: https://permacomputingasapracticefordigitalgraphicdesign.com/

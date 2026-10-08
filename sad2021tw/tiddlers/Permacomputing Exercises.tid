@@ -1,0 +1,124 @@
+created: 20261007180449000
+modified: 20261007180449000
+tags: Workshop
+title: Permacomputing Exercises
+type: text/vnd.tiddlywiki
+
+Short exercises for a class or a workshop. Each one sets a limit, asks for one made thing, and ends with a question to talk through. Most fit inside one session. Exercises 1 to 6 are adapted from the experiments in Hannah Gmeiner's thesis, //Permacomputing as a Practice for Digital Graphic Design//. The rest are mine. See [[Permacomputing]].
+
+! 1. The 24 × 34 poster
+
+* ''Time:'' 45 minutes
+* ''Tools:'' any vector program, a printer
+* ''Limit:'' the artboard is 24 × 34 pixels.
+
+Design a poster for a real event on that artboard. Mix vector shapes and type with one pixel image. Export a PDF and print it at A3.
+
+''Ask:'' What stayed sharp and what turned to blocks? Did you choose which was which?
+
+! 2. Ten kilobytes
+
+* ''Time:'' 30 minutes
+* ''Tools:'' a plain text editor
+* ''Limit:'' one .txt file under 10 KB. Monospace characters only.
+
+Make the same poster as exercise 1 out of text. Check the file size before you call it done.
+
+''Ask:'' Put the two posters side by side. Which one could a stranger open in twenty years?
+
+! 3. The bin beside the printer
+
+* ''Time:'' 60 to 90 minutes
+* ''Tools:'' a scanner or a phone camera
+* ''Limit:'' every mark in the piece comes from a discarded print.
+
+Collect test prints, misfeeds, and abandoned pages from the print lab. Scan them. Enlarge, crop, and combine them into a poster. Write down where each piece came from.
+
+''Ask:'' Code gets reused all the time. Why do layouts and images get thrown out?
+
+! 4. Break the video
+
+* ''Time:'' 45 minutes
+* ''Tools:'' ~HandBrake (free, open source)
+* ''Limit:'' a ten-second clip borrowed from a classmate.
+
+Push the quality setting down and export. Repeat until the blocks and smears show. Find the smallest file where you can still tell what the clip is of. Write the file size on the board next to the original's.
+
+''Ask:'' At what size did it stop being a picture of the thing and start being a picture of the file?
+
+! 5. Slow pixels
+
+* ''Time:'' homework, one week
+* ''Tools:'' graph paper, plus needle and thread, tiles, beads, or a marker
+* ''Limit:'' a grid no bigger than 16 × 16 cells.
+
+Draw one letter on the grid. Make it by hand in a slow material, one cell at a time. Scan the result.
+
+''Ask:'' How long did one letter take? What did you change in the drawing once you knew that?
+
+! 6. One machine back
+
+* ''Time:'' one week
+* ''Tools:'' a device nobody is using: an old phone, an e-reader, a label maker, a calculator, a fax machine
+* ''Limit:'' borrow it or find it. Don't buy anything new.
+
+Get one piece of graphic design onto the device, or out of it. Photograph or scan the result. Keep a list of everything the device refused to do.
+
+''Ask:'' Which of those refusals ended up in the design?
+
+! 7. Weigh the page
+
+* ''Time:'' 30 minutes
+* ''Tools:'' a browser's developer tools, Network tab
+* ''Limit:'' a web page you made.
+
+Reload the page with the Network tab open and write down the total transferred. Cut that number in half. List what you removed or shrank to get there.
+
+''Ask:'' Which cut did a visitor lose something from, and which did nobody notice?
+
+! 8. Label the cost
+
+* ''Time:'' 30 minutes
+* ''Tools:'' a finished project of your own
+* ''Limit:'' one added line of text.
+
+Add one visible label that states a cost of the work: file size, sheets of paper, print run, hours, miles shipped. Put it where the audience will read it.
+
+''Ask:'' Does the label change how the work reads? Would you leave it on? See [[Signs Signaling Sustainability]].
+
+! 9. Uncover one layer
+
+* ''Time:'' 30 minutes
+* ''Tools:'' one sheet of paper, a pen
+* ''Limit:'' one thing you did on a screen today.
+
+Pick something small, like posting a photo. Draw every physical thing it passed through: the file, the phone, the router, the cable, the server, the building, the power plant. Mark the links you had to guess.
+
+''Ask:'' Where did your knowledge run out? Who benefits from it running out there? See [[Virtualism]].
+
+! 10. Scale it down
+
+* ''Time:'' 20 minutes to plan, one session to make
+* ''Tools:'' a finished project of your own
+* ''Limit:'' one tenth.
+
+Pick one measure of the project: dimensions, file size, number of colors, number of pages, hours. Remake the project at one tenth of that measure.
+
+''Ask:'' What survived? Was the full-size version ever justified?
+
+! 11. Chosen or imposed
+
+* ''Time:'' 15 minutes, no tools
+
+List every limit on your last project: budget, deadline, software, format, the brief, your own rules. Sort the list into two columns, the limits you chose and the limits someone handed you.
+
+''Ask:'' Which column made the work better? Who in this room could not have chosen the limits in your first column?
+
+! Notes for running these
+
+* Exercises 1 and 2 work best as a pair, back to back.
+* Exercise 6 needs a week's notice so people can find a device.
+* Exercise 11 is a good closer. It raises the thesis's own objection, that chosen limits can become "a hobby for the privileged."
+* Her EPUB poster (a poster built in HTML and CSS and shown on a second-hand e-reader) would make a twelfth, but it needs a starter file prepared ahead of time. Her source was //From Print to Ebooks: A Hybrid Publishing Toolkit for the Arts//.
+
+Source: https://permacomputingasapracticefordigitalgraphicdesign.com/

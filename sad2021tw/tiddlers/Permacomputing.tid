@@ -1,5 +1,5 @@
 created: 20261007010421000
-modified: 20261007010421000
+modified: 20261007180500000
 tags: Definition
 title: Permacomputing
 type: text/vnd.tiddlywiki
@@ -25,6 +25,8 @@ This describes a mindset in which quantitative growth is seen as good and desira
 Her example is social media moving from text posts to image posts to video posts. For designers it shows up as steady pressure to adopt each new tool, and as a reluctance to criticize how the new tools look.
 
 It gives [[High Fidelity]] a motive. See [[Why are lo-fi things appealing?]]
+
+Its companion is [[Virtualism]]: hiding how the system works so the growth is easy to live with.
 
 ! Two kinds of limits
 
@@ -56,10 +58,39 @@ What she wants in its place is "a more reflective nostalgia, within which experi
 * "Not all principles could be transferred because they were too technically loaded."
 * She couldn't plan an exact output. The process had to stay experimental.
 
-The interview names no tools, file sizes, image treatments, or print methods. Those would be in the thesis.
+! The experiments
+
+The thesis site documents each one, with the file size printed beside every image.
+
+|!Experiment |!What she did |!Tools |
+|EPUB poster |A poster built as an EPUB in HTML and CSS, shown on a second-hand Kindle. She filmed the e-ink flicker between pages as animation. |VS Code, Kindle 6th gen |
+|Cross-stitch type |Letters drawn on an 8-pixel grid, stitched, then scanned. |Needle, thread, scanner |
+|Reused material |Discarded prints collected from beside the university printers, then scanned, enlarged, and recombined into posters. |Scanner |
+|Digital diary |Mastodon posts about permacomputing typed into a used Casio organiser with 128 KB of storage. |Casio digital diary |
+|Small-file poster |Posters designed at 24 × 34 px, mixing vector and pixel elements. The PDFs stay under 600 KB and print legibly at A3. |Vector program |
+|Compression artefacts |Classmates' videos compressed until the data structure shows. |~HandBrake |
+|Text only |Posters and animations made in a plain text editor with ASCII art, mostly under 10 KB. |Text editor |
+|LED panel |Processing sketches on a 64 × 64 px panel, red and green LEDs only. |Processing |
+
+I turned these into [[Permacomputing Exercises]].
+
+! Her own objection
+
+She raises the charge against permacomputing herself. Its limits are chosen. The people practicing it are not disadvantaged by geography or money, and nothing forces them.
+
+<<<
+permacomputing requires thorough consideration to prevent it from becoming a hobby for the privileged or glorifying and aestheticizing poverty.
+<<< Hannah Gmeiner
+
+She adds that this "should in no way be understood as an excuse for extractivism and wasteful practices."
+
+This is maybe everything that I do?
 
 ! Related
 
+* [[Permacomputing Exercises]]
+* [[Amplify Awareness]]
+* [[Virtualism]]
 * [[What is permaculture?]]
 * [[Why are lo-fi things appealing?]]
 * [[Low Fidelity]]
