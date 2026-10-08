@@ -1,12 +1,12 @@
 created: 20210616045144239
-modified: 20261008123742000
+modified: 20261008173936000
 tags: $:/tags/ViewTemplate hide
 title: LinkExplorer
 type: text/vnd.tiddlywiki
 
 \define linkNeedle() [[$(currentTiddler)$]]
 \define linksIn() [all[current]backlinks[]] [all[tiddlers]!is[system]!is[draft]search:$(linkFields)$:literal,casesensitive<linkNeedle>] +[!tag[private]!tag[hide]sort[title]]
-\define linksOut() [list[MetaInfoFields]] :map:flat[<..currentTiddler>get<currentTiddler>enlist-input[]] :filter[<..currentTiddler>search:$(linkFields)$:literal,casesensitive<linkNeedle>] [all[current]links[]] +[sort[title]]
+\define linksOut() [list[MetaInfoFields]] :map:flat[<..currentTiddler>get<currentTiddler>enlist-input[]!regexp[\|]] :filter[<..currentTiddler>search:$(linkFields)$:literal,casesensitive<linkNeedle>] [all[current]links[]] +[sort[title]]
 <$set name="linkFields" value={{{ [list[MetaInfoFields]join[,]] }}}>
 <$list filter="[subfilter<linksIn>] [subfilter<linksOut>] +[first[]]" variable=_>
 <div class="linkExplorer explorerWrap">

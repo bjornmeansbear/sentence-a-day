@@ -1,7 +1,7 @@
 created: 20261008123741000
 ignore: caption subtitle list list-before tmap.id tmap.edges color icon state location draft.of draft.title
-list: author isbn publisher year prompt currentco2ppm description city url are.na medium wikipedia monoskop coverurl amazon goodreads isbn-10 isbn-13 publisheddate youtube worldcat
-modified: 20261008124242637
+list: author isbn publisher date year prompt currentco2ppm description city casestudy url are.na medium wikipedia monoskop coverurl amazon goodreads isbn-10 isbn-13 publisheddate youtube worldcat
+modified: 20261008173903000
 tags: hide
 title: MetaInfoFields
 type: application/x-tiddler-dictionary

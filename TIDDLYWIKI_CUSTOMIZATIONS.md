@@ -102,6 +102,23 @@ TiddlyWiki's `links[]` and `backlinks[]` only read a tiddler's body text. A tag 
 
 Core features that depend on real links (the info panel's References tab, relink, the missing-tiddlers list) still do not see field links.
 
+### Links to Wjerk case studies: the `casestudy` field
+
+A tiddler that has a case study on a.wjerk.shop carries a `casestudy` field, which prints as a "Case study" row in the top matter:
+
+```
+casestudy: [[Chair-ness at a.wjerk.shop|https://a.wjerk.shop/case-study-chairness]]
+```
+
+The field is never typed by hand. The pairing is recorded once, in `~/Code/a.wjerk.shop/connections.json` (each case study names its tiddlers under `"tiddler"`), and two things read it:
+
+- the a.wjerk.shop build, which prints "Essay: the full write-up on …" on the case study page;
+- `sad2021tw/scripts/case-study-links.py`, which sets the `casestudy` field on each named tiddler.
+
+To connect a new pair, add the tiddler's title to `connections.json` and run `python3 sad2021tw/scripts/case-study-links.py` (add `--dry-run` to preview). It works whether or not the dev server is running, and reports any title in the file that matches no tiddler.
+
+`LinkExplorer` ignores a field value of the form `[[label|address]]`, so the case study does not show up as a missing page under Outbound.
+
 ### Conventions for quote and source tiddlers
 
 - A quote tiddler is titled with the quote (or a short form of it), tagged `Quote`, with the author in the `author` field as `[[Name]]`, any link in `url`, and a `year` when known. The body is the quote in a `<<<` block, with the source work after the closing `<<<`.

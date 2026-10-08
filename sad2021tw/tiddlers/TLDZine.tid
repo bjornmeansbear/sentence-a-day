@@ -1,6 +1,7 @@
+casestudy: [[The Libre Designer at a.wjerk.shop|https://a.wjerk.shop/case-study-libre-designer]]
 created: 20220127212402829
 list: [[020211108140325 Ideas > The Libre Designer Zine]] [[Practical Primer for F/LOS Design]] [[The Most Used Image on Earth]] [[Open Source Design]] [[Free Culture! (TLDZine)]] [[Where did I start thinking this way?]] [[How to Liberate your Designs?]] [[The Libre Designer More Thoughts]] [[020211106222232 Ideas]] [[020211124005022 Ideas]] [[Free Means Freedom]] [[How Bazaar]]
-modified: 20220311042606562
+modified: 20261008181047000
 tags: Essays Zine
 title: TLDZine
 type: text/vnd.tiddlywiki
@@ -73,7 +74,7 @@ So I've dabbled off and on with libre fonts, OS tools like Drupal, and then the 
 
 !! [[Open Licenses]]
 
-A note on licenses: There are so many... we can dive into this more at the end if anyone cares; but in general there are truely free/libre licenses like GPL, CC share alikes, Apache; and then there are permissive license, MIT being the most used/known one. Basically, the libre licenses say that if you want to use this, great, but whatever you use it in also has to be open and shared in the same way. the permissive licenses say you can use this, and all you have to do is try to make it clear that you used this in your program or code somehwere; you _do not_ have to share your code the way I've shared mine... One is viral; one is isn't...
+A note on licenses: There are so many... we can dive into this more at the end if anyone cares; but in general there are truely free/libre licenses like GPL, CC share alikes, Apache; and then there are permissive license, MIT being the most used/known one. Basically, the libre licenses say that if you want to use this, great, but whatever you use it in also has to be open and shared in the same way. the permissive licenses say you can use this, and all you have to do is try to make it clear that you used this in your program or code somehwere; you //do not// have to share your code the way I've shared mine... One is viral; one is isn't...
 
 !! [[Open Source Design]]
 

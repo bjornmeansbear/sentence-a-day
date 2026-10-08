@@ -1,5 +1,5 @@
 created: 20260714232854000
-modified: 20261008130257000
+modified: 20261008172307000
 tags: hide
 title: IndexPageBody
 type: text/vnd.tiddlywiki
@@ -14,7 +14,7 @@ type: text/vnd.tiddlywiki
             <$list filter="[enlist{HomeDoors!!start}]" variable="page">
                 <li>
                     <$link to=<<page>>>
-                        <span class="startTitle"><$text text=<<page>>/></span>
+                        <span class="startTitle"><$text text={{{ [<page>get[caption]else<page>] }}}/></span>
                         <span class="startNote"><$transclude tiddler=<<page>> field="description" mode="inline"/></span>
                     </$link>
                 </li>

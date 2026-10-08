@@ -1,6 +1,7 @@
 author: Author
 isbn: ISBN
 publisher: Publisher
+date: Date
 year: Year
 prompt: Prompt
 currentco2ppm: PPM
@@ -11,3 +12,4 @@ are.na: Are.na
 medium: Medium
 wikipedia: Wikipedia
 monoskop: Monoskop
+casestudy: Case study
