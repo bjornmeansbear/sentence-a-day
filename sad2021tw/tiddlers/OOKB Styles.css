@@ -434,12 +434,7 @@ a.tc-tag-label:is(:hover, :focus-visible) {
 }
 @media (min-width: 40rem) {
   .startHere li {
-    flex: 1 1 30%; /* three across */
-  }
-  /* The first page in the list is the lead and takes a full row, so one lead
-     plus six others makes three even rows. */
-  .startHere li:first-child {
-    flex-basis: 100%;
+    flex: 1 1 22%; /* four across; a shorter last row stretches to fill, so seven pages sit as four over three */
   }
 }
 .doors ul {
