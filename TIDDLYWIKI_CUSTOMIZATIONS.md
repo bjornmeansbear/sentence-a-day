@@ -2,7 +2,7 @@
 
 Notes on what's been customized in `sad2021tw/` beyond a stock TiddlyWiki install, and how the templating system works, so future tweaks are easier to reason about.
 
-First written 2026-07-01. The view-template, palette and CSS sections were brought up to date on 2026-10-08. The static-build section has not been re-checked since July and predates the Wjerk redesign of 2026-10-04 (header, nav, `.wjerk-tiddler-columns`, the `Wjerk`, `WjerkNav` and `IndexPageBody` tiddlers); for that work see "Using the kit in a TiddlyWiki static site" in `~/Code/color-system-and-guidelines/RULES.md`.
+First written 2026-07-01. The view-template, palette and CSS sections were brought up to date on 2026-10-08. For the design reasoning behind the static site's look (palette mapping, link colours, the nav pattern), see "Using the kit in a TiddlyWiki static site" in `~/Code/color-system-and-guidelines/RULES.md`.
 
 ## Editing while the dev server is running
 
@@ -43,9 +43,23 @@ plus assorted box-shadows/gradients on buttons, tabs, and controls. That produce
 ## Inventory of customizations
 
 ### Static-build templates (used by `build.sh`)
-- **`$:/core/templates/static.tiddler.html`** (`sad2021tw/tiddlers/$__core_templates_static.tiddler.html.tid`) — full override of the core shadow tiddler. Adds a "KB Additions" block: a fixed site-title/subtitle div. The pre-edit version is kept as a backup tiddler titled `$:/core/templates/static.tiddler.html ~ orig` for diffing.
-- **`$:/core/templates/static.template.css`** (`sad2021tw/tiddlers/$__core_templates_static.template.css.tid`) — "KB ADDITIONS" here is the real structural change: pins `.tc-sidebar-scrollable` fixed to the right 40% of the viewport and `.tc-story-river` to the left 60%, producing the two-column static-page layout.
-- **`$:/core/templates/static.template.html`** — untouched, matches stock.
+
+Re-checked against the files on 2026-10-08.
+
+- **`$:/core/templates/static.tiddler.html`** (`$__core_templates_static.tiddler.html.tid`) — full override of the core shadow tiddler; the page shell for every individual tiddler page. In order it outputs: the `<head>` (viewport, favicon links, `static.css`), the **`WjerkNav`** header and nav, then a **`.wjerk-tiddler-columns`** wrapper holding two things side by side: the tiddler itself (rendered through `$:/core/ui/ViewTemplate`, so every ViewTemplate fragment below appears on the published page) and a sidebar containing **`SiteIntro`**. The pre-edit version is kept as `$:/core/templates/static.tiddler.html ~ orig` for diffing.
+- **`$:/core/templates/static.template.css`** (`$__core_templates_static.template.css.tid`) — builds `static.css` from the boot CSS plus everything tagged `$:/tags/Stylesheet`, then adds static-only rules:
+  - **Missing links** get pink text, a dotted underline and a "(TBA)" suffix, because on the static site a missing link has nothing behind it but the 404 page.
+  - **Two columns from 960px up:** `.wjerk-tiddler-columns` is a flex row, tiddler 60% and sidebar 40%. The wrapper exists so these rules out-rank the vanilla theme's fixed-position sidebar. Below 960px the two stack, with gutters set in `OOKB Styles.css`.
+  - It starts with `\rules except dash` so `var(--color-*)` survives.
+- **`$:/core/templates/static.template.html`** (`$__core_templates_static.template.html` + `.meta`) — the homepage shell. It was stock in July; it is now customized: favicon links, `static/static.css`, the body from **`IndexPageBody`**, and a `vendor/list.min.js` script that filters the entry list as you type.
+
+Supporting tiddlers, all tagged `hide`:
+
+- **`WjerkNav`** — the header (logo as an inline image, blurb) and the nav list. Used by both static shells, and shown in the live wiki through `WjerkNavPageSegment` (tagged `$:/tags/PageTemplate`, placed before the top-left bar).
+- **`SiteIntro`** — the site title and description paragraph. Sidebar on tiddler pages, intro on the homepage.
+- **`IndexPageBody`** — the homepage body: `WjerkNav`, `SiteIntro`, a search box, and a list of every tiddler that is not system, `private`, `hide`, or dot-prefixed.
+
+`tiddlywiki.info` uses that same filter (`[!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]]`) to choose which tiddlers get a page. Tagging a tiddler `hide` or `private` keeps it off the published site.
 
 ### Per-tiddler view additions (`$:/tags/ViewTemplate`)
 The `list:` field on `$:/tags/ViewTemplate` controls which fragments render for every tiddler, in order: title → unfold → subtitle → WordCount editor hook → tags → WordCount display → classic body → **MetaInfoTemplate** → body → import → plugin → **TagExplorer** → **DateExplorer** → **LinkExplorer**.
@@ -105,7 +119,6 @@ Core features that depend on real links (the info panel's References tab, relink
 - `OOKB Styles.css` (`sad2021tw/tiddlers/OOKB Styles.css`, meta at `OOKB Styles.css.meta`) — stylesheet tiddler of about 380 lines, tagged `$:/tags/Stylesheet hide`. This is the right home for future pure-CSS tweaks. It ends with a commented "Toolbar icon states" block that records each icon/background pairing and its contrast ratio.
 - `Wjerk Tokens.tid` — tagged `$:/tags/Stylesheet hide`. Reads the active palette and writes the kit's semantic tokens (`--color-bg`, `--color-text`, `--color-accent`…) so `OOKB Styles.css` can use `var(--color-*)`. It starts with `\rules except dash`, because wikitext otherwise turns `--` into an en dash and breaks every custom-property name.
 - Stylesheet tiddlers load in title order, and `$:/…` sorts before `OOKB Styles`, so this file's rules come after the theme's and win at equal specificity. Its overrides rely on that.
-- **Leftover:** `$/plugins/danielo515/context/css` (143 bytes, tagged `$:/tags/Stylesheet`) is still present from the ContextPlugin removed in July. Harmless; can be deleted.
 
 ### Plugins (extend the system, not templates per se)
 - `OokTech/WordCount` — word count display + editor hook, wired into `$:/tags/ViewTemplate`.
