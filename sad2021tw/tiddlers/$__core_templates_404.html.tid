@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 \define tv-wikilink-template() /static/$uri_doubleencoded$.html
 \rules only filteredtranscludeinline transcludeinline
 <!doctype html>
-<html>
+<html lang="en">
 
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />

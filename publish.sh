@@ -8,6 +8,10 @@ set -e
 # line — which is exactly how the old build.sh silently produced broken
 # output for months. `set -e` turns "silent partial failure" into "loud stop".
 
+cd "$(dirname "$0")"
+# Run from the folder this script lives in, so `bash build.sh` and the
+# sad2021tw/... paths below work no matter where you launched it from.
+
 BJORNPAEDIA_DIR="${BJORNPAEDIA_DIR:-$HOME/Code/bjornpaedia}"
 # Variable assignment with a fallback default: ${VAR:-default} means "use
 # $BJORNPAEDIA_DIR if it's already set in the environment, otherwise use
@@ -56,27 +60,29 @@ cp sad2021tw/output/index.html "$BJORNPAEDIA_DIR/"
 # it's one file, always overwritten wholesale.
 
 cp sad2021tw/output/404.html "$BJORNPAEDIA_DIR/"
+# GitHub Pages automatically serves a repo-root 404.html for any unresolved
+# path — this is what turns a dead/TBA link into the custom "not written
+# yet" page instead of GitHub's generic 404.
 
 cp sad2021tw/output/favicon.svg sad2021tw/output/favicon.ico sad2021tw/output/apple-touch-icon.png "$BJORNPAEDIA_DIR/"
 # The tab icon (SVG, plus an .ico fallback for older browsers) and the iOS
 # home-screen icon. They sit at the repo root because every page links to them
 # with an absolute path (/favicon.svg); the rsync --delete above only touches
 # static/, so these are never wiped. build.sh puts them in output/ first.
-# GitHub Pages automatically serves a repo-root 404.html for any unresolved
-# path — this is what turns a dead/TBA link into the custom "not written
-# yet" page instead of GitHub's generic 404.
 
 echo "== Syncing vendor/ (list.min.js for homepage search) =="
 mkdir -p "$BJORNPAEDIA_DIR/vendor"
 # `mkdir -p` creates the directory if it doesn't exist yet, and does nothing
 # (no error) if it already does — safe to run every time.
-cp sad2021tw/vendor/list.min.js "$BJORNPAEDIA_DIR/vendor/"
+cp sad2021tw/output/vendor/list.min.js "$BJORNPAEDIA_DIR/vendor/"
 # The homepage's search box (see IndexPageBody.tid) is powered by List.js,
 # a small third-party library, referenced as <script src="vendor/list.min.js">.
 # It used to live only in the bjornpaedia repo itself, with nothing in
 # sentence-a-day to rebuild it from — vendoring it here and copying it on
 # every publish means the search feature is no longer a step you'd have to
 # remember to redo by hand if bjornpaedia were ever wiped and re-cloned.
+# (build.sh copies it from sad2021tw/vendor/ into output/, so everything
+# published comes out of the one output folder.)
 
 cd "$BJORNPAEDIA_DIR"
 # Switch the shell's working directory into the target repo. Every command
@@ -92,6 +98,15 @@ echo "== bjornpaedia git status =="
 git status
 # Print exactly what's about to be committed, so you can eyeball it before
 # anything is written to git history or pushed anywhere.
+
+if git diff --cached --quiet; then
+  # `git diff --cached` compares what's staged against the last commit;
+  # --quiet prints nothing and just reports "same" (success) or "different".
+  # Same means this build matches what is already published, and asking git
+  # to commit nothing would stop the script with an error.
+  echo "Nothing changed since the last publish. Done."
+  exit 0
+fi
 
 echo
 read -p "Commit and push bjornpaedia? [y/N] " confirm

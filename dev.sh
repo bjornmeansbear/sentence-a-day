@@ -46,6 +46,15 @@ SERVER_PID=$!
 # $! is the process ID of the most recent background job — saved so we can
 # stop the server again later.
 
+sleep 1
+if ! kill -0 $SERVER_PID 2>/dev/null; then
+  # `kill -0` sends no signal at all; it only asks "is this process alive?".
+  # The server quits straight away when the port is taken, and because its
+  # output is hidden above, this is the only way you would find out.
+  echo "The server did not start. Is port $PORT already in use? Try: PORT=9000 bash dev.sh"
+  exit 1
+fi
+
 trap 'kill $SERVER_PID 2>/dev/null; echo; echo "Stopped."' EXIT
 # `trap ... EXIT` registers a cleanup that runs whenever the script ends
 # (including when you press Ctrl-C), so a stray server isn't left running.
@@ -58,11 +67,12 @@ while true; do
   sleep 1
   # Poll once a second. Simple and dependable, no extra tools to install.
 
-  CHANGED=$(find sad2021tw/tiddlers \( -name '$__*' -o -name '*.css' \) -newer /tmp/sad2021tw-dev-marker | head -1)
+  CHANGED=$(find sad2021tw/tiddlers \( -name '$__*' -o -name '*.css' -o -name 'Wjerk Tokens.tid' \) -newer /tmp/sad2021tw-dev-marker | head -1)
   # `find ... -newer FILE`: files modified more recently than FILE.
-  # Two kinds of file matter: system tiddlers (filenames starting `$__`,
-  # where the static templates and the template's CSS live) and plain .css
-  # files like "OOKB Styles.css", the main custom stylesheet. `\( ... -o ... \)`
+  # Three kinds of file matter: system tiddlers (filenames starting `$__`,
+  # where the static templates, the palette and the template's CSS live),
+  # plain .css files like "OOKB Styles.css", the main custom stylesheet, and
+  # "Wjerk Tokens.tid", the one stylesheet saved as a .tid. `\( ... -o ... \)`
   # means "this OR that". `head -1` just asks "is there at least one?".
 
   if [ -n "$CHANGED" ]; then

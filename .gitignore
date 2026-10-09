@@ -7,3 +7,5 @@ essayExperiment/PartneredCourseOutline.md
 # Editor state: which tiddlers are open. TiddlyWiki rewrites it on every run,
 # so tracking it only produces noise in git status.
 sad2021tw/tiddlers/$__StoryList*.tid
+
+__pycache__/

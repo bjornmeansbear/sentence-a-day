@@ -5,7 +5,7 @@ title: DateExplorer
 type: text/vnd.tiddlywiki
 
 <$list filter="[all[current]tag[EssayADay]]">
-  <$vars thisdate={{!!created}} addedToday="[sameday:created<thisdate>] +[!prefix[$:/]]" modifiedToday="[sameday:modified<thisdate>] +[!prefix[$:/]]">
+  <$vars thisdate={{!!created}} addedToday="[sameday:created<thisdate>] +[!prefix[$:/]] +[!tag[private]!tag[hide]!prefix[.]]" modifiedToday="[sameday:modified<thisdate>] +[!prefix[$:/]] +[!tag[private]!tag[hide]!prefix[.]]">
   <div class="dateExplorer explorerWrap">
       <div class="linksIn column">
           <h3>Also Created This Day:</h3>

@@ -42,6 +42,7 @@ import os
 import re
 import subprocess
 import sys
+import urllib.error
 import urllib.parse
 import urllib.request
 from datetime import datetime, timezone
@@ -98,87 +99,93 @@ def now():
     return datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S") + "000"
 
 
+# --- writing through the running server ------------------------------------
+
+def server_request(title, tiddler=None):
+    """GET a tiddler from the server, or PUT one back when `tiddler` is given."""
+    req = urllib.request.Request(
+        API + urllib.parse.quote(title, safe=""),
+        data=json.dumps(tiddler).encode() if tiddler else None,
+        method="PUT" if tiddler else "GET",
+        headers={"Content-Type": "application/json", "X-Requested-With": "TiddlyWiki"})
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        return json.load(resp) if not tiddler else None
+
+
+def server_titles_with_field():
+    # the "skinny" list is every tiddler's fields without its text
+    every = json.load(urllib.request.urlopen(API.rstrip("/") + ".json", timeout=20))
+    return [t["title"] for t in every if t.get(FIELD)]
+
+
 def set_via_server(title, value):
-    url = API + urllib.parse.quote(title, safe="")
+    """Set the field to `value`, or remove it when `value` is None."""
     try:
-        tid = json.load(urllib.request.urlopen(url, timeout=10))
-    except Exception:
-        return "missing"
-    fields = tid.get("fields") or {}
+        tid = server_request(title)
+    except urllib.error.HTTPError as err:
+        if err.code == 404:
+            return "missing"
+        raise  # anything else is a real problem, not a wrong title
+    fields = tid.setdefault("fields", {})
     if fields.get(FIELD) == value:
         return "same"
     if not DRY:
-        fields[FIELD] = value
-        tid["fields"] = fields
+        if value is None:
+            del fields[FIELD]
+        else:
+            fields[FIELD] = value
         tid["modified"] = now()
         tid.pop("revision", None)
         tid.pop("bag", None)
-        req = urllib.request.Request(
-            url, data=json.dumps(tid).encode(), method="PUT",
-            headers={"Content-Type": "application/json", "X-Requested-With": "TiddlyWiki"})
-        urllib.request.urlopen(req, timeout=10)
+        server_request(title, tid)
     return "set"
 
 
-def linked_now():
-    """Titles of tiddlers that currently carry the field, to find stale ones."""
-    if server_running():
-        # the "skinny" list is every tiddler's fields without its text
-        every = json.load(urllib.request.urlopen(API.rstrip("/") + ".json", timeout=20))
-        return [t["title"] for t in every if t.get(FIELD)]
-    found = []
+# --- writing the .tid files directly ---------------------------------------
+
+def read_tid(path):
+    """A .tid file as (header lines, everything after them, its line ending).
+
+    newline="" stops Python translating line endings, and surrogateescape
+    carries any odd bytes through untouched, so writing the file back changes
+    only the header lines we meant to change. (Many of the imported tiddlers
+    have Windows line endings; see TIDDLYWIKI_CUSTOMIZATIONS.md.)
+    """
+    raw = open(path, encoding="utf-8", errors="surrogateescape", newline="").read()
+    eol = "\r\n" if "\r\n" in raw else "\n"
+    head, sep, body = raw.partition(eol + eol)
+    return head.split(eol), sep + body, eol
+
+
+def tiddler_files():
+    """{title: path} for every .tid file, read once."""
+    found = {}
     for name in os.listdir(TIDDLERS):
         if name.endswith(".tid"):
-            head = open(os.path.join(TIDDLERS, name), encoding="utf-8", errors="replace").read().partition("\n\n")[0]
-            m = re.search(r"^title: (.*)$", head, re.M)
-            if m and re.search(r"^" + FIELD + r": ", head, re.M):
-                found.append(m.group(1))
+            path = os.path.join(TIDDLERS, name)
+            for line in read_tid(path)[0]:
+                if line.startswith("title: "):
+                    found[line[len("title: "):]] = path
     return found
 
 
-def clear_via_server(title):
-    url = API + urllib.parse.quote(title, safe="")
-    tid = json.load(urllib.request.urlopen(url, timeout=10))
-    (tid.get("fields") or {}).pop(FIELD, None)
-    tid["modified"] = now()
-    tid.pop("revision", None)
-    tid.pop("bag", None)
-    req = urllib.request.Request(
-        url, data=json.dumps(tid).encode(), method="PUT",
-        headers={"Content-Type": "application/json", "X-Requested-With": "TiddlyWiki"})
-    urllib.request.urlopen(req, timeout=10)
-
-
-def clear_in_file(title):
-    for name in os.listdir(TIDDLERS):
-        if not name.endswith(".tid"):
-            continue
-        path = os.path.join(TIDDLERS, name)
-        head, sep, body = open(path, encoding="utf-8", errors="replace").read().partition("\n\n")
-        if re.search(r"^title: " + re.escape(title) + r"$", head, re.M):
-            lines = [l for l in head.split("\n") if not l.startswith(FIELD + ": ")]
-            open(path, "w", encoding="utf-8").write("\n".join(lines) + sep + body)
-            return
-
-
-def set_in_file(title, value):
-    for name in os.listdir(TIDDLERS):
-        if not name.endswith(".tid"):
-            continue
-        path = os.path.join(TIDDLERS, name)
-        raw = open(path, encoding="utf-8", errors="replace").read()
-        head, sep, body = raw.partition("\n\n")
-        if not re.search(r"^title: " + re.escape(title) + r"$", head, re.M):
-            continue
-        lines = [l for l in head.split("\n") if not l.startswith(FIELD + ": ")]
-        if len(lines) < len(head.split("\n")) and f"{FIELD}: {value}" in head.split("\n"):
-            return "same"
-        lines = [l for l in lines if not l.startswith("modified: ")]
-        lines += [f"{FIELD}: {value}", f"modified: {now()}"]
-        if not DRY:
-            open(path, "w", encoding="utf-8").write("\n".join(sorted(lines)) + sep + body)
-        return "set"
-    return "missing"
+def set_in_file(path, value):
+    """Set the field to `value`, or remove it when `value` is None."""
+    if path is None:
+        return "missing"
+    lines, rest, eol = read_tid(path)
+    wanted = None if value is None else f"{FIELD}: {value}"
+    current = next((l for l in lines if l.startswith(FIELD + ": ")), None)
+    if current == wanted:
+        return "same"
+    lines = [l for l in lines if not l.startswith((FIELD + ": ", "modified: "))]
+    lines += [f"modified: {now()}"] + ([wanted] if wanted else [])
+    if not DRY:
+        # TiddlyWiki writes header fields in alphabetical order; keep to that
+        # so its next save of this tiddler does not reshuffle the file.
+        with open(path, "w", encoding="utf-8", errors="surrogateescape", newline="") as fh:
+            fh.write(eol.join(sorted(lines)) + rest)
+    return "set"
 
 
 if __name__ == "__main__":
@@ -186,14 +193,20 @@ if __name__ == "__main__":
     live = server_running()
     print(f"{len(links)} tiddlers named in connections.json; writing via the {'running server' if live else 'tiddler files'}"
           + (" (dry run)" if DRY else ""))
+    if live:
+        write = set_via_server
+        linked_now = server_titles_with_field()
+    else:
+        files = tiddler_files()
+        write = lambda title, value: set_in_file(files.get(title), value)
+        linked_now = [t for t, path in files.items() if any(l.startswith(FIELD + ": ") for l in read_tid(path)[0])]
+    notes = {"set": "linked", "missing": "NO SUCH TIDDLER - fix the title in connections.json"}
     for title, value in sorted(links.items()):
-        result = set_via_server(title, value) if live else set_in_file(title, value)
-        note = {"set": "linked", "same": "already linked", "missing": "NO SUCH TIDDLER - fix the title in connections.json"}[result]
+        result = write(title, value)
         if result != "same":
-            print(f"  {note:16} {title}")
-    stale = [t for t in linked_now() if t not in links]
+            print(f"  {notes[result]:16} {title}")
+    stale = [t for t in linked_now if t not in links]
     for title in stale:
-        if not DRY:
-            clear_via_server(title) if live else clear_in_file(title)
+        write(title, None)
         print(f"  {'unlinked':16} {title}  (no longer in connections.json)")
     print(f"done: {len(links)} linked, {len(stale)} unlinked")

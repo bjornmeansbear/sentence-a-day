@@ -1,6 +1,10 @@
 #!/bin/bash
 set -e
 
+cd "$(dirname "$0")"
+# Always run from the folder this script lives in, so the relative paths below
+# (and the rm -rf on the next line) mean the same thing wherever you launch it.
+
 rm -rf sad2021tw/output
 
 tiddlywiki sad2021tw --build static
@@ -19,6 +23,12 @@ rm -rf sad2021tw/output/static-tags
 # root, e.g. <link rel="icon" href="/favicon.svg">, so they have to land at the
 # top of the output folder, next to index.html.
 cp sad2021tw/icons/favicon.svg sad2021tw/icons/favicon.ico sad2021tw/icons/apple-touch-icon.png sad2021tw/output/
+
+# The homepage search box runs on List.js (see IndexPageBody), loaded as
+# <script src="vendor/list.min.js">. Copying it in here makes output/ the whole
+# site: dev.sh previews it with search working, and publish.sh ships it as is.
+mkdir -p sad2021tw/output/vendor
+cp sad2021tw/vendor/list.min.js sad2021tw/output/vendor/
 
 # Version-stamp the stylesheet link on every page. Cloudflare and browsers hold
 # on to static.css for hours, while the pages themselves refresh in minutes, so

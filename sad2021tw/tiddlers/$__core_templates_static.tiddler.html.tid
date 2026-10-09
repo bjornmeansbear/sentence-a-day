@@ -10,7 +10,7 @@ type: text/vnd.tiddlywiki
 \define wjerk-static() yes
 \import [[$:/core/ui/PageMacros]] [all[shadows+tiddlers]tag[$:/tags/Macro]!has[draft.of]]
 `<!doctype html>
-<html>
+<html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="generator" content="TiddlyWiki" />

@@ -72,7 +72,7 @@ The `list:` field on `$:/tags/ViewTemplate` controls which fragments render for 
 Custom fragments (all tagged `$:/tags/ViewTemplate hide`):
 - `MetaInfoTemplate.tid` — the field table at the top of a tiddler (author, ISBN, publisher, year, URL and so on). Since 2026-10-08 it has no block per field; it loops over the list in `MetaInfoFields` (below) and prints a row for each listed field the tiddler has a value for.
 - `TagExplorer.tid` — "Tagged with X" list of sibling tiddlers.
-- `DateExplorer.tid` — "Also Created This Day" / "Modified This Day" (for tiddlers tagged `EssayADay`).
+- `DateExplorer.tid` — "Also Created This Day" / "Modified This Day" (for tiddlers tagged `EssayADay`). Leaves out tiddlers tagged `private` or `hide`, like the other explorers, so the site does not name or link pages it does not publish.
 - `LinkExplorer.tid` — Inbound/Outbound link tables. Since 2026-10-08 it also counts links stored in fields (below).
 
 These fragments run on the published static pages too: the static tiddler template renders `$:/core/ui/ViewTemplate`.
@@ -112,7 +112,7 @@ A tiddler that has a case study on a.wjerk.shop carries a `casestudy` field, whi
 casestudy: [[Chair-ness at a.wjerk.shop|https://a.wjerk.shop/case-study-chairness]]
 ```
 
-The field is never typed by hand. The pairing is recorded once, in `~/Code/a.wjerk.shop/connections.json` (each case study names its tiddlers under `"tiddler"`), and two things read it:
+The field is never typed by hand. The pairing is recorded once, in `~/Code/a.wjerk.shop/connections.json` (each case study names its write-ups under `"tiddler"`, linked both ways, and pages that only touch on it under `"related"`, linked from the tiddler only), and two things read it:
 
 - the a.wjerk.shop build, which prints "Essay: the full write-up on …" on the case study page;
 - `sad2021tw/scripts/case-study-links.py`, which sets the `casestudy` field on each named tiddler.
@@ -124,6 +124,7 @@ To connect a new pair, add the tiddler's title to `connections.json` and run `py
 ### Conventions for quote and source tiddlers
 
 - A quote tiddler is titled with the quote (or a short form of it), tagged `Quote`, with the author in the `author` field as `[[Name]]`, any link in `url`, and a `year` when known. The body is the quote in a `<<<` block, with the source work after the closing `<<<`.
+- A quote pulled out of an essay or note keeps its place there too. The quote tiddler ends with a line naming where it is used and what it sits near: `Quoted in [[Essay]]. See also [[Related page]].` That line is what gives the quote its Outbound links and puts it under Inbound on those pages.
 - Notes pasted from old text files are full of CamelCase names (SubRosa, YouTube) that TiddlyWiki turns into links. Start such a tiddler's text with `\rules except wikilink`. Explicit `[[links]]` still work.
 
 ### Toolbar/button customization
@@ -157,6 +158,10 @@ To connect a new pair, add the tiddler's title to `connections.json` and run `py
 4. **CSS-only** — for pure visual tweaks, prefer adding to `OOKB Styles.css` (tagged `$:/tags/Stylesheet`) over touching template markup — smaller blast radius, easier to revert.
 5. **One list, one loop** — when a template would repeat the same block for each of several fields or items, keep the items in a data tiddler's `list` field and loop over it (`<$list filter="[list[MetaInfoFields]]" variable="field">`). Adding an item becomes a one-word edit, and other templates can read the same list. `MetaInfoTemplate`, `LinkExplorer` and `Field Audit` all read `MetaInfoFields`.
 6. **Finding the stock version to diff against** — the installed core/theme source lives in `node_modules/tiddlywiki/core/` and `node_modules/tiddlywiki/themes/` (wherever the `tiddlywiki` package is installed, e.g. via `npm ls -g tiddlywiki` or checking `which tiddlywiki`). Useful for confirming whether a shadow tiddler override actually diverges from default, and for seeing what a theme's stylesheet applies before deciding to disable or override it.
+
+## Miscellaneous Materials drafts from Are.na
+
+`python3 sad2021tw/scripts/mm-harvest.py 2026-09 051` writes the tiddler `MM: MM051 (020260900)`: every public block added to Are.na that month, grouped into themes by the channels it was filed in, plus a list of the wiki pages created that month. The themes are the `THEMES` table at the top of the script; a channel not listed there lands under "Everything else". Add `--channel` to also make the public Are.na channel of the same name and connect the blocks to it (safe to run twice; it only adds what is missing). Private blocks and private channels are left out of both. The token comes from `.env` (`ARENA_ACCESS_TOKEN`).
 
 ## Tools outside this repo that read the tiddlers
 
