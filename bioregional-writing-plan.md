@@ -25,7 +25,7 @@ New work gets the tag `Bioregional Design`, to keep it apart from the `SDCSC` ch
 
 - [x] *(sent 2026-10-12, waiting on answers; also asked permission to quote the May 2025 conversations)* Email Justin and Fernando with three questions: Where does the hemp cord come from? What happens when the wood or wool runs out? How was the chair's low, wide shape decided?
 - [ ] Check the contract's clauses on derivative works and self-archiving
-- [ ] Decide what to do with the `SDCSC` drafts. They are not tagged `private`, so the build publishes them, and `SDCDC002: Contextual Design` opens almost the way the chapter does
+- [x] Decide what to do with the `SDCSC` drafts. Decided 2026-10-12: leave them public. Measured against the chapter, the closest draft shares 10% of its wording and the only near-match is the opening sentence of `SDCDC002: Contextual Design`
 - [x] Rework the Materialshed and Scaling Out drafts and save them as tiddlers
 - [ ] Read the 24 designer and studio notes added on 2026-10-12 and rewrite any that don't sound like you
 
@@ -47,7 +47,7 @@ Definitions, written as explanations.
 - [x] `note` **Materialshed** — saved 2026-10-12
 - [ ] *(started)* `note` **Fibershed** — `BioRegion` already links to it and nothing is there
 - [ ] *(started)* `note` **Technical Nutrient** — the partner to the existing `Biological Nutrient`
-- [ ] *(started)* `note` **Monstrous Hybrid** — start from a juice carton: paper, plastic, and foil that can't be pulled apart
+- [ ] *(started)* `note` **Monstrous Hybrid** — see the packaging side thread below
 - [ ] `note` **Recycling comes last** — reuse, repair, remanufacture, and only then recycle
 - [ ] `note` **Wood is a technical nutrient first** — a chair gets repaired for decades before it composts
 - [ ] `essay` **Less bad to gives back** — start from the Sphera diagram. Explain the line from conventional to regenerative in sentences, without the diagram
@@ -127,6 +127,18 @@ Definitions, written as explanations.
 - [ ] `note` Quote tiddlers: Cox's "made of solid carbon dioxide", Meindertsma's "antiques of the future", Prowl's "Begin with the End", Arper's "How can a chair return to nature?"
 - [ ] `essay` **The best for the most for the least** — start from the Eameses' line and what happened when "the best" got dropped
 - [ ] `essay` **Who can afford this chair?** — the chapter names the cost problem once and moves on. This is the strongest objection to the whole argument
+
+## Side thread — packaging (started 2026-10-12)
+
+Grew out of the Monstrous Hybrid note. Claude wrote the shells; read and fix each one.
+
+- [ ] *(started)* `note` **Monstrous Hybrid** — back to a short definition that points to the two cases
+- [ ] *(started)* `note` **Tetra Pak** — layers, what each does, and the recycling numbers. The numbers come from the carton industry itself
+- [ ] *(started)* `note` **Juice Pouch** — "curbside recycling doesn't take them" is unsourced
+- [ ] *(started)* `note` **Downcycling**
+- [ ] *(started)* `note` **Aluminum** — the Navy Chair against the carton
+- [ ] *(started)* `note` **Polyethylene**, **PolyAl**, **Greenwashing**
+- [ ] `essay` **Recyclable, but really?** — title, starting fact, and links are in the tiddler. The argument is yours. Pairs with "Return is local"
 
 ## After — the booklet
 
