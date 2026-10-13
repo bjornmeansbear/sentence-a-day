@@ -39,6 +39,11 @@ type: text/vnd.tiddlywiki
 <!-- KB Additions -->
 <div class="tc-sidebar-scrollable" style="overflow: auto;">
 `<$view tiddler="SiteIntro" field="text" format="text"/>`
+<!-- Search: sends the word to the homepage, which holds the list of every page and filters it (?q=). -->
+<form class="sidebarSearch" action="../" method="get" role="search">
+<label class="searchLabel" for="sidebarSearchInput">Search all pages</label>
+<input class="search" id="sidebarSearchInput" type="search" name="q" placeholder="Type a word or a name…">
+</form>
 </div>
 </div>
 

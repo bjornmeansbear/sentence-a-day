@@ -350,6 +350,12 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   line-height: 1.5rem;
 }
 
+/* The same field in a page's sidebar, under the site intro. It is a plain
+   form that goes to the homepage with ?q=, where the list above lives. */
+.sidebarSearch {
+  margin-top: 1.5em;
+}
+
 .search::placeholder {
   color: var(--color-text-muted);
   opacity: 1;

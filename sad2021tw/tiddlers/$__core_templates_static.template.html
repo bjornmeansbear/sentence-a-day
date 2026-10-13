@@ -53,6 +53,15 @@
     button.addEventListener("click", function () { showAll = !showAll; update(); });
     list.on("searchComplete", update);
     update();
+
+    // A search sent from a page's sidebar arrives as ?q=word.
+    var q = new URLSearchParams(window.location.search).get("q");
+    if (q) {
+        input.value = q;
+        list.search(q);
+        update();
+        box.scrollIntoView();
+    }
 })();
 </script>
 

@@ -45,8 +45,8 @@ The chair in the pasture, and why Common Object made it.
 Definitions, written as explanations.
 
 - [x] `note` **Materialshed** — saved 2026-10-12
-- [ ] *(started)* `note` **Fibershed** — `BioRegion` already links to it and nothing is there
-- [ ] *(started)* `note` **Technical Nutrient** — the partner to the existing `Biological Nutrient`
+- [x] `note` **Fibershed** — written; the Rebecca Burgess credit is confirmed against fibershed.org/history and she has her own note
+- [x] `note` **Technical Nutrient** — opens with the aluminum Navy Chair; `Biological Nutrient` links back; all its links now resolve
 - [ ] *(started)* `note` **Monstrous Hybrid** — see the packaging side thread below
 - [ ] `note` **Recycling comes last** — reuse, repair, remanufacture, and only then recycle
 - [ ] `note` **Wood is a technical nutrient first** — a chair gets repaired for decades before it composts
@@ -60,12 +60,12 @@ Definitions, written as explanations.
 - [ ] *(started)* `chair` **Windsor Chair**
 - [ ] *(started)* `chair` **Eames Molded Plastic Side Chair** — "a chair that changed its mind": fiberglass, then polypropylene, then recycled plastic
 - [ ] `note` **One form, three materials** — the Navy Chair in aluminum, Coke bottles, and Amish-made wood. The three chair tiddlers exist; this ties them together
-- [ ] `essay` **We used to know how** — start from a Shaker chair: wood and cord, repaired for a century, compostable the whole time
+- [ ] *(started)* `essay` **We used to know how** — start from a Shaker chair: wood and cord, repaired for a century, compostable the whole time
 
 ## Week 4 — Form, content, context
 
 - [ ] *(started)* `chair` **Red Blue Chair** (Rietveld) — designed 1917, painted in the early 1920s. The chapter gives 1923
-- [ ] *(started)* `chair` **Wishbone Chair** (Wegner)
+- [x] `chair` **Wishbone Chair** (Wegner) — your questions added 2026-10-12; they point at the "We used to know how" essay
 - [ ] *(started)* `chair` **Panton Chair** — conceived 1959, in production with Vitra from 1967. The chapter says 1956
 - [ ] *(started)* `chair` **First Chair** (De Lucchi) — the chapter says 1983, its reference list says 1982. Check
 - [ ] *(started)* `chair` **Bel Air Chair** (Shire)
@@ -89,7 +89,7 @@ Definitions, written as explanations.
 - [ ] `note` **Banned materials** — hemp and the 1937 Marijuana Tax Act. What else got suppressed?
 - [ ] `note` **Baked In** — manufacturers who can't change a glue, a finish, or a wood supplier
 - [ ] `note` **A makerspace as a manufacturer** — Open Works again, from the city's side
-- [ ] `note` **Design for Disassembly** — start from the toggles on the cushions and the bolts in the frame
+- [ ] *(started)* `note` **Design for Disassembly** — opens with the toggles and bolts. Read and add to it
 - [x] `note` **Scaling Out** — saved 2026-10-12. **Needs Justin** for the last line
 - [ ] `essay` **Start with the shed, not the sketch** — start from the months of finding farms and mills before a chair was drawn
 
