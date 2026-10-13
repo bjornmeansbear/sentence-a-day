@@ -106,5 +106,7 @@ very-muted-foreground: #535348
 wjerk-accent-hover: #962946
 wjerk-accent-subtle: #F8CFE6
 wjerk-accent: #C53965
+wjerk-accent-on-dark: #F8CFE6
+wjerk-surface-dark: #535348
 wjerk-surface-muted: #ECE9C7
 wjerk-tag-hover: #99998D

@@ -407,10 +407,37 @@ a.tc-tag-label:is(:hover, :focus-visible) {
 }
 .startHere li {
   display: flex;
+  flex-direction: column;
   flex: 1 1 100%;
   background: var(--color-bg);
 }
-.startHere a {
+/* Themes under a start page (its `themes` field): links to the hub notes for
+   what the essay is about. They sit outside the block's own link, since a
+   link can't hold another link, so the block rules above are scoped to
+   `li > a` and these stay plain inline links on one quiet line.
+   The strip is the muted-text gray (kit gray-6) with the ground color as
+   type: 7.34:1. The accent would be 1.54:1 here and pink-3 only 3.37:1, so
+   hover and the focus ring take the kit's pink-0 instead (5.58:1). */
+.startHere .startThemes {
+  margin: 0;
+  padding: 1em var(--frame-pad);
+  border: 1px solid var(--color-bg);
+  font-size: .85rem;
+  color: var(--color-bg);
+  background-color: var(--color-surface-dark);
+}
+.startHere .startThemes a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+.startHere .startThemes a:is(:hover, :focus-visible) {
+  color: var(--color-accent-on-dark);
+}
+.startHere .startThemes a:focus-visible {
+  outline-color: var(--color-accent-on-dark);
+}
+.startHere li > a {
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -424,11 +451,12 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   font-weight: bold;
   line-height: 1.2;
 }
-.startHere a:is(:hover, :focus-visible) {
+.startHere li > a:is(:hover, :focus-visible) {
   background-color: var(--color-accent);
   color: var(--color-bg);
+  text-decoration: none; /* the theme underlines every link on hover; the fill is the affordance here */
 }
-.startHere a:focus-visible {
+.startHere li > a:focus-visible {
   outline-color: currentColor;
   outline-offset: -0.5rem;
 }

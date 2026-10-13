@@ -17,6 +17,9 @@ type: text/vnd.tiddlywiki
                         <span class="startTitle"><$text text={{{ [<page>get[caption]else<page>] }}}/></span>
                         <span class="startNote"><$transclude tiddler=<<page>> field="description" mode="inline"/></span>
                     </$link>
+                    <$list filter="[<page>has[themes]]" variable="ignore">
+                        <p class="startThemes">More on <$list filter="[<page>get[themes]enlist-input[]]" variable="theme" join=", "><$link to=<<theme>>><$text text={{{ [[HomeDoors]getindex<theme>else<theme>] }}}/></$link></$list></p>
+                    </$list>
                 </li>
             </$list>
         </ul>

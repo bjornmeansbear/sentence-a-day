@@ -17,7 +17,9 @@ type: text/vnd.tiddlywiki
   --color-accent: <<colour wjerk-accent>>;
   --color-accent-hover: <<colour wjerk-accent-hover>>;
   --color-accent-subtle: <<colour wjerk-accent-subtle>>;
+  --color-accent-on-dark: <<colour wjerk-accent-on-dark>>;
   --color-surface-muted: <<colour wjerk-surface-muted>>;
+  --color-surface-dark: <<colour wjerk-surface-dark>>;
   --color-tag: <<colour tag-background>>;
   --color-tag-hover: <<colour wjerk-tag-hover>>;
 }

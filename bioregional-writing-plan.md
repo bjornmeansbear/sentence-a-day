@@ -27,7 +27,7 @@ New work gets the tag `Bioregional Design`, to keep it apart from the `SDCSC` ch
 - [ ] Check the contract's clauses on derivative works and self-archiving
 - [x] Decide what to do with the `SDCSC` drafts. Decided 2026-10-12: leave them public. Measured against the chapter, the closest draft shares 10% of its wording and the only near-match is the opening sentence of `SDCDC002: Contextual Design`
 - [x] Rework the Materialshed and Scaling Out drafts and save them as tiddlers
-- [ ] Read the 24 designer and studio notes added on 2026-10-12 and rewrite any that don't sound like you
+- [x] Read the 24 designer and studio notes added on 2026-10-12 and rewrite any that don't sound like you (good for now, 2026-10-12)
 
 ## Week 1 — The opening
 
