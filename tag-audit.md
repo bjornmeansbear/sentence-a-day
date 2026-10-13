@@ -222,7 +222,7 @@ Format: tag → suggested target.
 - [ ] **Poster** — 2× (no page) · The Other Side; The Greenest Green
 - [ ] **Print on Demand** — 2× · Case Study: Ecovention Europe; Case Study: Green Acres
 - [ ] **Procrastination** — 2× · What am I Actually Good At?; Why I Keep Not Quite Succeeding
-- [ ] **professor** — 2× (no page) · Stephen Farrell; Justin Bietzel
+- [ ] **professor** — 2× (no page) · Stephen Farrell; Justin Beitzel
 - [ ] **Professorship** — 2× (no page) · Climify Design Assignments; Teaching Philosophy
 - [ ] **Radical Position** — 2× (no page) · It should be possible to walk anywhere; It should be possible to bicycle anywhere
 - [ ] **Raster Graphic** — 2× (no page) · GIMP; InDesign
