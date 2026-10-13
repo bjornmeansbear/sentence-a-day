@@ -6,3 +6,7 @@ type: text/vnd.tiddlywiki
 url: http://osp.kitchen/tools/html2print/
 
 make printed book pages with HTML
+
+!! See also
+
+* [[Project: Copy a Poster in HTML and CSS]]

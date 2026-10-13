@@ -7,7 +7,7 @@ type: text/vnd.tiddlywiki
 <<<
 Instead of trying to build products that do more, we build products that do less.
 
-* Less software is easier to manage.
+* [[Less software|Less Software]] is easier to manage.
 * Less software reduces your codebase and that means 
 * less maintenance busywork (and a happier staff).
 * Less software lowers your cost of change so you can adapt quickly. You can change your mind without having to change boatloads of code.
