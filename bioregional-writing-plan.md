@@ -59,7 +59,7 @@ Definitions, written as explanations.
 - [ ] *(started)* `chair` **Shaker Ladder Back**
 - [ ] *(started)* `chair` **Windsor Chair**
 - [ ] *(started)* `chair` **Eames Molded Plastic Side Chair** — "a chair that changed its mind": fiberglass, then polypropylene, then recycled plastic
-- [ ] `note` **One form, three materials** — the Navy Chair in aluminum, Coke bottles, and Amish-made wood. The three chair tiddlers exist; this ties them together
+- [ ] *(started)* `note` **One form, three materials** — the Navy Chair in aluminum, Coke bottles, and Amish-made wood. The three chair tiddlers exist; this ties them together
 - [ ] *(started)* `essay` **We used to know how** — start from a Shaker chair: wood and cord, repaired for a century, compostable the whole time
 
 ## Week 4 — Form, content, context
