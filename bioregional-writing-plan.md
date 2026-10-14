@@ -146,6 +146,7 @@ Grew out of the Monstrous Hybrid note. Claude wrote the shells; read and fix eac
 - [ ] *(started)* `note` **Downcycling** *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
 - [ ] *(started)* `note` **Aluminum** — the Navy Chair against the carton *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
 - [ ] *(started)* `note` **Polyethylene**, **PolyAl**, **Greenwashing** *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
+- [ ] *(started)* `note` **Rethinking the Recycling Symbol** — from your lecture slides, 2026-10-13: Gary Anderson's 1970 original and the four versions it became. The "how do we re-solve it?" answer is yours
 - [ ] `essay` **Recyclable, but really?** — title, starting fact, and links are in the tiddler. The argument is yours. Pairs with "Return is local"
 
 ## Housekeeping (noted 2026-10-13)
