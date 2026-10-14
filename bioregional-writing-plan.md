@@ -9,6 +9,7 @@ Started 2026-10-12. A checklist for turning the Cambridge chapter ("Bioregional 
 - Skip around freely. Nothing here depends on order except the items marked **needs Justin**.
 - To get a head start on a week, tell Claude: "skeleton week 3". Claude writes the factual shell for the notes and chairs (maker, year, materials, source link, tags) and leaves the claim to you.
 - To get a draft to react to, tell Claude: "draft [title]". Expect to rewrite it.
+- An essay is done when it says what you have to say. It can end on a question. Leaving the reader, and yourself, with more questions is part of what this site is for.
 - *(started)* means Claude wrote a factual shell on 2026-10-12. Your part is to read it, fix it, and add what the thing argues. Check the box when it sounds like you.
 
 **The one rule:** write every piece fresh, from your notes and interviews. Don't paste sentences from the chapter. The ideas, facts, and interviews are yours to reuse. The chapter's wording is the publisher's.
@@ -81,7 +82,8 @@ Definitions, written as explanations.
 - [ ] `note` **Carbon Smart Wood** — Cambium's numbers, and what "net-negative" is counting
 - [ ] *(started)* `note` **Waste Wool** — Waste = Food tested on a new case. "There is waste wool everywhere sheep are raised"
 - [ ] `note` **The farmer is the factory** — on-farm carding is what lets local wool compete
-- [ ] `essay` **Why is it squat?** — Justin answered 2026-10-13 and it is in the `Oka Chair` tiddler: chunky parts so no one doubts a knot is structural (cutting around flaws is where wood waste comes from), wide arms for lounging. Your own note in `SDCSC100` asks whether the lumber set the shape. Answer it
+- [ ] *(drafted)* `essay` **Why is it squat?** *(ends on an open question, on purpose)* — Justin answered 2026-10-13 and it is in the `Oka Chair` tiddler: chunky parts so no one doubts a knot is structural (cutting around flaws is where wood waste comes from), wide arms for lounging. Your own note in `SDCSC100` asks whether the lumber set the shape. Answer it
+- [ ] Sit in an Oka Chair. Ask Justin about coming by his studio. Kristian has only looked at photos and talked about it (noted 2026-10-13); the essay's opening waits on this, or opens from the photograph
 
 ## Week 6 — The Oka Chair: hemp and the network
 
@@ -92,6 +94,8 @@ Definitions, written as explanations.
 - [ ] *(started)* `note` **Design for Disassembly** — opens with the toggles and bolts. Read and add to it
 - [x] `note` **Scaling Out** — saved 2026-10-12. Justin answered 2026-10-13 (not run out yet, 8 chairs made, scale by adding farms and hubs) and it is in the tiddler. Check that the draft's "when the wool runs out, the chairs stop" and "alpaca" lines still fit what he said
 - [ ] `essay` **Start with the shed, not the sketch** — start from the months of finding farms and mills before a chair was drawn
+
+- [ ] *(drafted)* `essay` **Eight Chairs** *(Kristian is fine with the French hemp at its centre, 2026-10-13)* — connects the legible chair, signs signaling sustainability, the French hemp, the missing mill, honest and misleading signs, and scaling out. Rewrite in your voice
 
 ## Week 7 — Regenerative vernaculars: the chairs
 
@@ -126,7 +130,7 @@ Definitions, written as explanations.
 - [ ] `note` **Designer as mapmaker** — an interface that shows a supply chain
 - [ ] `note` Quote tiddlers: Cox's "made of solid carbon dioxide", Meindertsma's "antiques of the future", Prowl's "Begin with the End", Arper's "How can a chair return to nature?"
 - [ ] `essay` **The best for the most for the least** — start from the Eameses' line and what happened when "the best" got dropped
-- [ ] `essay` **Who can afford this chair?** — the chapter names the cost problem once and moves on. This is the strongest objection to the whole argument
+- [ ] `essay` **Who can afford this chair?** *(the price is $6,900, made to order: okaterra.com, 2026-10-13)* — the chapter names the cost problem once and moves on. This is the strongest objection to the whole argument
 
 ## Side thread — packaging (started 2026-10-12)
 
