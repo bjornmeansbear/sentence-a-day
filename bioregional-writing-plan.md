@@ -72,7 +72,11 @@ Definitions, written as explanations.
 - [ ] *(started)* `chair` **Bel Air Chair** (Shire)
 - [ ] *(started)* `chair` **Wiggle Side Chair** (Gehry)
 - [ ] *(started)* `chair` **Ghost Chair** (Starck) — `Philippe Starck` already links to this title
-- [ ] `note` **Contextual Era** — say where you part ways with Blauvelt's relational design
+- [ ] *(started)* `note` **Contextual Era** — say where you part ways with Blauvelt's relational design. Claude's shell (2026-10-14) lays out where Blauvelt's context stops. "Where mine keeps going" is yours
+- [ ] *(started)* `note` **Towards Relational Design** — the source note, checked against the essay on Design Observer (2026-10-14). Blauvelt does not cite Bourriaud. Bourriaud is yours to bring in
+- [ ] *(started)* `note` **Deconstruction and Graphic Design** (Lupton & Miller) — first printed in a 1994 *Visible Language* issue that Blauvelt edited. Confirm the *Design Writing Research* year (1996?) before citing it
+- [ ] *(started)* `note` **Walker Expanded** — Blauvelt's in-house studio with Eric Olson, 2005 (one source says 2006)
+- [ ] *(started)* `essay` **Context Is a Place** — outline only: Walker Expanded beside the Oka Chair; form, content, and context as three answers to "what makes design good?"; Duncombe's "Utopia is No Place" against a bioregion as one real good place; Bourriaud as your addition. Ends open: is a bioregional era a fourth era, or just the third one taken seriously?
 - [ ] `note` **Truth to Materials** — extend the existing note: the modernist rule, tested again on salvaged oak
 - [ ] `essay` **What "good" meant** — start from three chairs, one per era, and say what each era would have praised about its own
 
