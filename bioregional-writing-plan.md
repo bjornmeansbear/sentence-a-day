@@ -36,8 +36,8 @@ The chair in the pasture, and why Common Object made it.
 
 - [x] *(started)* `note` **Oka Chair** — draft written 2026-10-13: a "Where it comes from" section and the shape section. Read it and rewrite in your voice. (Original: replace the stub. Wood, wool, hemp, and where each comes from. Link the three partners below.)
 - [x] *(started)* `note` **Cambium Carbon** — fallen city trees turned into lumber
-- [ ] *(started)* `note` **Willow Creek Farm** — the farm and its mill. Link Melissa Smith
-- [ ] *(started)* `note` **Open Works** — the Baltimore makerspace that does contract manufacturing
+- [ ] *(started)* `note` **Willow Creek Farm** — the farm and its mill. Link Melissa Smith *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
+- [ ] *(started)* `note` **Open Works** — the Baltimore makerspace that does contract manufacturing *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
 - [ ] `note` **The brief decides the outcome** — what Justin and Fernando saw in corporate furniture briefs
 - [ ] `essay` **Nothing new required** — start from: every tool, material, and maker in the chair already existed in 2022. Connect to "These Gestures Are Undoubtedly Utopian"
 
@@ -60,8 +60,8 @@ Definitions, written as explanations.
 - [ ] *(started)* `chair` **Shaker Ladder Back**
 - [ ] *(started)* `chair` **Windsor Chair**
 - [ ] *(started)* `chair` **Eames Molded Plastic Side Chair** — "a chair that changed its mind": fiberglass, then polypropylene, then recycled plastic
-- [ ] *(started)* `note` **One form, three materials** — the Navy Chair in aluminum, Coke bottles, and Amish-made wood. The three chair tiddlers exist; this ties them together
-- [ ] *(started)* `essay` **We used to know how** — start from a Shaker chair: wood and cord, repaired for a century, compostable the whole time
+- [ ] *(started)* `note` **One form, three materials** — the Navy Chair in aluminum, Coke bottles, and Amish-made wood. The three chair tiddlers exist; this ties them together *(drafted by Claude 2026-10-13, untouched; ends on "which one is the sustainable chair?", yours to answer or leave open)*
+- [ ] *(started)* `essay` **We used to know how** — start from a Shaker chair: wood and cord, repaired for a century, compostable the whole time *(a seed that ends on three questions; the note still says "Yours to write". Tick it whenever you decide the questions are the piece)*
 
 ## Week 4 — Form, content, context
 
@@ -80,31 +80,31 @@ Definitions, written as explanations.
 
 - [x] *(started)* `note` **The four Ds** — disease, decay, disaster, development. The city's trees as a lumber yard
 - [ ] `note` **Carbon Smart Wood** — Cambium's numbers, and what "net-negative" is counting
-- [ ] *(started)* `note` **Waste Wool** — Waste = Food tested on a new case. "There is waste wool everywhere sheep are raised"
+- [ ] *(started)* `note` **Waste Wool** — Waste = Food tested on a new case. "There is waste wool everywhere sheep are raised" *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
 - [ ] `note` **The farmer is the factory** — on-farm carding is what lets local wool compete
-- [ ] *(drafted)* `essay` **Why is it squat?** *(ends on an open question, on purpose)* — Justin answered 2026-10-13 and it is in the `Oka Chair` tiddler: chunky parts so no one doubts a knot is structural (cutting around flaws is where wood waste comes from), wide arms for lounging. Your own note in `SDCSC100` asks whether the lumber set the shape. Answer it
+- [x] `essay` **Why is it squat?** *(good to go, 2026-10-13)* *(ends on an open question, on purpose)* — Justin answered 2026-10-13 and it is in the `Oka Chair` tiddler: chunky parts so no one doubts a knot is structural (cutting around flaws is where wood waste comes from), wide arms for lounging. Your own note in `SDCSC100` asks whether the lumber set the shape. Answer it
 - [ ] Sit in an Oka Chair. Ask Justin about coming by his studio. Kristian has only looked at photos and talked about it (noted 2026-10-13); the essay's opening waits on this, or opens from the photograph
 
 ## Week 6 — The Oka Chair: hemp and the network
 
-- [ ] *(started)* `note` **Hemp** — Justin answered 2026-10-13 and it is in the tiddler (farm in western MD, then a NC rope maker now closed, now French fiber). Read it and rewrite in your voice. If the cord comes from far away, that is where the material shed currently ends
+- [x] `note` **Hemp** — Justin's answer is in it, and it carries "where the chair's BioRegion breaks" (2026-10-13)
 - [ ] `note` **Banned materials** — hemp and the 1937 Marijuana Tax Act. What else got suppressed?
 - [ ] `note` **Baked In** — manufacturers who can't change a glue, a finish, or a wood supplier
 - [ ] `note` **A makerspace as a manufacturer** — Open Works again, from the city's side
-- [ ] *(started)* `note` **Design for Disassembly** — opens with the toggles and bolts. Read and add to it
+- [x] `note` **Design for Disassembly** — exists with a few lines to start, as asked (2026-10-13)
 - [x] `note` **Scaling Out** — saved 2026-10-12. Justin answered 2026-10-13 (not run out yet, 8 chairs made, scale by adding farms and hubs) and it is in the tiddler. Check that the draft's "when the wool runs out, the chairs stop" and "alpaca" lines still fit what he said
 - [ ] `essay` **Start with the shed, not the sketch** — start from the months of finding farms and mills before a chair was drawn
 
-- [ ] *(drafted)* `essay` **Eight Chairs** *(Kristian is fine with the French hemp at its centre, 2026-10-13)* — connects the legible chair, signs signaling sustainability, the French hemp, the missing mill, honest and misleading signs, and scaling out. Rewrite in your voice
+- [x] `essay` **Eight Chairs** *(good to go, 2026-10-13)* *(Kristian is fine with the French hemp at its centre, 2026-10-13)* — connects the legible chair, signs signaling sustainability, the French hemp, the missing mill, honest and misleading signs, and scaling out. Rewrite in your voice
 
 ## Week 7 — Regenerative vernaculars: the chairs
 
 - [ ] *(started)* `chair` **Terra! Armchair** (Studio Nucleo)
-- [ ] *(started)* `chair` **Flax Chair** (Meindertsma)
+- [x] `chair` **Flax Chair** (Meindertsma) — construction details added from Meindertsma's page; links to PLA and the intent question
 - [ ] *(started)* `chair` **Catifa Carta** (Arper)
 - [ ] `chair` **Peel Chair** and **Products of Silviculture chair** — fill the two existing stubs
-- [ ] *(started)* `note` **Coppicing** — a tree you can cut for centuries
-- [ ] *(PaperShell and PLA started)* `note` **PaperShell**, **PLA**, **Pyrolysis** — three short process notes. Fill out the existing `BioChar`
+- [ ] *(started)* `note` **Coppicing** — a tree you can cut for centuries *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
+- [ ] *(PLA done; PaperShell started)* `note` **PaperShell**, **PLA**, **Pyrolysis** — PLA now covers compostable, not recyclable, and the Flax Chair exception. Pyrolysis is unwritten. Fill out the existing `BioChar`
 - [ ] `note` **Buying the whole harvest** — Meindertsma starts by purchasing a farm's entire crop
 - [ ] `note` **A color nobody chose** — the Catifa Carta is black because of the pressing
 - [ ] `essay` **Keep the form or let it change** — start from two chairs side by side: the Navy Chair in a new material, and the Oka Chair shaped by its lumber
@@ -136,13 +136,20 @@ Definitions, written as explanations.
 
 Grew out of the Monstrous Hybrid note. Claude wrote the shells; read and fix each one.
 
-- [ ] *(started)* `note` **Monstrous Hybrid** — back to a short definition that points to the two cases
-- [ ] *(started)* `note` **Tetra Pak** — layers, what each does, and the recycling numbers. The numbers come from the carton industry itself
+- [x] `note` **Monstrous Hybrid** — short definition, two cases, and your added chairs (2026-10-13)
+- [x] `note` **Tetra Pak** — layers, the quote, the numbers, and a labelled source list
 - [ ] *(started)* `note` **Juice Pouch** — "curbside recycling doesn't take them" is unsourced
-- [ ] *(started)* `note` **Downcycling**
-- [ ] *(started)* `note` **Aluminum** — the Navy Chair against the carton
-- [ ] *(started)* `note` **Polyethylene**, **PolyAl**, **Greenwashing**
+- [ ] *(started)* `note` **Downcycling** *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
+- [ ] *(started)* `note` **Aluminum** — the Navy Chair against the carton *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
+- [ ] *(started)* `note` **Polyethylene**, **PolyAl**, **Greenwashing** *(Claude's shell, used but not yet reviewed by you; tick when it reads right)*
 - [ ] `essay` **Recyclable, but really?** — title, starting fact, and links are in the tiddler. The argument is yours. Pairs with "Return is local"
+
+## Housekeeping (noted 2026-10-13)
+
+- [ ] Add sources to the notes built from the chapter. The chapter's reference list has one for nearly all of them: Coppicing, Waste Wool, Willow Creek Farm, Melissa Smith, Open Works, PaperShell, Living Ink, Sway, Enkev, M4 Factory, Studio Veratate, Studio Nucleo, Terra! Armchair, Shaker Ladder Back, Windsor Chair. Claude can copy these across
+- [ ] Verify the notes Claude wrote from memory, then cite them: Walter Gropius, Wassily Kandinsky, Josef Albers, Paul Klee, Victor Papanek, the Moholy-Nagy quote in Design as an Attitude, the seven futures-cone words, Aluminum, Polyethylene, Downcycling, PLA, Ecosystem, Herman Miller, Ettore Sottsass, Memphis Group, and the one-line designer notes
+- [ ] Juice Pouch: "curbside recycling doesn't take them" is unsourced
+- [ ] The orphan and stub lists live in the hidden `Wiki Health` note (live wiki only) and in `orphan-audit.md`
 
 ## After — the booklet
 

@@ -1,0 +1,33 @@
+created: 20261014071500000
+modified: 20261014071500000
+tags: hide
+title: Wiki Health
+type: text/vnd.tiddlywiki
+
+\define pub() [!is[system]!tag[hide]!tag[private]!prefix[.]]
+
+Maintenance lists for the live wiki. Tagged `hide`, so the static build leaves it out. Each list updates as you edit.
+
+!! Missing (<$count filter="[all[missing]!is[system]]"/>)
+
+Titles that something links to and that have no note yet.
+
+<$list filter="[all[missing]!is[system]sort[title]]"><$link/> <$text text="·"/> </$list>
+
+!! Empty (<$count filter="[subfilter<pub>!has[text]]"/>)
+
+A title and no body.
+
+<$list filter="[subfilter<pub>!has[text]sort[title]]"><$link/> <$text text="·"/> </$list>
+
+!! Stubs (<$count filter="[subfilter<pub>has[text]] :filter[get[text]length[]compare:number:lt[200]]"/>)
+
+Notes with fewer than 200 characters, shortest first. Change the 200 in the two filters here to move the line.
+
+<$list filter="[subfilter<pub>has[text]] :filter[get[text]length[]compare:number:lt[200]] :sort:number[get[text]length[]]"><$link/> <$text text="·"/> </$list>
+
+!! Orphans (<$count filter="[all[orphans]] :intersection[subfilter<pub>]"/>)
+
+Notes that nothing links to. This counts links only, so a note that is reachable through a tag still shows here.
+
+<$list filter="[all[orphans]] :intersection[subfilter<pub>] +[sort[title]]"><$link/> <$text text="·"/> </$list>
