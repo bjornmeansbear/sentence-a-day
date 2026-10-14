@@ -23,7 +23,7 @@ New work gets the tag `Bioregional Design`, to keep it apart from the `SDCSC` ch
 
 ## Before you start
 
-- [x] *(sent 2026-10-12, waiting on answers; also asked permission to quote the May 2025 conversations)* Email Justin and Fernando with three questions: Where does the hemp cord come from? What happens when the wood or wool runs out? How was the chair's low, wide shape decided?
+- [x] *(sent 2026-10-12, waiting on answers; also asked permission to quote the May 2025 conversations; Justin said yes 2026-10-13, so direct quotes are fine now)* Email Justin and Fernando with three questions: Where does the hemp cord come from? What happens when the wood or wool runs out? How was the chair's low, wide shape decided?
 - [ ] Check the contract's clauses on derivative works and self-archiving
 - [x] Decide what to do with the `SDCSC` drafts. Decided 2026-10-12: leave them public. Measured against the chapter, the closest draft shares 10% of its wording and the only near-match is the opening sentence of `SDCDC002: Contextual Design`
 - [x] Rework the Materialshed and Scaling Out drafts and save them as tiddlers
@@ -33,8 +33,8 @@ New work gets the tag `Bioregional Design`, to keep it apart from the `SDCSC` ch
 
 The chair in the pasture, and why Common Object made it.
 
-- [ ] `note` **Oka Chair** — replace the stub. Wood, wool, hemp, and where each comes from. Link the three partners below
-- [ ] *(started)* `note` **Cambium Carbon** — fallen city trees turned into lumber
+- [x] *(started)* `note` **Oka Chair** — draft written 2026-10-13: a "Where it comes from" section and the shape section. Read it and rewrite in your voice. (Original: replace the stub. Wood, wool, hemp, and where each comes from. Link the three partners below.)
+- [x] *(started)* `note` **Cambium Carbon** — fallen city trees turned into lumber
 - [ ] *(started)* `note` **Willow Creek Farm** — the farm and its mill. Link Melissa Smith
 - [ ] *(started)* `note` **Open Works** — the Baltimore makerspace that does contract manufacturing
 - [ ] `note` **The brief decides the outcome** — what Justin and Fernando saw in corporate furniture briefs
@@ -47,7 +47,7 @@ Definitions, written as explanations.
 - [x] `note` **Materialshed** — saved 2026-10-12
 - [x] `note` **Fibershed** — written; the Rebecca Burgess credit is confirmed against fibershed.org/history and she has her own note
 - [x] `note` **Technical Nutrient** — opens with the aluminum Navy Chair; `Biological Nutrient` links back; all its links now resolve
-- [ ] *(started)* `note` **Monstrous Hybrid** — see the packaging side thread below
+- [x] *(started)* `note` **Monstrous Hybrid** — see the packaging side thread below
 - [ ] `note` **Recycling comes last** — reuse, repair, remanufacture, and only then recycle
 - [ ] `note` **Wood is a technical nutrient first** — a chair gets repaired for decades before it composts
 - [ ] `essay` **Less bad to gives back** — start from the Sphera diagram. Explain the line from conventional to regenerative in sentences, without the diagram
@@ -77,20 +77,20 @@ Definitions, written as explanations.
 
 ## Week 5 — The Oka Chair: wood and wool
 
-- [ ] `note` **The four Ds** — disease, decay, disaster, development. The city's trees as a lumber yard
+- [x] *(started)* `note` **The four Ds** — disease, decay, disaster, development. The city's trees as a lumber yard
 - [ ] `note` **Carbon Smart Wood** — Cambium's numbers, and what "net-negative" is counting
 - [ ] *(started)* `note` **Waste Wool** — Waste = Food tested on a new case. "There is waste wool everywhere sheep are raised"
 - [ ] `note` **The farmer is the factory** — on-farm carding is what lets local wool compete
-- [ ] `essay` **Why is it squat?** — **needs Justin.** Your own note in `SDCSC100` asks whether the lumber set the shape. Answer it
+- [ ] `essay` **Why is it squat?** — Justin answered 2026-10-13 and it is in the `Oka Chair` tiddler: chunky parts so no one doubts a knot is structural (cutting around flaws is where wood waste comes from), wide arms for lounging. Your own note in `SDCSC100` asks whether the lumber set the shape. Answer it
 
 ## Week 6 — The Oka Chair: hemp and the network
 
-- [ ] *(started)* `note` **Hemp** — **needs Justin** for the source. If the cord comes from far away, that is where the material shed currently ends
+- [ ] *(started)* `note` **Hemp** — Justin answered 2026-10-13 and it is in the tiddler (farm in western MD, then a NC rope maker now closed, now French fiber). Read it and rewrite in your voice. If the cord comes from far away, that is where the material shed currently ends
 - [ ] `note` **Banned materials** — hemp and the 1937 Marijuana Tax Act. What else got suppressed?
 - [ ] `note` **Baked In** — manufacturers who can't change a glue, a finish, or a wood supplier
 - [ ] `note` **A makerspace as a manufacturer** — Open Works again, from the city's side
 - [ ] *(started)* `note` **Design for Disassembly** — opens with the toggles and bolts. Read and add to it
-- [x] `note` **Scaling Out** — saved 2026-10-12. **Needs Justin** for the last line
+- [x] `note` **Scaling Out** — saved 2026-10-12. Justin answered 2026-10-13 (not run out yet, 8 chairs made, scale by adding farms and hubs) and it is in the tiddler. Check that the draft's "when the wool runs out, the chairs stop" and "alpaca" lines still fit what he said
 - [ ] `essay` **Start with the shed, not the sketch** — start from the months of finding farms and mills before a chair was drawn
 
 ## Week 7 — Regenerative vernaculars: the chairs
@@ -154,4 +154,4 @@ Done 2026-10-12. Saved as the tiddler `Materialshed`.
 
 ### Scaling Out
 
-Saved 2026-10-12 as the tiddler `Scaling Out`. Its last line is still an open question for Justin.
+Saved 2026-10-12 as the tiddler `Scaling Out`. Justin answered the last-line question on 2026-10-13 and it is added at the end.
