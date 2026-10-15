@@ -55,7 +55,7 @@ Definitions, written as explanations.
 
 ## Week 3 — Why a chair?
 
-- [ ] *(started)* `chair` **Sedia 1** (Enzo Mari) — the chapter says 1974, its reference list says 1973. Check
+- [x] *(started)* `chair` **Sedia 1** (Enzo Mari) — the chapter says 1974, its reference list says 1973. Sources disagree; the tiddler now says "1973 or 1974"
 - [ ] *(started)* `chair` **Aeron Chair**
 - [ ] *(started)* `chair` **Shaker Ladder Back**
 - [ ] *(started)* `chair` **Windsor Chair**

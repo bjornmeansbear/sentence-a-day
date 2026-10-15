@@ -50,7 +50,7 @@ input:focus-visible {
   margin-bottom: calc(var(--frame-pad) * -1);
 }
 .explorerWrap + .explorerWrap {
-  margin-top: var(--frame-pad);
+  margin-top: 0;
 }
 @media screen and (min-width: 960px) {
   .explorerWrap {
