@@ -1,0 +1,63 @@
+<!-- A copy of $:/core/templates/static.template.html (the homepage shell) with SearchPageBody as the body. Keep the two in step if the head or the script changes. -->
+\define tv-config-static() yes
+\define tv-wikilink-template() static/$uri_doubleencoded$.html
+\rules only filteredtranscludeinline transcludeinline
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="generator" content="TiddlyWiki" />
+    <meta name="tiddlywiki-version" content="{{$:/core/templates/version}}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="format-detection" content="telephone=no">
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="/favicon.ico" sizes="32x32">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="stylesheet" href="static/static.css">
+    <title>Search — Bjørnpaedia</title>
+</head>
+
+<body class="tc-body">
+
+{{SearchPageBody||$:/core/templates/html-tiddler}}
+
+<script src="vendor/list.min.js"></script>
+<script>
+(function () {
+    // Without the search library there is no way to filter, so leave the
+    // full list on show (the same thing a visitor with scripts off gets).
+    if (typeof List === "undefined") return;
+    var box = document.getElementById("tiddler-list-container");
+    var input = box.querySelector(".search");
+    var status = box.querySelector(".indexStatus");
+    var list = new List("tiddler-list-container", { valueNames: ["title"] });
+
+    // The whole list is always on show (since 2026-10-26); typing filters it
+    // in place and the status line says how many pages are left.
+    function update() {
+        var searching = input.value.trim() !== "";
+        var n = list.matchingItems.length;
+        status.textContent = searching ? n + (n === 1 ? " page matches" : " pages match") : "";
+    }
+
+    list.on("searchComplete", update);
+    update();
+
+    // A search sent from a page's sidebar arrives as ?q=word.
+    var q = new URLSearchParams(window.location.search).get("q");
+    if (q) {
+        input.value = q;
+        list.search(q);
+        update();
+        box.scrollIntoView();
+    }
+})();
+</script>
+
+</body>
+
+</html>

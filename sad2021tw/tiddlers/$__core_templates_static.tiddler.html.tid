@@ -1,5 +1,5 @@
 created: 20210723033947585
-modified: 20210723035829492
+modified: 20261026180036000
 title: $:/core/templates/static.tiddler.html
 type: text/vnd.tiddlywiki
 
@@ -39,13 +39,19 @@ type: text/vnd.tiddlywiki
 <!-- KB Additions -->
 <div class="tc-sidebar-scrollable" style="overflow: auto;">
 `<$view tiddler="SiteIntro" field="text" format="text"/>`
-<!-- Search: sends the word to the homepage, which holds the list of every page and filters it (?q=). -->
-<form class="sidebarSearch" action="../" method="get" role="search">
+<!-- Search: sends the word to search.html, which holds the list of every page and filters it (?q=). The button is there so the search doesn't depend on knowing to press Enter. -->
+<form class="sidebarSearch" action="../search.html" method="get" role="search">
 <label class="searchLabel" for="sidebarSearchInput">Search all pages</label>
+<div class="searchRow">
 <input class="search" id="sidebarSearchInput" type="search" name="q" placeholder="Type a word or a name…">
+<button class="searchButton" type="submit">Search</button>
+</div>
 </form>
 </div>
 </div>
+
+<!-- The same footer as the homepage and search.html, written once in WjerkFooter. -->
+`<$view tiddler="WjerkFooter" format="htmlwikified"/>`
 
 </body>
 </html>

@@ -1,5 +1,5 @@
 created: 20260714232854000
-modified: 20261023200329000
+modified: 20261026174929000
 tags: hide
 title: IndexPageBody
 type: text/vnd.tiddlywiki
@@ -50,21 +50,6 @@ type: text/vnd.tiddlywiki
             </$list>
         </ul>
     </nav>
-    <div id="tiddler-list-container">
-        <label class="searchLabel" for="entrySearch">Search all <$text text={{{ [subfilter<published>count[]] }}}/> pages</label>
-        <input class="search" id="entrySearch" type="text" placeholder="Type a word or a name…">
-        <p class="indexStatus" aria-live="polite"></p>
-        <button type="button" class="showAll" aria-expanded="false" aria-controls="entryList" hidden>Show the full list</button>
-        <section class="tc-story-river tc-static-story-river">
-            <ul class="list" id="entryList">
-                <$list filter="[subfilter<published>sort[title]]">
-                    <li>
-                        <$link to=<<currentTiddler>>>
-                            <span class="title"><$view field="title" /></span>
-                        </$link>
-                    </li>
-                </$list>
-            </ul>
-        </section>
-    </div>
+    {{EntryList}}
+    {{WjerkFooter}}
 </div>

@@ -1,0 +1,24 @@
+created: 20261026174929000
+modified: 20261026180036000
+tags: hide
+title: SearchPageBody
+type: text/vnd.tiddlywiki
+
+<!-- search.html: where the sidebar search on every page lands (?q=word). Just the nav, the search box and list, and the footer. -->
+<div class="home searchPage">
+    {{WjerkNav}}
+    <div class="siteIntro">
+        <h1 class="tc-site-title">Search <a href="/">Bjørnpaedia</a></h1>
+        <p class="searchBlurb">Every page in the archive, by title. Start typing to narrow it down. Looking for a phrase inside a page? Search the full text on <a href="https://duckduckgo.com/?q=site%3Abjornpaedia.wjerk.shop">DuckDuckGo</a>.</p>
+        <!-- The key for the tile colors: the same kinds and tints as the list below and the river cards. -->
+        <ul class="kindKey" aria-label="What the tile colors mean">
+            <li><span class="swatch"></span>my writing</li>
+            <li><span class="swatch kind-reference"></span>definitions</li>
+            <li><span class="swatch kind-words"></span>quotes</li>
+            <li><span class="swatch kind-thing"></span>sources &amp; objects</li>
+            <li><span class="swatch kind-person"></span>people</li>
+        </ul>
+    </div>
+    {{EntryList}}
+    {{WjerkFooter}}
+</div>

@@ -1,0 +1,27 @@
+created: 20261026174929000
+modified: 20261026174929000
+tags: hide
+title: EntryList
+type: text/vnd.tiddlywiki
+
+\define published() [!is[system]] +[!tag[private]] +[!tag[hide]] +[!prefix[.]]
+<!-- The search box and the tinted list of every published page. Shared by IndexPageBody (the homepage) and SearchPageBody (search.html). -->
+    <div id="tiddler-list-container">
+        <label class="searchLabel" for="entrySearch">Search all <$text text={{{ [subfilter<published>count[]] }}}/> pages</label>
+        <input class="search" id="entrySearch" type="text" placeholder="Type a word or a name…">
+        <p class="indexStatus" aria-live="polite"></p>
+        <section class="tc-story-river tc-static-story-river">
+            <ul class="list" id="entryList">
+                <$list filter="[subfilter<published>sort[title]]">
+                    <!-- The same kind classes the local river gives each card ($:/wjerk/KindClasses), so a tile takes its kind's tint. -->
+                    <$let storyTiddler=<<currentTiddler>>>
+                    <li class={{{ [all[shadows+tiddlers]tag[$:/tags/ClassFilters/TiddlerTemplate]!is[draft]] :map:flat[subfilter{!!text}] +[join[ ]] }}}>
+                        <$link to=<<currentTiddler>>>
+                            <span class="title"><$view field="title" /></span>
+                        </$link>
+                    </li>
+                    </$let>
+                </$list>
+            </ul>
+        </section>
+    </div>

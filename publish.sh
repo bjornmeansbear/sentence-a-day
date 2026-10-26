@@ -55,6 +55,9 @@ rm -f "$BJORNPAEDIA_DIR/static.html" "$BJORNPAEDIA_DIR/alltiddlers.html"
 # the leak doesn't linger in the working tree (git history still has it —
 # see CLAUDE.md).
 cp sad2021tw/output/index.html "$BJORNPAEDIA_DIR/"
+cp sad2021tw/output/search.html "$BJORNPAEDIA_DIR/"
+# search.html is where the sidebar search on every page lands (?q=word):
+# the same search box and list as the homepage, without the rest of it.
 # `index.html` is now rendered straight from the static (filtered) build —
 # same private/hide exclusion as everything in static/. Plain `cp` because
 # it's one file, always overwritten wholesale.

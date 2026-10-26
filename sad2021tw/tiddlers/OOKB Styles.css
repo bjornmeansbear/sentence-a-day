@@ -269,38 +269,56 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   top: .5em;
 }
 
-/** Static homepage export idea? **/
-.home section.tc-static-story-river {
-  display: flex;
-  margin: 2em;
+/* Homepage entry list: every published page, always on show, in the same
+   touching edge-to-edge blocks as the doors above. No breakpoints: each block
+   is at least 10rem of text plus the gutter on both sides, and a row holds as
+   many as fit (two on a phone, five around 1300px, six around 1700px). 10rem
+   keeps a timestamp title like "020210303222832 Entry" on one line.
+   A short last row stretches to fill.
+   The search field's rule sits above and the footer's below, so the list
+   draws neither. */
+#tiddler-list-container section.tc-static-story-river {
+  margin: 0 calc(var(--frame-pad) * -1);
 }
-/* Homepage entry list: as many columns as fit at a readable width (one on a
-   phone), rows always filled evenly. */
 .home section.tc-static-story-river > ul {
-  display: grid;
-  flex: 1; /* its parent section is a flex container; fill it */
-  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
-  gap: 0 2em;
-  margin: 2em 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1px;
+  margin: 0;
   padding: 0;
   list-style: none;
+  background: var(--color-border);
 }
 .home section.tc-static-story-river > ul li {
-  border-bottom: 1px solid var(--color-border);
-  overflow: hidden;
+  display: flex;
+  flex: 1 1 calc(10rem + var(--frame-pad) * 2);
+  min-width: 0;
+  background: var(--color-bg);
+}
+/* Each tile takes its kind's tint, the same as the river cards and the
+   Collected doors (which double as the key): your own writing on cream, the
+   collection colored, so the whole list reads as a picture of the archive.
+   Link blue on these tints is 5.07-5.41:1. The kind is also on each page
+   itself, so the color adds to the title rather than replacing it. */
+.home section.tc-static-story-river > ul li.kind-reference { background: #D7D7CC; } /* gray-2 */
+.home section.tc-static-story-river > ul li.kind-words { background: #DDDA93; } /* yellow-2 */
+.home section.tc-static-story-river > ul li.kind-thing { background: #BED5FF; } /* cornflower-2 */
+.home section.tc-static-story-river > ul li.kind-person { background: #FFC2B3; } /* orange-2 */
+.home section.tc-static-story-river > ul a {
+  flex: 1;
+  padding: .5rem var(--frame-pad);
+  overflow-wrap: anywhere;
+  text-decoration: none;
+}
+.home section.tc-static-story-river > ul a:is(:hover, :focus-visible) {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+}
+.home section.tc-static-story-river > ul a:focus-visible {
+  outline-color: currentColor;
+  outline-offset: -0.35rem;
 }
 
-.home section.tc-static-story-river > ul a.tc-tiddlylink.tc-tiddlylink-resolves {
-  padding: .25em .5em;
-  display: block;
-}
-
-@media (min-width: 40rem) {
-  .home section.tc-static-story-river {
-    margin: 0;
-    width: 100%;
-  }
-}
 
 /** Search box for the homepage entry list (List.js filters the <ul class="list">
     below it in place; see IndexPageBody and $:/core/templates/static.template.html). **/
@@ -322,11 +340,23 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   }
 }
 
+/* The site title links home (to the root, so it works from the homepage and
+   from every page under static/). It looks like the title; hover inverts. */
+.siteIntro .tc-site-title a {
+  color: inherit;
+  text-decoration: none;
+}
+.siteIntro .tc-site-title a:is(:hover, :focus-visible) {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+}
 .siteIntro .tc-sidebar-header {
   padding: 0; /* the vanilla theme adds its own 14px below 960px, doubling the gutter */
 }
+/* No gap above: the search band stacks straight under the door lists,
+   like the other section bands. */
 #tiddler-list-container {
-  margin-top: 2em;
+  margin-top: 0;
 }
 /* The entry list reuses TiddlyWiki's story-river class, whose own padding
    (42px at desktop width) would indent it past the gutter above. The id
@@ -337,17 +367,48 @@ a.tc-tag-label:is(:hover, :focus-visible) {
 }
 
 .search {
+  /* The boxed field, as on the tiddler pages' sidebar search. The homepage
+     version below pulls it edge to edge. */
   display: block;
   box-sizing: border-box;
   width: 100%;
   margin: 0;
   padding: .6em .75em;
   border: 1px solid var(--color-text);
+  border-radius: 0;
   background: var(--color-bg);
   color: var(--color-text);
   font: inherit;
   font-size: 1rem;
   line-height: 1.5rem;
+}
+/* Homepage only: edge to edge like the door rows above, with the page gutter
+   as its inner padding and a rule below instead of a box. */
+#tiddler-list-container .search {
+  width: calc(100% + var(--frame-pad) * 2);
+  margin: 0 calc(var(--frame-pad) * -1);
+  padding: 1rem var(--frame-pad);
+  border: 0;
+  border-bottom: 1px solid var(--color-border);
+  font-size: 1.125rem;
+}
+/* Active, both searches: the field's ground goes pale pink (text 10.44:1,
+   placeholder 5.58:1) inside a pink outline drawn inward, so it isn't cut
+   off at the homepage's page edge (3.63:1 on the pink). On the homepage the
+   band above also flips from dark to the accent (cream on pink 4.78:1): the
+   section lights up while you're in it. */
+.search:focus-visible {
+  outline: .25rem solid var(--color-accent);
+  outline-offset: -.25rem;
+  background: var(--color-accent-subtle);
+}
+#tiddler-list-container:focus-within .searchLabel {
+  background-color: var(--color-accent);
+}
+/* Text left in the field after you click away keeps the pale ground, so the
+   list reads as filtered. */
+.search:not(:placeholder-shown) {
+  background: var(--color-accent-subtle);
 }
 
 /* The same field in a page's sidebar, under the site intro. It is a plain
@@ -391,7 +452,6 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   margin-top: var(--frame-pad);
 }
 /* Section bars: the same muted strip as the Inbound / Outbound headings. */
-.startHere h2,
 /* "Collected" sits between the two door lists; the list above already
    draws the rule, so it carries no top border of its own. */
 .doors h3 {
@@ -399,13 +459,18 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   padding: .25em var(--frame-pad);
   font-size: .9rem;
   font-weight: normal;
-  background-color: var(--color-surface-muted);
+  color: var(--color-bg);
+  background-color: var(--color-surface-dark);
 }
+/* Section labels are the strongest marks on the homepage: cream on the dark
+   surface (7.34:1). The Start here footers below stay quiet. */
+.startHere h2,
 .doors h2 {
   margin: 0;
   padding: .25em var(--frame-pad);
   font-size: .9rem;
-  background-color: var(--color-surface-muted);
+  color: var(--color-bg);
+  background-color: var(--color-surface-dark);
   border-top: 1px solid var(--color-border);
 }
 /* Start here: a handful of pages to hand a stranger first (the `start` field
@@ -435,22 +500,54 @@ a.tc-tag-label:is(:hover, :focus-visible) {
    hover and the focus ring take the kit's pink-0 instead (5.58:1). */
 .startHere .startThemes {
   margin: 0;
-  padding: 1em var(--frame-pad);
-  border: 1px solid var(--color-bg);
+  padding: .75em var(--frame-pad);
+  border-top: 1px solid var(--color-border); /* a rule on the card's own cream, no fill */
   font-size: .85rem;
-  color: var(--color-bg);
-  background-color: var(--color-surface-dark);
+  color: var(--color-text-muted); /* 7.34:1 on cream */
 }
 .startHere .startThemes a {
-  color: inherit;
+  color: var(--color-text); /* 13.73:1 */
   text-decoration: underline;
   text-underline-offset: .15em;
 }
+/* Hover inverts, the same as the cards above: accent fill, light text (4.78:1). */
 .startHere .startThemes a:is(:hover, :focus-visible) {
-  color: var(--color-accent-on-dark);
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+  text-decoration: none;
 }
 .startHere .startThemes a:focus-visible {
-  outline-color: var(--color-accent-on-dark);
+  outline-color: var(--color-accent);
+}
+/* Side by side, footers that wrap to different line counts would put their
+   rules at different heights. From 40rem the list is a grid and each card a
+   two-row subgrid (body, footer), so every card in a row shares one footer
+   row as tall as its tallest footer, whatever the width. Twelve columns:
+   four across (span 3), and a short last row stretches to fill, as the flex
+   layout did: three left over span 4, two span 6, one spans the row. */
+@media (min-width: 40rem) {
+  .startHere ul {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+  }
+  .startHere li {
+    display: grid;
+    grid-column: span 3;
+    grid-row: span 2;
+    grid-template-rows: subgrid;
+    row-gap: 0;
+  }
+  .startHere li:nth-child(4n+1):nth-last-child(3),
+  .startHere li:nth-child(4n+1):nth-last-child(3) ~ li {
+    grid-column: span 4;
+  }
+  .startHere li:nth-child(4n+1):nth-last-child(2),
+  .startHere li:nth-child(4n+1):nth-last-child(2) ~ li {
+    grid-column: span 6;
+  }
+  .startHere li:nth-child(4n+1):last-child {
+    grid-column: span 12;
+  }
 }
 .startHere li > a {
   display: flex;
@@ -552,31 +649,149 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   }
 }
 
-/* Search sits under the doors. The full list is folded away until someone
-   searches or asks for it; the script adds .is-collapsible, so with scripts
-   off the whole list simply shows. */
+/* Search sits under the doors, and the full list right under it. Typing
+   filters the list in place. */
 .searchLabel {
   display: block;
   margin-bottom: .5rem;
   font-weight: bold;
 }
-.indexStatus {
-  min-height: 1.5rem;
-  margin: .5rem 0;
+#tiddler-list-container .searchLabel {
+  /* Homepage only: the same dark band as "Start here", "Browse by kind" and
+     "Collected", pulled out to the page edges past the container's gutter.
+     Still a real <label> for the search box. The door list above draws the
+     rule. */
+  font-weight: normal;
+  margin: 0 calc(var(--frame-pad) * -1);
+  padding: .25em var(--frame-pad);
+  font-size: .9rem;
+  color: var(--color-bg);
+  background-color: var(--color-surface-dark);
 }
-.showAll {
-  padding: .5em 1em;
+/* "12 pages match": its own ruled row while searching, nothing at all
+   otherwise, so the blocks sit right under the field. Kept in the page
+   (not display: none) so screen readers still hear it change. */
+.indexStatus {
+  margin: 0;
+  padding: .5rem 0;
+  border-bottom: 1px solid var(--color-border);
+  margin-inline: calc(var(--frame-pad) * -1);
+  padding-inline: var(--frame-pad);
+}
+.indexStatus:empty {
+  padding-block: 0;
+  border-bottom: 0;
+}
+
+/* Site footer, modeled on a.wjerk.shop's: four plain lists, stacked on a
+   phone and side by side from 40rem, under a rule. The bottom padding is the
+   page's bottom margin too. Lives in WjerkFooter, written once. */
+.wjerk-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 2rem var(--frame-pad) 4rem;
+  border-top: 1px solid var(--color-border);
+  font-size: .85rem;
+}
+.wjerk-footer ul {
+  flex: 1;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.wjerk-footer a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+.wjerk-footer a:is(:hover, :focus-visible) {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+  text-decoration: none;
+}
+@media (min-width: 40rem) {
+  .wjerk-footer {
+    flex-direction: row;
+    gap: 2rem;
+  }
+}
+
+/* search.html: room between its heading and the search band. */
+.searchPage .siteIntro {
+  padding-bottom: var(--frame-pad);
+}
+
+/* Sidebar search: the field and a Search button share one bordered row (the
+   button's left border overlaps the field's right one). Hover and focus
+   invert to the accent, like every other control. */
+.searchRow {
+  display: flex;
+}
+.searchRow .search {
+  flex: 1;
+  min-width: 0;
+}
+.searchButton {
+  margin-left: -1px;
+  padding: .6em 1em;
   border: 1px solid var(--color-text);
+  border-radius: 0;
   background: var(--color-bg);
   color: var(--color-text);
   font: inherit;
+  font-size: 1rem;
+  line-height: 1.5rem;
   cursor: pointer;
 }
-.showAll:is(:hover, :focus-visible) {
+.searchButton:is(:hover, :focus-visible) {
   background-color: var(--color-accent);
   border-color: var(--color-accent);
   color: var(--color-bg);
 }
-#tiddler-list-container.is-collapsible:not(.is-open) .tc-static-story-river {
-  display: none;
+.searchButton:focus-visible {
+  outline: .25rem solid var(--color-accent);
+  outline-offset: 2px;
 }
+
+/* search.html: a short blurb, then a key for the tile colors. Each swatch
+   is the tile tint with a rule around it, and the label says the kind, so
+   the color is never read alone. */
+.searchBlurb {
+  max-width: 40rem;
+  margin: .5rem 0 1rem;
+}
+.searchBlurb a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+.searchBlurb a:is(:hover, :focus-visible) {
+  background-color: var(--color-accent);
+  color: var(--color-bg);
+  text-decoration: none;
+}
+.kindKey {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem 1.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: .85rem;
+}
+.kindKey li {
+  display: flex;
+  align-items: center;
+  gap: .4em;
+}
+.kindKey .swatch {
+  width: 1.25em;
+  height: 1.25em;
+  border: 1px solid var(--color-border);
+  background: var(--color-bg);
+}
+.kindKey .swatch.kind-reference { background: #D7D7CC; } /* gray-2 */
+.kindKey .swatch.kind-words { background: #DDDA93; } /* yellow-2 */
+.kindKey .swatch.kind-thing { background: #BED5FF; } /* cornflower-2 */
+.kindKey .swatch.kind-person { background: #FFC2B3; } /* orange-2 */

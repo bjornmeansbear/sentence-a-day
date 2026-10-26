@@ -1,0 +1,39 @@
+created: 20261026173428000
+modified: 20261026175920000
+tags: hide
+title: WjerkFooter
+type: text/vnd.tiddlywiki
+
+<footer class="wjerk-footer">
+    <ul>
+        <li>Bjørnpaedia, part of <a href="https://a.wjerk.shop">Wjerk.</a> <em><<now YYYY>></em>.</li>
+        <li>Designing for the welfare of all life<sup>‡</sup> since 2003</li>
+        <li>We’re done with bauhaus; it’s time for <$link to="BauErden">BauErden! Design to (re)Build Earth!</$link></li>
+        <li>—</li>
+        <li><small><sup>‡</sup>: Evolved from <a href="https://en.wikipedia.org/wiki/Bruce_Mau">Bruce Mau</a>’s <a href="https://www.brucemaudesign.com/work/massive-change">Massive Change</a>.</small></li>
+    </ul>
+    <ul>
+        <li>Written in <a href="https://tiddlywiki.com">TiddlyWiki</a>, published as plain static pages: one small page per idea, quick to load, and easy for search engines and people to find and link to.</li>
+        <li>Served by GitHub Pages. No tracking, no cookies.</li>
+        <li>—</li>
+        <li>Source: <a href="https://github.com/bjornmeansbear/sentence-a-day">github.com/bjornmeansbear/sentence-a-day</a></li>
+        <li>Site files: <a href="https://github.com/bjornmeansbear/bjornpaedia">github.com/bjornmeansbear/bjornpaedia</a></li>
+        <li>—</li>
+        <li>My writing: <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‑SA 4.0</a>. Quotes, excerpts and images belong to their authors, credited on their pages where known.</li>
+    </ul>
+    <ul>
+        <li><a href="https://a.wjerk.shop">Case Studies</a></li>
+        <li><a href="https://kristian.bjornard.com">Archived Work</a></li>
+        <li><a href="https://www.ookb.co">More Archived Work</a></li>
+        <li><a href="https://github.com/bjornmeansbear">GitHub</a></li>
+        <li><a href="https://www.instagram.com/bjornmeansbear">Instagram</a></li>
+        <li>—</li>
+        <li>Inspirations: <a href="https://solar.lowtechmagazine.com/">Low-Tech Magazine</a></li>
+        <li><a href="https://drawdown.org/">Project Drawdown</a></li>
+    </ul>
+    <ul>
+        <li><small>Earth in header: <a href="https://visibleearth.nasa.gov/images/57723/the-blue-marble">2002 Blue Marble</a> from NASA’s visible earth catalog.</small></li>
+        <li>—</li>
+        <li><small>Typography: System sans-serif — no webfonts loaded.</small></li>
+    </ul>
+</footer>
