@@ -83,7 +83,7 @@ Format: tag → suggested target.
 - [ ] **People Doing People Things** — 207× 
 - [ ] **Source** — 207× 
 - [ ] **Definition** — 122× 
-- [ ] **roam-import** — 69× 
+- [ ] **roam-import** — 69× → being phased out as a review queue (2026-10-26). On review: worked up → drop the tag; still rough → swap for `note`; not worth keeping → delete. At zero, delete the tag and take it out of `$:/wjerk/RawClasses`. New Roam imports skip it.
 - [ ] **Quote** — 63× 
 - [ ] **Review** — 58× 
 - [ ] **Sound Machine Dream** — 58× 

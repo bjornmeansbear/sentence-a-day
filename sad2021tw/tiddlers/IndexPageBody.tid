@@ -1,5 +1,5 @@
 created: 20260714232854000
-modified: 20261008172307000
+modified: 20261023200329000
 tags: hide
 title: IndexPageBody
 type: text/vnd.tiddlywiki
@@ -28,7 +28,19 @@ type: text/vnd.tiddlywiki
         <h2 id="doorsHeading">Browse by kind</h2>
         <ul>
             <$list filter="[list[HomeDoors]]" variable="door">
-                <li>
+                <li data-door=<<door>>>
+                    <$link to=<<door>>>
+                        <span class="doorName"><$text text={{{ [[HomeDoors]getindex<door>else<door>] }}}/></span>
+                        <span class="doorCount"><$text text={{{ [tag<door>!tag[private]!tag[hide]!prefix[.]count[]] }}}/></span>
+                        <span class="doorNote"><$transclude tiddler=<<door>> field="description" mode="inline"/></span>
+                    </$link>
+                </li>
+            </$list>
+        </ul>
+        <h3 id="collectedHeading">Collected</h3>
+        <ul class="collected" aria-labelledby="collectedHeading">
+            <$list filter="[list[HomeDoors!!collection]]" variable="door">
+                <li data-door=<<door>>>
                     <$link to=<<door>>>
                         <span class="doorName"><$text text={{{ [[HomeDoors]getindex<door>else<door>] }}}/></span>
                         <span class="doorCount"><$text text={{{ [tag<door>!tag[private]!tag[hide]!prefix[.]count[]] }}}/></span>

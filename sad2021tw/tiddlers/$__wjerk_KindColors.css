@@ -1,0 +1,49 @@
+/* Story-river kind colors. Local wiki only: scoped away from the static
+   site, whose river carries .tc-static-story-river. Classes come from
+   $:/wjerk/KindClasses. Your own writing gets no tint; a tint marks
+   something brought in: someone's words, a thing, a person.
+
+   Tints are kit step 2 (~/Code/color-system-and-guidelines/kit.css), the
+   faintest step that reads as different from the cream ground. Measured
+   2026-10-23: body text 9.4-10.1:1, link blue 5.1-5.4:1, muted text
+   5.1-5.4:1, pink accent 3.3-3.5:1 (fills and focus rings only, 3:1 needed),
+   label ink (step 7) about 8.6:1.
+
+   Header bands inside a card (Tagged with, Inbound/Outbound, the field
+   table keys) read --color-surface-muted, so each kind redefines it as its
+   own step 3: about 8 apart from the card tint, text on it 7.3-7.6:1. Step 3
+   is for plain text only: the link blue on it is 3.9-4.1:1, under AA. The four tints (yellow quotes, gray definitions, cornflower
+   sources, orange people) sit at least 7.1 apart in OKLab. Gray-2 is the
+   last step-2 tint that stays apart from these; purple-2 sits only 5.1
+   from cornflower-2. On gray-3 the muted text tone drops to 4.0:1, so
+   keep the bands to the main text color. Pink is left out on purpose: the accent on pink-2 is 2.76:1. */
+
+.tc-story-river:not(.tc-static-story-river) .tc-tiddler-frame.kind-words  { background-color: #DDDA93; --kind-ink: #3B3400; --color-surface-muted: #C3BF71; } /* yellow-2, yellow-7, yellow-3 */
+.tc-story-river:not(.tc-static-story-river) .tc-tiddler-frame.kind-reference { background-color: #D7D7CC; --kind-ink: #34332A; --color-surface-muted: #BBBBB0; } /* gray-2, gray-7, gray-3 */
+.tc-story-river:not(.tc-static-story-river) .tc-tiddler-frame.kind-thing  { background-color: #BED5FF; --kind-ink: #1A315E; --color-surface-muted: #9EBBF3; } /* cornflower-2, cornflower-7, cornflower-3 */
+.tc-story-river:not(.tc-static-story-river) .tc-tiddler-frame.kind-person { background-color: #FFC2B3; --kind-ink: #591B11; --color-surface-muted: #F0A595; } /* orange-2, orange-7, orange-3 */
+
+.tc-story-river:not(.tc-static-story-river) .kind-quote      { --kind-label: "Quote"; }
+.tc-story-river:not(.tc-static-story-river) .kind-definition { --kind-label: "Definition"; }
+.tc-story-river:not(.tc-static-story-river) .kind-source     { --kind-label: "Source"; }
+.tc-story-river:not(.tc-static-story-river) .kind-object     { --kind-label: "Object"; }
+.tc-story-river:not(.tc-static-story-river) .kind-person     { --kind-label: "Person"; }
+
+/* The kind as words too, so color is never the only carrier. */
+.tc-story-river:not(.tc-static-story-river) .tc-tiddler-frame[class*="kind-"]:not(.kind-own) > .tc-tiddler-title::before {
+  content: var(--kind-label);
+  display: block;
+  color: var(--kind-ink);
+  font-size: 0.75rem;
+  line-height: 1.125rem; /* 18px rung */
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+/* Raw material (note, Paper Scraps, Journal, roam-import, unless also tagged
+   Essays, Principle or Big Ideas) gets a dashed card edge; finished work keeps
+   the solid one. A second idea, so it goes on a second channel, line, not
+   color: a raw quote is yellow and dashed. Classes from $:/wjerk/RawClasses. */
+.tc-story-river:not(.tc-static-story-river) .tc-tiddler-frame.kind-raw {
+  border-style: dashed;
+}

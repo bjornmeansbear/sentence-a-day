@@ -392,6 +392,15 @@ a.tc-tag-label:is(:hover, :focus-visible) {
 }
 /* Section bars: the same muted strip as the Inbound / Outbound headings. */
 .startHere h2,
+/* "Collected" sits between the two door lists; the list above already
+   draws the rule, so it carries no top border of its own. */
+.doors h3 {
+  margin: 0;
+  padding: .25em var(--frame-pad);
+  font-size: .9rem;
+  font-weight: normal;
+  background-color: var(--color-surface-muted);
+}
 .doors h2 {
   margin: 0;
   padding: .25em var(--frame-pad);
@@ -486,6 +495,14 @@ a.tc-tag-label:is(:hover, :focus-visible) {
   flex: 1 1 40%; /* two per row on small screens */
   background: var(--color-bg);
 }
+/* The collection doors (other people's words, things, people) take the
+   same kind tints as the local river ($:/wjerk/KindColors.css), so the
+   archive reads as your writing above, your collection below. Muted text on
+   these tints is 5.1-5.4:1; hover still fills the link with the accent. */
+.doors li[data-door="Definition"] { background: #D7D7CC; } /* gray-2 */
+.doors li[data-door="Quote"] { background: #DDDA93; } /* yellow-2 */
+.doors li:is([data-door="Source"], [data-door="Object"]) { background: #BED5FF; } /* cornflower-2 */
+.doors li[data-door="People Doing People Things"] { background: #FFC2B3; } /* orange-2 */
 /* Each door: name and count on one line, a short note under them. The note
    is the tag page's own `description` field, so the same sentence also shows
    as the Summary on that page. */
@@ -526,7 +543,12 @@ a.tc-tag-label:is(:hover, :focus-visible) {
 }
 @media (min-width: 40rem) {
   .doors li {
-    flex: 1 1 22%; /* four per row */
+    flex: 1 1 30%; /* three per row: nine writing doors make a 3x3 */
+  }
+}
+@media (min-width: 55rem) {
+  .doors .collected li {
+    flex: 1 1 18%; /* the five collection doors in one row */
   }
 }
 

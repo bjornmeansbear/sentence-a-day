@@ -57,10 +57,10 @@ Re-checked against the files on 2026-10-08.
 
 Supporting tiddlers, all tagged `hide`:
 
-- **`WjerkNav`** — the header (logo as an inline image, blurb) and the nav list. Used by both static shells, and shown in the live wiki through `WjerkNavPageSegment` (tagged `$:/tags/PageTemplate`, placed before the top-left bar).
+- **`WjerkNav`** — the header (logo as an inline image, blurb) and the nav list. Used by both static shells only. Until 2026-10-23 it was also shown at the top of the local wiki through `WjerkNavPageSegment` (tagged `$:/tags/PageTemplate`); that tiddler was deleted so the header appears only on the published site. Restore it from git to bring the header back locally.
 - **`SiteIntro`** — the site title and description paragraph. Sidebar on tiddler pages, intro on the homepage.
 - **`IndexPageBody`** — the homepage body: `WjerkNav`, `SiteIntro`, the **doors**, a search box, and the list of every published tiddler. Since 2026-10-08 the full list is folded away until a visitor types in the search box or presses "Show the full list"; with scripts off it simply shows.
-- **`HomeDoors`** (dictionary tiddler, tagged `hide`) — the homepage's table of contents. Its `list` field names the tags that get a door, in order; its text gives each a label (`Principle: Principles`). Each door links to that tag's own page and shows how many published pages carry the tag. To add, remove or reorder doors, edit the `list` field. Pages that carry none of the door tags are reached by search, links, or the full list.
+- **`HomeDoors`** (dictionary tiddler, tagged `hide`) — the homepage's table of contents. Its `list` field names the tags that get a door, in order; its text gives each a label (`Principle: Principles`). Each door links to that tag's own page and shows how many published pages carry the tag. To add, remove or reorder doors, edit the `list` field. Since 2026-10-23 the doors are two lists. The `list` field holds your writing (Big Ideas, Principles, Essays, Lectures, Projects, Assignments, Questions, Essay a Day, Journal: three per row from 40rem, a 3×3). A second field, **`collection`**, holds the collected kinds (Definitions, Quotes, Sources, Objects, People), shown under a "Collected" band, five in a row from 55rem. Each door's `<li>` carries `data-door`, and `OOKB Styles` tints the collection doors with the river's kind colors. Kind tags: **`Object`** is a specific made thing (chairs, Tetra Pak); **`Assignment`** is a class project brief (the "Project: …" tiddlers), while `Project` stays for your own projects. Pages that carry none of the door tags are reached by search, links, or the full list.
   - Its **`start` field** lists the "Start here" pages shown above the doors: a handful to hand a stranger first.
   - The sentence under each door and each start page is that tiddler's own **`description` field**. The same sentence prints as "Summary" in the top matter of the page itself, so it is written once and shown in two places. No `description`, no sentence.
 
@@ -142,6 +142,23 @@ To connect a new pair, add the tiddler's title to `connections.json` and run `py
 - `OOKB Styles.css` (`sad2021tw/tiddlers/OOKB Styles.css`, meta at `OOKB Styles.css.meta`) — stylesheet tiddler of about 380 lines, tagged `$:/tags/Stylesheet hide`. This is the right home for future pure-CSS tweaks. It ends with a commented "Toolbar icon states" block that records each icon/background pairing and its contrast ratio.
 - `Wjerk Tokens.tid` — tagged `$:/tags/Stylesheet hide`. Reads the active palette and writes the kit's semantic tokens (`--color-bg`, `--color-text`, `--color-accent`…) so `OOKB Styles.css` can use `var(--color-*)`. It starts with `\rules except dash`, because wikitext otherwise turns `--` into an en dash and breaks every custom-property name.
 - Stylesheet tiddlers load in title order, and `$:/…` sorts before `OOKB Styles`, so this file's rules come after the theme's and win at equal specificity. Its overrides rely on that.
+
+### Kind colors in the story river (local wiki only)
+
+Since 2026-10-23, cards in the local river are tinted by what kind of thing they are. Your own writing stays on the plain ground; a tint marks something brought in:
+
+| Tint | Kinds (tags) | Label |
+|---|---|---|
+| gray | Definition | DEFINITION |
+| yellow | Quote | QUOTE |
+| cornflower | Object | OBJECT |
+| cornflower | Source, Book, Album, Web | SOURCE |
+| orange | People Doing People Things | PERSON |
+
+- **`$:/wjerk/KindClasses`** (tagged `$:/tags/ClassFilters/TiddlerTemplate`) adds the classes to each card. One `:else` line per kind; the first match wins, so the order is the precedence. `Review` comes first and maps to `kind-own` (no tint), because a review is your writing even when it is about an album. To add a kind or change the order, edit this tiddler.
+- **`$:/wjerk/KindColors.css`** (tagged `$:/tags/Stylesheet`) sets the tints and the small uppercase label above the title. It also redefines `--color-surface-muted` on each kind of card as that hue's step 3, so the header bands inside it (Tagged with, Inbound/Outbound, the field-table keys) take a darker shade of the card color instead of the cream. Every rule is scoped to `.tc-story-river:not(.tc-static-story-river)`, so the rules land in `static.css` but match nothing on the published site.
+- **`$:/wjerk/RawClasses`** (also a class filter) marks raw material: tagged note, Paper Scraps, Journal or roam-import, unless also tagged Essays, Principle or Big Ideas. Those cards get a dashed edge instead of a solid one. It is a separate idea from the kind, so it goes on the line, not the color: a raw quote is yellow and dashed. `roam-import` is on its way out (see `tag-audit.md`), so `note` is the tag that keeps something marked rough.
+- The tints, the contrast figures and why pink is left out are in the design repo, `RULES.md` "Color: tints behind text" → "Kind tints for cards".
 
 ### Plugins (extend the system, not templates per se)
 - `OokTech/WordCount` — word count display + editor hook, wired into `$:/tags/ViewTemplate`.

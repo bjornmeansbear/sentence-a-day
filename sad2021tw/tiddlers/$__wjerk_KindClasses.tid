@@ -1,0 +1,15 @@
+created: 20261023182610000
+modified: 20261023200117000
+tags: $:/tags/ClassFilters/TiddlerTemplate
+title: $:/wjerk/KindClasses
+type: text/vnd.tiddlywiki
+
+[<storyTiddler>tag[Review]then[kind-own]]
+:else[<storyTiddler>tag[Definition]then[kind-reference kind-definition]]
+:else[<storyTiddler>tag[Quote]then[kind-words kind-quote]]
+:else[<storyTiddler>tag[Object]then[kind-thing kind-object]]
+:else[<storyTiddler>tag[Source]then[kind-thing kind-source]]
+:else[<storyTiddler>tag[Book]then[kind-thing kind-source]]
+:else[<storyTiddler>tag[Album]then[kind-thing kind-source]]
+:else[<storyTiddler>tag[Web]then[kind-thing kind-source]]
+:else[<storyTiddler>tag[People Doing People Things]then[kind-person]]
