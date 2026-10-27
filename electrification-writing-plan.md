@@ -80,6 +80,42 @@ Not scheduled. Pick one up when a week has room.
 - [ ] `essay` **How Buildings Learn, Electrically** — Brand's layers, and where batteries, panels, and circuits fit.
 - [ ] `essay` **The Peak Is the Problem** — 300 watt-hours a day, 10 kW at the peak. A design problem, not an engineering one.
 
+## Research links for A Battery Commons
+
+Read these before drafting. Gathered 2026-10-27. The EU rules are still moving, so check dates again before publishing.
+
+**The EU Battery Regulation (2023/1542)** — the commons, written into law.
+
+- [ ] [Removable batteries & the battery passport, 2027 (Projet Celsius)](https://projetcelsius.com/en/blog/removable-batteries-battery-passport-2027/) — the clearest plain-language explainer. As of Sept 2026:
+  - **Feb 18, 2027:** portable batteries (≤5 kg: phones, tools, toys) must be user-removable with common tools. Exceptions exist and are growing.
+  - E-bike and scooter batteries (≤25 kg) must be replaceable by an independent professional. The Commission wants to narrow this from cells to modules; not yet adopted.
+  - **Battery passport, Feb 18, 2027:** every e-bike/LMT battery, industrial batteries over 2 kWh, every EV battery. Public sees the model; repairers and recyclers see composition, disassembly, state of health.
+  - **QR code on every battery** from the same date.
+- [ ] [Commission guidelines on removability and replaceability (EUR-Lex, C/2025/214)](https://eur-lex.europa.eu/eli/C/2025/214/oj/eng) — the official reading of Article 11. What "commonly available tools" means.
+- [ ] [EU considers simpler removability rules (ERP Recycling, April 2026)](https://erp-recycling.org/ie/news-and-events/2026/04/batteries-eu-proposes-simpler-removability-and-replacement-rules/) — the pushback. The Omnibus "simplification" may soften the rules. This is the fight the essay is about.
+- [ ] [How to comply with the EU replaceable battery rules (ComplianceGate)](https://www.compliancegate.com/removable-and-replaceable-battery-requirements-european-union/) — the industry's view of the same text.
+- [ ] [Battery Passport Content Guidance (Battery Pass consortium, acatech)](https://en.acatech.de/publication/battery-passport-content-guidance/) — what data a passport carries. The closest thing to an open spec for a battery's life story.
+
+**Second life and recycling**
+
+- [ ] [Redwood: recycle with us](https://www.redwoodmaterials.com/recycle-with-us/) — consumer drop-off and mail-in for any lithium-ion device.
+- [ ] [Redwood Energy launch (TechCrunch, June 2025)](https://techcrunch.com/2025/06/26/redwood-materials-launches-energy-storage-business-and-its-first-target-is-ai-data-centers) and [Series E (TechCrunch, Jan 2026)](https://techcrunch.com/2026/01/28/redwood-attracts-google-for-its-425m-series-e-as-ai-power-needs-rise) — second-life EV packs as microgrids. Note who the customer is: data centers, not neighborhoods.
+
+**Open protocols and open hardware** — search each; note which are open *standards* and which are open *source*.
+
+- [ ] SunSpec Modbus — how inverters and batteries describe themselves
+- [ ] IEEE 2030.5 — how distributed energy talks to utilities
+- [ ] OpenADR — demand response signals
+- [ ] foxBMS — open-source battery management system
+- [ ] Libre Solar — open hardware for solar charge controllers and BMS
+
+**Chemistry context**
+
+- [ ] [UNIGRID sodium-ion home battery (Electrek, July 2026)](https://electrek.co/2026/07/10/unigrid-sodium-ion-home-battery-debuts-in-europe/)
+- [ ] [Victoria's 100 Neighbourhood Batteries program (SolarQuotes)](https://www.solarquotes.com.au/blog/?p=93165) — the block-scale commons, already working
+- [ ] [Form Energy Series G (Energy-Storage.news)](https://www.energy-storage.news/iron-air-us-ldes-startup-form-energy-secures-us750-million-series-g-financing/) — iron-air, the rust battery
+- [ ] [Solid-state landscape, H1 2026 (SMM)](https://news.metal.com/en/newscontent/103984967-from-laboratory-to-mass-production-solid-state-battery-competitive-landscape-set-to-take-shape-by-2026-end) — why it's a car story, not a basement story
+
 ## Objects to collect
 
 I already collect chairs. Collect batteries. Tag `Object` + `Electrification`.
