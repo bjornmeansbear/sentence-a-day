@@ -2,7 +2,7 @@ caption: New EAD
 created: 20210620040943918
 description: Create a new “Essay-A-Day” tiddler
 modified: 20220310043946601
-tags: $:/tags/PageControls
+tags: $:/tags/PageControls hide
 title: New 02021 EAD
 type: text/vnd.tiddlywiki
 

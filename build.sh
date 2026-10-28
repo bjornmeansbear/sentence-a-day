@@ -47,3 +47,9 @@ CSS_VERSION=$(shasum sad2021tw/output/static/static.css | cut -c1-8)
 # differently, but they all end the link with static.css").
 find sad2021tw/output -name '*.html' -print0 | xargs -0 perl -pi -e "s/static\\.css\"/static.css?v=${CSS_VERSION}\"/g"
 echo "Stylesheet version stamped: ${CSS_VERSION}"
+
+# Last step: follow every internal link in the finished site and report any
+# that would 404 online (see the top of the script for what it checks and why).
+# It only reports, it never fails the build, so a broken link can't stop a
+# publish; read the list and fix the tiddlers when you get to it.
+python3 sad2021tw/scripts/link-check.py

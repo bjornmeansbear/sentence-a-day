@@ -39,6 +39,6 @@ Is one of the connections my own understanding, my interest in seeing how things
 
 Also Created This Day:
 
-<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
+<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]] +[!tag[private]] +[!tag[hide]]">
      <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
 </$vars>

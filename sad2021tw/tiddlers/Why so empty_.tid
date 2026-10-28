@@ -5,7 +5,7 @@ isbn:
 isbn-10: 
 isbn-13: 
 media: 
-modified: 20210822024533209
+modified: 20261028031104535
 publisheddate: 
 publisher: 
 subtitle: 
@@ -18,8 +18,10 @@ year:
 
 Copied from https://mike-burns.com/gone.html -- by [[Mike Burns]]
 
+''Saved for the links. Nearly every word in this essay points to a different piece about the open/indie web, so it's really a reading list in disguise. The links are pulled out into a plain list at the bottom.''
+
 <p>
-    For years — <a href="https://micron999.com/" class="unrelated" title="World Wide Webbed Mike; a portriat of a 15-year-old nerd in the suburbs of Boston">since
+    For years — <a href="https://micron999.com/" class="unrelated" title="World Wide Webbed Mike; a portrait of a 15-year-old nerd in the suburbs of Boston">since
       approximately 1999</a> — I've had a Web site and, in general, been
     <a href="https://ritualdust.com/craft/make-yourself-a-website/" title="Make yourself a website">enthusiastic</a>
     about the Web. I posted
@@ -123,3 +125,58 @@ Copied from https://mike-burns.com/gone.html -- by [[Mike Burns]]
     Web site no longer has relevancy to
     <a href="https://www.jwz.org/blog/2008/04/i-say-we-take-off-and-nuke-the-site-from-orbit/" title="I say we take off and nuke the site from orbit.">the current Web</a>.
     </p>
+
+---
+
+!! Reading list
+
+The 48 links from the essay, in order, labeled with the hover text Burns gave each one (a few labels don't quite match where the link goes; those are his).
+
+# [ext[Make yourself a website|https://ritualdust.com/craft/make-yourself-a-website/]] — ritualdust.com
+# [ext[A Decade of Silos Has Throttled Open Content Distribution|https://blog.louisgray.com/2018/01/a-decade-of-silos-has-throttled-open.html]] — blog.louisgray.com
+# [ext[Demetrification: improving social media by removing public like/follower/repost counts|https://boingboing.net/2019/09/12/flickrs-glory-days.html]] — boingboing.net
+# [ext[Why the Indie Web movement is so important|http://dangillmor.com/2014/04/25/indie-web-important/]] — dangillmor.com
+# [ext[The Case for RSS|https://www.macsparky.com/blog/2017/11/the-case-for-rss]] — macsparky.com
+# [ext[The Web We Lost|http://anildash.com/2012/12/the-web-we-lost.html]] — anildash.com
+# [ext[Maybe we could tone down the JavaScript|https://eev.ee/blog/2016/03/06/maybe-we-could-tone-down-the-javascript/]] — eev.ee
+# [ext[The Most Fascinating Profile You'll Ever Read About a Guy and His Boring Startup|https://www.wired.com/2014/08/the-most-fascinating-profile-youll-ever-read-about-a-guy-and-his-boring-startup/]] — wired.com
+# [ext[Why retweets were a bad idea|gemini://gemini.circumlunar.space/users/left_adjoint/retweets.gmi]] — gemini.circumlunar.space
+# [ext[The Web's Grain|https://www.frankchimero.com/writing/the-webs-grain/]] — frankchimero.com
+# [ext['Link In Bio' is a slow knife|https://anildash.com/2019/12/10/link-in-bio-is-how-they-tried-to-kill-the-web/]] — anildash.com
+# [ext[Against an Increasingly User-Hostile Web|https://www.neustadt.fr/essays/against-a-user-hostile-web/]] — neustadt.fr
+# [ext[Taking shortcuts|https://www.robinrendle.com/notes/taking-shortcuts]] — robinrendle.com
+# [ext[YOU WILL NOT UNDERSTAND THIS|http://stanleylieber.com/2017/11/07/0/]] — stanleylieber.com
+# [ext[Instagram Hates The Internet|https://www.jwz.org/blog/2019/09/instagram-hates-the-internet-2/]] — jwz.org
+# [ext[Local-first software: You own your data, in spite of the cloud|https://www.inkandswitch.com/local-first.html]] — inkandswitch.com
+# [ext[Being Your Selves: Identity R&D on alt Twitter|https://www.ribbonfarm.com/2020/01/23/being-your-selves-identity-rd-on-alt-twitter/]] — ribbonfarm.com
+# [ext[Recent archive of the re-established (void) mailing list|https://we.lurk.org/hyperkitty/list/void@we.lurk.org/]] — we.lurk.org
+# [ext[The Web Endures|https://asininetech.com/2017/11/10/the-web-endures/]] — asininetech.com
+# [ext[The Medium|https://daverupert.com/2017/11/the-medium/]] — daverupert.com
+# [ext[404 Page Not Found: The internet feeds on its own dying dreams|https://thebaffler.com/salvos/404-page-not-found-wagner]] — thebaffler.com
+# [ext[How 'The Dress' exposes viral media's shakey future|https://splinternews.com/how-the-weird-unfiltered-internet-became-a-media-goldm-1793853905]] — splinternews.com
+# [ext[Out there.|https://matthiasott.com/notes/out-there]] — matthiasott.com
+# [ext[inessential: You Choose|https://inessential.com/2019/10/29/you_choose]] — inessential.com
+# [ext[How to Fix Content Discovery|http://ajroach42.github.io/how-to-fix-new-content-discovery/]] — ajroach42.github.io
+# [ext[Quitting Analytics|https://garrettdimon.com/2019/quitting-analytics/]] — garrettdimon.com
+# [ext[Trackbacks, an important decentralization tool|https://movabletype.org/documentation/trackback/specification.html]] — movabletype.org
+# [ext[Into the Personal-Website-Verse|https://matthiasott.com/articles/into-the-personal-website-verse]] — matthiasott.com
+# [ext[The True Web|http://snarkmarket.com/2013/8093]] — snarkmarket.com
+# [ext[About Wiby|https://wiby.me/about/]] — wiby.me
+# [ext[Returning to the Original Social Network|https://begriffs.com/posts/2016-07-08-returning-original-social-network.html]] — begriffs.com
+# [ext[Peer-To-Peer: Our Only Hope|https://steemit.com/technology/@jrswab/peer-to-peer-our-only-hope]] — steemit.com
+# [ext[Cool URIs don't change|https://www.w3.org/Provider/Style/URI.html]] — w3.org
+# [ext[The Internet's Original Sin|http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/]] — theatlantic.com
+# [ext[This Stripped-Down Blogging Tool Exemplifies Antisocial Media|https://www.wired.com/story/this-stripped-down-blogging-tool-exemplifies-antisocial-media/]] — wired.com
+# [ext[Google+ Is Going To Mess Up The Internet|http://readwrite.com/2012/01/03/google_is_going_to_mess_up_the_internet/]] — readwrite.com
+# [ext[React|https://www.sonniesedge.net/posts/react]] — sonniesedge.net
+# [ext[how deep does this navel go?|https://www.jwz.org/blog/2010/01/how-deep-does-this-navel-go/]] — jwz.org
+# [ext[The Secret Lives of Tumblr Teens|https://newrepublic.com/article/129002/secret-lives-tumblr-teens]] — newrepublic.com
+# [ext[Battle for the planet of the APIs|https://adactio.com/journal/6291/]] — adactio.com
+# [ext[Lockdown|https://marco.org/2013/07/03/lockdown]] — marco.org
+# [ext[The Web began dying in 2014, here's how|https://staltz.com/the-web-began-dying-in-2014-heres-how.html]] — staltz.com
+# [ext[Anti-capitalist human scale software (and why it matters)|https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d]] — medium.com
+# [ext[decades|https://p1k3.com/2017/10/16/]] — p1k3.com
+# [ext[This isn't fun anymore|http://www.therandymon.com/index.php?/archives/338-This-isnt-fun-anymore.html]] — therandymon.com
+# [ext[The Internet is Rigged|https://medium.com/@davepell/the-internet-is-rigged-d74b342505f0]] — medium.com
+# [ext[Waffle on Social Media|http://inessential.com/2014/08/27/waffle_on_social_media]] — inessential.com
+# [ext[I say we take off and nuke the site from orbit.|https://www.jwz.org/blog/2008/04/i-say-we-take-off-and-nuke-the-site-from-orbit/]] — jwz.org

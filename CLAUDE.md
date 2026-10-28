@@ -23,7 +23,7 @@ Build static output (cleans `sad2021tw/output/`, then renders every published ti
 bash build.sh
 ```
 
-The build script outputs into `sad2021tw/output/`, which is the whole site: `index.html` (the homepage), `static/` (one HTML page per published tiddler, pages for tags that have no tiddler, and `static.css`), `404.html`, the icons, and `vendor/list.min.js` (homepage search). Tiddlers tagged `private` or `hide`, system tiddlers, and titles starting with `.` are left out. The only build target in `tiddlywiki.info` is `static`.
+The build script outputs into `sad2021tw/output/`, which is the whole site: `index.html` (the homepage), `static/` (one HTML page per published tiddler, pages for tags that have no tiddler, and `static.css`), `404.html`, the icons, and `vendor/list.min.js` (homepage search). Tiddlers tagged `private` or `hide`, system tiddlers, and titles starting with `.` are left out. The last step runs `sad2021tw/scripts/link-check.py`, which reports internal links that would 404 online (it never fails the build). The only build target in `tiddlywiki.info` is `static`.
 
 Preview the built site locally (http://localhost:8000, re-renders the CSS when a template or stylesheet changes):
 ```
@@ -38,7 +38,7 @@ To ship a new build:
 ```
 bash publish.sh
 ```
-This rebuilds via `build.sh`, syncs the generated `static/`, `index.html`, `404.html`, the icons and `vendor/` into `~/Code/bjornpaedia` (leaving that repo's own `CNAME`/`README.md`/`CLAUDE.md`/legacy files untouched), shows a `git status` diff, and asks for confirmation before committing and pushing there. Override the target repo path with `BJORNPAEDIA_DIR` if needed.
+This rebuilds via `build.sh`, syncs the generated `static/`, `index.html`, `404.html`, the icons and `vendor/` into `~/Code/bjornpaedia` (leaving that repo's own `CNAME`/`README.md`/`CLAUDE.md`/`LICENSE`/legacy files untouched), shows a `git status` diff, and asks for confirmation before committing and pushing there. Override the target repo path with `BJORNPAEDIA_DIR` if needed.
 
 ## Tiddler file format
 
@@ -63,7 +63,7 @@ System tiddlers (configuration, UI state) have filenames starting with `$__`. Co
 - `sad2021tw/plugins/` — custom TiddlyWiki plugins
 - `sad2021tw/tiddlywiki.info` — wiki configuration (plugins, themes, build targets)
 - `build.sh` — the build script (cleans and rebuilds `sad2021tw/output/`); `dev.sh` — local preview of that output
-- `sad2021tw/scripts/` — helpers that read or write tiddlers: `case-study-links.py` (links to a.wjerk.shop case studies), `mm-harvest.py` (a month of Are.na into an MM issue draft), `canonical-audit.py` (near-duplicate titles)
+- `sad2021tw/scripts/` — helpers that read or write tiddlers: `case-study-links.py` (links to a.wjerk.shop case studies), `mm-harvest.py` (a month of Are.na into an MM issue draft), `canonical-audit.py` (near-duplicate titles), `link-check.py` (broken internal links, run by `build.sh`)
 - `publish.sh` — builds and syncs output into the separate `~/Code/bjornpaedia` deploy repo
 - Root `.md`/`.txt` files — earlier writing archive (2019–2022)
 - `otherIdeas/` — standalone essay drafts

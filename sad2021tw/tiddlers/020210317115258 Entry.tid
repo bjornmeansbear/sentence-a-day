@@ -39,6 +39,6 @@ Here are musical riffs I like, and I want to make this a dance song... so here's
 
 Also Created This Day:
 
-<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]]">
+<$vars thisdate={{!!created}} myFilter="[sameday:created<thisdate>] +[!prefix[$:/]] +[!tag[private]] +[!tag[hide]]">
      <<list-links filter:"[all[tiddlers]subfilter<myFilter>]">>
 </$vars>

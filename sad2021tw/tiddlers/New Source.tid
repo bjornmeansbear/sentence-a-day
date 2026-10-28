@@ -2,7 +2,7 @@ caption: New Source
 created: 20210620055418053
 description: Create a new source (Book, Video, Etc.)
 modified: 20210813184453029
-tags: $:/tags/PageControls
+tags: $:/tags/PageControls hide
 title: New Source
 type: text/vnd.tiddlywiki
 
